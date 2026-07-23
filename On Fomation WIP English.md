@@ -28,7 +28,7 @@
 
 ### **Introduction**
 
-* Regarding this work "*On Formation*", the development of its thoughts began in the early-to-mid 30s (started under the title "On the Format of Formation"), and the trigger for documentation began during a conversation with *AI assistant Gemini (hereafter Gem)* on January 6, 2026, starting from the question of how many bits `'0'` and `'0+0+0+0=0'` respectively are, and the conversation that followed.
+* Regarding this work "*On Formation*", the development of its thoughts began in the early-to-mid 30s (started under the title "On the Format of Formation"), and the trigger for documentation began during a conversation with *AI assistant Gemini (hereafter Gem)* on January 6, 2026, starting from the question of how many bits `0` and `0+0+0+0=0` respectively are, and the conversation that followed.
 
 > "The Universe is a dynamic construction site of self-formation where mediums push, flow, and squeeze without a fixed stand." (by Gem)
 
@@ -73,8 +73,7 @@
 
 * Previously, it was stated that "*'matter (particle) existence is not the premise of force'; rather, 'force precedes matter'*". If so, `F = ma` must become `ma = F`, and since acceleration (a) belongs to Transition (Force), `ma = F` becomes `mF = F`. Accordingly — since it was stated that '*force precedes matter*' — `mF = F` must become `m = F`.<a href="#On-m=F_d" id="On-m=F_u"><sup>[On m=F]</sup></a> If so, *mass is not an 'inherent invariant property', but a State of Force, variable according to that State.*
 
-
-<a href="#On-m=F_u" id="On-m=F_d">[On m=F]</a>: If `Interval ≡ Transition(→) ≡ Force(F) ≡ Pressure(P) ⇔ Density(𝛒)`, then `m = F` implies `F ⇔ m`.
+<a href="#On-m=F_u" id="On-m=F_d">[On m=F]</a>: If `Interval ≡ Transition(→) ≡ Force(F) ≡ Pressure(P) ⇔ Density(𝛒)`, then `m = F` implies `F ⇔ m = V * 𝛒`.
 
 #### **5\. On "Instantaneous and Absolute Symmetry of Action and Reaction" \[Isaac Newton "Third Law of Motion"\]**
 
@@ -156,7 +155,11 @@
 
 * `\[Retention Pressure + Inflow Pressure\] / ρ (where 1 Units < ρ < Apexon) ⟺ ky`
 
-#### **3\. Object Formation**
+#### **3\. Motion and Object**
+
+* What was stated in 'Part 2' as *'Motion does not stop and continues, but continues to where Resistance (`R`) is lowest'* is stated in 'Part 3' as *'Motion perpetuates (Perpetuity) to where Pressure (`P`) is lowest'*.
+
+  * Motion ∝ |-𝛁R| ⇔ |-𝛁𝛒|
 
 * Inside the Universe, directionalities of Boundary Dynamic Grid-lock and Retention Pressure form small Objects. Flow toward dominant pressures creates Direct Flow, generating small and larger Objects, which collision-trigger Macro Vortices (Vortex) and Micro Eddies (Eddy). And perpetually: Object formation and Direct Flow by Boundary Dynamic Grid-lock; Object and Vortex formation by Direct Flow; Object and Eddy formation by Vortex; Object and smaller Eddy formation by Eddy; 1-Unit Fusion (interfusion) by Boundary Dynamic Grid-lock; Vortex-Vortex or Vortex-Eddy fusion by Direct Flow; Eddy fusion by Vortex; smaller Eddy fusion by Eddy.  
   * Top-down differentiation: `Boundary Dynamic Grid-lock ⇔ Direct Flow ⇔ Vortex ⇔ Eddy ⇔ Micro Eddy`  
