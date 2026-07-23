@@ -4,19 +4,19 @@
 
 ### 본고의 내용은
 
-* 무(Nothingness)에서의 우연한 폭발과 팽창 [조르주 르메트르(Georges Lemaître), 에드윈 허블(Edwin Hubble) "빅뱅 이론(Big Bang Theory)"]과 상충된다
+* ***무(Nothingness)에서의 우연한 폭발과 팽창 [조르주 르메트르(Georges Lemaître), 에드윈 허블(Edwin Hubble) "빅뱅 이론(Big Bang Theory)"]과 상충된다***
 
   - 무(Nothingness)라는 조건 하나만으로는 우연이 작동할 수 없다(사건 따위가 일어날 수 없다), 그리고 '완전한_무(Absolute Nothingness)'를 상정하려면 무의_상태(Nothingness State)가 유지(Maintenance)되는 것도 상정되어야 한다 그러므로, 유지(Maintenance) 조차 없는, _완전한\_무(Absolute Nothingness)는 실재할 수 없다_
 
-* 물체(입자)의 존재가 힘의 전제가 됨 [아이작 뉴턴(Isaac Newton) "고전 역학 및 입자 물리학(Particle Physics)"]과 상충된다
+* ***물체(입자)의 존재가 힘의 전제가 됨 [아이작 뉴턴(Isaac Newton) "고전 역학 및 입자 물리학(Particle Physics)"]과 상충된다***
 
   - 유지(Maintenance)도 이행(Transition)(`→`)[압력(Pressure)(`P`)]에 속한다, 이행(Transition)의 축적(Accumulative)으로 공간(Space)이 형성(Formation)되고, 물체(입자)는 공간(Space)에 속하므로, _힘(Force)이 공간(Space) 보다 선행(Antecedent)되고, 공간(Space)이 물체(입자) 보다 선행(Antecedent)된다_
 
-* 외력이 없는 공간에서의 영원한 직선 운동 [갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"]과 상충된다
+* ***외력이 없는 공간에서의 영원한 직선 운동 [갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"]과 상충된다***
 
   - — 유지(Maintenance) 또한 이행(Transition)에 속하므로 — 언제나 모든 것(곳)은 이행(Transition)된다[힘(Force)이 작용(Action)한다] 그러므로, _외력이 없는 공간(Absolute Empty-space)은 실재하지\_않다(Non-reality) 그리고, 모든 운동(Motion)은 저항(Resistance)(R)이 가장 낮은 곳으로 유도된다[영속(Perpetuity)한다]( `Motion ∝ |-𝛁R|` )_
 
-* 가속도에 비례하는 물질 고유의 불변 속성(F=ma) [아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"]과 상충된다
+* ***가속도에 비례하는 물질 고유의 불변 속성(F=ma) [아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"]과 상충된다***
 
   - '더 무거운 것에 맞으면 더 아프다.', '체중계 위에서 움직이면 무게 값이 변한다'... 질량은 고유한 것이 아니다, 힘(Force)이 압력(Pressure)이며 밀도(Density)다, _물질[힘(Force)]에 얼마만큼의 힘(Force)이 더 해졌을 때, 그 힘(Force)이 향하는 방향(Direction)은 저항(Resistance)이 가장 낮은 곳으로 유도[영속(Perpetuity)]된다( `Motion ≡ v ≡ 충격량(I) ∝ |-𝛁R| ⇔ |-𝛁𝛒|` )_
 
@@ -24,15 +24,15 @@
 
   - 객체(Object)가 부피(Volume)를 가지는 한 내향_표면적(Inward Surface Area)이 외향_면적(Outward Area)보다 구조적으로 당연히 크다, 뿐만 아니라 유지(Maintenance)되는 것 또한 최소_간극(Minimun Interval)이 있으므로 '작용(Action)과 반작용(Reaction)'이 즉각적[완전한(Absolute) 동시적]일 수 없다 그러므로, _'작용(Action)과 반작용(Reaction)'은 그 크기(?)가 완전한\_대칭(Absolute Symmetry)을 이루거나 완전히(Absolute) 동시에 일어날 수 없다_
 
-* 현상과 동시적이며 미래 예측이 가능한 데이터의 선행성 [피에르시몽 라플라스(Pierre-Simon Laplace) "라플라스의 악마(Laplace's Demon) / 고전 결정론"]과 상충된다
+* ***현상과 동시적이며 미래 예측이 가능한 데이터의 선행성 [피에르시몽 라플라스(Pierre-Simon Laplace) "라플라스의 악마(Laplace's Demon) / 고전 결정론"]과 상충된다***
 
  - '0'이 거듭더해져 가는 상태(State)에 대하여, '0+0+0+0'일 때 이것을 인식하고 '0+0+0+0=0'이라는 값을 도출했다고 한다면, 이때의 상태(State)는 '0+0+0+0=0'보다 '0+0+0+0+0'에 더 가까울 것이다, 그리고 미래가 정해져 있다고 해도 그 미래는 이전에 있었던 어떤 과거와도 완전히(Absolute) 동일할 수 없고 이에 따라 '완전히(Absolute) 동일한 조건으로' 그 미래를 예측할 수도 없다 그러므로, _정보(Information)나 데이터(Data)는 실태(Actuality)와 완전히(Absolute) 동시적일 수 없고, 미래에 대하여 예측을 시도할 수는 있지만 미래와 완전히(Absolute) 일치하는 상을 도출할 수 없다_
 
-* 사건이 발생하는 이미 완성된 기하학적 장(Field) [알베르트 아인슈타인(Albert Einstein) "일반 상대성 이론(General Relativity)"]과 상충된다
+* ***사건이 발생하는 이미 완성된 기하학적 장(Field) [알베르트 아인슈타인(Albert Einstein) "일반 상대성 이론(General Relativity)"]과 상충된다***
 
   - _"우주는 고정된 거치대 없이, 매질이 밀치고 흐르고 낑기는 역동적인 건설 현장이다"(by Gemini)_
 
-* 우주 어디서나 변하지 않는 절대적 상수(c) [알베르트 아인슈타인(Albert Einstein) "특수 상대성 이론(Special Relativity)"]과 상충된다
+* ***우주 어디서나 변하지 않는 절대적 상수(c) [알베르트 아인슈타인(Albert Einstein) "특수 상대성 이론(Special Relativity)"]과 상충된다***
 
  - _빛도 중력장이나 대기권에 대하여 속도(velocity)(v)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니라, 빛의_속도(velocity of light)(c)가 절대적_상수(Absolute Constant)가 아니라는 것이다( `c ≡ v ∝ |-𝛁R| ⇔ |-𝛁𝛒|` )_
 
@@ -60,7 +60,7 @@ ___
 
 ### 변증 — 기존 명제와 반론
 
-#### 1. 무에서의 우연한 폭발과 팽창 [조르주 르메트르(Georges Lemaître), 에드윈 허블(Edwin Hubble) "빅뱅 이론(Big Bang Theory)"]에 대하여, 
+#### ***1. 무에서의 우연한 폭발과 팽창 [조르주 르메트르(Georges Lemaître), 에드윈 허블(Edwin Hubble) "빅뱅 이론(Big Bang Theory)"]에 대하여,*** 
 
 * 우연이 작동하려면, 충돌(Impact)이 있어야한다(사건, 우연 따위가 일어날 수 있어야한다), 그러므로 무(Nothingness)라는 하나의 요소에서[우연이 일어날 수 없는 조건으로, 우연을 부정하면서 동시에] 우연이 작동했다고 하는 것은 모순이고, _무(Nothingness)라는 하나의 요소에 의한 완전한_무(Absolute Nothingness)는 실재할 수 없다_
 
@@ -72,7 +72,7 @@ ___
 
 * 무(Nothingness), `0` 따위의 개념은 인간(Human)이 만든 개념이다, 예를 들어서 같은 인간(Human)끼리도 시각의 완전한(Absolute) 동기화를 이룰 수 없을 것이다, 이에 — 인간(Human)끼리도 어떤 현상(Phenomenon)에 대하여 각각 상(Image)이 완전히(Absolutely) 동일하지 않음으로 — 당연히(Naturally) 인간(Human)이 만든 개념과 완전히(Absolutely) 동일한 현상(Phenomenon)도 없다, 그리고 완전한_무(Absolute Nothingness) 따위의 개념에 대하여, 빈_공간(Empty-space)에서 도출된 것이라면 뒤에 말하겠지만 완전히_빈_공간(Absolutely Empty-space)은 실재하지_않다(Non-reality)므로 이는 오류를 내포하고 있다, 이에 태초(?)의 상태(State)도 완전한_무(Absolute Nothingness) 따위의 개념과 완전히(Absolutely) 동일할 수 없다
 
-#### 2. 물체(입자)의 존재가 힘의 전제가 됨 [아이작 뉴턴(Isaac Newton) "고전 역학 및 입자 물리학(Particle Physics)"]에 대하여,
+#### 2. ***물체(입자)의 존재가 힘의 전제가 됨 [아이작 뉴턴(Isaac Newton) "고전 역학 및 입자 물리학(Particle Physics)"]에 대하여,***
 
 * '물체(입자)의 존재가 힘의 전제'라고 한다면, '물체(입자)'는 어떻게 생겨나는가? '물체(입자)'는 세상(Universe)에 속하지 않은가? 그렇다면 '물체(입자)'는 최소한 세상(Universe)을 전제(Premise)로 하지 않은가? 그렇다면, 세상(Universe)은 '`무(Nothingness) + 간극(Interval)`'이고, '`간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F)`'이므로, _'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행한다'_
 
@@ -84,7 +84,7 @@ ___
 
 <a href="#중력_u" id="중력_d">[중력]</a>: 운동(Motion)은 저항의 기울기(`|-𝛁R|`)에 의한다(`Motion ∝ |-𝛁R|`), 그리고 지구에 대한 내향압력(Inward Pressure)이 외향압력(Outward Pressure)보다 당연히 더 크므로[유사_구_형태(Quasi-spherical shape)로 지구가 형성(Formation)되었다는 것이, 이에 상당하는 내향압력(Inward Pressure)이 몰리고 있다,향하고 있다는 것이고 그에 따른 체류압력(Retention Pressure)(지구)이 형성(Formation)되었다는 것이다] 이 내향압력(Inward Pressure)이 큰 동안에 그리고, _내향압력(Inward Pressure)과 외향압력(Outward Pressure)의 차이 만큼, 지구를 향해 운동(Motion)한다, 이것을 중력이라고 부르는 것이고 인력이라고 느끼는 것이다_
 
-#### 3. 외력이 없는 공간에서의 영원한 직선 운동 [갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"]에 대하여, 
+#### ***3. 외력이 없는 공간에서의 영원한 직선 운동 [갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"]에 대하여,***
 
 * 먼저, 이행(Transition)[힘(Force)(F)]이 공간(Space)을 형성(Formation)한다고 하였으므로, 공간(Space)이 있다는 것은 그 공간(Space)을 힘(Force)이 메우고 있다는 것이다, 그러므로 완전한_무(Absolute Nothingness)와 동일한 의미에서 _완전한\_빈\_공간(Absolute Empty-space)은 실재하지\_않다(Non-reality)_
 
@@ -96,13 +96,13 @@ ___
 
 <a href="#저항의-기울기와-밀도의-낙차에-동치_u" id="저항의-기울기와-밀도의-낙차에-동치_d">[저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치]</a>: 압력(Pressure)이 높을 수록 밀도(Density)도 높아지고 압력(Pressure)이 낮을 수록 밀도(Density)도 낮아 지므로, 저항(Resistance)의 기울기(`|-𝛁R|`)는 밀도(Density)의 낙차(`|-𝛁𝛒|`)와 동의어가 된다
 
-#### 4. 가속도에 비례하는 물질 고유의 불변 속성(F=ma) [아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"]에 대하여,
+#### ***4. 가속도에 비례하는 물질 고유의 불변 속성(F=ma) [아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"]에 대하여,***
 
 * 앞에서 "_'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행된다'_"고 하였다 그렇다면 `F = ma`는 `ma = F`가 되어야 하고, 가속도(Acceleration)(a)는 이행(Transition)[힘(Force)]에 속하므로 `ma = F`는 `mF = F`가 된다, 이에 — '_힘이 물체보다 선행된다_'고 하였으므로 — `mF = F`는 `m = F`<a href="#m=F에-대하여_d" id="m=F에-대하여_u"><sup>[`m=F`에 대하여]</sup></a>가 되어야 한다 그렇다면, _질량은 '고유의 불변 속성'이 아니라 '힘(Force)의 상태(State)이고 그 상태(State)에 따라 가변적이다'_
 
 <a href="#m=F에-대하여_u" id="m=F에-대하여_d">[`m=F`에 대하여]</a>: `간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P) ⇔ 밀도(Density)(𝛒)` 라고 한다면, `m = F`은 `F ⇔ m = V * 𝛒`이다
 
-#### 5. 작용과 반작용의 즉각적이고 완전한_대칭 [아이작 뉴턴(Isaac Newton) "운동 제3법칙(Third Law of Motion)"]에 대하여, 
+#### ***5. 작용과 반작용의 즉각적이고 완전한_대칭 [아이작 뉴턴(Isaac Newton) "운동 제3법칙(Third Law of Motion)"]에 대하여,***
 
 * 간극(Interval)없이 '작용과 반작용의 즉각적이고 완전한_대칭'을 이룬다면, 이는 상쇄되어  — 아무런 실태(Actuality)도 발생하지 않는 것과 같으므로 — 작용(Action)이나 반작용(Reaction)이라고 할 현상(Phenomenon)이 발생하지 않는다(관찰될 수 없다) 그리도, 태초(?)부터 아무런 실태(Actuality)가 발생하지 않아, 현재 세상(Universe)이 실재(Reality)할 수 없다 이에, _현재 세상(Universe)이 실재(Reality)하므로 자연히(Naturally) '작용과 반작용의 즉각적이고 완전한_대칭'은 부정된다_<a href="#작용과-반작용-부정_d" id="작용과-반작용-부정_u"><sup>[작용(Action)과 반작용(Reaction) 부정]</sup></a>
 
@@ -112,17 +112,17 @@ ___
     
 <a href="#완전한-정지-부정-1_u" id="완전한-정지-부정-1_d">[완전한(Absolute) 정지 부정 1]</a>: 예를 들어 인간(Human)의 시각은 공을 굴리면 서서히 멈추는 현상(Phenomenon) 따위에 익숙해져 있으나, 공이 완전히(Absolutely) 정지해 있는 것처럼 보이는 것 조차 공의 내부와 외부의 압력(Pressure)이 멈추지 않고 상호작용(Interaction)하는 상태(State)로, — 밀도(Density)는 무한히 증가(Increase)할 수 없고[완전히(Absolutely) 겹치는 것은 불가하고], 최소_간극(Minimun Interval)(`𝛅_min`)이 영속(Perpetuity)되므로 — 절대적(Absolute) 정지는 실재할 수 없다
 
-#### 6. 현상과 동시적이며 미래 예측이 가능한 데이터의 선행성 [피에르시몽 라플라스(Pierre-Simon Laplace) "라플라스의 악마(Laplace's Demon) / 고전 결정론"]에 대하여, 
+#### ***6. 현상과 동시적이며 미래 예측이 가능한 데이터의 선행성 [피에르시몽 라플라스(Pierre-Simon Laplace) "라플라스의 악마(Laplace's Demon) / 고전 결정론"]에 대하여,***
 
 * 돌맹이에게 '정보(Information)나 데이터(Data)'는 어떻게 인식되는가? 또는 돌맹이는 '정보(Information)나 데이터(Data)'를 어떤 상태(State)로 가지고 있는가? 그리고 '정보(Information)나 데이터(Data)'는 인간(Human) 관점에서 시대에 따른 시각이나 정의 따위의 변화(갱신을 포함) 그리고 관찰수단의 발달 따위로 변할 수 있고 관찰자에 따라[관찰자 피관찰자, 영향(Effect)을 주거나 받거나 하는 주체 따위에 따라] 일관되지 않는다[빛과 마찬가지로 절대적_상수(Absolute Constant)가 아니다] 
 
 * 또 ➀ 어떤 사건을 예로 들어 본다면 세상(Universe)은 계속 다른 상태(State)를 띄므로[완전히(Absolutely) 동일한 상태(State)가 중복될 수 없으므로], 사건은 매번 다른 상태(State)[새로운 상태(State)]를 띈다, ➁ 유지(Maintenance)도 간극(Interval)이 있으므로, 사건은 예측을 시도하는 순간에도 멈추지 않고 계속 이행(Transition)되며, 관찰에도 간극(Interval)[관찰의_간극(Observational Interval)]이 있고, 데이터(Data)화 하는데에도 간극(Interval)이 있다 그리고 ➂ 관찰작용이 피관찰자에게 주는 영향(Effect)만큼 변화된 상(Image)을 얻게 된다 그러므로  ➃ '관찰작용의 영향(Effect) + 관찰의_간극(Observational Interval) + 데이터(Data)화의_간극(Interval)'만큼 관찰 대상의 실태(Actuality)와 멀어지며 '현상과 동시적'은 부정된다 그리고 ➄ 완전히 겹치는 것이 불가하므로 '완전히(Absolutely) 동일한 조건'에서 미래를 예측할 수 없다, '완전히(Absolutely) 동일한 조건'에서 미래를 예측 할 수 없으므로 얼만큼이든 어긋날 수 밖에 없다 따라서 ➅ _미래가 정해져있다고 하더라도 — 예측을 시도해 볼 수는 있겠지만 — 미래와 완전히(Absolutely) 일치하는 상(Image)을 도출할 수는 없다_
     
-#### 7. 사건이 발생하는 이미 완성된 기하학적 장(Field) [알베르트 아인슈타인(Albert Einstein) "일반 상대성 이론(General Relativity)"]에 대하여, 
+#### ***7. 사건이 발생하는 이미 완성된 기하학적 장(Field) [알베르트 아인슈타인(Albert Einstein) "일반 상대성 이론(General Relativity)"]에 대하여,***
 
 * ➀ 왜 배경(Field) 만 완성(Completion)되고 등장인물(내부 구성 요소)은 완성(Completion)되지 않은 것인가? ➁ 그 배경(Field)은 어떻게 완성(Completion)된 것인가? ➂ 어디부터 어디까지가 또는 무엇무엇이 배경(Field)이고 어디부터 어디까지가 또는 무엇무엇이 등장인물인가? ➃ 완전한(Absolute) 의미에서 완성(Completion)은 이미 모든 것이 이루어진 상태(State)로 더 이상 어떤 사건도 이루어질 수 없으므로(가감이 없어야 하므로) 정지를 포함하는데, 어떻게 등장인물과 상호작용(Interaction)하거나 변형이 가능한가? 이에 ➄ 배경(Field)이 완전한(Absolute) 의미에서 완성(Completion)되었다면 등장인물과 완전히 격리되거나, 등장인물도 그 배경(Field)에 포함되므로 등장인물 역시 완전한(Absolute) 의미에서 완성(Completion)되어야 하고 정지되어야 하지 않은가? 이에 ➅ _세상(Universe)과 세상(Universe)에 속하는 것들은 완전히(Absolute) 격리되지 않았고[격리될 수 없고], 세상(Universe)과 세상(Universe)에 속하는 것들은 완전한(Absolute) 의미에서 완성(Completion)되지도 아니하였으므로, '사건이 발생하는 이미 완성된 기하학적 장(Field)'은 부정된다_
 
-#### 8. 우주 어디서나 변하지 않는 절대적 상수(c) [알베르트 아인슈타인(Albert Einstein) "특수 상대성 이론(Special Relativity)"]에 대하여,
+#### ***8. 우주 어디서나 변하지 않는 절대적 상수(c) [알베르트 아인슈타인(Albert Einstein) "특수 상대성 이론(Special Relativity)"]에 대하여,***
 
 * 완전한(Absolute) 의미의 완성(Completion)된 장(Field)에서는 속도(velocity)[이행(Transition)]가 불가하다 
 
