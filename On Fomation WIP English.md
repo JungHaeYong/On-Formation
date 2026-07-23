@@ -4,21 +4,21 @@
 
 ### **The content of this work is**
 
-* Conflicts with Georges Lemaître and Edwin Hubble's "Big Bang Theory" (accidental explosion and expansion from Nothingness)  
+* ***Conflicts with Georges Lemaître and Edwin Hubble's "Big Bang Theory" (accidental explosion and expansion from Nothingness)***
   * Under the condition of Nothingness alone, chance cannot operate (events or accidents cannot occur). Furthermore, to postulate 'Absolute Nothingness', the Maintenance of the Nothingness State must also be postulated. Therefore, *Absolute Nothingness, devoid even of Maintenance, cannot exist in reality.*  
-* Conflicts with Isaac Newton's "Classical Mechanics & Particle Physics" (the existence of matter (particles) as the premise of force)  
+* ***Conflicts with Isaac Newton's "Classical Mechanics & Particle Physics" (the existence of matter (particles) as the premise of force)***
   * Maintenance also belongs to Transition (`→`) \[Pressure (`P`)\]. Space is formed through the Accumulation of Transition, and matter (particles) belongs to Space. Therefore, *Force precedes Space, and Space precedes Matter (Particles).*  
-* Conflicts with Galileo Galilei and Isaac Newton's "First Law of Motion" (perpetual linear motion in space without external force)  
+* ***Conflicts with Galileo Galilei and Isaac Newton's "First Law of Motion" (perpetual linear motion in space without external force)***
   * — Since Maintenance also belongs to Transition — everything (every place) is at all times undergoing Transition \[Force is acting (Action)\]. Therefore, *Absolute Empty-space does not exist in reality. And all Motion is guided to where Resistance (R) is lowest (perpetuates) (`Motion ∝ |-𝛁R|`).*  
-* Conflicts with Isaac Newton's "Principia" (F=ma, invariant property inherent to matter proportional to acceleration)  
+* ***Conflicts with Isaac Newton's "Principia" (F=ma, invariant property inherent to matter proportional to acceleration)***
   * 'It hurts more to be hit by something heavier.', 'Weight changes when moving on a scale'... Mass is not an inherent property. Force is Pressure and Density. *When an amount of Force is added to matter (Force), the Direction that Force is heading is guided to where Resistance is lowest (perpetuates) (`Motion ≡ v ≡ Impulse(I) ∝ |-𝛁R| ⇔ |-𝛁𝛒|`).*  
-* Conflicts with Isaac Newton's "Third Law of Motion" (instantaneous and absolute symmetry of action and reaction)  
+* ***Conflicts with Isaac Newton's "Third Law of Motion" (instantaneous and absolute symmetry of action and reaction)*** 
   * As long as an Object possesses Volume, its Inward Surface Area is structurally, naturally larger than its Outward Area. Furthermore, maintaining existence also possesses a Minimum Interval (`𝛅_min`), so Action and Reaction cannot be instantaneous (absolutely simultaneous). Therefore, *Action and Reaction cannot form absolute symmetry in magnitude (?) or occur absolutely simultaneously.*  
-* Conflicts with Pierre-Simon Laplace's "Laplace's Demon / Classical Determinism" (the precedence of data simultaneous with phenomena and capable of predicting the future)  
+* ***Conflicts with Pierre-Simon Laplace's "Laplace's Demon / Classical Determinism" (the precedence of data simultaneous with phenomena and capable of predicting the future)***
   * Regarding a State where '0' is repeatedly added: if one perceives '0+0+0+0' and derives the value '0+0+0+0=0', the State at that moment would be closer to '0+0+0+0+0' than '0+0+0+0=0'. Even if the future were determined, that future can never be absolutely identical to any past that existed before; accordingly, that future cannot be predicted 'under absolutely identical conditions'. Therefore, *Information or Data cannot be absolutely simultaneous with Actuality; while predicting the future can be attempted, an image absolutely matching the future cannot be derived.*  
-* Conflicts with Albert Einstein's "General Relativity" (a completed geometric Field where events occur)  
+* ***Conflicts with Albert Einstein's "General Relativity" (a completed geometric Field where events occur)***
   * *"The Universe is a dynamic construction site of self-formation where mediums push, flow, and squeeze without a fixed stand." (by Gemini)*  
-* Conflicts with Albert Einstein's "Special Relativity" (absolute constant c invariant everywhere in the universe)  
+* ***Conflicts with Albert Einstein's "Special Relativity" (absolute constant c invariant everywhere in the universe)*** 
   * *Light also changes velocity (v) relative to gravitational fields or atmospheres. Rather than saying time slowed down or sped up, the speed of light (c) is not an Absolute Constant (`c ≡ v ∝ |-𝛁R| ⇔ |-𝛁𝛒|`).*  
 * Furthermore — including the above content — it conflicts with various traditional perspectives, and describes that "*the Universe is the feedback between Non-fixed State and Quasi-fixed State, a perpetuity of this fractal.*"
 
@@ -39,7 +39,7 @@
 
 ### **Dialectics — Existing Propositions and Counter-arguments**
 
-#### **1\. On "Accidental Explosion and Expansion from Nothingness" \[Georges Lemaître, Edwin Hubble "Big Bang Theory"\]**
+#### ***1\. On "Accidental Explosion and Expansion from Nothingness" \[Georges Lemaître, Edwin Hubble "Big Bang Theory"\]***
 
 * For chance to operate, there must be an Impact (events, chance, etc. must be able to occur). Therefore, claiming that chance operated from a single element of Nothingness (denying chance while assuming conditions where chance cannot operate) is a contradiction, and *Absolute Nothingness by a single element of Nothingness cannot exist in reality.*  
 * ➀ If 'Nothingness' is postulated, the '*Maintenance of Nothingness*' must also be postulated. ➁ Maintenance (`t₀ → t₁`) is also a Transition (`→`), and has an Interval (`t₀ → t₁`). *'Absolute Nothingness'* lacking even this Interval (`t₀ → t₁`) (Maintenance, Maintenance Interval) *cannot exist in reality.* ➂ 'Nothingness' naturally entails 'Maintenance' and 'Maintenance Interval'. ➃ Since `Interval ≡ Transition(→) ≡ Force(F) ≡ Pressure(P)`, even when Nothingness (Space, Volume is `0`) is maintained, its Interval (Force) is not `0`. ➄ That Interval acts as Pressure (Outward Pressure and Inward Pressure) (Density) during Nothingness. Therefore, ➅ even during Nothingness — `Interval[Pressure] ⇔ Density(𝛒)` — Pressure is not `0`. Accordingly, ➆ as the state of Nothingness continues to be maintained, Pressure and Density continuously increase. ➇ And because Maintenance possesses a Minimum Interval (`𝛅_min`), absolute overlapping is impossible; if absolute overlapping occurred, only endless overlapping would ensue without expansion. And ➈ if Density were infinite, absolute overlapping must be possible (which would mean only endless overlapping without expansion, making the current Universe impossible to exist in reality), yet the current Universe is Reality. Therefore, ➉ *there is a limit to Density Increase* (absolute overlapping does not exist in reality).<a href="#Density-Limit-1_d" id="Density-Limit-1_u"><sup>[Density-Limit-1]</sup></a> Accordingly, ⑪ reaching the limit of Density Increase in the state of Nothingness, *the explosive dispersion of that accumulated Pressure (Density) is the Great Expansion.*<a href="#Coupling-of-Pressure-Dispersion-and-Volume-Expansion_d" id="Coupling-of-Pressure-Dispersion-and-Volume-Expansion_u"><sup>[Coupling of Pressure Dispersion and Volume Expansion]</sup></a> 
@@ -50,7 +50,7 @@
 
 * Concepts like Nothingness and `0` are concepts created by humans. For example, even between humans, complete, absolute synchronization of vision cannot be achieved. Accordingly — since even between humans, images regarding a phenomenon are not absolutely identical — naturally, no phenomenon is absolutely identical to concepts created by humans. And regarding concepts such as Absolute Nothingness, if derived from 'empty space', as will be mentioned later, Absolutely Empty-space does not exist in reality, so this contains an error. Accordingly, the primordial (?) state also cannot be absolutely identical to concepts such as Absolute Nothingness.
 
-#### **2\. On "Matter (Particle) Existence as the Premise of Force" \[Isaac Newton "Classical Mechanics & Particle Physics"\]**
+#### ***2\. On "Matter (Particle) Existence as the Premise of Force" \[Isaac Newton "Classical Mechanics & Particle Physics"\]***
 
 * If 'matter (particle) existence is the premise of force', how do 'matter (particles)' come into existence? Do 'matter (particles)' not belong to the Universe? If so, does 'matter (particles)' not at least premise the Universe? If so, the Universe is '`Nothingness + Interval`', and since '`Interval ≡ Transition(→) ≡ Force(F)`', *'matter (particle) existence is not the premise of force'; rather, 'force precedes matter'.*  
 * Additionally regarding 'gravity': First, substituting gravity into the above proposition yields 'matter (particle) existence is the premise of force (gravity, attraction)', which was refuted above.  
@@ -60,7 +60,7 @@
 
 <a href="#Gravity_u" id="Gravity_d">[Gravity]</a>: Motion depends on the Resistance Gradient (`|-𝛁R|`) (`Motion ∝ |-𝛁R|`). And since Inward Pressure toward Earth is naturally larger than Outward Pressure \[that Earth was formed into a Quasi-spherical shape implies that corresponding Inward Pressure converges toward it, forming Retention Pressure (Earth)\], as long as this Inward Pressure is large, and proportional to the difference between Inward Pressure and Outward Pressure, objects move toward Earth. This is what is called gravity and felt as attraction.
 
-#### **3\. On "Perpetual Linear Motion in Space Without External Force" \[Galileo Galilei, Isaac Newton "First Law of Motion"\]**
+#### ***3\. On "Perpetual Linear Motion in Space Without External Force" \[Galileo Galilei, Isaac Newton "First Law of Motion"\]***
 
 * First, since Transition \[Force (`F`)\] forms Space, the existence of Space means Force fills that Space. Therefore, in the same sense as Absolute Nothingness, *Absolutely Empty-space does not exist in reality.*  
 * ➀ Due to the Maintenance Interval, absolute overlapping is impossible. ➁ Force fills every part of the Universe, each possessing different leverage, and the sum continuously increases. Because of this, '*absolutely identical conditions cannot exist, and the Universe continuously assumes different States; since absolutely identical States cannot repeat, the number of States advances toward Dynamic Boundlessness.*' Accordingly, *absolute linear Motion is impossible, and perpetual linear Motion is even more impossible.*  
@@ -69,13 +69,13 @@
 
 <a href="#Equivalence-of-Resistance-Gradient-and-Density-Drop_u" id="Equivalence-of-Resistance-Gradient-and-Density-Drop_d">[Equivalence of Resistance Gradient and Density Drop]</a>: As Pressure is higher, Density becomes higher, and as Pressure is lower, Density becomes lower. Thus, the Resistance Gradient (`|-𝛁R|`) is synonymous with the Density Drop (`|-𝛁𝛒|`).
 
-#### **4\. On "Invariant Property Inherent to Matter Proportional to Acceleration (F=ma)" \[Isaac Newton "Principia"\]**
+#### ***4\. On "Invariant Property Inherent to Matter Proportional to Acceleration (F=ma)" \[Isaac Newton "Principia"\]***
 
 * Previously, it was stated that "*'matter (particle) existence is not the premise of force'; rather, 'force precedes matter'*". If so, `F = ma` must become `ma = F`, and since acceleration (a) belongs to Transition (Force), `ma = F` becomes `mF = F`. Accordingly — since it was stated that '*force precedes matter*' — `mF = F` must become `m = F`.<a href="#On-m=F_d" id="On-m=F_u"><sup>[On m=F]</sup></a> If so, *mass is not an 'inherent invariant property', but a State of Force, variable according to that State.*
 
 <a href="#On-m=F_u" id="On-m=F_d">[On m=F]</a>: If `Interval ≡ Transition(→) ≡ Force(F) ≡ Pressure(P) ⇔ Density(𝛒)`, then `m = F` implies `F ⇔ m = V * 𝛒`.
 
-#### **5\. On "Instantaneous and Absolute Symmetry of Action and Reaction" \[Isaac Newton "Third Law of Motion"\]**
+#### ***5\. On "Instantaneous and Absolute Symmetry of Action and Reaction" \[Isaac Newton "Third Law of Motion"\]***
 
 * If 'instantaneous and absolute symmetry of Action and Reaction' occurred without an Interval, they would cancel out — equivalent to no Actuality occurring — so no phenomenon called Action or Reaction would occur (cannot be observed). Furthermore, if no Actuality occurred from the beginning (?), the present Universe could not exist in reality. Accordingly, *since the current Universe exists in Reality, instantaneous and absolute symmetry of Action and Reaction is naturally refuted.*<a href="#Refutation-of-Action-and-Reaction_d" id="Refutation-of-Action-and-Reaction_u"><sup>[Refutation of Action and Reaction]</sup></a>
 
@@ -85,16 +85,16 @@
 
 <a href="#Refutation-of-Absolute-Rest-1_u" id="Refutation-of-Absolute-Rest-1_d">[Refutation of Absolute Rest 1]</a>: For example, human vision is accustomed to phenomena like a rolling ball slowly coming to a stop, but even what appears to be absolutely at rest is a state where internal and external Pressures continuously interact — since Density cannot increase infinitely (absolute overlapping is impossible) and Minimum Interval (`𝛅_min`) perpetuates — absolute rest cannot exist in reality.
 
-#### **6\. On "Precedence of Data Simultaneous with Phenomena and Capable of Future Prediction" \[Pierre-Simon Laplace "Laplace's Demon / Classical Determinism"\]**
+#### ***6\. On "Precedence of Data Simultaneous with Phenomena and Capable of Future Prediction" \[Pierre-Simon Laplace "Laplace's Demon / Classical Determinism"\]***
 
 * How is 'information or data' perceived by a stone? Or in what state does a stone possess 'information or data'? Furthermore, 'information or data' can change according to human perspective, temporal definitions (including updates), and the development of observation tools, and is inconsistent depending on the observer (observer, observed, subjects affecting or affected, etc.) (not an Absolute Constant, like light).  
 * Also, ➀ taking an event as an example, since the Universe continuously assumes different States (absolutely identical States cannot repeat), events assume a different State (new State) every time. ➁ Since Maintenance also has an Interval, events do not stop and continue undergoing Transition even at the moment prediction is attempted, and observation has an Interval (Observational Interval), and converting into Data also has an Interval. And ➂ an altered image is obtained proportional to the Effect the observational act exerts on the observed subject. Therefore, ➃ by 'Effect of observational act \+ Observational Interval \+ Interval of data conversion', it moves further away from the Actuality of the observed subject, refuting 'simultaneous with phenomena'. And ➄ since absolute overlapping is impossible, predicting the future under 'absolutely identical conditions' is impossible. Since future prediction under 'absolutely identical conditions' is impossible, it is bound to deviate. Therefore, ➅ *even if the future were determined — while predicting can be attempted — an image absolutely matching the future cannot be derived.*
 
-#### **7\. On "Completed Geometric Field Where Events Occur" \[Albert Einstein "General Relativity"\]**
+#### ***7\. On "Completed Geometric Field Where Events Occur" \[Albert Einstein "General Relativity"\]***
 
 * ➀ Why is only the background (Field) completed while internal constituents are not completed? ➁ How was that background (Field) completed? ➂ From where to where or what is the background (Field), and from where to where or what are the constituents? ➃ Absolute completion implies that everything has been accomplished, so no further events can occur (no addition or subtraction), which includes rest; how then can it interact with constituents or be deformed? ➄ Thus, if the Field were completed in an absolute sense, it must be completely isolated from constituents, or constituents must be included in that Field, meaning constituents must also be completed and stopped in an absolute sense. Accordingly, ➅ *since the Universe and things belonging to the Universe are not completely isolated (cannot be isolated), and the Universe and things belonging to the Universe are not completed in an absolute sense, a 'completed geometric Field where events occur' is refuted.*
 
-#### **8\. On "Absolute Constant Invariant Everywhere (c)" \[Albert Einstein "Special Relativity"\]**
+#### ***8\. On "Absolute Constant Invariant Everywhere (c)" \[Albert Einstein "Special Relativity"\]***
 
 * In an absolutely completed Field, velocity (Transition) is impossible.  
 * And when a sailboat's velocity (v) differs in headwinds versus tailwinds, or walking in a mudflat versus walking on a flat, dry road, one does not say time slowed down or sped up. Light also changes velocity relative to gravitational fields or atmospheres. Likewise, this should not be called time slowing down or speeding up; *the speed of light (c) is not an Absolute Constant.*  
