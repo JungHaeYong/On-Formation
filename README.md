@@ -8,7 +8,7 @@
 - **Copyright (c) 2026 Jung Hae-Yong (JEYo). All Rights Reserved.**
 - All documents, mathematical formulas, SF novel scenarios, worldviews, and thought frameworks in this repository are available under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 - **Terms of Use:**
-  1. **Attribution (BY):** You must give appropriate credit to the original author (Jung Hae-Yong / JEYo) and provide a link to the source when citing or sharing.
+  1. **Attribution (BY):** You must give appropriate credit to the original author (Jung Hae-Yong) and provide a link to the source when citing or sharing.
   2. **NonCommercial (NC):** Commercial use, sale, or unauthorized training for AI datasets is strictly prohibited.
   3. **NoDerivatives (ND):** The original text and equations may not be arbitrarily processed, modified, or transformed into derivative works for re-emission.
 
