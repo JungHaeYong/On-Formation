@@ -192,7 +192,7 @@ ___
 
 * '제 2부'에서 *'운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(`R`)이 가장 낮은 곳으로 계속된다'*고 한 것을 '제 3부'에서는 *'운동(Motion)은 압력(Pressure)(`P`)이 가장 낮은 곳으로 영속(Perpetuity)된다'*고 한다
 
-* Motion ∝ |-𝛁P| ⇔ |-𝛁𝛒|
+  * Motion ∝ |-𝛁P| ⇔ |-𝛁𝛒|
 
 * 세상(Universe)의 내부에서 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)과 체류압력(Retention Pressure) 각각의 방향성(Directionality)으로 인하여, 밀도(Density)가 형성(Formation)되어 작은 객체(Object)가 형성(Formation)되고, 더 많은(큰) 압력(Pressure)[작은 객체(Object)들]이 향하는 방향(Direction)으로 순류(Direct Flow)가 일어나며, 이 과정에서 계속 작은 객체(Object)와 조금 더 큰 객체(Object)들을 형성(Formation)되고, 이로 인하여 곳곳에 대와류(Vortex)가 형성(Formation)되고 더 큰 대와류(Vortex)는 더 크거나 더 단단한 객체(Object)를 형성(Formation)한다, 그리고 이 대와류(Vortex)는 순류(Direct Flow)에 충돌(Impact)하면서 소와류(Eddy)를 일으킨다, 그리고 영속(Perpetuity) 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)으로 인한 객체(Object) 형성(Formation)과 순류(Direct Flow) 형성(Formation), 순류(Direct Flow)에 의한 객체(Object) 형성(Formation)과 대와류(Vortex) 형성(Formation), 대와류(Vortex)로 인한 객체(Object) 형성(Formation)과 소와류(Eddy) 형성(Formation), 소와류(Eddy)로 인한 객체(Object) 형성(Formation)과 보다 작은 소와류(Eddy) 형성(Formation), 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)에 의한 1단위(1Unit) 융합[상호침투(Interfused)], 순류(Direct Flow)에 의한 대와류(Vortex)와 대와류(Vortex) 또는 소와류(Eddy) 융합, 대와류(Vortex)에 의한 소와류(Eddy) 융합, 소와류(Eddy)에 의한 보다 작은 소와류(Eddy) 융합
 
