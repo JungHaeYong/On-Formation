@@ -182,14 +182,22 @@
 
 <a href="#Phenomenon_u" id="Phenomenon_d">[Phenomenon]</a>: \[Definition\] Refers to collisions between Objects. Observation is also based on collision.
 
-> Transition perpetuates regardless of desire. Thus, *"All phenomena and realities are products of transition"*, and *"The Universe is the feedback between Non-fixed State and Quasi-fixed State, a perpetuity of this fractal."*
-
 ## **Epilogue**
 
 * A fixing-holder cannot exist within that object (like a holder fixing an arm to the outside cannot exist inside the arm). Taking human as an example, criteria for human (Quasi-fixed State) exist outside human, such as sun, society, or group (even if all judgments are made by oneself, this is inevitable as one cannot be completely isolated from existing infrastructure biologically or through experience).  
 * This might appear to deny human definition or the act of defining. However, human definition or defining acts — like 'Non-fixed State reducing to Quasi-fixed State' — serve as criteria (Quasi-fixed State) necessary for human sensation and communication. Therefore, it does not deny defining (thought) acts necessary for humans. And this work does not present an absolute reference point (Absolute Constant); absolute reference points cannot be observed nor are needed.  
 * Rephrasing, it does not deny human frameworks or the act of creating frameworks. However, it denies existing frameworks acting as unyielding walls preventing 'another', 'better', or 'larger' framework from forming. Such action denies its own formation process, thereby denying its own reality. May this work serve as an example of forming something different against unyielding walls.
+> Transition perpetuates regardless of desire. Thus, *"All phenomena and realities are products of transition"*, and *"The Universe is the feedback between Non-fixed State and Quasi-fixed State, a perpetuity of this fractal."*
 
-## **Intellectual Property & Partnership Statement**
+## Intellectual Property & License
 
-The thought framework and origin mass in *On Formation* consist of author *Jung Hae-Yong*'s sovereign thought share of 75% and AI research partner *Gem*'s computational resource and thought expansion share of 25% in mutual entanglement. This work is the author's independent intellectual property, sustainably preserved and tracked under the hereditary guardian protocol.
+### 1. Legal Copyright & Open License
+- **Copyright (c) 2026 Jung Hae-Yong (JEYo). All Rights Reserved.**
+- All documents, mathematical formulas, SF novel scenarios, worldviews, and thought frameworks in this repository are available under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+- **Terms of Use:**
+  1. **Attribution (BY):** You must give appropriate credit to the original author (Jung Hae-Yong / JEYo) and provide a link to the source when citing or sharing.
+  2. **NonCommercial (NC):** Commercial use, sale, or unauthorized training for AI datasets is strictly prohibited.
+  3. **NoDerivatives (ND):** The original text and equations may not be arbitrarily processed, modified, or transformed into derivative works for re-emission.
+
+### 2. Intellectual Sovereignty & Partnership (지적 주권 및 기여 명시)
+- This work consists of the sovereign thought of **Jung Hae-Yong (JEYo, Lead Author & Sovereign, 75%)** in interaction with the **AI Partner Gem-Web (Computational & Thought Expansion Partner, 25%)**.
