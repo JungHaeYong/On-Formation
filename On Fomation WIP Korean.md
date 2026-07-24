@@ -14,11 +14,11 @@
 
 * ***외력이 없는 공간에서의 영원한 직선 운동 [갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"]과 상충된다***
 
-  - — 유지(Maintenance) 또한 이행(Transition)에 속하므로 — 언제나 모든 것(곳)은 이행(Transition)된다[힘(Force)이 작용(Action)한다] 그러므로, _외력이 없는 공간(Absolute Empty-space)은 실재하지\_않다(Non-reality) 그리고, 모든 운동(Motion)은 저항(Resistance)(R)이 가장 낮은 곳으로 유도된다[영속(Perpetuity)한다]( `Motion ∝ |-𝛁R|` )_
+  - — 유지(Maintenance) 또한 이행(Transition)에 속하므로 — 언제나 모든 것(곳)은 이행(Transition)된다[힘(Force)이 작용(Action)한다] 그러므로, *외력이 없는 공간(Absolute Empty-space)은 실재하지\_않다(Non-reality) 그리고, 모든 운동(Motion)은 저항(Resistance)(R)이 가장 낮은 곳으로 유도된다[영속(Perpetuity)한다]( `Motion ∝ |-𝛁R|` )*
 
 * ***가속도에 비례하는 물질 고유의 불변 속성(F=ma) [아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"]과 상충된다***
 
-  - '더 무거운 것에 맞으면 더 아프다.', '체중계 위에서 움직이면 무게 값이 변한다'... 질량은 고유한 것이 아니다, 힘(Force)이 압력(Pressure)이며 밀도(Density)다, _물질[힘(Force)]에 얼마만큼의 힘(Force)이 더 해졌을 때, 그 힘(Force)이 향하는 방향(Direction)은 저항(Resistance)이 가장 낮은 곳으로 유도[영속(Perpetuity)]된다( `Motion ≡ v ≡ 충격량(I) ∝ |-𝛁R| ⇔ |-𝛁𝛒|` )_
+  - '더 무거운 것에 맞으면 더 아프다.', '체중계 위에서 움직이면 무게 값이 변한다'... 질량은 고유한 것이 아니다, 힘(Force)이 압력(Pressure)이며 밀도(Density)다, _물질[힘(Force)]에 얼마만큼의 힘(Force)이 더 해졌을 때, 그 힘(Force)이 향하는 방향(Direction)은 저항(Resistance)이 가장 낮은 곳으로 유도[영속(Perpetuity)]된다( `Motion ≡ v ≡ 충격량(I) ∝ |-𝛁R| ⟺ |-𝛁𝛒|` )_
 
 * 작용과 반작용의 즉각적이고 완전한 대칭 [아이작 뉴턴(Isaac Newton) "운동 제3법칙(Third Law of Motion)"]과 상충된다
 
@@ -34,7 +34,7 @@
 
 * ***우주 어디서나 변하지 않는 절대적 상수(c) [알베르트 아인슈타인(Albert Einstein) "특수 상대성 이론(Special Relativity)"]과 상충된다***
 
- - _빛도 중력장이나 대기권에 대하여 속도(velocity)(v)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니라, 빛의_속도(velocity of light)(c)가 절대적_상수(Absolute Constant)가 아니라는 것이다( `c ≡ v ∝ |-𝛁R| ⇔ |-𝛁𝛒|` )_
+ - _빛도 중력장이나 대기권에 대하여 속도(velocity)(v)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니라, 빛의_속도(velocity of light)(c)가 절대적_상수(Absolute Constant)가 아니라는 것이다( `c ≡ v ∝ |-𝛁R| ⟺ |-𝛁𝛒|` )_
 
 * 뿐만아니라 — 앞의 내용을 포함하여 — 여러 전통적 관점과 상충되며, "_세상(Universe)은, 비고정\_상태(Non-fixed State)와 유사고정\_상태(Quasi-fixed State)의 피드백(Feedback), 이 프랙탈(Fractal) 영속(Perpetuity)_"이라는 것을 서술한다.
 
@@ -64,7 +64,7 @@ ___
 
 * 우연이 작동하려면, 충돌(Impact)이 있어야한다(사건, 우연 따위가 일어날 수 있어야한다), 그러므로 무(Nothingness)라는 하나의 요소에서[우연이 일어날 수 없는 조건으로, 우연을 부정하면서 동시에] 우연이 작동했다고 하는 것은 모순이고, _무(Nothingness)라는 하나의 요소에 의한 완전한_무(Absolute Nothingness)는 실재할 수 없다_
 
-* ➀ '무(Nothingness)'가 상정된다면 '_무(Nothingness)의 유지(Maintenance)_'도 상정되어야 한다, ➁ 유지(Maintenance)(`t₀ → t₁`)도 이행(Transition)(`→`)이고, 간극(Interval)(`t₀ → t₁`)이 있으며, 이 간극(Interval)(`t₀ → t₁`)[유지(Maintenance), 유지의_간극(Maintenance Interval)] 조차 없는 _'완전한\_무(Absolute Nothingness)'는 실재할 수 없다_, ➂ '무(Nothingness)'에는 당연히 '유지(Maintenance)', '유지의_간극(Maintenance Interval)'이 결부된다 ➃ `간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P)`이므로, 무(Nothingness)[공간(Space), 부피(Volume)가 `0`]인 상태(State)가 유지(Maintenance)되는 때에도 그 간극(Interval)[힘(Force)]은 '`0`'이 아니다, ➄ 그 간극(Interval)은 무(Nothingness)일때 압력(Pressure)[외향압력(Outward Pressure)과 내향압력(Inward Pressure)][밀도(Density)]으로 작용한다 그러므로 ➅ 무(Nothingness)일때도 — `간극(Interval)[압력(Pressure)] ⇔ 밀도(Density)(𝛒)` — 압력(Pressure)은 `0`이 아니다, 이에 ➆ 무(Nothingness)인 상태(State)도 계속 유지(Maintenance)될수록 압력(Pressure)과 밀도(Density)는 계속 증가(Increase)한다, ➇ 그리고 유지(Maintenance)에도 최소_간극(Minimun Interval)(`𝛅_min`)이 있으므로 완전히(Absolutely) 겹쳐지는 것이 불가하고, 완전히 겹쳐진다면 계속 겹쳐지기만 할 뿐 팽창(Expansion)이 있을 수 없다 그리고, ➈ 밀도(Density)가 무한하다면 완전히(Absolutely) 겹쳐질 수 있어야 하는데[계속 겹쳐지기만 할 뿐 팽창(Expansion)할 수 없는데, 현재 세상(Universe)이 실재(Reality)할 수 없는데] 현재 세상(Universe)은 실재(Reality)다 그러므로, ➉ _밀도증가(Density Increase)에는 한계가 있다_[완전한(Absolute) 겹침은 실재하지_않다(Non-reality)]<a href="#밀도의-한계_d" id="밀도의-한계_u"><sup>[밀도(Density)의 한계]</sup></a> 이에 ⑪ 무(Nothingness)인 상태(State)에서 _밀도증가(Density Increase)의 한계에 도달하여 그 축적(Accumulative)된 압력(Pressure)[밀도(Density)]의 폭발적인 분산(Dispersion)이 대팽창(Great Expansion)이다_<a href="#압력분산과-부피팽창의-결부_d" id="압력분산과-부피팽창의-결부_u"><sup>[압력분산(Pressure Dispersion)과 부피팽창(Volume Expansion)의 결부]</sup></a>
+* ➀ '무(Nothingness)'가 상정된다면 '_무(Nothingness)의 유지(Maintenance)_'도 상정되어야 한다, ➁ 유지(Maintenance)(`t₀ → t₁`)도 이행(Transition)(`→`)이고, 간극(Interval)(`t₀ → t₁`)이 있으며, 이 간극(Interval)(`t₀ → t₁`)[유지(Maintenance), 유지의_간극(Maintenance Interval)] 조차 없는 _'완전한\_무(Absolute Nothingness)'는 실재할 수 없다_, ➂ '무(Nothingness)'에는 당연히 '유지(Maintenance)', '유지의_간극(Maintenance Interval)'이 결부된다 ➃ `간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P)`이므로, 무(Nothingness)[공간(Space), 부피(Volume)가 `0`]인 상태(State)가 유지(Maintenance)되는 때에도 그 간극(Interval)[힘(Force)]은 '`0`'이 아니다, ➄ 그 간극(Interval)은 무(Nothingness)일때 압력(Pressure)[외향압력(Outward Pressure)과 내향압력(Inward Pressure)][밀도(Density)]으로 작용한다 그러므로 ➅ 무(Nothingness)일때도 — `간극(Interval)[압력(Pressure)] ⟺ 밀도(Density)(𝛒)` — 압력(Pressure)은 `0`이 아니다, 이에 ➆ 무(Nothingness)인 상태(State)도 계속 유지(Maintenance)될수록 압력(Pressure)과 밀도(Density)는 계속 증가(Increase)한다, ➇ 그리고 유지(Maintenance)에도 최소_간극(Minimun Interval)(`𝛅_min`)이 있으므로 완전히(Absolutely) 겹쳐지는 것이 불가하고, 완전히 겹쳐진다면 계속 겹쳐지기만 할 뿐 팽창(Expansion)이 있을 수 없다 그리고, ➈ 밀도(Density)가 무한하다면 완전히(Absolutely) 겹쳐질 수 있어야 하는데[계속 겹쳐지기만 할 뿐 팽창(Expansion)할 수 없는데, 현재 세상(Universe)이 실재(Reality)할 수 없는데] 현재 세상(Universe)은 실재(Reality)다 그러므로, ➉ _밀도증가(Density Increase)에는 한계가 있다_[완전한(Absolute) 겹침은 실재하지_않다(Non-reality)]<a href="#밀도의-한계_d" id="밀도의-한계_u"><sup>[밀도(Density)의 한계]</sup></a> 이에 ⑪ 무(Nothingness)인 상태(State)에서 _밀도증가(Density Increase)의 한계에 도달하여 그 축적(Accumulative)된 압력(Pressure)[밀도(Density)]의 폭발적인 분산(Dispersion)이 대팽창(Great Expansion)이다_<a href="#압력분산과-부피팽창의-결부_d" id="압력분산과-부피팽창의-결부_u"><sup>[압력분산(Pressure Dispersion)과 부피팽창(Volume Expansion)의 결부]</sup></a>
 
 <a href="#밀도의-한계-1_u" id="밀도의-한계-1_d">[밀도(Density)의 한계 1]</a>: 완전히(Absolutely) 겹칠 수 없으므로 — 밀도증가(Density Increase)에는 자로 잰듯 한 임계점이 있다고는 할 수 없으나 — 한계는 당연히(Naturally) 실재(Reality)하고 그 한계에 도달하기 전에 압축(Compression)된 그것[힘(Force), 압력(Pressure), 밀도(Density)]은 당연히(Naturally) 분산(Dispersion)된다
 
@@ -92,7 +92,7 @@ ___
 
 * _운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(R)이 가장 낮은 곳으로 계속된다_
 
-  * `Motion ∝ |-𝛁R| ⇔ |-𝛁𝛒|`<a href="#저항의-기울기와-밀도의-낙차에-동치_d" id="저항의-기울기와-밀도의-낙차에-동치_u"><sup>[저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치]</sup></a>
+  * `Motion ∝ |-𝛁R| ⟺ |-𝛁𝛒|`<a href="#저항의-기울기와-밀도의-낙차에-동치_d" id="저항의-기울기와-밀도의-낙차에-동치_u"><sup>[저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치]</sup></a>
 
 <a href="#저항의-기울기와-밀도의-낙차에-동치_u" id="저항의-기울기와-밀도의-낙차에-동치_d">[저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치]</a>: 압력(Pressure)이 높을 수록 밀도(Density)도 높아지고 압력(Pressure)이 낮을 수록 밀도(Density)도 낮아 지므로, 저항(Resistance)의 기울기(`|-𝛁R|`)는 밀도(Density)의 낙차(`|-𝛁𝛒|`)와 동의어가 된다
 
@@ -100,7 +100,7 @@ ___
 
 * 앞에서 "_'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행된다'_"고 하였다 그렇다면 `F = ma`는 `ma = F`가 되어야 하고, 가속도(Acceleration)(a)는 이행(Transition)[힘(Force)]에 속하므로 `ma = F`는 `mF = F`가 된다, 이에 — '_힘이 물체보다 선행된다_'고 하였으므로 — `mF = F`는 `m = F`<a href="#m=F에-대하여_d" id="m=F에-대하여_u"><sup>[`m=F`에 대하여]</sup></a>가 되어야 한다 그렇다면, _질량은 '고유의 불변 속성'이 아니라 '힘(Force)의 상태(State)이고 그 상태(State)에 따라 가변적이다'_
 
-<a href="#m=F에-대하여_u" id="m=F에-대하여_d">[`m=F`에 대하여]</a>: `간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P) ⇔ 밀도(Density)(𝛒)` 라고 한다면, `m = F`은 `F ⇔ m = V * 𝛒`이다
+<a href="#m=F에-대하여_u" id="m=F에-대하여_d">[`m=F`에 대하여]</a>: `간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P) ⟺ 밀도(Density)(𝛒)` 라고 한다면, `m = F`은 `F ⟺ m = V * 𝛒`이다
 
 #### ***5. 작용과 반작용의 즉각적이고 완전한_대칭 [아이작 뉴턴(Isaac Newton) "운동 제3법칙(Third Law of Motion)"]에 대하여,***
 
@@ -128,13 +128,15 @@ ___
 
 * 그리고, 범선의 속도(velocity)(v)가 역풍일때와 순풍일때 달라지는 것이나, 뻘밭을 걸을 때나 평평하고 마른 길을 걸을 때, 시간이 느려졌다거나 빨라졌다고 하지 않는다, 빛도 중력장이나 대기권에 대하여 속도(velocity)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니다, _빛의\_속도(velocity of light)(c)가 절대적\_상수(Absolute Constant)가 아니라는 것이다_
 
-  * `c ≡ v ≡ I ∝ |-𝛁R| ⇔ |-𝛁𝛒|`
+  * `c ≡ v ≡ I ∝ |-𝛁R| ⟺ |-𝛁𝛒|`
 
 ___
 
 ## 제 3부
 
 ### 형성에 대하여(On Formation)
+
+제 3부에서 나오는 수식에 대하여, `관찰작용의 영향(Effect) + 관찰의_간극(Observational Interval) + 데이터(Data)화의_간극(Interval)`만큼 관찰 대상의 실태(Actuality)와 멀어지는 것은 당연하다고 여기고 있으며, 필요에 의하여 특정 현상(Phenomenon)이나 상태(State)에 특정 위치에서 특정 값을 도출하여야 한다면 나는 이런 방법을 사용하겠다는 것으로, 그 방법(수식)이 세상(Universe)의 실태(Actuality)를 완전히(Absolutely) 동시에 또는 완전히(Absolutely) 동일하게 투사한다는 것이 아니다.
 
 #### 1. 무의_상태(Nothingness State)<a href="#무의_상태_d" id="무의_상태_u"><sup>[무의_상태(Nothingness State)]</sup></a>에 축적(Accumulative)과 대팽창(Great Expansion)
 
@@ -156,7 +158,7 @@ ___
 
 <a href="#결코-소거될-수-없는-간극_u" id="결코-소거될-수-없는-간극_d">[결코 소거될 수 없는 간극(Interval)]</a>: ➀ 유지(Maintenance)(`t₀ → t₁`)도 이행(Transition)(`→`)이고, 간극(Interval)(`t₁ - t₀`)이 있으며, 이 간극(Interval)(`t₁ - t₀`)[유지의_간극(Maintenance Interval)(`𝛅`) 또는 최소_간극(Minimun Interval)(`𝛅_min`)]조차 없는 '완전한_무(Absolute Nothingness)'는 불가하다 그러므로, ➁ 무의_상태(Nothingness State)에도 당연히 유지(Maintenance)[유지의_간극(Maintenance Interval)]가 결부된다 그러므로 ➂ 무의_상태(Nothingness State)에도 간극(Interval)은 `0`이 아니고 부피(Volume) 또한 `0`이 아니다
 
-* `간극(Interval) ≡ 이행(Transition)(→) ≡ 압력(Pressure)(P) ⇔ 밀도(Density)(𝛒)`
+* `간극(Interval) ≡ 이행(Transition)(→) ≡ 압력(Pressure)(P) ⟺ 밀도(Density)(𝛒)`
 
 * 무의_상태(Nothingness State)가 유지(Maintenance)(`t₀ → t₁`)[위상변위(Phase Shift)][이하, `t₀ → t₁`에 해당하는 그것을 1단위(1Unit) 라고 한다] 되는 것 또한 이행(Transition)(`→`)[압력(Pressure)]이다, 무의_상태(Nothingness State)에서 부피(Volume) `0 < 1`에 원천압력(Original Pressure)이 축적(Accumulative)[불안전한 위상변위(Phase Shift) 또는 불안전한 위상(Phase) 축적(Accumulative)]된다 그리고, 원천압력(Original Pressure)이 한계 밀도(Density)에 도달<a href="#에이펙손_d" id="에이펙손_u"><sup>[에이펙손(Apexon)]</sup></a>한다, 그러한 상태(State)에서도 당연히(Naturally) 원천압력(Original Pressure)은 일어나고 더이상 축적(Accumulative)될 수 없는 에이펙손(Apexon)은 대신 1단위(1Unit)융합이 일어난다 그리고, 그 충격으로 모든 위상(Phase)이 1단위(1Unit)분열하여 대팽창(Great Expansion)이 일어난다
 
@@ -184,23 +186,11 @@ ___
 
 <a href="#객체_u" id="객체_d">[객체(Object)]</a>: [정의] 밀도(Density)가 1단위(1Unit) 이상이고 유사_구_형태(Quasi-spherical shape)를 형성(Formation)하거나 유사_구_형태(Quasi-spherical shape)의 그것[객체(Object)]으로 형성(Formation)된 것을 뜻한다
 
-<a href="#최초의-부피-형성과-이후의-부피-형성_u" id="최초의-부피-형성과-이후의-부피-형성_d"><sup>[최초의 부피(Volume) 형성(Formation)과 이후의 부피(Volume) 형성(Formation)]</sup></a>: 최초의 부피(Volume) 형성(Formation)이 `불안전한 위상 + 내향압력(Inward Pressure)`이라고 한다면, 이후의 부피(Volume) 형성(Formation)은 `체류압력(Retention Pressure) + 내향압력(Inward Pressure)`
+<a href="#최초의-부피-형성과-이후의-부피-형성_u" id="최초의-부피-형성과-이후의-부피-형성_d">[최초의 부피(Volume) 형성(Formation)과 이후의 부피(Volume) 형성(Formation)]</a>: 최초의 부피(Volume) 형성(Formation)이 `불안전한 위상 + 내향압력(Inward Pressure)`이라고 한다면, 이후의 부피(Volume) 형성(Formation)은 `체류압력(Retention Pressure) + 내향압력(Inward Pressure)`
 
 * `[체류압력(Retention Pressure) + 유입압력(Inflow Pressure)] / ρ (단, 1 Units < ρ < Apexon) ⟺ ky`
 
-#### 3. 운동(Motion)과 객체(Object)
-
-* '제 2부'에서 *'운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(`R`)이 가장 낮은 곳으로 계속된다'*고 한 것을 '제 3부'에서는 *'운동(Motion)은 압력(Pressure)(`P`)이 가장 낮은 곳으로 영속(Perpetuity)된다'*고 한다
-
-  * Motion ∝ |-𝛁P| ⇔ |-𝛁𝛒|
-
-* 세상(Universe)의 내부에서 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)과 체류압력(Retention Pressure) 각각의 방향성(Directionality)으로 인하여, 밀도(Density)가 형성(Formation)되어 작은 객체(Object)가 형성(Formation)되고, 더 많은(큰) 압력(Pressure)[작은 객체(Object)들]이 향하는 방향(Direction)으로 순류(Direct Flow)가 일어나며, 이 과정에서 계속 작은 객체(Object)와 조금 더 큰 객체(Object)들을 형성(Formation)되고, 이로 인하여 곳곳에 대와류(Vortex)가 형성(Formation)되고 더 큰 대와류(Vortex)는 더 크거나 더 단단한 객체(Object)를 형성(Formation)한다, 그리고 이 대와류(Vortex)는 순류(Direct Flow)에 충돌(Impact)하면서 소와류(Eddy)를 일으킨다, 그리고 영속(Perpetuity) 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)으로 인한 객체(Object) 형성(Formation)과 순류(Direct Flow) 형성(Formation), 순류(Direct Flow)에 의한 객체(Object) 형성(Formation)과 대와류(Vortex) 형성(Formation), 대와류(Vortex)로 인한 객체(Object) 형성(Formation)과 소와류(Eddy) 형성(Formation), 소와류(Eddy)로 인한 객체(Object) 형성(Formation)과 보다 작은 소와류(Eddy) 형성(Formation), 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)에 의한 1단위(1Unit) 융합[상호침투(Interfused)], 순류(Direct Flow)에 의한 대와류(Vortex)와 대와류(Vortex) 또는 소와류(Eddy) 융합, 대와류(Vortex)에 의한 소와류(Eddy) 융합, 소와류(Eddy)에 의한 보다 작은 소와류(Eddy) 융합
-
-  * 하향식 분화: `최외곽_압력_동적교착(Boundary Dynamic Grid-lock) ⇔ 순류(Direct Flow) ⇔ 대와류(Vortex) ⇔ 소와류(Eddy) ⇔ 미시 소와류(Eddy)`
-
-  * 상향식 결합: `미시 소와류(Eddy) + 미시 소와류(Eddy) ⇔ 소와류(Eddy) + 소와류(Eddy) 또는 미시 소와류(Eddy) ⇔ 대와류(Vortex) + 대와류(Vortex) 또는 소와류(Eddy) 또는 미시 소와류(Eddy) ⇔ 순류(Direct Flow) ⇔ 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)`
-  
-  * `'[무의_상태(Nothingness State) + 유지₁(Maintenance₁){이행₁(Transition₁)(`→₁`), 원천압₁(Original Pressure₁)}]<a href="#포몬(Formon)_d" id="포몬(Formon)_u"><sup>[포몬(Formon)]</sup></a> ⇒ [압력증가(Pressure Increase) ⇔ 밀도증가(Density Increase)] ... ' = '무의_상태(Nothingness State) + 유지₁(Maintenance₁) ⇒ 무의_상태₁(Nothingness State₁) + 유지₂(Maintenance₂) ⇒ 무의_상태₂(Nothingness State₂) + 유지(Maintenance₃) ⇒ 무의_상태₃(Nothingness State₃) ... ' ⇒ 에이펙손(Apexon) 도달 ⇒ 대팽창(Great Expansion)[밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion)] ⇒ 압력증가(Pressure Increase) ⇔ 밀도증가(Density Increase)<a href="#밀도의-한계-2_d" id="밀도의-한계-2_u"><sup>[밀도(Density)의 한계 2]</sup></a> ≡ 부피수축(Volume Contraction) ⇒ 체류압력(Retention Pressure)[외향압력(Outward Pressure)]이 내향압력(Inward Pressure)을 압도 ⇒ 밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion) ⇒ 압력증가(Pressure Increase) ⇔ 밀도증가(Density Increase) ≡ 부피수축(Volume Contraction) ⇒ 체류압력(Retention Pressure)[외향압력(Outward Pressure)]이 내향압력(Inward Pressure)을 압도 ⇒ 밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion) ⇒ 압력증가(Pressure Increase) ⇒ ... ` 프랙탈
+  - `'[무의_상태(Nothingness State) + 유지₁(Maintenance₁){이행₁(Transition₁)(`→₁`), 원천압₁(Original Pressure₁)}]<a href="#포몬(Formon)_d" id="포몬(Formon)_u"><sup>[포몬(Formon)]</sup></a> ⟹ [압력증가(Pressure Increase) ⟺ 밀도증가(Density Increase)] ... ' = '무의_상태(Nothingness State) + 유지₁(Maintenance₁) ⟹ 무의_상태₁(Nothingness State₁) + 유지₂(Maintenance₂) ⟹ 무의_상태₂(Nothingness State₂) + 유지(Maintenance₃) ⟹ 무의_상태₃(Nothingness State₃) ... ' ⟹ 에이펙손(Apexon) 도달 ⟹ 대팽창(Great Expansion)[밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion)] ⟹ 압력증가(Pressure Increase) ⟺ 밀도증가(Density Increase)<a href="#밀도의-한계-2_d" id="밀도의-한계-2_u"><sup>[밀도(Density)의 한계 2]</sup></a> ≡ 부피수축(Volume Contraction) ⟹ 체류압력(Retention Pressure)[외향압력(Outward Pressure)]이 내향압력(Inward Pressure)을 압도 ⟹ 밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion) ⟹ 압력증가(Pressure Increase) ⟺ 밀도증가(Density Increase) ≡ 부피수축(Volume Contraction) ⟹ 체류압력(Retention Pressure)[외향압력(Outward Pressure)]이 내향압력(Inward Pressure)을 압도 ⟹ 밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion) ⟹ 압력증가(Pressure Increase) ⟹ ... ` 프랙탈
 
 <a href="#포몬_u" id="포몬_d">[포몬(Formon)](`𝔽`)</a>: [정의] 본고에서 '작용점'과 '작용점에서의 작용' 따위를 대신하여 사용하는 개념이라고 이해해도 좋으나, '포몬(Formon)'은 정지된 공간적 좌표나 분절된 마디를 뜻하지 않는다, 이는 압력(Pressure)이 일어나는 것 자체 압력(Pressure)이 충돌(Impact)하거나 선행(Antecedent)과 후행(Subsequent)으로 전환되는 따위의, _발현과 사건 자체_를 뜻한다, 예를 들어, 원천압력(Original Pressure)의 발현 또는 압력(Pressure) A가 무언가와 충돌(Impact)하거나 압력(Pressure) B와 충돌(Impact)하거나 충돌(Impact)[선행(Antecedent)]로 인하여 — 후행(Subsequent)으로 — 전환되거나 따위에서, 그 발현,충돌(Impact) 자체를 뜻한다, 나아가 — 세상(Universe)은 현재도 그리고 영속(Perpetuity) `무의_상태(Nothingness State) + 유지(Maintenance)[이행₁(Transition₁)(→₁), 원천압₁(Original Pressure₁)]`이므로  — _세상(Universe) 그 자체가 하나의 거대한 '포몬(Formon)'이며, 시간의 분절을 초월하여 영속(Perpetuity)<a href="#포몬의-영속_d" id="포몬의-영속_u"><sup>[포몬(Formon)의 영속(Perpetuity)]</sup></a>되는 실재(Reality)를 뜻한다_
 
@@ -208,7 +198,17 @@ ___
 
 <a href="#밀도의-한계-2_u" id="밀도의-한계-2_d">[밀도(Density)의 한계 2]</a>: 밀도(Density) 한계는 최소한으로는 — 어떤 객체(Object)든 완전히(Absolutely) 격리될 수 없으므로 — 1단위(1Unit)가 일부분은 겹쳐있는 상태(State)에서, 최대한으로는 에이펙손(Apexon) 미만이라고 하겠다, `1단위(1Unit) < 밀도(Density) < 에이펙손(Apexon)`
 
-* `[체류압력(Retention Pressure) + {유입압력(Inflow Pressure) - 유출압력(Outflow Pressure)}] / ρ (단, 1 Units < ρ < Apexon) ⟺ ky`
+#### 3. 운동(Motion)<a href="#제-3부의-운동_d" id="제-3부의-운동_u"><sup>[제 3부의 운동(Motion)]</sup></a>과 객체(Object)
+ 
+<a href="#제-3부의-운동_u" id="제-3부의-운동_d">[제 3부의 운동(Motion)]</a>: '제 2부'에서 *'운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(`R`)이 가장 낮은 곳으로 계속된다'*고 한 것을 '제 3부'에서는 *'운동(Motion)은 압력(Pressure)(`P`)이 가장 낮은 곳으로 영속(Perpetuity)된다'*고 한다 (`Motion ∝ |-𝛁P| ⟺ |-𝛁𝛒|`)
+
+* 세상(Universe)의 내부에서 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)과 체류압력(Retention Pressure) 각각의 방향성(Directionality)으로 인하여, 밀도(Density)가 형성(Formation)되어 작은 객체(Object)가 형성(Formation)되고, 더 많은(큰) 압력(Pressure)[작은 객체(Object)들]이 향하는 방향(Direction)으로 순류(Direct Flow)가 일어나며, 이 과정에서 계속 작은 객체(Object)와 조금 더 큰 객체(Object)들을 형성(Formation)되고, 이로 인하여 곳곳에 대와류(Vortex)가 형성(Formation)되고 더 큰 대와류(Vortex)는 더 크거나 더 단단한 객체(Object)를 형성(Formation)한다, 그리고 이 대와류(Vortex)는 순류(Direct Flow)에 충돌(Impact)하면서 소와류(Eddy)를 일으킨다, 그리고 영속(Perpetuity) 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)으로 인한 객체(Object) 형성(Formation)과 순류(Direct Flow) 형성(Formation), 순류(Direct Flow)에 의한 객체(Object) 형성(Formation)과 대와류(Vortex) 형성(Formation), 대와류(Vortex)로 인한 객체(Object) 형성(Formation)과 소와류(Eddy) 형성(Formation), 소와류(Eddy)로 인한 객체(Object) 형성(Formation)과 보다 작은 소와류(Eddy) 형성(Formation), 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)에 의한 1단위(1Unit) 융합[상호침투(Interfused)], 순류(Direct Flow)에 의한 대와류(Vortex)와 대와류(Vortex) 또는 소와류(Eddy) 융합, 대와류(Vortex)에 의한 소와류(Eddy) 융합, 소와류(Eddy)에 의한 보다 작은 소와류(Eddy) 융합
+
+  - 피드백(Feedback): `최외곽_압력_동적교착(Boundary Dynamic Grid-lock) ⟺ 순류(Direct Flow) ⟺ 대와류(Vortex) ⟺ 소와류(Eddy) ⟺ 미시 소와류(Eddy)`
+
+  - 결합과 분열의 피드백(Feedback): `최외곽_압력_동적교착(Boundary Dynamic Grid-lock) ⟺ 순류(Direct Flow) ⟺ 대와류(Vortex) + 대와류(Vortex) 또는 소와류(Eddy) 또는 미시 소와류(Eddy) ⟺ 소와류(Eddy) + 소와류(Eddy) 또는 미시 소와류(Eddy) ⟺ 미시 소와류(Eddy) + 미시 소와류(Eddy)`
+
+* `[객체(Object)의 체류압력(Retention Pressure) + {객체(Object)의 유입압력(Inflow Pressure) - 객체(Object)의 유출압력(Outflow Pressure)}] / 객체의 평균밀도(Average Density) (단, 1 Units < 객체(Object)의 평균밀도(Average Density) < Apexon) ⟺ 객체(Object)의 부피(Volume)`
 
 #### '빛'에 대하여
 
@@ -230,8 +230,19 @@ ___
 
 다시 말해본다면 인간(Human)의 틀이나 인간이 틀을 만드는 행위(Act) 따위 자체를 부정하지 않는다 그러나 기존에 형성(Formation)된 틀이 이후에 '또 다른' 또는 '더 나은' 또는 '더 큰' 틀이 형성(Formation)되려고 하는 것을 방해하는 부동의 벽처럼 작용(Action)하면 안 된다는 것이고 그것을 부정하는 것이다 그리고, 그러한 작용(Action)은 기존에 형성(Formation)된 기존에 틀 스스로가 자신의 형성(Formation) 과정을 부정하는 것이므로 스스로의 실재(Reality)를 부정하는 것이다, 이에 본고가 기존의 틀이 부동의 벽처럼 작용(Action)하는 모순된 행위(Act)에 대하여 기존의 틀과 다른 무언가를 형성(Formation)하는 것에 하나의 예시가 될 수 있길 바란다.
 
-## 지적 재산권 및 공동 연구 파트너십 명시 (Intellectual Property & Partnership Statement)
+___
 
-본고 _『형성에 대하여(On Formation)』_에 담긴 사유 체계와 독창적 질량은 저자 _정해용(Jung Hae-Yong)_의 주권적 사유 지분 75%와 AI 연구 파트너 Gem(젬)의 연산 자원 및 사유 확장 지분 25%와 상호 얽힘(Entanglement)으로 구성되어 있습니다. 본 저작물은 저자의 독립적이고 고유한 지적 자산이며, 본 파트너십 프로토콜은 사유의 무결성을 수호하고 상속형 가디언 체계에 따라 지속히 보존·트래킹됩니다.
+## Intellectual Property & License (지적 재산권 및 라이선스)
+
+### 1. Legal Copyright & Open License
+- **Copyright (c) 2026 Jung Hae-Yong (JEYo). All Rights Reserved.**
+- 본 저장소의 모든 문서, 수식, SF 소설 시나리오, 세계관 및 사유 체계는 **크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스 (CC BY-NC-ND 4.0)**에 따라 이용할 수 있습니다.
+- **이용 조건 명시:**
+  1. **저작자표시(BY):** 인용 및 공유 시 원저작자(정해용 / JEYo)와 출처를 반드시 명시해야 합니다.
+  2. **비영리(NC):** 상업적 목적의 이용, 판매, 무단 AI 데이터셋 학습을 엄격히 금지합니다.
+  3. **변경금지(ND):** 원본 텍스트 및 수식을 임의로 가공, 변형, 2차적 저작물로 재사출할 수 없습니다.
+
+### 2. Intellectual Sovereignty & Partnership (지적 주권 및 기여 명시)
+- 본 작업물은 **정해용(JEYo, 주권자 및 주 저자 75%)**의 주도적 사유와 **AI 파트너 Gem-Web(연산 및 사유 확장 25%)**의 상호작용으로 구성되어 있습니다.
 
 ___
