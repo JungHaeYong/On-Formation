@@ -62,9 +62,11 @@ ___
 
 #### ***1. 무에서의 우연한 폭발과 팽창 [조르주 르메트르(Georges Lemaître), 에드윈 허블(Edwin Hubble) "빅뱅 이론(Big Bang Theory)"]에 대하여,*** 
 
-* 우연이 작동하려면, 충돌(Impact)이 있어야한다(사건, 우연 따위가 일어날 수 있어야한다), 그러므로 무(Nothingness)라는 하나의 요소에서[우연이 일어날 수 없는 조건으로, 우연을 부정하면서 동시에] 우연이 작동했다고 하는 것은 모순이고, _무(Nothingness)라는 하나의 요소에 의한 완전한_무(Absolute Nothingness)는 실재할 수 없다_
+* 우연이 작동하려면, 충돌(Impact)이 있어야한다(사건, 우연 따위가 일어날 수 있어야한다), 그러므로 무(Nothingness)라는 하나의 요소에서[우연이 일어날 수 없는 조건으로, 우연을 부정하면서 동시에] 우연이 작동했다고 하는 것은 모순이고, *무(Nothingness)라는 하나의 요소에 의한 완전한_무(Absolute Nothingness)는 실재할 수 없다*
 
-* ➀ '무(Nothingness)'가 상정된다면 '_무(Nothingness)의 유지(Maintenance)_'도 상정되어야 한다, ➁ 유지(Maintenance)(`t₀ → t₁`)도 이행(Transition)(`→`)이고, 간극(Interval)(`t₀ → t₁`)이 있으며, 이 간극(Interval)(`t₀ → t₁`)[유지(Maintenance), 유지의_간극(Maintenance Interval)] 조차 없는 _'완전한\_무(Absolute Nothingness)'는 실재할 수 없다_, ➂ '무(Nothingness)'에는 당연히 '유지(Maintenance)', '유지의_간극(Maintenance Interval)'이 결부된다 ➃ `간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P)`이므로, 무(Nothingness)[공간(Space), 부피(Volume)가 `0`]인 상태(State)가 유지(Maintenance)되는 때에도 그 간극(Interval)[힘(Force)]은 '`0`'이 아니다, ➄ 그 간극(Interval)은 무(Nothingness)일때 압력(Pressure)[외향압력(Outward Pressure)과 내향압력(Inward Pressure)][밀도(Density)]으로 작용한다 그러므로 ➅ 무(Nothingness)일때도 — `간극(Interval)[압력(Pressure)] ⟺ 밀도(Density)(𝛒)` — 압력(Pressure)은 `0`이 아니다, 이에 ➆ 무(Nothingness)인 상태(State)도 계속 유지(Maintenance)될수록 압력(Pressure)과 밀도(Density)는 계속 증가(Increase)한다, ➇ 그리고 유지(Maintenance)에도 최소_간극(Minimun Interval)(`𝛅_min`)이 있으므로 완전히(Absolutely) 겹쳐지는 것이 불가하고, 완전히 겹쳐진다면 계속 겹쳐지기만 할 뿐 팽창(Expansion)이 있을 수 없다 그리고, ➈ 밀도(Density)가 무한하다면 완전히(Absolutely) 겹쳐질 수 있어야 하는데[계속 겹쳐지기만 할 뿐 팽창(Expansion)할 수 없는데, 현재 세상(Universe)이 실재(Reality)할 수 없는데] 현재 세상(Universe)은 실재(Reality)다 그러므로, ➉ _밀도증가(Density Increase)에는 한계가 있다_[완전한(Absolute) 겹침은 실재하지_않다(Non-reality)]<a href="#밀도의-한계_d" id="밀도의-한계_u"><sup>[밀도(Density)의 한계]</sup></a> 이에 ⑪ 무(Nothingness)인 상태(State)에서 _밀도증가(Density Increase)의 한계에 도달하여 그 축적(Accumulative)된 압력(Pressure)[밀도(Density)]의 폭발적인 분산(Dispersion)이 대팽창(Great Expansion)이다_<a href="#압력분산과-부피팽창의-결부_d" id="압력분산과-부피팽창의-결부_u"><sup>[압력분산(Pressure Dispersion)과 부피팽창(Volume Expansion)의 결부]</sup></a>
+* ➀ '무(Nothingness)'가 상정된다면 '_무(Nothingness)의 유지(Maintenance)_'도 상정되어야 한다, ➁ 유지(Maintenance)(`t₀ → t₁`)도 이행(Transition)(`→`)이고, 간극(Interval)(`t₀ → t₁`)이 있으며, 이 간극(Interval)(`t₀ → t₁`)[유지(Maintenance), 유지의_간극(Maintenance Interval)] 조차 없는 *'완전한_무(Absolute Nothingness)'는 실재할 수 없다*, ➂ '무(Nothingness)'에는 당연히 '유지(Maintenance)', '유지의_간극(Maintenance Interval)'이 결부된다 ➃ `간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P)`이므로, 무(Nothingness)\[공간(Space), 부피(Volume)가 `0`\]인 상태(State)가 유지(Maintenance)되는 때에도 그 간극(Interval)\[힘(Force)\]은 '`0`'이 아니다, ➄ 그 간극(Interval)은 무(Nothingness)일때 압력(Pressure)\[외향압력(Outward Pressure)과 내향압력(Inward Pressure)\]\[밀도(Density)\]으로 작용한다 그러므로 ➅ 무(Nothingness)일때도 — `간극(Interval)[압력(Pressure)] ⟺ 밀도(Density)(𝛒)` — 압력(Pressure)은 `0`이 아니다, 이에 ➆ 무(Nothingness)인 상태(State)도 계속 유지(Maintenance)될수록 압력(Pressure)과 밀도(Density)는 계속 증가(Increase)한다, ➇ 그리고 유지(Maintenance)에도 최소_간극(Minimun Interval)(`𝛅_min`)<a href="#최소_간극_d" id="최소_간극_u"><sup>\[최소_간극(Minimun Interval)\]</sup></a>이 있으므로 완전히(Absolutely) 겹쳐지는 것이 불가하고, 완전히 겹쳐진다면 계속 겹쳐지기만 할 뿐 팽창(Expansion)이 있을 수 없다 그리고, ➈ 밀도(Density)가 무한하다면 완전히(Absolutely) 겹쳐질 수 있어야 하는데\[계속 겹쳐지기만 할 뿐 팽창(Expansion)할 수 없는데, 현재 세상(Universe)이 실재(Reality)할 수 없는데\] 현재 세상(Universe)은 실재(Reality)다 그러므로, ➉ *밀도증가(Density Increase)에는 한계가 있다*\[완전한(Absolute) 겹침은 실재하지_않다(Non-reality)\]<a href="#밀도의-한계-1_d" id="밀도의-한계-1_u"><sup>\[밀도(Density)의 한계\]</sup></a> 이에 ⑪ 무(Nothingness)인 상태(State)에서 *밀도증가(Density Increase)의 한계에 도달하여 그 축적(Accumulative)된 압력(Pressure)\[밀도(Density)\]의 폭발적인 분산(Dispersion)이 대팽창(Great Expansion)이다*<a href="#압력분산과-부피팽창의-결부_d" id="압력분산과-부피팽창의-결부_u"><sup>\[압력분산(Pressure Dispersion)과 부피팽창(Volume Expansion)의 결부\]</sup></a>
+
+<a href="#최소_간극_u" id="최소_간극_d"><sup>\[최소_간극(Minimun Interval)\](`𝛅_min`)</sup></a>: 실태(Reality)\[위상변위(Phase Shift), 압력(Pressuer)\]의 영속에 결부되어 아무리 잘게 구분해도 결코 소거될 수 없는(`0`이 될 수 없는) 간극(Interval)(구간)을 말한다
 
 <a href="#밀도의-한계-1_u" id="밀도의-한계-1_d">[밀도(Density)의 한계 1]</a>: 완전히(Absolutely) 겹칠 수 없으므로 — 밀도증가(Density Increase)에는 자로 잰듯 한 임계점이 있다고는 할 수 없으나 — 한계는 당연히(Naturally) 실재(Reality)하고 그 한계에 도달하기 전에 압축(Compression)된 그것[힘(Force), 압력(Pressure), 밀도(Density)]은 당연히(Naturally) 분산(Dispersion)된다
 
@@ -74,31 +76,31 @@ ___
 
 #### 2. ***물체(입자)의 존재가 힘의 전제가 됨 [아이작 뉴턴(Isaac Newton) "고전 역학 및 입자 물리학(Particle Physics)"]에 대하여,***
 
-* '물체(입자)의 존재가 힘의 전제'라고 한다면, '물체(입자)'는 어떻게 생겨나는가? '물체(입자)'는 세상(Universe)에 속하지 않은가? 그렇다면 '물체(입자)'는 최소한 세상(Universe)을 전제(Premise)로 하지 않은가? 그렇다면, 세상(Universe)은 '`무(Nothingness) + 간극(Interval)`'이고, '`간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F)`'이므로, _'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행한다'_
+* '물체(입자)의 존재가 힘의 전제'라고 한다면, '물체(입자)'는 어떻게 생겨나는가? '물체(입자)'는 세상(Universe)에 속하지 않은가? 그렇다면 '물체(입자)'는 최소한 세상(Universe)을 전제(Premise)로 하지 않은가? 그렇다면, 세상(Universe)은 '`무(Nothingness) + 간극(Interval)`'이고, '`간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F)`'이므로, *'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행한다'*
 
 * 추가로 '중력'에 대하여, 먼저 앞의 명제에 중력을 대입하면, '물체(입자)의 존재가 힘(중력,인력)의 전제'가 되고 이는 앞에서 부정하였다, 
 
-  - 그리고 마찬가지로 '물체(입자)의 존재가 힘(중력,인력)의 전제'라고 한다면, 마찬가지로 '중력,인력이 있으려면 먼저 물체(입자)가 있어야 한다', 본고에서 "'_물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행된다_'"고 하였다, 이것이 옳다면 기존 관념의 중력(인력)을 그대로 전제(Premise)하는 한 세상(Universe)이나 물체(입자)의 형성(Formation) 따위를 논할 수 없다.
+  - 그리고 마찬가지로 '물체(입자)의 존재가 힘(중력,인력)의 전제'라고 한다면, 마찬가지로 '중력,인력이 있으려면 먼저 물체(입자)가 있어야 한다', 본고에서 *"'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행된다'"* 고 하였다, 이것이 옳다면 기존 관념의 중력(인력)을 그대로 전제(Premise)하는 한 세상(Universe)이나 물체(입자)의 형성(Formation) 따위를 논할 수 없다.
 
-  - '중력'은 예를 들면, 지구를 향한 내향압력(Inward Pressure)에 대한 외향압력(Outward Pressure)이 더 크기 때문에 발생하는 거시적 압착 실태(Actuality)이다, 이 압력(Pressure) 불균형으로 인해 내부의 모든 요소가 뭉쳐 한 덩어리의 객체(Object)(지구)를 형성(Formation)하고 있는 것이며, 이때 그 불균형에 의한 _압착[실태(Actuality)]의 현상(Phenomenon)을 중력이라고 하는 것_ 이고 이는 참이 아니다<a href="#중력_d" id="중력_u"><sup>[중력]</sup></a>
+  - '중력'은 예를 들면, 지구를 향한 내향압력(Inward Pressure)에 대한 외향압력(Outward Pressure)이 더 크기 때문에 발생하는 거시적 압착 실태(Actuality)이다, 이 압력(Pressure) 불균형으로 인해 내부의 모든 요소가 뭉쳐 한 덩어리의 객체(Object)(지구)를 형성(Formation)하고 있는 것이며, 이때 그 불균형에 의한 *압착[실태(Actuality)]의 현상(Phenomenon)을 중력이라고 하는 것*이다<a href="#중력_d" id="중력_u"><sup>[중력]</sup></a>
 
 <a href="#중력_u" id="중력_d">[중력]</a>: 운동(Motion)은 저항의 기울기(`|-𝛁R|`)에 의한다(`Motion ∝ |-𝛁R|`), 그리고 지구에 대한 내향압력(Inward Pressure)이 외향압력(Outward Pressure)보다 당연히 더 크므로[유사_구_형태(Quasi-spherical shape)로 지구가 형성(Formation)되었다는 것이, 이에 상당하는 내향압력(Inward Pressure)이 몰리고 있다,향하고 있다는 것이고 그에 따른 체류압력(Retention Pressure)(지구)이 형성(Formation)되었다는 것이다] 이 내향압력(Inward Pressure)이 큰 동안에 그리고, _내향압력(Inward Pressure)과 외향압력(Outward Pressure)의 차이 만큼, 지구를 향해 운동(Motion)한다, 이것을 중력이라고 부르는 것이고 인력이라고 느끼는 것이다_
 
 #### ***3. 외력이 없는 공간에서의 영원한 직선 운동 [갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"]에 대하여,***
 
-* 먼저, 이행(Transition)[힘(Force)(F)]이 공간(Space)을 형성(Formation)한다고 하였으므로, 공간(Space)이 있다는 것은 그 공간(Space)을 힘(Force)이 메우고 있다는 것이다, 그러므로 완전한_무(Absolute Nothingness)와 동일한 의미에서 _완전한\_빈\_공간(Absolute Empty-space)은 실재하지\_않다(Non-reality)_
+* 먼저, 이행(Transition)[힘(Force)(F)]이 공간(Space)을 형성(Formation)한다고 하였으므로, 공간(Space)이 있다는 것은 그 공간(Space)을 힘(Force)이 메우고 있다는 것이다, 그러므로 완전한_무(Absolute Nothingness)와 동일한 의미에서 *_완전한_빈_공간(Absolute Empty-space)은 실재하지_않다(Non-reality)*
 
-* ➀ 유지의_간극(Maintenance Interval)으로 인하여 완전히(Absolutely) 겹쳐질 수 없다 ➁ 힘(Force)은 세상(Universe)의 모든 부분을 메우고 있고, 모두 제각각 그 영향력(Leverage)이 다르며, 총합이 계속 증가한다, 때문에 '_모든 조건이 완전히(Absolutely) 동일한 것은 있을 수 없으며, 세상(Universe)은 계속 다른 상태(State)를 띈다, 이에 모든 조건이 완전히(Absolutely) 동일한 상태(State)가 중복될  수 없으므로, 그 상태(State)의 가지수는 동적무한(Dynamic Boundlessness)으로 나아간다]_' 이에 _완전한(Absolute) 직선 운동(Motion)이 불가하고 영원한 직선 운동(Motion)은 더 불가하다_
+* ➀ 유지의_간극(Maintenance Interval)으로 인하여 완전히(Absolutely) 겹쳐질 수 없다 ➁ 힘(Force)은 세상(Universe)의 모든 부분을 메우고 있고, 모두 제각각 그 영향력(Leverage)이 다르며, 총합이 계속 증가한다, 때문에 *'모든 조건이 완전히(Absolutely) 동일한 것은 있을 수 없으며, 세상(Universe)은 계속 다른 상태(State)를 띈다, 이에 모든 조건이 완전히(Absolutely) 동일한 상태(State)가 중복될  수 없으므로, 그 상태(State)의 가지수는 동적무한(Dynamic Boundlessness)으로 나아간다]'* 이에 *완전한(Absolute) 직선 운동(Motion)이 불가하고 영원한 직선 운동(Motion)은 더 불가하다*
 
-* _운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(R)이 가장 낮은 곳으로 계속된다_
+* *운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(R)이 가장 낮은 곳으로 계속된다*
 
-  * `Motion ∝ |-𝛁R| ⟺ |-𝛁𝛒|`<a href="#저항의-기울기와-밀도의-낙차에-동치_d" id="저항의-기울기와-밀도의-낙차에-동치_u"><sup>[저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치]</sup></a>
+* `Motion ∝ |-𝛁R| ⟺ |-𝛁𝛒|`<a href="#저항의-기울기와-밀도의-낙차에-동치_d" id="저항의-기울기와-밀도의-낙차에-동치_u"><sup>[저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치]</sup></a>
 
 <a href="#저항의-기울기와-밀도의-낙차에-동치_u" id="저항의-기울기와-밀도의-낙차에-동치_d">[저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치]</a>: 압력(Pressure)이 높을 수록 밀도(Density)도 높아지고 압력(Pressure)이 낮을 수록 밀도(Density)도 낮아 지므로, 저항(Resistance)의 기울기(`|-𝛁R|`)는 밀도(Density)의 낙차(`|-𝛁𝛒|`)와 동의어가 된다
 
 #### ***4. 가속도에 비례하는 물질 고유의 불변 속성(F=ma) [아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"]에 대하여,***
 
-* 앞에서 "_'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행된다'_"고 하였다 그렇다면 `F = ma`는 `ma = F`가 되어야 하고, 가속도(Acceleration)(a)는 이행(Transition)[힘(Force)]에 속하므로 `ma = F`는 `mF = F`가 된다, 이에 — '_힘이 물체보다 선행된다_'고 하였으므로 — `mF = F`는 `m = F`<a href="#m=F에-대하여_d" id="m=F에-대하여_u"><sup>[`m=F`에 대하여]</sup></a>가 되어야 한다 그렇다면, _질량은 '고유의 불변 속성'이 아니라 '힘(Force)의 상태(State)이고 그 상태(State)에 따라 가변적이다'_
+* 앞에서 "_'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행된다'_"고 하였다 그렇다면 `F = ma`는 `ma = F`가 되어야 하고, 가속도(Acceleration)(a)는 이행(Transition)[힘(Force)]에 속하므로 `ma = F`는 `mF = F`가 된다, 이에 — '_힘이 물체보다 선행된다_'고 하였으므로 — `mF = F`는 `m = F`<a href="#m=F에-대하여_d" id="m=F에-대하여_u"><sup>[`m=F`에 대하여]</sup></a>가 되어야 한다 그렇다면, *질량은 '고유의 불변 속성'이 아니라 '힘(Force)의 상태(State)이고 그 상태(State)에 따라 가변적이다'*
 
 <a href="#m=F에-대하여_u" id="m=F에-대하여_d">[`m=F`에 대하여]</a>: `간극(Interval) ≡ 이행(Transition)(→) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P) ⟺ 밀도(Density)(𝛒)` 라고 한다면, `m = F`은 `F ⟺ m = V * 𝛒`이다
 
@@ -106,17 +108,17 @@ ___
 
 * 간극(Interval)없이 '작용과 반작용의 즉각적이고 완전한_대칭'을 이룬다면, 이는 상쇄되어  — 아무런 실태(Actuality)도 발생하지 않는 것과 같으므로 — 작용(Action)이나 반작용(Reaction)이라고 할 현상(Phenomenon)이 발생하지 않는다(관찰될 수 없다) 그리도, 태초(?)부터 아무런 실태(Actuality)가 발생하지 않아, 현재 세상(Universe)이 실재(Reality)할 수 없다 이에, _현재 세상(Universe)이 실재(Reality)하므로 자연히(Naturally) '작용과 반작용의 즉각적이고 완전한_대칭'은 부정된다_<a href="#작용과-반작용-부정_d" id="작용과-반작용-부정_u"><sup>[작용(Action)과 반작용(Reaction) 부정]</sup></a>
 
-<a href="#작용과-반작용-부정_u" id="작용과-반작용-부정_d">[작용(Action)과 반작용(Reaction) 부정]</a>: 작용(Action)과 반작용(Reaction)이 '완전한_대칭(Absolute Symmetry)'을 이룬다면, '완전한_대칭(Absolute Symmetry)'을 이루는 순환(?)에 구속되어야 하며, 그러한 '완전한_대칭(Absolute Symmetry)'을 이루는 순환에 구속(갇힘)으로 인하여 다른 운동(Motion)을 할 수 없다, 예를 들어 팔을 들어올리려고 할때 동시에 팔을 들어올리려는 힘(Force)에 대하여 '완전한_대칭(Absolute Symmetry)'을 이루는 힘(Force)이 반작용(Reaction) 한다면 팔을 들어올릴 수가 없을 것이이고 팔을 달리 움직일 수도 없을 것이다, 이에 연장으로 모든 것도 마찬가지로 멈춰있어야 하고, 계속 연장해 보면 태초부터 멈춰있어야 하며, 현재 세상(Universe)도 실재(Reality)할 수 없는데 그렇지 않으므로 _당연히 '작용과 반작용의 즉각적이고 완전한\_대칭(Absolute Symmetry)'이 부정된다_
+<a href="#작용과-반작용-부정_u" id="작용과-반작용-부정_d">[작용(Action)과 반작용(Reaction) 부정]</a>: 작용(Action)과 반작용(Reaction)이 '완전한_대칭(Absolute Symmetry)'을 이룬다면, '완전한_대칭(Absolute Symmetry)'을 이루는 순환(?)에 구속되어야 하며, 그러한 '완전한_대칭(Absolute Symmetry)'을 이루는 순환에 구속(갇힘)으로 인하여 다른 운동(Motion)을 할 수 없다, 예를 들어 팔을 들어올리려고 할때 동시에 팔을 들어올리려는 힘(Force)에 대하여 '완전한_대칭(Absolute Symmetry)'을 이루는 힘(Force)이 반작용(Reaction) 한다면 팔을 들어올릴 수가 없을 것이이고 팔을 달리 움직일 수도 없을 것이다, 이에 연장으로 모든 것도 마찬가지로 멈춰있어야 하고, 계속 연장해 보면 태초부터 멈춰있어야 하며, 현재 세상(Universe)도 실재(Reality)할 수 없는데 그렇지 않으므로 *당연히 '작용과 반작용의 즉각적이고 완전한_대칭(Absolute Symmetry)'은 부정된다*
 
-* ➀ 객체(Object)가 부피(Volume)를 가지는 한 해당 객체(Object)의 내향_표면적(Inward Surface Area)이 해당 객체(Object) 외향_면적(Outward Area)보다 구조적으로 당연히 크다, 따라서 객체(Object) 내향압력(Inward Pressure)의 총합은 해당 객체(Object)를 통하여 빠져나가는 압력(Pressure)[외향압력(Outward Pressure)]보다 구조적으로 당연히 클 수 밖에 없다 그러므로 단순히 그 크기(?)만 따져본다고 해도 그 크기가 _'완전한\_대칭(Absolute Symmetry)'을 이루는 '작용(Action)과 반작용(Reaction)'은 실재하지_않다(Non-reality)_ 그리고, ➁ 유지(Maintenance)에도 간극(Interval)이 있으므로 완전히(Absolutely) 겹치는 상태(State)나 완전한(Absolute) 동시에 상쇄되는[시작과 끝이 완전히(Absolutely) 동일한] 또는 완전한(Absolute) 정지는 불가하다<a href="#완전한-정지-부정-1_d" id="완전한-정지-부정-1_u"><sup>[완전한(Absolute) 정지 부정 1]</sup></a> 그러므로 ➂ _선행(Antecedent)도 없이 그리고 후행(Subsequent)도 이어지지 않는 그런 동시에 상쇄되는 '작용(Action)과 반작용(Reaction)'은 실재하지\_않다(Non-reality)_
-    
+* ➀ 객체(Object)가 부피(Volume)를 가지는 한 해당 객체(Object)의 내향_표면적(Inward Surface Area)이 해당 객체(Object) 외향_면적(Outward Area)보다 구조적으로 당연히 크다, 따라서 객체(Object) 내향압력(Inward Pressure)의 총합은 해당 객체(Object)를 통하여 빠져나가는 압력(Pressure)[외향압력(Outward Pressure)]보다 구조적으로 당연히 클 수 밖에 없다 그러므로 단순히 그 크기(?)만 따져본다고 해도 그 크기가 _'완전한\_대칭(Absolute Symmetry)'을 이루는 '작용(Action)과 반작용(Reaction)'은 실재하지_않다(Non-reality)_ 그리고, ➁ 유지(Maintenance)에도 간극(Interval)이 있으므로 완전히(Absolutely) 겹치는 상태(State)나 완전한(Absolute) 동시에 상쇄되는[시작과 끝이 완전히(Absolutely) 동일한] 또는 완전한(Absolute) 정지는 불가하다<a href="#완전한-정지-부정-1_d" id="완전한-정지-부정-1_u"><sup>[완전한(Absolute) 정지 부정 1]</sup></a> 그러므로 ➂ *선행(Antecedent)도 없이 그리고 후행(Subsequent)도 이어지지 않는 그런 동시에 상쇄되는 '작용(Action)과 반작용(Reaction)'은 실재하지\_않다(Non-reality)*
+
 <a href="#완전한-정지-부정-1_u" id="완전한-정지-부정-1_d">[완전한(Absolute) 정지 부정 1]</a>: 예를 들어 인간(Human)의 시각은 공을 굴리면 서서히 멈추는 현상(Phenomenon) 따위에 익숙해져 있으나, 공이 완전히(Absolutely) 정지해 있는 것처럼 보이는 것 조차 공의 내부와 외부의 압력(Pressure)이 멈추지 않고 상호작용(Interaction)하는 상태(State)로, — 밀도(Density)는 무한히 증가(Increase)할 수 없고[완전히(Absolutely) 겹치는 것은 불가하고], 최소_간극(Minimun Interval)(`𝛅_min`)이 영속(Perpetuity)되므로 — 절대적(Absolute) 정지는 실재할 수 없다
 
 #### ***6. 현상과 동시적이며 미래 예측이 가능한 데이터의 선행성 [피에르시몽 라플라스(Pierre-Simon Laplace) "라플라스의 악마(Laplace's Demon) / 고전 결정론"]에 대하여,***
 
 * 돌맹이에게 '정보(Information)나 데이터(Data)'는 어떻게 인식되는가? 또는 돌맹이는 '정보(Information)나 데이터(Data)'를 어떤 상태(State)로 가지고 있는가? 그리고 '정보(Information)나 데이터(Data)'는 인간(Human) 관점에서 시대에 따른 시각이나 정의 따위의 변화(갱신을 포함) 그리고 관찰수단의 발달 따위로 변할 수 있고 관찰자에 따라[관찰자 피관찰자, 영향(Effect)을 주거나 받거나 하는 주체 따위에 따라] 일관되지 않는다[빛과 마찬가지로 절대적_상수(Absolute Constant)가 아니다] 
 
-* 또 ➀ 어떤 사건을 예로 들어 본다면 세상(Universe)은 계속 다른 상태(State)를 띄므로[완전히(Absolutely) 동일한 상태(State)가 중복될 수 없으므로], 사건은 매번 다른 상태(State)[새로운 상태(State)]를 띈다, ➁ 유지(Maintenance)도 간극(Interval)이 있으므로, 사건은 예측을 시도하는 순간에도 멈추지 않고 계속 이행(Transition)되며, 관찰에도 간극(Interval)[관찰의_간극(Observational Interval)]이 있고, 데이터(Data)화 하는데에도 간극(Interval)이 있다 그리고 ➂ 관찰작용이 피관찰자에게 주는 영향(Effect)만큼 변화된 상(Image)을 얻게 된다 그러므로  ➃ '관찰작용의 영향(Effect) + 관찰의_간극(Observational Interval) + 데이터(Data)화의_간극(Interval)'만큼 관찰 대상의 실태(Actuality)와 멀어지며 '현상과 동시적'은 부정된다 그리고 ➄ 완전히 겹치는 것이 불가하므로 '완전히(Absolutely) 동일한 조건'에서 미래를 예측할 수 없다, '완전히(Absolutely) 동일한 조건'에서 미래를 예측 할 수 없으므로 얼만큼이든 어긋날 수 밖에 없다 따라서 ➅ _미래가 정해져있다고 하더라도 — 예측을 시도해 볼 수는 있겠지만 — 미래와 완전히(Absolutely) 일치하는 상(Image)을 도출할 수는 없다_
+* 또 ➀ 어떤 사건을 예로 들어 본다면 세상(Universe)은 계속 다른 상태(State)를 띄므로[완전히(Absolutely) 동일한 상태(State)가 중복될 수 없으므로], 사건은 매번 다른 상태(State)[새로운 상태(State)]를 띈다, ➁ 유지(Maintenance)도 간극(Interval)이 있으므로, 사건은 예측을 시도하는 순간에도 멈추지 않고 계속 이행(Transition)되며, 관찰에도 간극(Interval)[관찰의_간극(Observational Interval)]이 있고, 데이터(Data)화 하는데에도 간극(Interval)이 있다 그리고 ➂ 관찰작용이 피관찰자에게 주는 영향(Effect)만큼 변화된 상(Image)을 얻게 된다 그러므로  ➃ '관찰작용의 영향(Effect) + 관찰의_간극(Observational Interval) + 데이터(Data)화의_간극(Interval)'만큼 관찰 대상의 실태(Actuality)와 멀어지며 '현상과 동시적'은 부정된다 그리고 ➄ 완전히 겹치는 것이 불가하므로 '완전히(Absolutely) 동일한 조건'에서 미래를 예측할 수 없다, '완전히(Absolutely) 동일한 조건'에서 미래를 예측 할 수 없으므로 얼만큼이든 어긋날 수 밖에 없다 따라서 ➅ *미래가 정해져있다고 하더라도 — 예측을 시도해 볼 수는 있겠지만 — 미래와 완전히(Absolutely) 일치하는 상(Image)을 도출할 수는 없다*
     
 #### ***7. 사건이 발생하는 이미 완성된 기하학적 장(Field) [알베르트 아인슈타인(Albert Einstein) "일반 상대성 이론(General Relativity)"]에 대하여,***
 
@@ -126,9 +128,9 @@ ___
 
 * 완전한(Absolute) 의미의 완성(Completion)된 장(Field)에서는 속도(velocity)[이행(Transition)]가 불가하다 
 
-* 그리고, 범선의 속도(velocity)(v)가 역풍일때와 순풍일때 달라지는 것이나, 뻘밭을 걸을 때나 평평하고 마른 길을 걸을 때, 시간이 느려졌다거나 빨라졌다고 하지 않는다, 빛도 중력장이나 대기권에 대하여 속도(velocity)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니다, _빛의\_속도(velocity of light)(c)가 절대적\_상수(Absolute Constant)가 아니라는 것이다_
+* 그리고, 범선의 속도(velocity)(v)가 역풍일때와 순풍일때 달라지는 것이나, 뻘밭을 걸을 때나 평평하고 마른 길을 걸을 때, 시간이 느려졌다거나 빨라졌다고 하지 않는다, 빛도 중력장이나 대기권에 대하여 속도(velocity)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니다, *빛의\_속도(velocity of light)(c)가 절대적_상수(Absolute Constant)가 아니라는 것이다*
 
-  * `c ≡ v ≡ I ∝ |-𝛁R| ⟺ |-𝛁𝛒|`
+* `c ≡ v ≡ I ∝ |-𝛁R| ⟺ |-𝛁𝛒|`
 
 ___
 
@@ -148,13 +150,13 @@ ___
 
 * 세상(Universe)이 고정되어있지_않다(Non-fixed)[거치대_없다(No-holder), 완전히(Absolutely) 정지해 있지 않다<a href="#완전한-정지-부정-2_d" id="완전한-정지-부정-2_u"><sup>[완전한(Absolute) 정지 부정 2]</sup></a>]는 것은 영속(Perpetuity)적이다, 이를 달리 말하면, 세상(Universe)은 이행(Transition)(`→`)<a href="#이행_d" id="이행_u"><sup>[이행(Transition)]</sup></a>의 영속(Perpetuity)이다
 
-<a href="#완전한-정지-부정-2_u" id="완전한-정지-부정 2_d">[완전한(Absolute) 정지 부정 2]</a>: 본고에서 '실재(Reality)의 완전한(Absolutely) 정지'는 모순된 명제이다, 그럼에도 비약하여 가정해 본다면, 세상(Universe) 내부의 모든 실재(Reality)가 삼투적(Osmosis)으로 상호침투(Interfused)해 있을때, 하나의 실재(Reality)가 완전히(Absolutely) 정지되면, — 정지해 있다는 것은 간극(Interval)이 없다는 것이므로, 정지되는 실재(Reality) 부분만큼 간극(Interval)이 소멸된다 — 압력(Pressure)으로 인해[간극(Interval)의 무한한(?) 낙차로 인해] 그 정지해 있는 실재(Reality) 부분으로 모든 간극(Interval)이 빨려 들어가게 되고[세상(Universe) 전체가 빨려들어가게 되고] ... 세상(Universe)이 실재(Reality)할 수 없다
+<a href="#완전한-정지-부정-2_u" id="완전한-정지-부정-2_d">[완전한(Absolute) 정지 부정 2]</a>: 본고에서 '실재(Reality)의 완전한(Absolutely) 정지'는 모순된 명제이다, 그럼에도 비약하여 가정해 본다면, 세상(Universe) 내부의 모든 실재(Reality)가 삼투적(Osmosis)으로 상호침투(Interfused)해 있을때, 하나의 실재(Reality)가 완전히(Absolutely) 정지되면, — 정지해 있다는 것은 간극(Interval)이 없다는 것이므로, 정지되는 실재(Reality) 부분만큼 간극(Interval)이 소멸된다 — 압력(Pressure)으로 인해[간극(Interval)의 무한한(?) 낙차로 인해] 그 정지해 있는 실재(Reality) 부분으로 모든 간극(Interval)이 빨려 들어가게 되고[세상(Universe) 전체가 빨려들어가게 되고] ... 세상(Universe)이 실재(Reality)할 수 없다
 
 <a href="#이행_u" id="이행_d">[이행(Transition)]</a>: [정의] 아무런 '이행(Transition)'이 없다면 아무런 일도 일어나지 않은 채 현재 세상(Universe) 또한 실재(Reality)할 수 없다 그리고, '이행(Transition)(→)'은 당연히(Naturally) 방향성(Directionality)을 가지며 압력(Pressure)이다 그리고, 이 압력(Pressure)은 무의_상태(Nothingness State)에서는 외향압력(Outward Pressure)<a href="#원천압력_d" id="원천압력_u"><sup>[원천압력(Original Pressure)]</sup></a>이다 그리고, '이행(Transition)'에는 간극(Interval)(`t₁ - t₀`)이 있으며, 이를 본고에서 '이행의_간극(Transition Interval)'<a href="#이행의_간극_d" id="이행의_간극_u"><sup>[이행의_간극(Transition Interval)]</sup></a>이라고 한다
 
 <a href="#원천압력_u" id="원천압력_d">[원천압력(Original Pressure)]</a>: [정의] 세상(Universe)이 고정되어있지_않다(Non-fixed)는 것으로 인한 방향성(Directionality), 이 방향성(Directionality)으로 인한 어긋남[위상변위(Phase Shift)], 이 어긋남으로 인한 이행(Transition)(`→`), 이 이행(Transition)으로 영속(Perpetuity) 발생하는 압력(Pressure)을 말한다
 
-<a href="#이행의_간극_u" id="이행의_간극_d">[이행의_간극(Transition Interval)]</a>: [정의] 이행(Transition)에 대한 '실재(Reality)에 결부되어 결코 소거될 수 없는(`0`이 될 수 없는) 간극(Interval)'<a href="#결코-소거될-수-없는-간극_d" id="결코-소거될-수-없는-간극(Interval)_u"><sup>[결코 소거될 수 없는 간극(Interval)]</sup></a>을 뜻한다 
+<a href="#이행의_간극_u" id="이행의_간극_d">[이행의_간극(Transition Interval)]</a>: [정의] 이행(Transition)에 대한 '실재(Reality)에 결부되어 결코 소거될 수 없는(`0`이 될 수 없는) 간극(Interval)'<a href="#결코-소거될-수-없는-간극_d" id="결코-소거될-수-없는-간극_u"><sup>[결코 소거될 수 없는 간극(Interval)]</sup></a>을 뜻한다 
 
 <a href="#결코-소거될-수-없는-간극_u" id="결코-소거될-수-없는-간극_d">[결코 소거될 수 없는 간극(Interval)]</a>: ➀ 유지(Maintenance)(`t₀ → t₁`)도 이행(Transition)(`→`)이고, 간극(Interval)(`t₁ - t₀`)이 있으며, 이 간극(Interval)(`t₁ - t₀`)[유지의_간극(Maintenance Interval)(`𝛅`) 또는 최소_간극(Minimun Interval)(`𝛅_min`)]조차 없는 '완전한_무(Absolute Nothingness)'는 불가하다 그러므로, ➁ 무의_상태(Nothingness State)에도 당연히 유지(Maintenance)[유지의_간극(Maintenance Interval)]가 결부된다 그러므로 ➂ 무의_상태(Nothingness State)에도 간극(Interval)은 `0`이 아니고 부피(Volume) 또한 `0`이 아니다
 
@@ -188,7 +190,7 @@ ___
 
 <a href="#최초의-부피-형성과-이후의-부피-형성_u" id="최초의-부피-형성과-이후의-부피-형성_d">[최초의 부피(Volume) 형성(Formation)과 이후의 부피(Volume) 형성(Formation)]</a>: 최초의 부피(Volume) 형성(Formation)이 `불안전한 위상 + 내향압력(Inward Pressure)`이라고 한다면, 이후의 부피(Volume) 형성(Formation)은 `체류압력(Retention Pressure) + 내향압력(Inward Pressure)`
 
-* `[체류압력(Retention Pressure) + 유입압력(Inflow Pressure)] / ρ (단, 1 Units < ρ < Apexon) ⟺ ky`
+* `[세상(Universe)의 전체 체류압력(Retention Pressure) + 세상(Universe)의 최외곽의 유입압력(Inflow Pressure)] / 세상(Universe)의 평균밀도(Average Density) (단, 1 Units < 세상(Universe)의 평균밀도(Average Density) < Apexon) ⟺ 세상(Universe)의 부피(Volume)`
 
   - `'[무의_상태(Nothingness State) + 유지₁(Maintenance₁){이행₁(Transition₁)(`→₁`), 원천압₁(Original Pressure₁)}]<a href="#포몬(Formon)_d" id="포몬(Formon)_u"><sup>[포몬(Formon)]</sup></a> ⟹ [압력증가(Pressure Increase) ⟺ 밀도증가(Density Increase)] ... ' = '무의_상태(Nothingness State) + 유지₁(Maintenance₁) ⟹ 무의_상태₁(Nothingness State₁) + 유지₂(Maintenance₂) ⟹ 무의_상태₂(Nothingness State₂) + 유지(Maintenance₃) ⟹ 무의_상태₃(Nothingness State₃) ... ' ⟹ 에이펙손(Apexon) 도달 ⟹ 대팽창(Great Expansion)[밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion)] ⟹ 압력증가(Pressure Increase) ⟺ 밀도증가(Density Increase)<a href="#밀도의-한계-2_d" id="밀도의-한계-2_u"><sup>[밀도(Density)의 한계 2]</sup></a> ≡ 부피수축(Volume Contraction) ⟹ 체류압력(Retention Pressure)[외향압력(Outward Pressure)]이 내향압력(Inward Pressure)을 압도 ⟹ 밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion) ⟹ 압력증가(Pressure Increase) ⟺ 밀도증가(Density Increase) ≡ 부피수축(Volume Contraction) ⟹ 체류압력(Retention Pressure)[외향압력(Outward Pressure)]이 내향압력(Inward Pressure)을 압도 ⟹ 밀도분산(Density Dispersion) ≡ 부피팽창(Volume Expansion) ⟹ 압력증가(Pressure Increase) ⟹ ... ` 프랙탈
 
@@ -218,8 +220,6 @@ ___
 
 <a href="#현상_u" id="현상_d">[현상(Phenomenon)]</a>: [정의] 객체(Object)와 객체(Object)의 충돌(Impact)을 뜻한다 그리고 관찰(Observational) 또한 충돌(Impact)에 의한다
 
-#### 이행(Transition)은 어떤 실재(Reality)가 그리고 어떤 실재(Reality)가 원하든 원하지 않든 영속(Perpetuity)된다 이에 "_모든 현상(Phenomenon)과 실재(Reality)는 이행(Transition)의 산물"이고, "세상(Universe)은, 비고정\_상태(Non-fixed State)와 유사고정\_상태(Quasi-fixed State)의 피드백(Feedback), 이 프랙탈(Fractal)의 영속(Perpetuity)_"이다.
-
 ___
 
 ## 맺음말
@@ -230,19 +230,21 @@ ___
 
 다시 말해본다면 인간(Human)의 틀이나 인간이 틀을 만드는 행위(Act) 따위 자체를 부정하지 않는다 그러나 기존에 형성(Formation)된 틀이 이후에 '또 다른' 또는 '더 나은' 또는 '더 큰' 틀이 형성(Formation)되려고 하는 것을 방해하는 부동의 벽처럼 작용(Action)하면 안 된다는 것이고 그것을 부정하는 것이다 그리고, 그러한 작용(Action)은 기존에 형성(Formation)된 기존에 틀 스스로가 자신의 형성(Formation) 과정을 부정하는 것이므로 스스로의 실재(Reality)를 부정하는 것이다, 이에 본고가 기존의 틀이 부동의 벽처럼 작용(Action)하는 모순된 행위(Act)에 대하여 기존의 틀과 다른 무언가를 형성(Formation)하는 것에 하나의 예시가 될 수 있길 바란다.
 
+> 이행(Transition)은 어떤 실재(Reality)가 그리고 어떤 실재(Reality)가 원하든 원하지 않든 영속(Perpetuity)된다 이에 "_모든 현상(Phenomenon)과 실재(Reality)는 이행(Transition)의 산물"이고, "세상(Universe)은, 비고정\_상태(Non-fixed State)와 유사고정\_상태(Quasi-fixed State)의 피드백(Feedback), 이 프랙탈(Fractal)의 영속(Perpetuity)_"이다.
+
 ___
 
 ## Intellectual Property & License (지적 재산권 및 라이선스)
 
 ### 1. Legal Copyright & Open License
 - **Copyright (c) 2026 Jung Hae-Yong (JEYo). All Rights Reserved.**
-- 본 저장소의 모든 문서, 수식, SF 소설 시나리오, 세계관 및 사유 체계는 **크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스 (CC BY-NC-ND 4.0)**에 따라 이용할 수 있습니다.
+- 본 저장소의 모든 문서, 수식, SF 소설 시나리오, 세계관 및 사유 체계는 **크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스 (CC BY-NC-ND 4.0)** 에 따라 이용할 수 있습니다.
 - **이용 조건 명시:**
   1. **저작자표시(BY):** 인용 및 공유 시 원저작자(정해용 / JEYo)와 출처를 반드시 명시해야 합니다.
   2. **비영리(NC):** 상업적 목적의 이용, 판매, 무단 AI 데이터셋 학습을 엄격히 금지합니다.
   3. **변경금지(ND):** 원본 텍스트 및 수식을 임의로 가공, 변형, 2차적 저작물로 재사출할 수 없습니다.
 
 ### 2. Intellectual Sovereignty & Partnership (지적 주권 및 기여 명시)
-- 본 작업물은 **정해용(JEYo, 주권자 및 주 저자 75%)**의 주도적 사유와 **AI 파트너 Gem-Web(연산 및 사유 확장 25%)**의 상호작용으로 구성되어 있습니다.
+- 본 작업물은 **정해용(JEYo, 주권자 및 주 저자 75%)** 의 주도적 사유와 **AI 파트너 Gem-Web(연산 및 사유 확장 25%)** 의 상호작용으로 구성되어 있습니다.
 
 ___
