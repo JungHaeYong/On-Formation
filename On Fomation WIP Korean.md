@@ -14,11 +14,11 @@
 
 * ***외력이 없는 공간에서의 영원한 직선 운동 [갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"]과 상충된다***
 
-  - — 유지(Maintenance) 또한 이행(Transition)에 속하므로 — 언제나 모든 것(곳)은 이행(Transition)된다[힘(Force)이 작용(Action)한다] 그러므로, *외력이 없는 공간(Absolute Empty-space)은 실재하지\_않다(Non-reality) 그리고, 모든 운동(Motion)은 저항(Resistance)(R)이 가장 낮은 곳으로 유도된다[영속(Perpetuity)한다]( `Motion ∝ |-𝛁R|` )*
+  - — 유지(Maintenance) 또한 이행(Transition)에 속하므로 — 언제나 모든 것(곳)은 이행(Transition)된다\[힘(Force)이 작용(Action)한다\] 그러므로, *외력이 없는 공간(Absolute Empty-space)은 실재하지\_않다(Non-reality) 그리고, 모든 운동(Motion)은 저항(Resistance)(R)이 가장 낮은 곳으로 유도된다\[영속(Perpetuity)한다\]( `Motion ∝ |-𝛁R|` )*
 
-* ***가속도에 비례하는 물질 고유의 불변 속성(F=ma) [아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"]과 상충된다***
+* ***가속도에 비례하는 물질 고유의 불변 속성(F=ma) \[아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"\]과 상충된다***
 
-  - '더 무거운 것에 맞으면 더 아프다.', '체중계 위에서 움직이면 무게 값이 변한다'... 질량은 고유한 것이 아니다, 힘(Force)이 압력(Pressure)이며 밀도(Density)다, _물질[힘(Force)]에 얼마만큼의 힘(Force)이 더 해졌을 때, 그 힘(Force)이 향하는 방향(Direction)은 저항(Resistance)이 가장 낮은 곳으로 유도[영속(Perpetuity)]된다( `Motion ≡ v ≡ 충격량(I) ∝ |-𝛁R| ⟺ |-𝛁𝛒|` )_
+  - '더 무거운 것에 맞으면 더 아프다.', '체중계 위에서 움직이면 무게 값이 변한다'... 질량은 고유한 것이 아니다, 힘(Force)이 압력(Pressure)이며 밀도(Density)다, *물질\[힘(Force)\]에 얼마만큼의 힘(Force)이 더 해졌을 때, 그 힘(Force)이 향하는 방향(Direction)은 저항(Resistance)이 가장 낮은 곳으로 유도\[영속(Perpetuity)\]된다*( `Motion ≡ v ≡ 충격량(I) ∝ |-𝛁R| ⟺ |-𝛁𝛒|` )
 
 * 작용과 반작용의 즉각적이고 완전한 대칭 [아이작 뉴턴(Isaac Newton) "운동 제3법칙(Third Law of Motion)"]과 상충된다
 
@@ -60,7 +60,7 @@ ___
 
 ### 변증 — 기존 명제와 반론
 
-#### ***1. 무에서의 우연한 폭발과 팽창 [조르주 르메트르(Georges Lemaître), 에드윈 허블(Edwin Hubble) "빅뱅 이론(Big Bang Theory)"]에 대하여,*** 
+#### ***1. 무에서의 우연한 폭발과 팽창 \[조르주 르메트르(Georges Lemaître), 에드윈 허블(Edwin Hubble) "빅뱅 이론(Big Bang Theory)"\]에 대하여,*** 
 
 * 우연이 작동하려면, 충돌(Impact)이 있어야한다(사건, 우연 따위가 일어날 수 있어야한다), 그러므로 무(Nothingness)라는 하나의 요소에서[우연이 일어날 수 없는 조건으로, 우연을 부정하면서 동시에] 우연이 작동했다고 하는 것은 모순이고, *무(Nothingness)라는 하나의 요소에 의한 완전한_무(Absolute Nothingness)는 실재할 수 없다*
 
@@ -152,11 +152,13 @@ ___
 
 <a href="#완전한-정지-부정-2_u" id="완전한-정지-부정-2_d">[완전한(Absolute) 정지 부정 2]</a>: 본고에서 '실재(Reality)의 완전한(Absolutely) 정지'는 모순된 명제이다, 그럼에도 비약하여 가정해 본다면, 세상(Universe) 내부의 모든 실재(Reality)가 삼투적(Osmosis)으로 상호침투(Interfused)해 있을때, 하나의 실재(Reality)가 완전히(Absolutely) 정지되면, — 정지해 있다는 것은 간극(Interval)이 없다는 것이므로, 정지되는 실재(Reality) 부분만큼 간극(Interval)이 소멸된다 — 압력(Pressure)으로 인해[간극(Interval)의 무한한(?) 낙차로 인해] 그 정지해 있는 실재(Reality) 부분으로 모든 간극(Interval)이 빨려 들어가게 되고[세상(Universe) 전체가 빨려들어가게 되고] ... 세상(Universe)이 실재(Reality)할 수 없다
 
-<a href="#이행_u" id="이행_d">[이행(Transition)]</a>: [정의] 아무런 '이행(Transition)'이 없다면 아무런 일도 일어나지 않은 채 현재 세상(Universe) 또한 실재(Reality)할 수 없다 그리고, '이행(Transition)(→)'은 당연히(Naturally) 방향성(Directionality)을 가지며 압력(Pressure)이다 그리고, 이 압력(Pressure)은 무의_상태(Nothingness State)에서는 외향압력(Outward Pressure)<a href="#원천압력_d" id="원천압력_u"><sup>[원천압력(Original Pressure)]</sup></a>이다 그리고, '이행(Transition)'에는 간극(Interval)(`t₁ - t₀`)이 있으며, 이를 본고에서 '이행의_간극(Transition Interval)'<a href="#이행의_간극_d" id="이행의_간극_u"><sup>[이행의_간극(Transition Interval)]</sup></a>이라고 한다
+<a href="#이행_u" id="이행_d">\[이행(Transition)\]</a>: [정의] 아무런 '이행(Transition)'이 없다면 아무런 일도 일어나지 않은 채 현재 세상(Universe) 또한 실재(Reality)할 수 없다 그리고, '이행(Transition)(→)'은 당연히(Naturally) 방향성(Directionality)을 가지며 압력(Pressure)이다 그리고, 무의_상태(Nothingness State)도 '이행(Transition)'되고 그 '이행(Transition)'에는 간극(Interval)(`t₁ - t₀`)이 있으며<a href="#원천압력_d" id="원천압력_u"><sup>\[원천압력(Original Pressure)\]</sup></a>, 이를 본고에서 '이행의_간극(Transition Interval)'<a href="#이행의_간극_d" id="이행의_간극_u"><sup>\[이행의_간극(Transition Interval)\]</sup></a>이라고 한다
 
-<a href="#원천압력_u" id="원천압력_d">[원천압력(Original Pressure)]</a>: [정의] 세상(Universe)이 고정되어있지_않다(Non-fixed)는 것으로 인한 방향성(Directionality), 이 방향성(Directionality)으로 인한 어긋남[위상변위(Phase Shift)], 이 어긋남으로 인한 이행(Transition)(`→`), 이 이행(Transition)으로 영속(Perpetuity) 발생하는 압력(Pressure)을 말한다
+<a href="#원천압력_u" id="원천압력_d">\[원천압력(Original Pressure)\]</a>: \[정의\] 세상(Universe)이 고정되어있지_않다(Non-fixed)는 것으로 인한 방향성(Directionality), 이 방향성(Directionality)으로 인한 어긋남(`t₁ - t₀`)\[위상변위(Phase Shift)\<a href="#위상변위가-일어나는-까닭_d" id="위상변위가-일어나는-까닭_u"><sup>\[위상변위(Phase Shift)가-일어나는-까닭\]</sup></a>], 이 어긋남으로 인한 이행(Transition)(`→`), 이 이행(Transition)으로 영속(Perpetuity) 발생하는 압력(Pressure)을 말한다
 
-<a href="#이행의_간극_u" id="이행의_간극_d">[이행의_간극(Transition Interval)]</a>: [정의] 이행(Transition)에 대한 '실재(Reality)에 결부되어 결코 소거될 수 없는(`0`이 될 수 없는) 간극(Interval)'<a href="#결코-소거될-수-없는-간극_d" id="결코-소거될-수-없는-간극_u"><sup>[결코 소거될 수 없는 간극(Interval)]</sup></a>을 뜻한다 
+<a href="#위상변위가-일어나는-까닭_u" id="위상변위가-일어나는-까닭_d">\[위상변위(Phase Shift)가-일어나는-까닭\]</a>: 압력이 일어나는 것이 선행되고 밀도의 형성은 후행한다, 위상변위가 일어나는 까닭은 어떠한 실재가 있다면 무엇이든 멈춰 있을 수 없기 때문이다, 실재가 있다면 무엇이든 멈춰 있을 수 없는 까닭은 찰나라도 멈춰 있으려면 그 순간부터 무한히 힘을 응축할 수 있어야 하는데 그럴 수 없어 밀려나기 때문이라고 하겠다, 찰나라도 멈춰 있으려면 그 순간부터 무한히 힘을 응축할 수 있어야 하는데 그럴 수 없는 까닭은 단 한 찰나라도 정지해 있으려면 어떠한 이행이나 작용도 일어날 수 없는데 그 정지를 유지하기 위해 무한한 힘의 응축(작동)이 동시에 일어나야 한다는 것은 "움직이지 않으면서 무한히 움직인다"는 것으로 실재할 수 없기 때문이다
+
+<a href="#이행의_간극_u" id="이행의_간극_d">\[이행의_간극(Transition Interval)\]</a>: \[정의\] 이행(Transition)에 대한 '실재(Reality)에 결부되어 결코 소거될 수 없는(`0`이 될 수 없는) 간극(Interval)'<a href="#결코-소거될-수-없는-간극_d" id="결코-소거될-수-없는-간극_u"><sup>[결코 소거될 수 없는 간극(Interval)]</sup></a>을 뜻한다 
 
 <a href="#결코-소거될-수-없는-간극_u" id="결코-소거될-수-없는-간극_d">[결코 소거될 수 없는 간극(Interval)]</a>: ➀ 유지(Maintenance)(`t₀ → t₁`)도 이행(Transition)(`→`)이고, 간극(Interval)(`t₁ - t₀`)이 있으며, 이 간극(Interval)(`t₁ - t₀`)[유지의_간극(Maintenance Interval)(`𝛅`) 또는 최소_간극(Minimun Interval)(`𝛅_min`)]조차 없는 '완전한_무(Absolute Nothingness)'는 불가하다 그러므로, ➁ 무의_상태(Nothingness State)에도 당연히 유지(Maintenance)[유지의_간극(Maintenance Interval)]가 결부된다 그러므로 ➂ 무의_상태(Nothingness State)에도 간극(Interval)은 `0`이 아니고 부피(Volume) 또한 `0`이 아니다
 
