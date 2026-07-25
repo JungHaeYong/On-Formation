@@ -178,7 +178,7 @@ ___
 
 <a href="#유사고정_상태_u" id="유사고정_상태_d">[유사_고정_상태(Quasi-fixed State)]</a>: [정의] ➀ 압력(Pressure)은 당연히(Naturally) 방향성(Directionality)이 있고 상호침투(Interfused)한다, ➁ 방향성(Directionality)의 압력(Pressure)들은 충돌(Impact)하며 유사_구_형태(Quasi-spherical shape)로 동적교착(Dynamic Grid-lock)<a href="#동적교착_d" id="동적교착_u"><sup>\[동적교착(Dynamic Grid-lock)\]</sup></a>된다 그리고, ➂ 그 동적교착(Dynamic Grid-lock)은 유사_구_형태(Quasi-spherical shape)의 내부와 외부에 대한 밀도(Density)의 낙차로 작용한다, ➃ 이 낙차는 그 유사_구_형태(Quasi-spherical shape)의 내부에서 외향에 대한 제약의 강도로 작용(Action)하고 이에 따라 유사_구_형태(Quasi-spherical shape) 내부에서 압력(Pressure)이 서로 부딧히며 중심으로 향하며 수렴되어 와류(Helical Swirl)를 형성한다, 이때 ➄ 그 유사_구_형태(Quasi-spherical shape)에 대한 내향압력(Inward Pressure)과 외향압력(Outward Pressure)이 동적평형(Dynamic Equilibrium)<a href="#동적평형_d" id="동적평형_u">\[동적평형(Dynamic Equilibrium)\]</a>을 이루어 유사_정지_상태(Quasi-static state)를 유지(Maintenance)하고 있는 상태(State)를 뜻한다, 내향압력(Inward Pressure)과 외향압력(Outward Pressure)이 동적평형(Dynamic Equilibrium)을 이루었다는 것이 유사_고정_상태(Quasi-fixed State)를 뜻한다
 
-<a href="#동적교착_u" id="동적교착_d">\[동적교착(Dynamic Grid-lock)\]</a>: \[정의\] 특정 부분을 내부와 외부라고 말할 때 지표가 되는 `^v^v`\[아치(Arch) 역아치(Inverse-Arch)\] 형태(Configuration)의 경계(Boundary)\[자연적_경계(Natural Boundary)\] 또는 그러한 밀도(Density)의 낙차를 뜻한다
+<a href="#동적교착_u" id="동적교착_d">\[동적교착(Dynamic Grid-lock)\]</a>: \[정의\] 특정 부분을 내부와 외부라고 말할 때 지표가 되는 `^v^v`\[아치(Arch) 역아치(Inverse-Arch)\] 형태(Configuration)의 경계(Boundary)\[동적경계(Dynamic Boundary)\] 또는 그러한 밀도(Density)의 낙차를 뜻한다
 
 <a href="#동적평형_u" id="동적평형_d">\[동적평형(Dynamic Equilibrium)\]</a>: \[정의\] 동적교착(Dynamic Grid-lock)으로 특정 부분을 내부와 외부라고 말할 때, 내향압력(Inward Pressure)은 그 내부의 밀도(Density)를 더이상 증가(Increase)시킬 수 없는 정도에서 그 내부는 훝어질 수 없는 정도까지의 상호침투(Interfused)(`^v^v`)가 유지(Maintenance)되는 것을 뜻한다
 
