@@ -147,16 +147,16 @@ ___
 <a href="#유지_u" id="유지_d">\[유지(Maintenance)\]</a>: \[정의\] 본고에서 '유지(Maintenance)'란 능동적 행위(Act)를 뜻하지 않는다, 실재(Reality)<a href="#압력_d" id="압력_u">\[압력(Pressure)\]</a>과 결부되어 결코 소거되지 않는(`0`이 될 수 없는) 최소_간극(Minimun Interval)(`𝛅_min`)으로 계속되는(이어지는) 상태를 뜻한다, 그리고 그 간극(Interval)을 본고에서 '유지의_간극(Maintenance Interval)(`𝛅`)'이라고 한다
 
 <a href="#압력_u" id="압력_d">\[압력(Pressure)\]</a>: \[정의\] 본고에서 말하는 '압력(Pressure)'은 기존 물리학의 공간(부피)이나 입자(질량)의 밀집도를 전제하는 밀도(Density) 개념에 종속되지 않으며, 오직 '방향성(Directionality)을 가진 1단위(1Unit) 힘(Force)의 단수 또는 복수'를 말한다. 예를 들어, 압력(Pressure)이 강하다는 것은 이러한 1단위(1Unit) 힘(Force)이 더 많이 중첩 및 축적(Accumulative)된 상태(State)를 뜻한다
+고정될 수 없다(완전한_정지 불가)
+* 세상(Universe)이 고정되어있지_않다(Non-fixed)\[거치대_없다(No-holder), 완전한(Absolute)_고정 불가, 완전한(Absolute)_정지 불가<a href="#완전한-정지-부정-2_d" id="완전한-정지-부정-2_u"><sup>\[완전한(Absolute) 정지 부정 2\]</sup></a>\]는 것은 영속(Perpetuity)적이다, 이를 달리 말하면, 세상(Universe)은 이행(Transition)(`→`)<a href="#이행_d" id="이행_u"><sup>\[이행(Transition)\]</sup></a>의 영속(Perpetuity)이다
 
-* 세상(Universe)이 고정되어있지_않다(Non-fixed)\[거치대_없다(No-holder), 완전히(Absolutely) 정지해 있지 않다<a href="#완전한-정지-부정-2_d" id="완전한-정지-부정-2_u"><sup>\[완전한(Absolute) 정지 부정 2\]</sup></a>\]는 것은 영속(Perpetuity)적이다, 이를 달리 말하면, 세상(Universe)은 이행(Transition)(`→`)<a href="#이행_d" id="이행_u"><sup>\[이행(Transition)\]</sup></a>의 영속(Perpetuity)이다
-
-<a href="#완전한-정지-부정-2_u" id="완전한-정지-부정-2_d">\[완전한(Absolute) 정지 부정 2\]</a>: 본고에서 '실재(Reality)의 완전한(Absolutely) 정지'는 모순된 명제이다, 그럼에도 비약하여 가정해 본다면, 세상(Universe) 내부의 모든 실재(Reality)가 삼투적(Osmosis)으로 상호침투(Interfused)해 있을때, 하나의 실재(Reality)가 완전히(Absolutely) 정지되면, — 정지해 있다는 것은 간극(Interval)이 없다는 것이므로, 정지되는 실재(Reality) 부분만큼 간극(Interval)이 소멸된다 — 압력(Pressure)으로 인해\[간극(Interval)의 무한한(?) 낙차로 인해\] 그 정지해 있는 실재(Reality) 부분으로 모든 간극(Interval)이 빨려 들어가게 되고\[세상(Universe) 전체가 빨려들어가게 되고\] ... 세상(Universe)이 실재(Reality)할 수 없다
+<a href="#완전한-정지-부정-2_u" id="완전한-정지-부정-2_d">\[완전한(Absolute)_정지 부정 2\]</a>: 본고에서 '실재(Reality)의 완전한(Absolute)_정지'는 모순된 명제이다, 완전한(Absolute)_정지는 정지함과 동시에 무한히 움직여야 한다(완결 불가)는 모순이 발생하므로, 완전한(Absolute)_정지는 실재하지 않는다(완전한_고정은 불가하다)
 
 <a href="#이행_u" id="이행_d">\[이행(Transition)\]</a>: \[정의\] 아무런 '이행(Transition)'이 없다면 아무런 일도 일어나지 않은 채 현재 세상(Universe) 또한 실재(Reality)할 수 없다 그리고, '이행(Transition)(→)'은 당연히(Naturally) 방향성(Directionality)을 가지며 압력(Pressure)이다 그리고, 무의_상태(Nothingness State)도 '이행(Transition)'되고 그 '이행(Transition)'에는 간극(Interval)(`t₁ - t₀`)이 있으며<a href="#원천압력_d" id="원천압력_u"><sup>\[원천압력(Original Pressure)\]</sup></a>, 이를 본고에서 '이행의_간극(Transition Interval)'<a href="#이행의_간극_d" id="이행의_간극_u"><sup>\[이행의_간극(Transition Interval)\]</sup></a>이라고 한다
 
 <a href="#원천압력_u" id="원천압력_d">\[원천압력(Original Pressure)\]</a>: \[정의\] 세상(Universe)이 고정되어있지_않다(Non-fixed)는 것으로 인한 방향성(Directionality), 이 방향성(Directionality)으로 인한 어긋남(`t₁ - t₀`)\[위상변위(Phase Shift)<a href="#위상변위가-일어나는-까닭_d" id="위상변위가-일어나는-까닭_u"><sup>\[위상변위(Phase Shift)가-일어나는-까닭\]</sup></a>\], 이 어긋남으로 인한 이행(Transition)(`→`), 이 이행(Transition)으로 영속(Perpetuity) 발생하는 압력(Pressure)을 말한다
 
-<a href="#위상변위가-일어나는-까닭_u" id="위상변위가-일어나는-까닭_d">\[위상변위(Phase Shift)가-일어나는-까닭\]</a>: 압력이 일어나는 것이 선행되고 밀도의 형성은 후행한다, 위상변위가 일어나는 까닭은 어떠한 실재가 있다면 무엇이든 멈춰 있을 수 없기 때문이다, 실재가 있다면 무엇이든 멈춰 있을 수 없는 까닭은 찰나라도 멈춰 있으려면 그 순간부터 무한히 힘을 응축할 수 있어야 하는데 그럴 수 없어 밀려나기 때문이라고 하겠다, 찰나라도 멈춰 있으려면 그 순간부터 무한히 힘을 응축할 수 있어야 하는데 그럴 수 없는 까닭은 단 한 찰나라도 정지해 있으려면 어떠한 이행이나 작용도 일어날 수 없는데 그 정지를 유지하기 위해 무한한 힘의 응축(작동)이 동시에 일어나야 한다는 것은 "움직이지 않으면서 무한히 움직인다"는 것으로 실재할 수 없기 때문이다
+<a href="#위상변위가-일어나는-까닭_u" id="위상변위가-일어나는-까닭_d">\[위상변위(Phase Shift)가-일어나는-까닭\]</a>: `정지 불가 ≡ 힘 ≡ 위상변위(어긋남/밀려남) ≡ 원천압력`, 위상변위가 일어나는 까닭은 어떠한 실재가 있다면 무엇이든 멈춰 있을 수 없기 때문이다, 실재가 있다면 무엇이든 멈춰 있을 수 없는 까닭은 찰나라도 멈춰 있으려면 그 순간부터 무한히 힘을 응축할 수 있어야 하는데 그럴 수 없어 밀려나기 때문이라고 하겠다, 찰나라도 멈춰 있으려면 그 순간부터 무한히 힘을 응축할 수 있어야 하는데 그럴 수 없는 까닭은 단 한 찰나라도 정지해 있으려면 어떠한 이행이나 작용도 일어날 수 없는데 그 정지를 유지하기 위해 무한한 힘의 응축(작동)이 동시에 일어나야 한다는 것은 "움직이지 않으면서 무한히 움직인다(완결 불가)"는 것으로 실재할 수 없기 때문이다
 
 <a href="#이행의_간극_u" id="이행의_간극_d">\[이행의_간극(Transition Interval)\]</a>: \[정의\] 이행(Transition)에 대한 '실재(Reality)에 결부되어 결코 소거될 수 없는(`0`이 될 수 없는) 간극(Interval)'<a href="#결코-소거될-수-없는-간극_d" id="결코-소거될-수-없는-간극_u"><sup>\[결코 소거될 수 없는 간극(Interval)\]</sup></a>을 뜻한다 
 
