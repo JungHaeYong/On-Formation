@@ -9,9 +9,9 @@
 * ***Conflicts with Isaac Newton's "Classical Mechanics & Particle Physics" (the existence of matter (particles) as the premise of force)***
   * Maintenance also belongs to Transition (`→`) \[Pressure (`P`)\]. Space is formed through the Accumulation of Transition, and matter (particles) belongs to Space. Therefore, *Force precedes Space, and Space precedes Matter (Particles).*  
 * ***Conflicts with Galileo Galilei and Isaac Newton's "First Law of Motion" (perpetual linear motion in space without external force)***
-  * — Since Maintenance also belongs to Transition — everything (every place) is at all times undergoing Transition \[Force is acting (Action)\]. Therefore, *Absolute Empty-space does not exist in reality. And all Motion is guided to where Resistance (R) is lowest (perpetuates) (`Motion ∝ |-𝛁R|`).*  
+  * — Since Maintenance also belongs to Transition — everything (every place) is at all times undergoing Transition \[Force is acting (Action)\]. Therefore, *Absolute Empty-space does not exist in reality. And all Motion is guided to where Resistance (R) is lowest (perpetuates) (`Motion ∝ -𝛁R`).*  
 * ***Conflicts with Isaac Newton's "Principia" (F=ma, invariant property inherent to matter proportional to acceleration)***
-  * 'It hurts more to be hit by something heavier.', 'Weight changes when moving on a scale'... Mass is not an inherent property. Force is Pressure and Density. *When an amount of Force is added to matter (Force), the Direction that Force is heading is guided to where Resistance is lowest (perpetuates) (`Motion ≡ v ≡ Impulse(I) ∝ |-𝛁R| ⇔ |-𝛁𝛒|`).*  
+  * 'It hurts more to be hit by something heavier.', 'Weight changes when moving on a scale'... Mass is not an inherent property. Force is Pressure and Density. *When an amount of Force is added to matter (Force), the Direction that Force is heading is guided to where Resistance is lowest (perpetuates) (`Motion ≡ v ≡ Impulse(I) ∝ -𝛁R ⇔ -𝛁𝛒`).*  
 * ***Conflicts with Isaac Newton's "Third Law of Motion" (instantaneous and absolute symmetry of action and reaction)*** 
   * As long as an Object possesses Volume, its Inward Surface Area is structurally, naturally larger than its Outward Area. Furthermore, maintaining existence also possesses a Minimum Interval (`𝛅_min`), so Action and Reaction cannot be instantaneous (absolutely simultaneous). Therefore, *Action and Reaction cannot form absolute symmetry in magnitude (?) or occur absolutely simultaneously.*  
 * ***Conflicts with Pierre-Simon Laplace's "Laplace's Demon / Classical Determinism" (the precedence of data simultaneous with phenomena and capable of predicting the future)***
@@ -19,7 +19,7 @@
 * ***Conflicts with Albert Einstein's "General Relativity" (a completed geometric Field where events occur)***
   * *"The Universe is a dynamic construction site of self-formation where mediums push, flow, and squeeze without a fixed stand." (by Gemini)*  
 * ***Conflicts with Albert Einstein's "Special Relativity" (absolute constant c invariant everywhere in the universe)*** 
-  * *Light also changes velocity (v) relative to gravitational fields or atmospheres. Rather than saying time slowed down or sped up, the speed of light (c) is not an Absolute Constant (`c ≡ v ∝ |-𝛁R| ⇔ |-𝛁𝛒|`).*  
+  * *Light also changes velocity (v) relative to gravitational fields or atmospheres. Rather than saying time slowed down or sped up, the speed of light (c) is not an Absolute Constant (`c ≡ v ∝ -𝛁R ⇔ -𝛁𝛒`).*  
 * Furthermore — including the above content — it conflicts with various traditional perspectives, and describes that "*the Universe is the feedback between Non-fixed State and Quasi-fixed State, a perpetuity of this fractal.*"
 
 # **On Formation**
@@ -63,16 +63,16 @@
 
   - For example, 'gravity' is a macroscopic compression Actuality occurring because Outward Pressure is smaller relative to Inward Pressure directed toward Earth. Due to this Pressure imbalance, all internal elements gather to form a single clumped Object (Earth), and the Phenomenon of compression (Actuality) caused by this imbalance is what is called gravity <a href="#Gravity_d" id="Gravity_u"><sup>\[Gravity\]</sup></a>.
 
-<a href="#Gravity_u" id="Gravity_d">\[Gravity\]</a>: Motion depends on the gradient of resistance (`|-𝛁R|`) (`Motion ∝ |-𝛁R|`). And since Inward Pressure regarding Earth is naturally greater than Outward Pressure \[that Earth was Formed into a Quasi-spherical shape means that corresponding Inward Pressure is gathering and directed toward it, and Retention Pressure (Earth) has been Formed accordingly\], while this Inward Pressure remains large, and by the difference between Inward Pressure and Outward Pressure, Motion occurs toward Earth. This is what is called gravity and perceived as attraction.
+<a href="#Gravity_u" id="Gravity_d">\[Gravity\]</a>: Motion depends on the gradient of resistance (`-𝛁R`) (`Motion ∝ -𝛁R`). And since Inward Pressure regarding Earth is naturally greater than Outward Pressure \[that Earth was Formed into a Quasi-spherical shape means that corresponding Inward Pressure is gathering and directed toward it, and Retention Pressure (Earth) has been Formed accordingly\], while this Inward Pressure remains large, and by the difference between Inward Pressure and Outward Pressure, Motion occurs toward Earth. This is what is called gravity and perceived as attraction.
 
 #### ***3\. On "Perpetual Linear Motion in Space Without External Force" \[Galileo Galilei, Isaac Newton "First Law of Motion"\]***
 
 * First, since Transition \[Force (`F`)\] forms Space, the existence of Space means Force fills that Space. Therefore, in the same sense as Absolute Nothingness, *Absolutely Empty-space does not exist in reality.*  
 * ➀ Due to the Maintenance Interval, absolute overlapping is impossible. ➁ Force fills every part of the Universe, each possessing different leverage, and the sum continuously increases. Because of this, '*absolutely identical conditions cannot exist, and the Universe continuously assumes different States; since absolutely identical States cannot repeat, the number of States advances toward Dynamic Boundlessness.*' Accordingly, *absolute linear Motion is impossible, and perpetual linear Motion is even more impossible.*  
 * *Motion never stops and continues perpetually, but continues toward where Resistance (`R`) is lowest.*  
-  * `Motion ∝ |-𝛁R| ⇔ |-𝛁𝛒|`<a href="#Equivalence-of-Resistance-Gradient-and-Density-Drop_d" id="Equivalence-of-Resistance-Gradient-and-Density-Drop_u"><sup>[Equivalence of Resistance Gradient and Density Drop]</sup></a>
+  * `Motion ∝ -𝛁R ⇔ -𝛁𝛒`<a href="#Equivalence-of-Resistance-Gradient-and-Density-Drop_d" id="Equivalence-of-Resistance-Gradient-and-Density-Drop_u"><sup>[Equivalence of Resistance Gradient and Density Drop]</sup></a>
 
-<a href="#Equivalence-of-Resistance-Gradient-and-Density-Drop_u" id="Equivalence-of-Resistance-Gradient-and-Density-Drop_d">\[Equivalence of Resistance Gradient and Density Drop\]</a>: As Pressure is higher, Density becomes higher, and as Pressure is lower, Density becomes lower. Thus, the Resistance Gradient (`|-𝛁R|`) is synonymous with the Density Drop (`|-𝛁𝛒|`).
+<a href="#Equivalence-of-Resistance-Gradient-and-Density-Drop_u" id="Equivalence-of-Resistance-Gradient-and-Density-Drop_d">\[Equivalence of Resistance Gradient and Density Drop\]</a>: As Pressure is higher, Density becomes higher, and as Pressure is lower, Density becomes lower. Thus, the Resistance Gradient (`-𝛁R`) is synonymous with the Density Drop (`-𝛁𝛒`).
 
 #### ***4\. On "Invariant Property Inherent to Matter Proportional to Acceleration (F=ma)" \[Isaac Newton "Principia"\]***
 
@@ -103,7 +103,7 @@
 
 * In an absolutely completed Field, velocity (Transition) is impossible.  
 * And when a sailboat's velocity (v) differs in headwinds versus tailwinds, or walking in a mudflat versus walking on a flat, dry road, one does not say time slowed down or sped up. Light also changes velocity relative to gravitational fields or atmospheres. Likewise, this should not be called time slowing down or speeding up; *the speed of light (c) is not an Absolute Constant.*  
-  * `c ≡ v ≡ I ∝ |-𝛁R| ⇔ |-𝛁𝛒|`
+  * `c ≡ v ≡ I ∝ -𝛁R ⇔ -𝛁𝛒`
 
 ___
 
@@ -177,7 +177,7 @@ Regarding the formulas appearing in Part 3, it is considered natural to deviate 
 
 Motion <a href="#Motion-in-Part-3_d" id="Motion-in-Part-3_u"><sup>\[Motion in Part 3\]</sup></a> and Object
 
-<a href="#Motion-in-Part-3_u" id="Motion-in-Part-3_d">[Motion in Part 3\]</a>: What was stated in 'Part 2' as 'Motion does not stop and continues toward the place where Resistance (R) is lowest' is stated in 'Part 3' as 'Motion is Perpetual toward the place where Pressure (P) is lowest' (`Motion ∝ |-𝛁P| ⟺ |-𝛁𝛒|`).
+<a href="#Motion-in-Part-3_u" id="Motion-in-Part-3_d">[Motion in Part 3\]</a>: While Part 2 states that "Motion does not cease and continuously proceeds toward the path of least Resistance (`R`)," Part 3 establishes that "Motion is perpetuated by Pressure (`P`) convergence and Density (`ρ`) dispersion" [`Motion ∝ (∇P ⟺ -∇ρ)`].
 
 * Inside the Universe, due to the Directionalities of Boundary Dynamic Grid-lock and Retention Pressure respectively, Density is Formed and small Objects are Formed; Direct Flow occurs in the Direction toward which more (larger) Pressures (small Objects) head; in this process, small Objects and slightly larger Objects continue to be Formed, thereby forming Vortexes in various places; larger Vortexes form larger or firmer Objects. And these Vortexes collide (Impact) with Direct Flow, generating Eddies. And Perpetually: Object Formation and Direct Flow Formation caused by Boundary Dynamic Grid-lock; Object Formation and Vortex Formation by Direct Flow; Object Formation and Eddy Formation caused by Vortex; Object Formation and smaller Eddy Formation caused by Eddy; 1-Unit Fusion (Interfused) by Boundary Dynamic Grid-lock; Fusion of Vortex and Vortex or Eddy by Direct Flow; Fusion of Eddy by Vortex; Fusion of smaller Eddy by Eddy.
 
