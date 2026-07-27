@@ -14,11 +14,11 @@
 
 * ***외력이 없는 공간에서의 영원한 직선 운동 \[갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"\]과 상충된다***
 
-  - — 유지(Maintenance) 또한 이행(Transition)에 속하므로 — 언제나 모든 것(곳)은 이행(Transition)된다\[힘(Force)이 작용(Action)한다\] 그러므로, *외력이 없는 공간(Absolute Empty-space)은 실재하지_않다(Non-reality) 그리고, 모든 운동(Motion)은 저항(Resistance)(R)이 가장 낮은 곳으로 유도된다\[영속(Perpetuity)한다\]*( `Motion ∝ |-𝛁R|` )
+  - — 유지(Maintenance) 또한 이행(Transition)에 속하므로 — 언제나 모든 것(곳)은 이행(Transition)된다\[힘(Force)이 작용(Action)한다\] 그러므로, *외력이 없는 공간(Absolute Empty-space)은 실재하지_않다(Non-reality) 그리고, 모든 운동(Motion)은 저항(Resistance)(R)이 가장 낮은 곳으로 유도된다\[영속(Perpetuity)한다\]*( `Motion ∝ -𝛁R` )
 
 * ***가속도에 비례하는 물질 고유의 불변 속성(F=ma) \[아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"\]과 상충된다***
 
-  - '더 무거운 것에 맞으면 더 아프다.', '체중계 위에서 움직이면 무게 값이 변한다'... 질량은 고유한 것이 아니다, 힘(Force)이 압력(Pressure)이며 밀도(Density)다, *물질\[힘(Force)\]에 얼마만큼의 힘(Force)이 더 해졌을 때, 그 힘(Force)이 향하는 방향(Direction)은 저항(Resistance)이 가장 낮은 곳으로 유도\[영속(Perpetuity)\]된다*( `Motion ≡ v ≡ 충격량(I) ∝ |-𝛁R| ⟺ |-𝛁𝛒|` )
+  - '더 무거운 것에 맞으면 더 아프다.', '체중계 위에서 움직이면 무게 값이 변한다'... 질량은 고유한 것이 아니다, 힘(Force)이 압력(Pressure)이며 밀도(Density)다, *물질\[힘(Force)\]에 얼마만큼의 힘(Force)이 더 해졌을 때, 그 힘(Force)이 향하는 방향(Direction)은 저항(Resistance)이 가장 낮은 곳으로 유도\[영속(Perpetuity)\]된다*( `Motion ≡ v ≡ 충격량(I) ∝ -𝛁R ⟺ -𝛁𝛒` )
 
 * ***작용과 반작용의 즉각적이고 완전한 대칭 \[아이작 뉴턴(Isaac Newton) "운동 제3법칙(Third Law of Motion)"\]과 상충된다***
 
@@ -34,7 +34,7 @@
 
 * ***우주 어디서나 변하지 않는 절대적 상수(c) \[알베르트 아인슈타인(Albert Einstein) "특수 상대성 이론(Special Relativity)"\]과 상충된다***
 
- - *빛도 중력장이나 대기권에 대하여 속도(velocity)(v)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니라, 빛의_속도(velocity of light)(c)가 절대적_상수(Absolute Constant)가 아니라는 것이다*( `c ≡ v ∝ |-𝛁R| ⟺ |-𝛁𝛒|` )
+ - *빛도 중력장이나 대기권에 대하여 속도(velocity)(v)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니라, 빛의_속도(velocity of light)(c)가 절대적_상수(Absolute Constant)가 아니라는 것이다*( `c ≡ v ∝ -𝛁R ⟺ -𝛁𝛒` )
 
 * 뿐만아니라 — 앞의 내용을 포함하여 — 여러 전통적 관점과 상충되며, *"세상(Universe)은, 비고정_상태(Non-fixed State)와 유사고정_상태(Quasi-fixed State)의 피드백(Feedback), 이 프랙탈(Fractal) 영속(Perpetuity)"* 이라는 것을 서술한다.
 
@@ -84,7 +84,7 @@ ___
 
   - '중력'은 예를 들면, 지구를 향한 내향압력(Inward Pressure)에 대한 외향압력(Outward Pressure)이 더 크기 때문에 발생하는 거시적 압착 실태(Actuality)이다, 이 압력(Pressure) 불균형으로 인해 내부의 모든 요소가 뭉쳐 한 덩어리의 객체(Object)(지구)를 형성(Formation)하고 있는 것이며, 이때 그 불균형에 의한 *압착\[실태(Actuality)\]의 현상(Phenomenon)을 중력이라고 하는 것*이다<a href="#중력_d" id="중력_u"><sup>\[중력\]</sup></a>
 
-<a href="#중력_u" id="중력_d">\[중력\]</a>: 운동(Motion)은 저항의 기울기(`|-𝛁R|`)에 의한다(`Motion ∝ |-𝛁R|`), 그리고 지구에 대한 내향압력(Inward Pressure)이 외향압력(Outward Pressure)보다 당연히 더 크므로\[유사_구_형태(Quasi-spherical shape)로 지구가 형성(Formation)되었다는 것이, 이에 상당하는 내향압력(Inward Pressure)이 몰리고 있다,향하고 있다는 것이고 그에 따른 체류압력(Retention Pressure)(지구)이 형성(Formation)되었다는 것이다\] 이 내향압력(Inward Pressure)이 큰 동안에 그리고, *내향압력(Inward Pressure)과 외향압력(Outward Pressure)의 차이 만큼, 지구를 향해 운동(Motion)한다, 이것을 중력이라고 부르는 것이고 인력이라고 느끼는 것이다*
+<a href="#중력_u" id="중력_d">\[중력\]</a>: 운동(Motion)은 저항의 기울기(`-𝛁R`)에 의한다(`Motion ∝ -𝛁R`), 그리고 지구에 대한 내향압력(Inward Pressure)이 외향압력(Outward Pressure)보다 당연히 더 크므로\[유사_구_형태(Quasi-spherical shape)로 지구가 형성(Formation)되었다는 것이, 이에 상당하는 내향압력(Inward Pressure)이 몰리고 있다,향하고 있다는 것이고 그에 따른 체류압력(Retention Pressure)(지구)이 형성(Formation)되었다는 것이다\] 이 내향압력(Inward Pressure)이 큰 동안에 그리고, *내향압력(Inward Pressure)과 외향압력(Outward Pressure)의 차이 만큼, 지구를 향해 운동(Motion)한다, 이것을 중력이라고 부르는 것이고 인력이라고 느끼는 것이다*
 
 #### ***3. 외력이 없는 공간에서의 영원한 직선 운동 \[갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"\]에 대하여,***
 
@@ -94,9 +94,9 @@ ___
 
 * *운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(R)이 가장 낮은 곳으로 계속된다*
 
-* `Motion ∝ |-𝛁R| ⟺ |-𝛁𝛒|`<a href="#저항의-기울기와-밀도의-낙차에-동치_d" id="저항의-기울기와-밀도의-낙차에-동치_u"><sup>[\저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치\]</sup></a>
+* `Motion ∝ -𝛁R ⟺ -𝛁𝛒`<a href="#저항의-기울기와-밀도의-낙차에-동치_d" id="저항의-기울기와-밀도의-낙차에-동치_u"><sup>[\저항(Resistance)의 기울기(`-𝛁R`)와 밀도(Density)의 낙차(`-𝛁𝛒`)에 동치\]</sup></a>
 
-<a href="#저항의-기울기와-밀도의-낙차에-동치_u" id="저항의-기울기와-밀도의-낙차에-동치_d">\[저항(Resistance)의 기울기(`|-𝛁R|`)와 밀도(Density)의 낙차(`|-𝛁𝛒|`)에 동치\]</a>: 압력(Pressure)이 높을 수록 밀도(Density)도 높아지고 압력(Pressure)이 낮을 수록 밀도(Density)도 낮아 지므로, 저항(Resistance)의 기울기(`|-𝛁R|`)는 밀도(Density)의 낙차(`|-𝛁𝛒|`)와 동의어가 된다
+<a href="#저항의-기울기와-밀도의-낙차에-동치_u" id="저항의-기울기와-밀도의-낙차에-동치_d">\[저항(Resistance)의 기울기(`-𝛁R`)와 밀도(Density)의 낙차(`-𝛁𝛒`)에 동치\]</a>: 압력(Pressure)이 높을 수록 밀도(Density)도 높아지고 압력(Pressure)이 낮을 수록 밀도(Density)도 낮아 지므로, 저항(Resistance)의 기울기(`-𝛁R`)는 밀도(Density)의 낙차(`-𝛁𝛒`)와 동의어가 된다
 
 #### ***4. 가속도에 비례하는 물질 고유의 불변 속성(F=ma) \[아이작 뉴턴(Isaac Newton) "프린키피아(Principia)"\]에 대하여,***
 
@@ -130,7 +130,7 @@ ___
 
 * 그리고, 범선의 속도(velocity)(v)가 역풍일때와 순풍일때 달라지는 것이나, 뻘밭을 걸을 때나 평평하고 마른 길을 걸을 때, 시간이 느려졌다거나 빨라졌다고 하지 않는다, 빛도 중력장이나 대기권에 대하여 속도(velocity)가 변한다, 이것도 마찬가지로 시간이 느려졌다거나 빨라졌다고 할 것이 아니다, *빛의\_속도(velocity of light)(c)가 절대적_상수(Absolute Constant)가 아니라는 것이다*
 
-* `c ≡ v ≡ I ∝ |-𝛁R| ⟺ |-𝛁𝛒|`
+* `c ≡ v ≡ I ∝ -𝛁R ⟺ -𝛁𝛒`
 
 ___
 
@@ -204,7 +204,7 @@ ___
 
 #### ***3. 운동(Motion)<a href="#제-3부의-운동_d" id="제-3부의-운동_u"><sup>\[제 3부의 운동(Motion)\]</sup></a>과 객체(Object)***
  
-<a href="#제-3부의-운동_u" id="제-3부의-운동_d">\[제 3부의 운동(Motion)\]</a>: '제 2부'에서 *'운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(`R`)이 가장 낮은 곳으로 계속된다'*고 한 것을 '제 3부'에서는 *'운동(Motion)은 압력(Pressure)(`P`)이 가장 낮은 곳으로 영속(Perpetuity)된다'*고 한다 (`Motion ∝ |-𝛁P| ⟺ |-𝛁𝛒|`)
+<a href="#제-3부의-운동_u" id="제-3부의-운동_d">\[제 3부의 운동(Motion)\]</a>: '제 2부'에서 *'운동(Motion)은 멈추지 않고 계속 되지만 저항(Resistance)(`R`)이 가장 낮은 곳으로 계속된다'*고 한 것을 '제 3부'에서는 *'운동(Motion)은 압력(Pressure)(`P`) 수렴과 밀도(Density)(`𝛒`) 분산으로 인하여 영속(Perpetuity)된다'*고 한다 \[`Motion ∝ (𝛁P ⟺ -𝛁𝛒)`\] 
 
 * 세상(Universe)의 내부에서 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)과 체류압력(Retention Pressure) 각각의 방향성(Directionality)으로 인하여, 밀도(Density)가 형성(Formation)되어 작은 객체(Object)가 형성(Formation)되고, 더 많은(큰) 압력(Pressure)\[작은 객체(Object)들\]이 향하는 방향(Direction)으로 순류(Direct Flow)가 일어나며, 이 과정에서 계속 작은 객체(Object)와 조금 더 큰 객체(Object)들을 형성(Formation)되고, 이로 인하여 곳곳에 대와류(Vortex)가 형성(Formation)되고 더 큰 대와류(Vortex)는 더 크거나 더 단단한 객체(Object)를 형성(Formation)한다, 그리고 이 대와류(Vortex)는 순류(Direct Flow)에 충돌(Impact)하면서 소와류(Eddy)를 일으킨다, 그리고 영속(Perpetuity) 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)으로 인한 객체(Object) 형성(Formation)과 순류(Direct Flow) 형성(Formation), 순류(Direct Flow)에 의한 객체(Object) 형성(Formation)과 대와류(Vortex) 형성(Formation), 대와류(Vortex)로 인한 객체(Object) 형성(Formation)과 소와류(Eddy) 형성(Formation), 소와류(Eddy)로 인한 객체(Object) 형성(Formation)과 보다 작은 소와류(Eddy) 형성(Formation), 최외곽_압력_동적교착(Boundary Dynamic Grid-lock)에 의한 1단위(1Unit) 융합\[상호침투(Interfused)\], 순류(Direct Flow)에 의한 대와류(Vortex)와 대와류(Vortex) 또는 소와류(Eddy) 융합, 대와류(Vortex)에 의한 소와류(Eddy) 융합, 소와류(Eddy)에 의한 보다 작은 소와류(Eddy) 융합
 
