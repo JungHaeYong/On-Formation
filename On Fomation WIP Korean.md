@@ -39,6 +39,7 @@
 * 뿐만아니라 — 앞의 내용을 포함하여 — 여러 전통적 관점과 상충되며, *"세상(Universe)은, 비고정_상태(Non-fixed State)와 유사고정_상태(Quasi-fixed State)의 피드백(Feedback), 이 프랙탈(Fractal) 영속(Perpetuity)"* 이라는 것을 서술한다.
 
 ___
+
 # 형성에 대하여(On Formation)
 
 ## 제 1부
@@ -54,6 +55,7 @@ ___
 * 현재에도 개인이 또는 한 인간(Human)이 충분한 지식 갖추기 벅찬(?) 지적 인프라가 형성(Formation)\[축적(Accumulative)\]되었고, 이것들은 현재나 미래를 위하여 정리되어야 한다, 이에 본고에서 *'세상(Universe)은 고정되어_있지_않다(Non-fixed)\[거치대가 없다(No-holder)\]'* 는 명제 하나로 시작하여 세상(Universe)을 서술해 본다.
 
 ___
+
 ## 제 2부
 
 ### 변증 — 기존 명제와 반론
@@ -131,6 +133,7 @@ ___
 * 세상(Universe) 전체를 관찰(Observation)하였거나 하고 있는 것이 아니라면, 그리고 측정 기술 따위의 발달이 완결된 것이 아니라면, 그 때에 절대적_상수(Absolute Constant)를 규정하는 것은 그것 자체로 모순된다.
 
 ___
+
 ## 제 3부
 
 ### 형성에 대하여(On Formation)
@@ -155,7 +158,7 @@ ___
   * `ΔA[내향_표면적(Inward Surface Area)과 외향_면적(Outward Area)의 차이] = A_inward[내향_표면적(Inward Surface Area)][4 * π * {r_out(내향_표면적(Inward Surface Area)의 반지름)}²] - A_outward[외향_면적(Outward Area)][4 * π * {r_in(외향_면적(Outward Area)의 반지름)}²]`
   * 세상(Universe)의 모든 실재(Reality)는, 부피(Volume)가 `0` 보다 크므로, 내향_표면적(Inward Surface Area)과 외향_면적(Outward Area)의 반지름에 차이도 `0`보다 크고, 표면적의 차이 또한 `0`보다 크다, 이에 세상(Universe)의 모든 실재(Reality)는 구조적으로 내외향_비대칭(Inward-Outward Asymmetry)하고, 이에 따른 사항은 모두 완전한_대칭(Absolute Symmetry)을 이룰 수 없다
 
-#### ***1\. 유지(Maintenance)의 축적(Accumulative)에 대하여***
+#### ***1\. 유지(Maintenance)<a href="#유지_d" id="유지_u"><sup>[유지(Maintenance)]</sup></a>의 축적(Accumulative)에 대하여***
 
 *  *세상(Universe)은 이행(Shift)(`⟶`)*<a href="#이행_d" id="이행_u"><sup>[이행(Shift)]</sup></a>*의 영속(Perpetuity)이라는 실태(Actuality)에 따른, 그 이행(Shift)이 축적(Accumulative)된 현상(Phenomenon)이다*
 
@@ -209,11 +212,11 @@ ___
 
     * 결합과 분열의 피드백(Feedback): `원천_압력(Original Pressure) ⟺ 최외곽_압력_동적_교착(Boundary Dynamic Grid-lock) ⟺ 순류(Direct Flow) ⟺ 대와류(Vortex) + 대와류(Vortex) 또는 소와류(Eddy) 또는 미시 소와류(Eddy) ⟺ 소와류(Eddy) + 소와류(Eddy) 또는 미시 소와류(Eddy) ⟺ 미시 소와류(Eddy) + 미시 소와류(Eddy)`
 
-* `[{객체(Object)의 체류_압력(Retention Pressure) + (객체(Object)의 유입_압력(Inflow Pressure) - 객체(Object)의 유출_압력(Outflow Pressure))} / 객체의 평균_밀도(Average Density) (단, 1 Units < 객체(Object)의 평균_밀도(Average Density) < Apexon)] ⟺ 객체(Object)의 부피(Volume)`
+* `[{객체(Object)의 체류_압력(Retention Pressure) + (객체(Object)의 유입_압력(Inflow Pressure) - 객체(Object)의 유출_압력(Outflow Pressure))} / 객체의 평균_밀도(Average Density) (단, 객체(Object)의 평균_밀도(Average Density) > Apexon)] ⟺ 객체(Object)의 부피(Volume)`
 
-* 분열과 분산(Dispersion) 따위 또한 전체 세상(Universe)의 전체 압력(Pressure)이 영속(Perpetuity) 증가(Increase)하는 실태(Actuality)에 따른 현상(Phenomenon)으로, 세상(Universe)의 전체 압력(Pressure)은 영속(Perpetuity) 증가(Increase)하고, 세상(Universe)의 전체 압력(Pressure)이 증가(Increase)함에 따라 한계 밀도(Density)[도달 가능한 밀도(Density)]는 가변적(Variable)이다, 그러나 정적_무한(Fixed Infinity)은 실재_불가(Non-reality)하고 밀도(Density)는 압력(Pressure)에 따르므로, 세상 전체의 압력(Pressure)으로 형성(Formation)될 수 있는 밀도(Density) 이상의 밀도(Density)는 형성(Formation)될 수 없다
+* 분열과 분산(Dispersion) 따위 또한 전체 세상(Universe)의 전체 압력(Pressure)이 영속(Perpetuity) 증가(Increase)하는 실태(Actuality)에 따른 현상(Phenomenon)으로, 세상(Universe)의 전체 압력(Pressure)은 영속(Perpetuity) 증가(Increase)하고, 세상(Universe)의 전체 압력(Pressure)이 증가(Increase)함에 따라 한계 밀도(Density)\[도달 가능한 밀도(Density)\]는 가변적(Variable)이다, 그러나 정적_무한(Fixed Infinity)은 실재_불가(Non-reality)하고 밀도(Density)는 압력(Pressure)에 따르므로, 세상 전체의 압력(Pressure)으로 형성(Formation)될 수 있는 밀도(Density) 이상의 밀도(Density)는 형성(Formation)될 수 없다
 
-* 유입_압력(Inflow Pressure)은 유출_압력(Outflow Pressure)에 비해 더 넓은 방위에서 더 낮은 밀도(Density) 차이로 유입되고, 유출_압력(Outflow Pressure)은 유입_압력(Inflow Pressure)에 비해 더 좁은 방위에서 더 높은 밀도(Density) 차이로 유출되므로, 특정 방향(Direction)으로 운동(Motion)한다
+* 내외향_비대칭(Inward-Outward Asymmetry)에 따라 유입은 더 넓은 방위에서 수렴🞄압축(Compression)되고, 유출은 더 작은 부피에서 외부로 분산(Dispersion)된다 그리고, 이에 따른 밀도(Density)\[형태(Configuration)\]가 고착될수록, 그만큼 해당 특정 방향(Direction)으로의 운동(Motion) 따위를 유지(Maintenance)하려는 성질 또한 강해진다
 
 ![alt text](운동001.png) ![alt text](운동002.png)
 
@@ -221,7 +224,7 @@ ___
 
 *<a href="#유사고정_상태_u" id="유사고정_상태_d">[유사_고정_상태(Quasi-fixed State)]</a>: \[정의\]* 동적_평형(Dynamic Equilibrium) 비대칭(Asymmetry) 정도에 대해서, 관찰자가 운동(Motion)이라고 감각하지 못해 마치 정지해 있는 것처럼 보이는 상태(State)를 말한다
 
-*<a href="#유출_압력_u" id="유출_압력_d">[유출_압력(Outflow Pressure)]</a>:* 유입_압력(Inflow Pressure)이 객체 A(Object A) 내부 밀도(Density)에 따른 — 객체 A(Object A) 내부의 — 객체 B(Object B)로 객체화 되며 체류_압력(Retention Pressure)이 되고 그 체류_압력(Retention Pressure)이 유출_압력(Outflow Pressure)으로 유출될 때에는 외향_압력(Outward Pressure)의 수렴과 외부와 내부의 밀도 낙차(`+∇P ⟺ -∇ρ`)에 따른 속도(Velocity)로 나아간다, 예를 들면 객체(Object) 내부에서 부피(Volume) 2단위(2 Unit)에 압력(Pressure) 20단위(20 Unit)가 압축(Compression)되었고[밀도(Density) 10], 외부는 부피(Volume) 2단위(2 Unit)에 압력(Pressure) 4단위(4 Unit)가 압축(Compression)\[밀도(Density) 2\]된 계층이라고 한다면, 객체(Object) 내부에서 압축(Compression)된 압력(Pressure) 20단위(20 Unit)가 외부로 유출\[외향_압력(Outward Pressure) 수렴(`+∇P`)으로 인한 유출\]될 때에, 유출_압력(Outflow Pressure)은 ➀ 외부 밀도(Density) 2\[압력(Pressure) 4 / 부피(Volume) 2\] 계층에서는 부피(Volume) 1단위(1 Unit)를 부피(Volume) 1/5단위(1/5 Unit) 이행(Shift) 시간(Time)으로 위상_변위(Phase Shift)한다(`-∇ρ`) *<a href="#부피-5분의1단위-이행-시간의-다른-표현_d" id="부피-5분의1단위-이행-시간의-다른-표현_u"><sup>[부피(Volume) 1/5 이행(Shift) 시간의 다른 표현]</sup></a>*  ➁ 유출_압력(Outflow Pressure)은 ➀의 속도(Velocity)로 위상_변위(Phase Shift)하면서, 유출_압력(Outflow Pressure)의 외향_압력(Outward Pressure)과 유출_압력(Outflow Pressure)에 대한 내향_압력(Inward Pressure)이 균형을 이루는 정도까지 압력(Pressure)\[밀도(Density)\]이 분산(Dispersion)된다 그리고 수렴(`+∇P`) 된다 ➂ 동적_교착(Dynamic Grid-lock) 또는 내향_압력(Inward Pressure)보다 낮은 밀도(Density)로 압력(Pressure)이 유출될 수 없다
+*<a href="#유출_압력_u" id="유출_압력_d">[유출_압력(Outflow Pressure)]</a>:* 유입_압력(Inflow Pressure)이 객체 A(Object A) 내부 밀도(Density)에 따른 — 객체 A(Object A) 내부의 — 객체 B(Object B)로 객체화 되며 체류_압력(Retention Pressure)이 되고 그 체류_압력(Retention Pressure)이 유출_압력(Outflow Pressure)으로 유출될 때에는 외향_압력(Outward Pressure)의 수렴과 외부와 내부의 밀도 낙차(`+∇P ⟺ -∇ρ`)에 따른 속도(Velocity)로 나아간다, 예를 들면 객체(Object) 내부에서 부피(Volume) 2단위(2 Unit)에 압력(Pressure) 20단위(20 Unit)가 압축(Compression)되었고\[밀도(Density) 10\], 외부는 부피(Volume) 2단위(2 Unit)에 압력(Pressure) 4단위(4 Unit)가 압축(Compression)\[밀도(Density) 2\]된 계층이라고 한다면, 객체(Object) 내부에서 압축(Compression)된 압력(Pressure) 20단위(20 Unit)가 외부로 유출\[외향_압력(Outward Pressure) 수렴(`+∇P`)으로 인한 유출\]될 때에, 유출_압력(Outflow Pressure)은 ➀ 외부 밀도(Density) 2\[압력(Pressure) 4 / 부피(Volume) 2\] 계층에서는 부피(Volume) 1단위(1 Unit)를 부피(Volume) 1/5단위(1/5 Unit) 이행(Shift) 시간(Time)으로 위상_변위(Phase Shift)한다(`-∇ρ`) *<a href="#부피-5분의1단위-이행-시간의-다른-표현_d" id="부피-5분의1단위-이행-시간의-다른-표현_u"><sup>[부피(Volume) 1/5 이행(Shift) 시간의 다른 표현]</sup></a>*  ➁ 유출_압력(Outflow Pressure)은 ➀의 속도(Velocity)로 위상_변위(Phase Shift)하면서, 유출_압력(Outflow Pressure)의 외향_압력(Outward Pressure)과 유출_압력(Outflow Pressure)에 대한 내향_압력(Inward Pressure)이 균형을 이루는 정도까지 압력(Pressure)\[밀도(Density)\]이 분산(Dispersion)된다 그리고 수렴(`+∇P`) 된다 ➂ 동적_교착(Dynamic Grid-lock) 또는 내향_압력(Inward Pressure)보다 낮은 밀도(Density)로 압력(Pressure)이 유출될 수 없다
 
 *<a href="#부피-5분의1단위-이행-시간의-다른-표현_u" id="부피-5분의1단위-이행-시간의-다른-표현_d">[부피(Volume) 1/5 이행(Shift) 시간의 다른 표현]</a> :* '부피(Volume) 1단위(1 Unit)를 부피(Volume) 1/5 이행(Shift) 시간으로 위상_변위(Phase Shift)한다'는 것을 뒤에 서술될 간극_시간(Delta Time)로 표현한다면, '부피(Volume) 1단위(1 Unit)를 0.2 간극_시간(Delta Time)로 위상_변위(Phase Shift)한다'가 되고, 속도(Velocity)로 표현한다면 '부피(Volume) 1단위(1 Unit)에 압력(Pressure) 2단위(2 Unit)가 압축(Compression)\[밀도(Density) 2\]된 계층의 부피 1단위(1 Unit) 위상_변위(Phase Shift) 속도(Velocity)의 5배의 속도(Velocity)로 위상_변위(Phase Shift)한다'가 된다
 
@@ -233,7 +236,7 @@ ___
 기준_압력(Reference Pressure)\[기준_압력(Reference Pressure)(`P_ref`)\]은 다른 표시가 없다면 `부피(Volume) 2 * 밀도(Density) 2 ≡ 4`를 뜻한다 
 부피(Volume)(`V`) 형성(Formation) 후에 대하여, `기준_압력(Reference Pressure)(P_ref) ≡ 기준_간극(Reference Delta)(δ_ref) ≡ 기준_객체(Reference Object)(obj_ref)` 기준
 
-* 4\.1\. 속도(Velocity)(`v`) — 부피_1단위_이행_속도(Unit-Volume Shift Velocity)(`v_vol`)와 간극_속도(Delta Velocity)(`v_δ`)
+* ***4\.1\. 속도(Velocity)(`v`) — 부피_1단위_이행_속도(Unit-Volume Shift Velocity)(`v_vol`)와 간극_속도(Delta Velocity)(`v_δ`)***
 
   * 부피_1단위_이행_속도(Unit-Volume Shift Velocity)(`v_vol`)
 
@@ -271,7 +274,7 @@ ___
     |압력 C-2(Pressure C-2)의 간극_속도(Delta Velocity)는|-12 v_δ|0 v_δ|31 v_δ|
     |기준_압력(Reference Pressure)의 간극_속도(Delta Velocity)는|-43 v_δ|-31 v_δ|0 v_δ|
 
-* 4\.2\. 시간(Time) — 부피_1단위_이행_시간(Unit-Volume Shift Time)(`t_vol`)과 간극_시간(Delta Time)(`t_δ`)
+* ***4\.2\. 시간(Time) — 부피_1단위_이행_시간(Unit-Volume Shift Time)(`t_vol`)과 간극_시간(Delta Time)(`t_δ`)***
 
   * 부피_1단위_이행_시간(Unit-Volume Shift Time)(`t_vol`)
 
@@ -283,7 +286,7 @@ ___
 
     * 체류_시간(Retention Time)은 작용(Action)량과 기준_압력(Reference Pressure)에 따라 가변적(Variable)이다
 
-  * 예 1: `압력 A-1(Pressure A-1) 10[부피(Volume) 1 * 밀도(Density) 10]`과 `압력 A-2(Pressure A-2) 100[부피(Volume) 10 * 밀도(Density) 10]`에 대한 체류_시간(Retention Time)은,
+  * 예 1: `압력 A-1(Pressure A-1) 20[부피(Volume) 2 * 밀도(Density) 10]`과 `압력 A-2(Pressure A-2) 100[부피(Volume) 10 * 밀도(Density) 10]`에 대한 체류_시간(Retention Time)은,
 
     |기준_압력 1(Reference Pressure 1)(`P_ref 1`)|압력 A-1(Pressure A-1)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|압력 A-2(Pressure A-2)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|기준_압력(Reference Pressure)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|
     |---|---|---|---|
@@ -299,7 +302,7 @@ ___
     |압력 B-2(Pressure B-2)의 체류_시간(Retention Time)은|0.1515 t_δ|3 t_δ|0.0303 t_δ|
     |기준_압력(Reference Pressure)의 체류_시간(Retention Time)은|15 t_δ|297 t_δ|3 t_δ|
 
-  * 예 3: `압력 C-1(Pressure C-1) 135[부피(Volume) 3 * 밀도(Density) 45]`과 `압력 C-2(Pressure C-2) 396[부피(Volume) 12 * 밀도(Density) 33]`에 대한 체류_시간(Retention Time)은,
+  * 예 3: `압력 C-1(Pressure C-1) 90[부피(Volume) 2 * 밀도(Density) 45]`과 `압력 C-2(Pressure C-2) 396[부피(Volume) 12 * 밀도(Density) 33]`에 대한 체류_시간(Retention Time)은,
 
     |기준_압력 1(Reference Pressure 1)(`P_ref 1`)|압력 C-1(Pressure C-1)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|압력 C-2(Pressure C-2)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|기준_압력(Reference Pressure)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|
     |---|---|---|---|
@@ -319,13 +322,13 @@ ___
 
 * 인간(Human)이 말하는 속도(Velocity)와 인간의_시간(Human Time)은 필요하지만 절대적(Absolute)인 것은 아니다, 이하 예에서 기준_압력(Reference Pressure)(`P_ref`)에 따라 값이 가변적(Variable)이란 것은 관찰,측정 따위의 방위, 수단과 방법 따위를 포괄하여 그에 따라 가변적(Variable)이라는 것을 뜻한다
 
-* 관찰되는_속도(Observed Velocity)(`v_obs`)
+* ***5\.1\. 관찰되는_속도(Observed Velocity)(`v_obs`)***
 
   * `관찰되는_속도(Observed Velocity)(v_obs) ≡ 기준_압력 2(Reference Pressure 2)(P_ref 2)의 밀도(Density)(ρ) - [기준_압력 1(Reference Pressure 1)(P_ref 1)의 밀도(Density)(ρ) - 대상의 밀도(Density)(ρ)]`
 
   * 관찰되는_속도(Observed Velocity)(`v_obs`)는, 기준_압력 2(Reference Pressure 2)(P_ref 2) 밀도(Density)(ρ), 기준_압력 1(Reference Pressure 1)의 밀도(Density)(ρ), 대상의 밀도(Density)(ρ)에 따라 가변적(Variable)이다
 
-  * 예 1: `압력 A-1(Pressure A-1) 10[부피(Volume) 1 * 밀도(Density) 10]`과 `압력 A-2(Pressure A-2) 100[부피(Volume) 10 * 밀도(Density) 10]`에 대한 관찰되는_속도(Observed Velocity)(`v_obs`)는, 
+  * 예 1: `압력 A-1(Pressure A-1) 20[부피(Volume) 2 * 밀도(Density) 10]`과 `압력 A-2(Pressure A-2) 100[부피(Volume) 10 * 밀도(Density) 10]`에 대한 관찰되는_속도(Observed Velocity)(`v_obs`)는, 
 
     |기준_압력 2(Reference Pressure 2)(`P_ref 2`)|기준_압력 1(Reference Pressure 1)(`P_ref 1`)|압력 A-1(Pressure A-1)들로 형성(Formation)된 계층에서,|압력 A-2(Pressure A-2)들로 형성(Formation)된 계층에서,|기준_압력(Reference Pressure)들로 형성(Formation)된 계층에서,|
     |---|---|---|---|---|
@@ -353,7 +356,7 @@ ___
     ||압력 B-2(Pressure B-2)의 관찰되는_속도(Observed Velocity)는|21 v_obs|-2 v_obs|29 v_obs|
     ||기준_압력(Reference Pressure)의 관찰되는_속도(Observed Velocity)는|-10 v_obs|-33 v_obs|-2 v_obs|
 
-  * 예 3: `압력 C-1(Pressure C-1) 135[부피(Volume) 3 * 밀도(Density) 45]`과 `압력 C-2(Pressure C-2) 396[부피(Volume) 12 * 밀도(Density) 33]`에 대한 관찰되는_속도(Observed Velocity)(`v_obs`)는, 
+  * 예 3: `압력 C-1(Pressure C-1) 90[부피(Volume) 2 * 밀도(Density) 45]`과 `압력 C-2(Pressure C-2) 396[부피(Volume) 12 * 밀도(Density) 33]`에 대한 관찰되는_속도(Observed Velocity)(`v_obs`)는, 
 
     |기준_압력 2(Reference Pressure 2)(`P_ref 2`)|기준_압력 1(Reference Pressure 1)(`P_ref 1`)|압력 C-1(Pressure C-1)들로 형성(Formation)된 계층에서,|압력 C-2(Pressure C-2)들로 형성(Formation)된 계층에서,|기준_압력(Reference Pressure)들로 형성(Formation)된 계층에서,|
     |---|---|---|---|---|
@@ -367,13 +370,13 @@ ___
     ||압력 C-2(Pressure C-2)의 관찰되는_속도(Observed Velocity)는|-14 v_obs|-2 v_obs|29 v_obs|
     ||기준_압력(Reference Pressure)의 관찰되는_속도(Observed Velocity)는|-45 v_obs|-33 v_obs|-2 v_obs|
 
-* 관찰되는_시간(Observed Time)(`t_obs`)
+* ***5\.2\. 관찰되는_시간(Observed Time)(`t_obs`)***
 
   * `간극_시간(Delta Time)(t_δ) / [기준_압력 1(Reference Pressure 1)(P_ref 1)의 밀도(Density)(ρ) / 기준_압력 2(Reference Pressure 2)(P_ref 2)의 밀도(Density)(ρ)]`
 
   * 관찰되는_시간(Observed Time)(`t_obs`)은, 간극_시간(Delta Time) 그리고 기준_압력 1(Reference Pressure 1)의 밀도(Density)와 기준_압력 2(Reference Pressure 2)의 밀도(Density)(ρ)에 따라 가변적(Variable)이다
   
-  * 예 1: `압력 A-1(Pressure A-1) 10[부피(Volume) 1 * 밀도(Density) 10]`과 `압력 A-2(Pressure A-2) 100[부피(Volume) 10 * 밀도(Density) 10]`에 대한 관찰되는_시간(Observed Time)은,
+  * 예 1: `압력 A-1(Pressure A-1) 20[부피(Volume) 2 * 밀도(Density) 10]`과 `압력 A-2(Pressure A-2) 100[부피(Volume) 10 * 밀도(Density) 10]`에 대한 관찰되는_시간(Observed Time)은,
 
     |기준_압력 2(Reference Pressure 2)(P_ref 2)|기준_압력 1(Reference Pressure 1)(P_ref 1)|압력 A-1(Pressure A-1)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|압력 A-2(Pressure A-2)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|기준_압력(Reference Pressure)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|
     |---|---|---|---|---|
@@ -401,7 +404,7 @@ ___
     ||압력 B-2(Pressure B-2)의 관찰되는_시간(Observed Time)은|0.0092 t_obs|0.1818 t_obs|0.0018 t_obs|
     ||기준_압력(Reference Pressure)의 관찰되는_시간(Observed Time)은|15 t_obs|297 t_obs|3 t_obs|
 
-  * 예 3: `압력 C-1(Pressure C-1)[간극(Delta)] 135[부피(Volume) 3 * 밀도(Density) 45]`과 `압력 C-2(Pressure C-2) 396[부피(Volume) 12 * 밀도(Density) 33]`에 대한 관찰되는_시간(Observed Time)은,
+  * 예 3: `압력 C-1(Pressure C-1)[간극(Delta)] 90[부피(Volume) 2 * 밀도(Density) 45]`과 `압력 C-2(Pressure C-2) 396[부피(Volume) 12 * 밀도(Density) 33]`에 대한 관찰되는_시간(Observed Time)은,
 
     |기준_압력 2(Reference Pressure 2)(P_ref 2)|기준_압력 1(Reference Pressure 1)(P_ref 1)|압력 C-1(Pressure C-1)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|압력 C-2(Pressure C-2)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|기준_압력(Reference Pressure)들로 형성(Formation)된 계층에서, 3회 작용(Action)하고 유출되었을 때|
     |---|---|---|---|---|
@@ -419,7 +422,7 @@ ___
 
 * 제논의 역설 "아킬레우스와 거북이(Achilles and the Tortoise)"에 대하여, 거북이 기준으로 거북이가 감각하는 모든 순간에 아킬레우스가 거북이 보다 더 빠르므로 거북이를 기준으로 한다고 해도 거북이는 아킬레우스에게 따라 잡힌다 그리고, 아킬레우스를 기준으로 한다면 말한 것도 없다, 이에 해당 역설은 거북이와 아킬레우스가 달리기를 하는 것을 관찰하는 제 3의 관찰자가 있다는 것이고, 그 제 3의 관찰자가 순간을 정적_무한(Fixed Infinity)히 쪼갤 수 있다는 것이다\[순간을 정적_무한(Fixed Infinity)히 감각,관찰 따위할 수 있다는 것이다\] 그런데 순간을 정적_무한(Fixed Infinity)히 쪼갤 수 있다는 것은, 그 정적_무한(Fixed Infinity)의 완결_불가(Uncompletability)\[시간(Time)적 정지\]와 무한한 작용(비정지)을 동시에 주장하는 것으로 모순되고 실재_불가(Non-reality)하다
 
-* 빛(Light)
+* ***5\.3\. 빛(Light)***
 
   * *'빛(Light)'은, 세상(Universe) 내부의 모든 실재(Reality)는 삼투적(Osmosis)으로 상호침투(Interfused)해 있고 <a href="#상호침투의-불가피_d" id="상호침투의-불가피_u"><sup>[상호침투(Interfused)의 불가피(Inevitable)]</sup></a> , 이러한 연결을 전제(Premise)하며 이보다 후행한다, 그리고 앞의 연결과 달리 — 차단, 통과 따위를 포함 — 밀도(Density)에 따른 실태(Actuality)에 의한 현상(Phenomenon) <a href="#현상_d" id="현상_u"><sup>[현상(Phenomenon)]</sup></a> 이다*
 
@@ -434,6 +437,7 @@ ___
 *<a href="#현상_u" id="현상_d">[현상(Phenomenon)]</a>: \[정의\]* 관찰자에게 관찰(Observation)되는 상(Image)을 뜻한다
 
 ___
+
 ## 맺음말
 
 해당 객체(Object)를 고정하는 거치대(Fixing-holder) 따위는 해당 객체(Object) 내에 실재(Reality) 할 수 없다 팔을 외부와 고정하는 거치대가 팔 내부에 실재(Reality)할 수 없는 것과 같다, 인간(Human)을 예로 들어 본다면 인간(Human)에 대한 기준\[유사_고정_상태(Quasi-fixed State)\]은 태양이나 사회,집단 따위 인간(Human) 외부에 실재(Reality)한다\[모든 판단 따위를 스스로 한다고 하여도 마찬가지다, 이것은 생태적, 생물학적 따위로나 경험 따위로도 기존 인프라의 영향(Effect)으로 부터 완전히 격리될 수 없기 때문에 불가항력이다\]
