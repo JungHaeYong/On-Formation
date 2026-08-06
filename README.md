@@ -30,4 +30,4 @@
 
 ## Open Verification Channel
 
-* https://notebook.google.com/notebook/7b81bf2d-4bb8-44d2-99c7-34256edcc281?utm_source=gemini_notebook&utm_medium=referral&pli=1
+* https://notebook.google.com/notebook/917d3ef4-3eb0-4881-b605-412a8858414b/preview
