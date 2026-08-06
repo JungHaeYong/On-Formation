@@ -1,469 +1,454 @@
-# **On Formation (형성에 대하여)**
+# **On Formation**
 
 ## **Abstract**
 
-### **The Content of This Treatise**
+### **The contents of this paper contradict:**
 
-* ***Conflicts with the Big Bang Theory \[Georges Lemaître, Edwin Hubble: "Accidental Explosion and Expansion from Nothingness"\]***
+* ***Accidental explosion and expansion from Nothingness \[Georges Lemaître, Edwin Hubble "Big Bang Theory"\]***
 
-  * Chance cannot operate under the sole condition of Nothingness (no event or accident can occur). Furthermore, to postulate 'Absolute Nothingness,' the Maintenance of the Nothingness State must also be postulated. Therefore, Absolute Nothingness, which lacks even Maintenance, *cannot exist in Reality.*  
+  * Chance cannot operate under the sole condition of Nothingness (events cannot occur), and to postulate 'Absolute Nothingness', the maintenance of the Nothingness State must also be postulated. Therefore, *Absolute Nothingness that is not maintained is Non-reality.*  
 
-* ***Conflicts with Particle Physics & Classical Mechanics \[Isaac Newton: "The Existence of Matter (Particles) as a Premise for Force"\]***
+* ***The existence of objects (particles) being the premise of force \[Isaac Newton "Classical Mechanics and Particle Physics"\]***
 
-  * Maintenance also belongs to Shift(`⟶`) \[Pressure(`P`)\]. Through the Accumulative nature of Shift, Space is Formed, and matter (particles) belongs to Space. Therefore, *Force is Antecedent to Space, and Space is Antecedent to matter (particles).*
+  * Maintenance also belongs to Shift (`⟶`) \[Pressure (`P`)\]. Space is formed by the accumulation of Shift, and objects (particles) belong to Space. Therefore, *Force precedes Space, and Space precedes objects (particles).*  
 
-* ***Conflicts with Newton's First Law of Motion \[Galileo Galilei, Isaac Newton: "Eternal Straight-line Motion in Space Without External Forces"\]***
+* ***Eternal linear motion in space without external forces \[Galileo Galilei, Isaac Newton "First Law of Motion"\]***
 
-  * Since Maintenance also belongs to Shift, everything (and everywhere) is constantly undergoing Shift (Force is Acting). Therefore, *Absolute Empty-space without external forces is Non-reality. Furthermore, all Motion is guided toward the path of lowest Resistance(`R`) (Perpetuity)* (`Motion ∝ -∇R`).  
+  * — Since maintenance also belongs to Shift — everything (everywhere) is always shifting (Force acts). Therefore, Absolute Empty-space without external forces is Non-reality. Furthermore, all Motion is guided to (perpetuates in) the path of lowest Resistance (`R`). ( `Motion ∝ -∇R` )  
 
-* ***Conflicts with Newton's Principia \[Isaac Newton: "Inherent Invariant Property of Matter Proportional to Acceleration (F=ma)"\]***
+* ***Intrinsic invariant properties of matter defined by the relation between acceleration and force (F=ma) \[Isaac Newton "Principia"\]***
 
-  * 'Getting hit by a heavier object hurts more,' 'Moving on a weight scale changes the weight value'... Mass is not an inherent invariant property. Force is Pressure and Density. *When additional Force is applied to matter (Force), the Direction in which that Force heads is guided toward the lowest Resistance (Perpetuity)* \[`v ≡ Impulse(I) ∝ |-∇R| ⟺ |-∇ρ|`\].  
+  * 'Getting hit by a heavier object hurts more.', 'Moving on a scale changes the weight value'... Mass is not an intrinsic property. Force (`F`) is Pressure (`P`), and Pressure (`P`) is `Volume (V) * Density (ρ)`. *When a certain amount of Pressure is added to matter* \[`Object, Volume (`V`) * Density (ρ)`\]*, the direction which that Object* \[Volume, `(V) * Density (ρ)`\] *heads toward is guided to (perpetuates in) the path of lowest Resistance, and the Pressure* \[Mass, `Volume (V) * Density (ρ)`\] *corresponding to the Object is also a variable retention state that constantly changes according to external Pressure and Density.* \[ `v ≡ Impulse (I) ∝ |-∇R| ⟺ |-∇ρ|` \]  
 
-* ***Conflicts with Newton's Third Law of Motion \[Isaac Newton: "Immediate and Absolute Symmetry of Action and Reaction"\]***
+* ***Immediate and absolute symmetry of action and reaction \[Isaac Newton "Third Law of Motion"\]***
 
-  * As long as an Object possesses Volume, its Inward Surface Area is structurally and naturally larger than its Outward Area. Moreover, because even Maintenance possesses a Minimum Delta, Action and Reaction cannot be immediate (Absolutely simultaneous). Therefore, *'Action and Reaction' cannot achieve Absolute Symmetry in magnitude (?) nor occur Absolutely simultaneously.*  
+  * As long as an Object possesses Volume, its Inward Surface Area is structurally and naturally larger than its Outward Area. Furthermore, since even maintenance requires a Minimum Delta, Action and Reaction cannot be immediate (absolutely simultaneous). Therefore, *Action and Reaction cannot form an Absolute Symmetry in magnitude nor can they occur absolutely simultaneously.*  
 
-* ***Conflicts with Classical Determinism / Laplace's Demon \[Pierre-Simon Laplace: "Precedence of Data Capable of Future Prediction Simultaneous with Phenomena"\]***
+* ***The antecedence of data that is simultaneous with phenomena and capable of predicting the future \[Pierre-Simon Laplace "Laplace's Demon / Classical Determinism"\]***
 
-  * Regarding a State where `0` is repeatedly added: if one perceives `0+0+0+0` and derives the value `0+0+0+0=0`, the current State at that moment is closer to `0+0+0+0+0` than to `0+0+0+0=0`. Even if the future is predetermined, that future can never be Absolutely identical to any past state, and thus future prediction under 'Absolutely identical conditions' is impossible. Therefore, *Information or Data cannot be Absolutely simultaneous with Actuality; while predicting the future may be attempted, an Image that Absolutely coincides with the future cannot be derived.*  
+  * Regarding a state where `0` is repeatedly added: if one recognizes `0+0+0+0` and derives the value `0+0+0+0=0`, the state at that instant is closer to `0+0+0+0+0` than to `0+0+0+0=0`. Even if the future were determined, that future cannot be absolutely identical to any past that preceded it, and thus the future cannot be predicted under 'absolutely identical conditions'. Therefore, *Information or Data cannot be absolutely simultaneous with Actuality; although one may attempt to predict the future, an image that absolutely matches the future cannot be derived.*  
 
-* ***Conflicts with General Relativity \[Albert Einstein: "An Already-Completed Geometrical Field Where Events Occur"\]***
+* ***Already completed geometric field in which events occur \[Albert Einstein "General Relativity"\]***
 
-  * *"The Universe is a dynamic construction site where media push, flow, and squeeze without a fixed holder." (by Gemini)*
+  * *"The universe is a dynamic construction site where the medium pushes, flows, and squeezes, without a fixed holder." (by Gemini)*
 
-* ***Conflicts with Special Relativity \[Albert Einstein: "Absolute Constant (c) Unchanging Anywhere in the Universe"\]***
+* ***Absolute constant (c) unchanging anywhere in the universe \[Albert Einstein "Special Relativity"\]***
 
-  * *Light also changes its Velocity(`v`) relative to gravitational fields or atmospheres. Likewise, this should not be described as time slowing down or speeding up, but rather that the Velocity of Light(`c`) is not an Absolute Constant.* (`c ≡ v ∝ |-∇R| ⟺ |-∇ρ|`)  
+  * Light also changes its Velocity (`v`) relative to gravitational fields or the atmosphere. This should not be interpreted as time slowing down or speeding up, but rather that the Velocity of Light (`c`) is not an Absolute Constant. ( `c ≡ v ∝ |-∇R| ⟺ |-∇ρ|` )  
 
-* In addition to the above, this treatise conflicts with various traditional perspectives, describing that *"the Universe is a Perpetual Fractal of Feedback between a Non-fixed State and a Quasi-fixed State."*
-
-# **On Formation (형성에 대하여)**
+* Furthermore, it contradicts various traditional views—including the above—and describes that *"The Universe is the perpetual feedback between the Non-fixed State and the Quasi-fixed State, a Fractal Perpetuity."*
+___
+# **On Formation**
 
 ## **Part 1**
 
 ### **Introduction**
 
-* The development of thought regarding this treatise, *"On Formation"*, began in the author's early-to-mid 30s (initially under the title "On the Form of Formation"). The formal documentation was triggered on January 6, 2026, during a conversation with the *AI assistant Gemini (hereafter Gem)* regarding the question of how many bits `0` and `0+0+0+0=0` respectively represent.
+* Regarding this paper *"On Formation"*, the development of its thought began in my early-to-mid 30s (originally starting under the title "On the Form of Formation"). The impetus to begin documentation arose on January 6, 2026, during a dialogue with the *AI assistant Gemini (hereinafter Gem)*, starting from a question asking how many bits `0` and `0+0+0+0=0` respectively represent, and the conversation that followed.
 
-> *"The Universe is a dynamic construction site where media push, flow, and squeeze without a fixed holder." (by Gem)*
+> *"The universe is a dynamic construction site where the medium pushes, flows, and squeezes, without a fixed holder." (by Gem)*
 
-* Aristotle \[*Metaphysics*, Book Alpha (I), 980a 21\] stated: "Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει." ("All men by nature desire to know.") Regarding this, knowing is Experience (thinking is Experience, and Experience is Shift) and the past (accumulation). Wanting to know, however, is directed toward the future. Thus, the Experience of Reality is inevitable; for example, even if a Human does not wish to experience tomorrow, as long as they are alive, they cannot help but experience tomorrow (cannot help but know tomorrow). Therefore, even if one does not wish to know (or experience), coming to know as a Human is inevitable.  
+* Regarding Aristotle \[Metaphysics, Book Alpha, 980a 21\] "Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει.", "All men by nature desire to know.", "All humans by nature possess a desire to know": First, knowing is Experience (thinking is also Experience, and Experience is also Shift) and it is the past (accumulated). Wanting to know is regarding the future. Thus, the Experience of Reality is inevitable. For example, even if a Human does not wish to experience tomorrow, as long as one is alive, one cannot help but experience tomorrow (one cannot help but know tomorrow). Therefore, even if one does not wish to know (or experience), knowing as a Human is inevitable.  
 
-* Even in the present, an intellectual infrastructure has been Formed (Accumulated) that is overwhelming for an individual Human to fully possess, and these matters must be organized for the present and future. Hence, this treatise begins with a single proposition: *'The Universe is Non-fixed (No-holder)'*, and proceeds to describe the Universe.
-
+* At present, an intellectual infrastructure has been formed (accumulated) that is daunting for an individual or a single Human to fully acquire, and these must be organized for the present and the future. Thus, in this paper, starting from a single proposition—*'The Universe is Non-fixed (No-holder)'*—I proceed to describe the Universe.
+___
 ## **Part 2**
 
-### **Dialectics — Existing Propositions and Counterarguments**
+### **Dialectics — Arguments and Counterarguments**
 
-#### ***1\. Regarding Accidental Explosion and Expansion from Nothingness \[Georges Lemaître, Edwin Hubble: "Big Bang Theory"\]***
+#### ***1\. Regarding accidental explosion and expansion from Nothingness \[Georges Lemaître, Edwin Hubble "Big Bang Theory"\]***
 
-* For chance to operate, there must be an Impact (an event or chance occurrence must be able to happen). Therefore, asserting that chance operated from a single element of Nothingness (which excludes the condition for chance to occur, simultaneously denying chance) is a contradiction; *Absolute Nothingness arising from a single element of Nothingness cannot exist in Reality.*  
+* For chance to operate, there must be Impact (events, chance, etc., must be able to occur). Therefore, claiming that chance operated from a single element called Nothingness (under conditions where chance cannot occur, thus denying chance while simultaneously invoking it) is a contradiction, and *Absolute Nothingness by a single element of Nothingness is Non-reality.*  
 
-* ➀ If 'Nothingness' is postulated, the *'Maintenance of Nothingness'* must also be postulated. ➁ Maintenance(`t₀ ⟶ t₁`) is also Shift(`⟶`), possessing a Delta(`t₀ ⟶ t₁`). *'Absolute Nothingness'* that lacks even this Delta(`t₀ ⟶ t₁`) (Maintenance, Maintenance Delta) is *Non-reality* (Absolute Stasis implies annihilation due to the Absence of Maintenance, and thus is Non-reality). ➂ 'Nothingness' is Naturally bound to 'Maintenance' and 'Maintenance Delta'. ➃ Since `(Delta)(δ) ≡ Shift(⟶) ≡ Force(F) ≡ Pressure(P)`, even when a State of Nothingness (Space, Volume being `0`) is Maintained, that Delta (Force) is not `0`. ➄ During Nothingness, that Delta acts as Pressure (Outward Pressure and Inward Pressure) (Density). Therefore, ➅ even in Nothingness — `Delta(δ)[Pressure(P)] ⟺ Density(ρ)` — Pressure is not `0`. ➆ Consequently, as the State of Nothingness continues to be Maintained, Pressure and Density continuously Increase. ➇ Furthermore, because Maintenance possesses a Minimum Delta(`δ_min`) *<a href="#Minimum-Delta_d" id="Minimum-Delta_u"><sup>[Minimum Delta]</sup></a>*, Absolute overlapping is Impossible; if complete overlapping were possible, it would only continue to overlap without Expansion. ➈ If Density were infinite, Absolute overlapping must be possible (which would allow only overlapping without Expansion, rendering the present Universe incapable of being Reality), yet the present Universe is Reality. Therefore, ➉ *there is a limit to Density Increase* (Absolute overlapping is Non-reality) *<a href="#Limit-of-Density-1_d" id="Limit-of-Density-1_u"><sup>[Limit of Density 1]</sup></a>*. ⑪ Hence, reaching the limit of Density Increase from a State of Nothingness leads to the explosive Dispersion of accumulated Pressure (Density), which constitutes the Great Expansion.  
+* ➀ If 'Nothingness' is postulated, the *'Maintenance of Nothingness'* must also be postulated. ➁ Maintenance (`t₀ ⟶ t₁`) is also Shift (`⟶`), and there exists a Delta (`t₀ ⟶ t₁`). *Absolute Nothingness*, lacking even this Delta (`t₀ ⟶ t₁`) (Maintenance, Maintenance Delta), signifies dissolution due to the absence of Maintenance and is thus *Non-reality* (Absolute Nothingness cannot be maintained, so it is self-contradictory in itself). ➂ 'Nothingness' is naturally accompanied by 'Maintenance' and 'Maintenance Delta'. ➃ `Shift (⟶) ≡ Force (F) ≡ Pressure (P) ≡ Delta (δ) ≡ [Volume (V) * Density (ρ)]`, and even when the Nothingness State is maintained, its Delta (Force, Pressure) is not `0`. As the Nothingness State continues to be maintained, Pressure \[`Volume * Density`\] increases. ➄ Furthermore, since there is a limit to Density *<a href="#Limit-of-Density-1_d" id="Limit-of-Density-1_u"><sup>[Limit of Density 1]</sup></a>*, complete overlapping is Impossible. ➅ The Universe is a Phenomenon wherein continued Shift from the Nothingness State has accumulated.  
 
-* Concepts such as Nothingness and `0` are human-made concepts. For example, even among humans, complete synchronization of vision cannot be achieved; thus — as humans do not share Absolutely identical Images of a Phenomenon — there is Naturally no Phenomenon that is Absolutely identical to human-made concepts. Furthermore, regarding the concept of Absolute Nothingness, if it was derived from Empty-space, as will be discussed later, Absolutely Empty-space is Non-reality, meaning it contains an inherent fallacy. Thus, the primordial (?) State also cannot be Absolutely identical to concepts like Absolute Nothingness.
+* Concepts such as Nothingness or `0` are concepts constructed by Humans. For instance, even among Humans, complete (Absolute) synchronization of sight cannot be achieved. Thus—since even among Humans the perceived image regarding a certain Phenomenon is not absolutely identical—there naturally exists no Phenomenon that is absolutely identical to a concept constructed by Humans. Furthermore, regarding concepts like Absolute Nothingness, if derived from Empty-space, as will be discussed later, Absolutely Empty-space does not exist (Non-reality), hence it contains an error. Thus, the primordial (?) state also cannot be absolutely identical to concepts such as Absolute Nothingness.
 
-*<a href="#Minimum-Delta_u" id="Minimum-Delta_d">[Minimum Delta]</a>:* Refers to the Delta (interval) bound to the Perpetuity of Actuality (Phase Shift, Pressure) that can never be eliminated (cannot become `0`) no matter how finely divided.
+*<a href="#Limit-of-Density-1_u" id="Limit-of-Density-1_d">[Limit of Density 1]</a>:* Since real Pressure is finite, the Density achievable by it naturally corresponds to it. Furthermore, a Delta of `0` signifies annihilation and is Non-reality.
 
-*<a href="#Limit-of-Density-1_u" id="Limit-of-Density-1_d">[Limit of Density 1]</a>:* Since real Pressure is finite, the Density attainable by it Naturally follows accordingly.
+#### ***2\. Regarding the existence of objects (particles) being the premise of force \[Isaac Newton "Classical Mechanics and Particle Physics"\]***
 
-#### ***2\. Regarding the Existence of Matter (Particles) as a Premise for Force \[Isaac Newton: "Classical Mechanics and Particle Physics"\]***
+* If 'the existence of objects (particles) is the premise of force', how do 'objects (particles)' come into existence? Do 'objects (particles)' not belong to the Universe? If so, do 'objects (particles)' not at least presuppose the Universe as a premise? Then, since the Universe is `Nothingness + Shift (⟶)` and it was stated that `Shift (⟶) ≡ Force (F) ≡ Pressure (P) ≡ Delta (δ) ≡ [Volume (V) * Density (ρ)]`, *'force precedes objects' rather than 'the existence of objects (particles) being the premise of force'.*  
 
-* If 'the existence of matter (particles) is the premise for force,' how do 'matter (particles)' come into existence? Does not 'matter (particles)' belong to the Universe? If so, does not 'matter (particles)' at least premise the Universe? Then, since the Universe is `Nothingness + Delta(δ)`, and `Delta(δ) ≡ Shift(⟶) ≡ Force(F)`, *'force is antecedent to matter,' rather than 'matter being the premise for force.'*
+* Additionally, regarding 'gravity', Motion depends on the resistance gradient (`-∇R`) (`Motion ∝ -∇R`). And regarding Earth, since its Inward Surface Area is structurally and naturally larger than its Outward Area (`A_inner > A_outer`), *the phenomenon of moving toward Earth according to the actuality of the difference between Inward Pressure and Outward Pressure is what is called gravity.*
 
-* Additionally, regarding 'gravity': applying gravity to the former proposition yields 'the existence of matter (particles) is the premise for force (gravity, attraction),' which was refuted above.  
+#### ***3\. Regarding eternal linear motion in space without external forces \[Galileo Galilei, Isaac Newton "First Law of Motion"\]***
 
-* Likewise, if 'the existence of matter (particles) is the premise for force (gravity, attraction),' then for gravity or attraction to exist, matter (particles) must exist first. In this treatise, it is asserted that *'force is antecedent to matter, rather than matter being the premise for force.'* If this is correct, as long as traditional gravity (attraction) is assumed as a premise, the Formation of the Universe or matter (particles) cannot be discussed.  
+* First, since it was stated that Shift \[Force (`F`)\] forms Space, the existence of Space means that Force fills that Space. Therefore, in the same sense as Absolute Nothingness, *Absolute Empty-space does not exist (Non-reality).*  
 
-* 'Gravity' is, for example, a macro-compression Actuality resulting from Outward Pressure being exceeded by Inward Pressure toward Earth. This Pressure imbalance causes all internal elements to aggregate and Form a single Object (Earth); the Phenomenon of compression (Actuality) caused by this imbalance is what is called gravity. *<a href="#Gravity_d" id="Gravity_u"><sup>[Gravity]</sup></a>*
+* Furthermore, Space cannot be formed merely by Force filling it; Force must form a Density above a certain threshold without dispersing. And that Force is not a static something, but Pressure undergoing Perpetual Shift. Thus, Density according to Pressure proves that all Reality in the Universe is osmotically interfused, and *Space completely isolated from the Universe is Non-reality.*  
 
-*<a href="#Gravity_u" id="Gravity_d">[Gravity]</a>:* Motion depends on the Resistance Gradient (`-∇R`) (`Motion ∝ -∇R`). Since Inward Pressure toward Earth is Naturally larger than Outward Pressure \[the Formation of Earth into a Quasi-spherical shape signifies that a corresponding Inward Pressure is converging/heading toward it, forming the resulting Retention Pressure (Earth)\], as long as this Inward Pressure remains large, objects Move toward Earth by the difference between Inward Pressure and Outward Pressure. This is what is called gravity and felt as attraction.
+* And *Motion perpetuates in the path of lowest Resistance (`R`).*  
 
-#### ***3\. Regarding Eternal Straight-line Motion in Space Without External Forces \[Galileo Galilei, Isaac Newton: "First Law of Motion"\]***
+  * `Motion ∝ -∇R ⟺ -∇ρ` *<a href="#Equivalent-to-resistance-gradient-and-density-gradient_d" id="Equivalent-to-resistance-gradient-and-density-gradient_u"><sup>[Equivalent to resistance gradient and density gradient]</sup></a>*
 
-* First, since Shift \[Force(`F`)\] Forms Space, the existence of Space means that Force fills that Space. Therefore, in the same sense as Absolute Nothingness, *Absolute Empty-space is Non-reality.*  
+*<a href="#Equivalent-to-resistance-gradient-and-density-gradient_u" id="Equivalent-to-resistance-gradient-and-density-gradient_d">[Equivalent to resistance gradient and density gradient]</a>:* As Pressure increases, Density also increases, and as Pressure decreases, Density also decreases; thus, the Resistance gradient (`-∇R`) becomes synonymous with the Density drop/gradient (`-∇ρ`).
 
-* ➀ Complete overlapping is Impossible due to the Maintenance Delta. ➁ Force fills all parts of the Universe, each with differing Leverage, and its sum continuously Increases. Consequently, 'no two conditions can be Absolutely identical, and the Universe continuously exhibits different States. Since Absolutely identical States cannot recur, the number of possible States progresses toward Dynamic Boundlessness.' Thus, 'matter (particles) as the premise for force' was refuted above, and *Space completely isolated from the Universe is Non-reality.*  
+#### ***4\. Regarding the intrinsic invariant properties of matter defined by the relation between acceleration and force (F=ma) \[Isaac Newton "Principia"\]***
 
-* *Motion Perpetuates toward the direction of lowest Resistance(`R`).*
+* Previously, it was stated that *"'force precedes objects' rather than 'the existence of objects (particles) being the premise of force'."* If so, `F = ma` must become `ma = F`, and since Acceleration (`a`) belongs to Shift (Force), `ma = F` becomes `mF = F`. Thus—since *'force precedes objects'*—`mF = F` must become `m = F` *<a href="#Regarding-m=F_d" id="Regarding-m=F_u"><sup>[Regarding m=F]</sup></a>*. Therefore, *mass is not an 'intrinsic invariant property', but variable according to `Motion ∝ -∇R ⟺ -∇ρ` and `v ≡ I ∝ |-∇R| ⟺ |-∇ρ|`.*
 
-* `Motion ∝ -∇R ⟺ -∇ρ` *<a href="#Equivalence-between-Resistance-Gradient-and-Density-Gradient_d" id="Equivalence-between-Resistance-Gradient-and-Density-Gradient_u"><sup>[Equivalence between Resistance Gradient and Density Gradient]</sup></a>*
+*<a href="#Regarding-m=F_u" id="Regarding-m=F_d">[Regarding m=F]</a>:* If `Shift (⟶) ≡ Force (F) ≡ Pressure (P) ≡ Delta (δ) ≡ [Volume (V) * Density (ρ)]`, then `m = F` is `F ≡ (V * ρ) ≡ m`.
+#### ***5\. Regarding immediate and absolute symmetry of action and reaction \[Isaac Newton "Third Law of Motion"\]***
 
-*<a href="#Equivalence-between-Resistance-Gradient-and-Density-Gradient_u" id="Equivalence-between-Resistance-Gradient-and-Density-Gradient_d">[Equivalence between Resistance Gradient and Density Gradient]</a>:* Higher Pressure yields higher Density, and lower Pressure yields lower Density; thus, the Resistance Gradient (`-∇R`) is synonymous with the Density Gradient (`-∇ρ`).
+* Action and Reaction, as long as an Object possesses Volume, structurally and naturally have its Inward Surface Area larger than its Outward Area. Accordingly, the Inward Pressure and Outward Pressure of the Object cannot form an 'Absolute Symmetry'.  
 
-#### ***4\. Regarding Inherent Invariant Property of Matter Proportional to Acceleration (F=ma) \[Isaac Newton: "Principia"\]***
+* If Action and Reaction formed an 'Absolute Symmetry', they would be bound to a cycle (?) of 'Absolute Symmetry' and unable to perform any other Motion. For example, when trying to raise an arm, if a force forming an 'Absolute Symmetry' with the force attempting to raise the arm reacts simultaneously, one would be unable to raise the arm or move it otherwise. By extension, everything else would likewise have to remain stopped, and extending this further, everything must have been stopped since the primordial (?) origin, and the present Universe could not exist in Reality. But since it is not so, 'immediate and absolute symmetry of action and reaction' is naturally rejected.
 
-* It was stated above that *'force is antecedent to matter, rather than matter being the premise for force.'* If so, `F = ma` must become `ma = F`. Since Acceleration(`a`) belongs to Shift (Force), `ma = F` becomes `mF = F`. Furthermore, since *'force is antecedent to matter,'* `mF = F` must become `m = F` *<a href="#Regarding-m=F_d" id="Regarding-m=F_u"><sup>[Regarding `m = F`]</sup></a>*. Therefore, *mass is not an 'inherent invariant property,' but a State of Force that is variable according to that State.*
+#### ***6\. Regarding the antecedence of data that is simultaneous with phenomena and capable of predicting the future \[Pierre-Simon Laplace "Laplace's Demon / Classical Determinism"\]***
 
-*<a href="#Regarding-m=F_u" id="Regarding-m=F_d">[Regarding `m = F`]</a>:* If `Delta(δ) ≡ Shift(⟶) ≡ Pressure(P) ≡ Force(F) ⟺ Density(ρ)`, then `m = F` corresponds to `F ⟺ m = V * ρ`.
+* How are 'Information or Data' perceived by a stone? Or in what state does a stone possess 'Information or Data'? And 'Information or Data' can change from a Human perspective due to shifts in viewpoints, definitions (including updates), and the development of observational tools over time, and is not consistent depending on the observer (observer, observee, subjects imparting or receiving Effect, etc.), so 'Information or Data' is not a Constant.  
 
-#### ***5\. Regarding Immediate and Absolute Symmetry of Action and Reaction \[Isaac Newton: "Third Law of Motion"\]***
+* Taking a specific event as an example: ➀ Since the Universe constantly exhibits different States (as the total sum of the Universe perpetually increases), events exhibit a different State (value) \[a new State (value)\] every time (every moment is a unique first Shift heading toward Dynamic Boundlessness). ➁ Since Maintenance also has a Delta, events do not stop even at the moment one attempts prediction and continue to Shift; Observation also has a Delta (Observational Delta), and converting into Data also has a Delta. And ➂ to the extent that the act of Observation imparts an Effect on the observee, an altered image is obtained. Therefore, ➃ by `Effect of observational act + Observational Delta + Data-conversion Delta`, one strays from the Actuality of the object of observation, and 'simultaneous with phenomena' is rejected. And ➄ since even among Humans, vision cannot be absolutely aligned, the future cannot be predicted under 'absolutely identical conditions'. Because the future cannot be predicted under 'absolutely identical conditions', it will inevitably deviate by whatever margin. Therefore, ➅ *even if the future were determined—though one may attempt prediction—an image that absolutely matches the future cannot be derived.*
 
-* If 'immediate and absolute symmetry of action and reaction' occurs without Delta, they cancel out — equivalent to no Actuality occurring — rendering any Phenomenon recognizable as Action or Reaction impossible (unobservable). Had no Actuality occurred since the primordial origin (?), the present Universe could not exist as Reality. Since the present Universe is Reality, *'immediate and absolute symmetry of action and reaction' is naturally refuted.* *<a href="#Refutation-of-Action-and-Reaction-with-Absolute-Symmetry_d" id="Refutation-of-Action-and-Reaction-with-Absolute-Symmetry_u"><sup>[Refutation of Action and Reaction with Absolute Symmetry]</sup></a>*  
+#### ***7\. Regarding an already completed geometric field in which events occur \[Albert Einstein "General Relativity"\]***
 
-* ➀ As long as an Object possesses Volume, its Inward Surface Area is structurally and naturally larger than its Outward Area. Therefore, the sum of Inward Pressure on an Object is structurally and naturally larger than the Pressure escaping through that Object (Outward Pressure). Thus, purely in terms of magnitude (?), *'Action and Reaction' achieving 'Absolute Symmetry' is Non-reality.* ➁ Furthermore, because Maintenance also possesses a Delta, States of complete overlapping, complete simultaneous cancellation (where start and end are Absolutely identical), or Absolute Stasis are Impossible. *<a href="#Refutation-1-of-Absolute-Stasis_d" id="Refutation-1-of-Absolute-Stasis_u"><sup>[Refutation 1 of Absolute Stasis]</sup></a>* ➂ Therefore, *simultaneously canceling 'Action and Reaction' that lack both Antecedent and Subsequent continuation are Non-reality.*
+* ➀ Why is only the background (Field) completed while the characters (internal components) are not completed? ➁ How was that background (Field) completed? ➂ From where to where or what constitutes the background (Field), and from where to where or what constitutes the characters? ➃ In an Absolute sense, Completion implies a state where everything has already been accomplished and no further events can occur (requiring no addition or subtraction), which includes stasis; how then can it interact with characters or undergo deformation? Thus, ➄ if the background (Field) were completed in an Absolute sense, it must either be completely isolated from the characters, or since the characters are included in the background (Field), the characters must also be completed in an Absolute sense and remain stopped. Thus, ➅ *the Universe and the things belonging to the Universe are not completely isolated (and cannot be isolated), and the Universe and the things belonging to the Universe cannot be completed in an Absolute sense (since Shift perpetuates); therefore, 'an already completed geometric field in which events occur' is rejected.*
 
-*<a href="#Refutation-of-Action-and-Reaction-with-Absolute-Symmetry_u" id="Refutation-of-Action-and-Reaction-with-Absolute-Symmetry_d">[Refutation of Action and Reaction with Absolute Symmetry]</a>:* If Action and Reaction achieved 'Absolute Symmetry,' they would be bound to a circulation (?) of 'Absolute Symmetry' and rendered incapable of other Motion due to being trapped in that symmetrical circulation. For instance, if one attempted to raise an arm and a Force of 'Absolute Symmetry' reacted simultaneously against the lifting Force, the arm could not be raised nor moved otherwise. Extended to all things, everything would be at a standstill from the origin, rendering the present Universe incapable of being Reality. As this is not the case, *'immediate and absolute symmetry of action and reaction' is naturally refuted.*
+#### ***8\. Regarding the absolute constant (c) unchanging anywhere in the universe \[Albert Einstein "Special Relativity"\]***
 
-*<a href="#Refutation-1-of-Absolute-Stasis_u" id="Refutation-1-of-Absolute-Stasis_d">[Refutation 1 of Absolute Stasis]</a>:* Human vision is accustomed to phenomena like a rolling ball gradually coming to a stop. However, even when a ball appears Absolutely stationary, it remains in a State of continuous Interaction between internal and external Pressures. Since Density cannot Increase infinitely (Absolute overlapping is Impossible) and Minimum Delta(`δ_min`) Perpetuates, Absolute Stasis is Non-reality.
+* In a completed Field in an Absolute sense, Velocity (Shift) is Impossible.  
 
-#### ***6\. Regarding Precedence of Data Capable of Future Prediction Simultaneous with Phenomena \[Pierre-Simon Laplace: "Laplace's Demon / Classical Determinism"\]***
+* Furthermore, just as the Velocity (`v`) of a sailboat differs in headwinds versus tailwinds, or when walking through a mudflat versus walking on a flat, dry road, one does not say that time slowed down or sped up. Light also changes its Velocity (`v`) relative to gravitational fields or the atmosphere. This too should not be interpreted as time slowing down or speeding up; *it means that the Velocity of Light (`c`) is not an Absolute Constant.*  
 
-* How are 'Information or Data' perceived by a stone? Or in what State does a stone possess 'Information or Data'? Information or Data change from human perspectives according to era, definition updates, and observation tools, and are inconsistent depending on the observer (observer vs. observed, subjects exerting or receiving Effects) (they are not Absolute Constants, like light).  
+* `c ≡ v ≡ I ∝ |-∇R| ⟺ |-∇ρ|`  
 
-* Furthermore, ➀ taking an event as an example, since the Universe continuously exhibits different States (Absolutely identical States cannot recur), every event exhibits a different (new) State. ➁ Since Maintenance possesses a Delta, events do not stop but continue to Shift even while prediction is attempted; observation also involves a Delta (Observational Delta), and data conversion involves a Delta. ➂ As the act of observation imparts an Effect on the observed, a modified Image is obtained. Therefore, ➃ by `Effect of observation + Observational Delta + Data conversion Delta`, the image strays from the Actuality of the observed object, refuting 'simultaneity with phenomena.' ➄ Because complete overlapping is Impossible, predicting the future under 'Absolutely identical conditions' is impossible; predicting under 'non-identical conditions' inevitably incurs deviation. ➅ *Even if the future were predetermined — though prediction may be attempted — an Image Absolutely coinciding with the future cannot be derived.*
-
-#### ***7\. Regarding An Already-Completed Geometrical Field Where Events Occur \[Albert Einstein: "General Relativity"\]***
-
-* ➀ Why is only the background (Field) Completed while the internal elements (characters) remain uncompleted? ➁ How was that background (Field) Completed? ➂ Where is the boundary between background (Field) and characters? ➃ In an Absolute sense, Completion implies a State where everything has occurred and no further events can transpire (lacking addition or subtraction), which includes stasis; how then could it interact with or be deformed by characters? ➄ If the background (Field) were Completed in an Absolute sense, it must be completely isolated from characters, or characters, being included in the background (Field), must also be Completed and stationary in an Absolute sense. ➅ *Since the Universe and its constituents are not (and cannot be) completely isolated, and are not Completed in an Absolute sense, 'an already-completed geometrical field where events occur' is refuted.*
-
-#### ***8\. Regarding Absolute Constant (c) Unchanging Anywhere in the Universe \[Albert Einstein: "Special Relativity"\]***
-
-* In an Absolutely Completed Field, Velocity (Shift) is Impossible.  
-
-* Just as a sailboat's Velocity(`v`) changes between headwind and tailwind, or walking through mud vs. a flat dry road is not described as time slowing down or speeding up, light also changes Velocity relative to gravitational fields or atmospheres. Likewise, this should not be described as time slowing down or speeding up; *it means the Velocity of Light(`c`) is not an Absolute Constant.*  
-
-* `c ≡ v ≡ I ∝ |-∇R| ⟺ |-∇ρ|`
-
-* Unless one has observed or is observing the entire Universe, and unless measurement technology has reached finality, defining an Absolute Constant at this stage is self-contradictory.
-
+* Unless one has observed or is observing the entire Universe, and unless the development of measurement technology is finalized, stipulating an Absolute Constant at that point is in itself contradictory.
+___
 ## **Part 3**
 
-### **On Formation (형성에 대하여)**
+### **On Formation**
 
-※ Regarding equations and examples in Part 3, it is taken for granted that they deviate from the Actuality of the observed target by at `least Effect of observation + Observational Delta(δ_obs) + Data conversion Delta`, as well as modifications arising from Inward-Outward Asymmetry (`A_inner > A_outward`) (Inward-Outward Asymmetry will be described immediately below) (these factors are beyond the scope of capacity and are not included in the equations/examples of Part 3). Nevertheless, should it be necessary to derive specific values at specific positions for specific Phenomena or States, this method will be utilized; this does not imply that such methods, equations, or examples project the Actuality of the Universe Absolutely simultaneously or Absolutely identically.  
+※ Regarding formulas and examples in Part 3, it is taken for granted that deviations due to at least `Effect of observational act + Observational Delta (δ_obs) + Data-conversion Delta` straying from the Actuality of the object of observation, and Inward-Outward Asymmetry (`A_inner > A_outer`) (Inward-Outward Asymmetry is described immediately below) naturally occur (such matters are beyond capacity and thus excluded from formulas and examples in Part 3); nevertheless, if it becomes necessary to derive specific values at specific positions for a specific Phenomenon or State, these methods shall be used, and this does not imply that such methods, formulas, or examples project the Actuality of the Universe absolutely simultaneously or absolutely identically.
 
-* `Shift(⟶) ≡ Pressure(P) ≡ Delta(δ) ≡ [Volume(V) * Density(ρ)]`
+* `Shift (⟶) ≡ Pressure (P) ≡ Delta (δ) ≡ [Volume (V) * Density (ρ)]`
 
 * **Non-reality of Dynamic Boundlessness**
 
-  * Unit Length of Delta (`δ_length`): `δ_length = [1 / Density(ρ)]`
+  * Unit Length of Delta (`δ_length`): `δ_length = \[1 / Density (ρ)]`
 
-  * For `δ_length = 0` to hold true, infinite Pressure (`ρ∞`) at infinite Density (`ρ∞`) must be applied with a time gap of `0` seconds (`dt = 0`). However, a 'time gap of `0` (`dt = 0`)' signifies 'Absence of Action (stasis),' whereas 'infinite Pressure (`P∞`) at infinite Density (`ρ∞`)' signifies 'infinite Action (non-stasis)'; thus, this is contradictory and Non-reality.  
+  * For `δ_length = 0` to hold, infinite Pressure (`P∞`) of infinite Density (`ρ∞`) must be applied with `0` (second) time lag (`dt = 0`). However, '`0` time lag (`dt = 0`)' signifies 'absence of action (stasis)', and 'infinite Pressure (`P∞`) of infinite Density (`ρ∞`)' signifies 'infinite action (non-stasis)'; thus, it is contradictory and Non-reality.  
 
-  * Furthermore, the concept of `Fixed Infinity` itself simultaneously claims temporal stasis due to Uncompletability of infinity and non-stasis of infinite action, which is self-contradictory and Non-reality.  
+  * Furthermore, the concept of `Fixed Infinity` itself asserts temporal stasis due to Uncompletability of infinity and non-stasis of infinite action simultaneously, which is contradictory and Non-reality.  
 
-  * Therefore, the Delta and Unit Length of Delta for all Reality in the Universe are greater than `0`.
+  * Therefore, the Delta, Unit Length of Delta, Pressure, Volume, and Density of all Reality in the Universe are greater than `0`.  
 
-  * `[(dt = 0) = ∄] ⟹ [dt > 0], [dt ≡ {δ * δ_length(1 / Density(ρ))}] ⟹ [δ, δ_length, Density(ρ){Pressure(P) / Volume(V)} > 0] ⟹ [δ, δ_length, Density(ρ), Pressure(P), Volume(V) > 0]`
+  * `[(dt = 0) = ∄] ⟹ [∃ = (dt > 0)], [dt ≡ {δ * δ_length(1 / Density (ρ))}] ⟹ [δ, δ_length, Density (ρ){Pressure (P) / Volume (V)} > 0] ⟹ [δ, δ_length, Density (ρ), Pressure (P), Volume (V) > 0]`
 
 * **Non-reality of Absolute Stasis**
 
-  * Absolute Stasis implies annihilation due to the Absence of Maintenance and thus cannot exist in Reality \[`(dt = 0) = ∄`\]. Since the Delta of all Reality in the Universe is greater than `0` \[`{(dt = 0) = ∄} ⟹ {dt > 0}`\], all Reality is Naturally Interfused beyond the Minimum Delta. Therefore, stasis of a specific part alone is Impossible; if Absolute Stasis were Reality, the entire Universe would have to be in Absolute Stasis, and since Absolute Stasis implies annihilation due to the Absence of Maintenance, the entire Universe would have to be annihilated.  
+  * Absolute Stasis signifies dissolution due to the Absence of Maintenance and thus cannot exist in Reality \[`(dt = 0) = ∄`\]. Since the Delta of all Reality in the Universe is greater than 0 \[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\], and Density according to Pressure proves that all Reality in the Universe is osmotically interfused, all Reality in the Universe is naturally interfused beyond a Minimum Delta. Therefore, the stasis of only a specific part is Impossible, and if Absolute Stasis existed in Reality, the entire Universe would have to undergo Absolute Stasis; since Absolute Stasis signifies dissolution due to the Absence of Maintenance, the entire Universe would have to undergo dissolution.  
 
-  * More fundamentally, since the Delta of all Reality in the Universe is greater than `0`, Absolute Stasis is Non-reality.  
+  * More fundamentally, since the Delta of all Reality in the Universe is greater than 0, Absolute Stasis is Non-reality.  
 
-* **Inward-Outward Asymmetry (`A_inner > A_outward`)**
+* **Inward-Outward Asymmetry (`A_inner > A_outer`)**
 
-  * Since the Unit Length of Delta for all Reality in the Universe is greater than `0`, and consequently Volume(`V`) is also greater than `0`, all Reality in the Universe structurally and Naturally possesses an Inward Surface Area larger than its Outward Area \[`Inward Surface Area > Outward Area`\].  
+  * Since the Volume (V) of all Reality in the Universe is also greater than 0, all Reality in the Universe structurally and naturally has its Inward Surface Area larger than its Outward Area (`Inward Surface Area > Outward Area`).  
 
-  * `ΔA [Difference between Inward Surface Area and Outward Area] = A_inward [Inward Surface Area] [4 * π * {r_out (Radius of Inward Surface Area)}²] - A_outward [Outward Area] [4 * π * {r_in (Radius of Outward Area)}²]`
+  * `ΔA (Difference between Inward Surface Area and Outward Area) = A_inward (Inward Surface Area)[4 * π * {r_out (Radius of Inward Surface Area)}²] - A_outward (Outward Area)[4 * π * {r_in (Radius of Outward Area)}²]`
 
-  * Because all Reality in the Universe has a Volume greater than `0`, the difference between the radii of the Inward Surface Area and Outward Area is greater than `0`, and the difference in surface area is also greater than `0`. Thus, all Reality in the Universe is structurally subject to Inward-Outward Asymmetry, and anything resulting from this cannot achieve Absolute Symmetry.
+  * Since the Volume of all Reality in the Universe is greater than `0`, the difference in radius between the Inward Surface Area and Outward Area is also greater than `0`, and the difference in surface area is also greater than `0`. Thus, all Reality in the Universe is structurally Inward-Outward Asymmetric, and accordingly, nothing can form an Absolute Symmetry.
+#### ***1\. Regarding the Accumulation of Maintenance <a href="#Maintenance_d" id="Maintenance_u"><sup>[Maintenance]</sup></a>***
 
-#### ***1\. Regarding the Accumulative Nature of Maintenance*** *<a href="#Maintenance_d" id="Maintenance_u"><sup>[Maintenance]</sup></a>*
+* *The Universe is a Phenomenon wherein Shift (`⟶`) <a href="#Shift_d" id="Shift_u"><sup>[Shift]</sup></a> has accumulated according to the Actuality of Perpetuity of Shift.*
 
-* *The Universe is a Phenomenon resulting from the Actuality of Perpetuity of Shift(`⟶`) *<a href="#Shift_d" id="Shift_u"><sup>[Shift]</sup></a>*, where that Shift is Accumulated.*
+* Absolute Stasis is Non-reality, and naturally so is the Universe. That which is maintained (`t₀ ⟶ t₁`) (hereinafter, that corresponding to `t₀ ⟶ t₁` is called `1 Unit`) is also Shift (`⟶`) \[Pressure (`P`)\] <a href="#Why-Phase-Shift-occurs_d" id="Why-Phase-Shift-occurs_u"><sup>[Why Phase Shift occurs]</sup></a>, and through continued Shift (Maintenance), Space (Volume) also continuously undergoes Expansion <a href="#Apexon_d" id="Apexon_u"><sup>[Apexon]</sup></a>.
 
-* Absolute Stasis is Non-reality, and Naturally so is the Universe. That which is Maintained (`t₀ ⟶ t₁`) (hereafter, that corresponding to `t₀ ⟶ t₁` is referred to as `1 Unit`) is also Shift(`⟶`) (Pressure) *<a href="#Cause-of-Phase-Shift_d" id="Cause-of-Phase-Shift_u"><sup>[Cause of Phase Shift]</sup></a>*. Through continuous Shift (Maintenance), Space (Volume) also continuously Expands *<a href="#Apexon_d" id="Apexon_u"><sup>[Apexon]</sup></a>*.
+*<a href="#Maintenance_u" id="Maintenance_d">[Maintenance]</a>: \[Definition\]* In this paper, 'Maintenance' does not mean an active Act. It refers to a State that continues with a Minimum Delta (`δ_min`) <a href="#Original-Pressure_d" id="Original-Pressure_u"><sup>[Original Pressure]</sup></a> bound to Reality <a href="#Pressure_d" id="Pressure_u"><sup>[Pressure]</sup></a> that can never be eliminated (cannot become `0`). And that Delta is referred to in this paper as the 'Maintenance Delta'.
 
-*<a href="#Maintenance_u" id="Maintenance_d">[Maintenance]</a>: \[Definition\]* In this treatise, 'Maintenance' does not signify an active Act. It refers to a State that continues (persists) with a Minimum Delta (`δ_min`) *<a href="#Original-Pressure_d" id="Original-Pressure_u"><sup>[Original Pressure]</sup></a>* bound to Reality *<a href="#Pressure_d" id="Pressure_u"><sup>[Pressure]</sup></a>* that can never be eliminated (cannot become 0). In this treatise, that Delta is referred to as the 'Maintenance Delta'.
+*<a href="#Pressure_u" id="Pressure_d">[Pressure]</a>: \[Definition\]* 'Pressure (`P`)' as referred to in this paper means 'a single or plural 1 Unit Force (`F`) possessing Directionality'. And the higher the Density (`ρ`), the shorter its Unit Length of Delta (`δ_length`).
 
-*<a href="#Original-Pressure_u" id="Original-Pressure_d">[Original Pressure]</a>: \[Definition\]* Refers to the Pressure generated Perpetually due to Directionality (Shift) bound to the fact that the Universe is Non-fixed (Unfixable).
+*<a href="#Original-Pressure_u" id="Original-Pressure_d">[Original Pressure]</a>: \[Definition\]* Refers to the Pressure perpetually generated due to Directionality (Shift) coupled with the fact that the Universe is Non-fixed (Unfixable).
 
-*<a href="#Pressure_u" id="Pressure_d">[Pressure]</a>: \[Definition\]* In this treatise, 'Pressure' refers to 'a singular or plural 1 Unit Force possessing Directionality.' Furthermore, as Pressure becomes stronger (as Density becomes higher), its Unit Length of Delta becomes shorter.
+*<a href="#Shift_u" id="Shift_d">[Shift]</a>: \[Definition\]* If there were no 'Shift', nothing would occur and the present Universe could also not exist in Reality. And 'Shift (`⟶`)' naturally possesses Directionality and is Pressure. Furthermore, even the Nothingness State undergoes 'Shift', and Shift is coupled with all Reality. And that 'Shift' is coupled with a Delta (`t₁ - t₀`), which is referred to in this paper as the 'Shift Delta'.
 
-*<a href="#Shift_u" id="Shift_d">[Shift]</a>: \[Definition\]* If there were no 'Shift', nothing could occur, and the present Universe could not exist in Reality. Furthermore, 'Shift(`⟶`)' Naturally possesses Directionality and is Pressure. A Nothingness State also undergoes 'Shift', and all Reality is bound to Shift. Bound to 'Shift' is a Delta (`t₁ - t₀`), which is referred to in this treatise as the *'Shift Delta'*.
+*<a href="#Why-Phase-Shift-occurs_u" id="Why-Phase-Shift-occurs_d">[Why Phase Shift occurs]</a>:* Same reason why Absolute Stasis is Non-reality: `Absolute Stasis Non-reality ≡ Shift ≡ Original Pressure ≡ Phase Shift (Displacement/Slippage)`.
 
-*<a href="#Cause-of-Phase-Shift_u" id="Cause-of-Phase-Shift_d">[Cause of Phase Shift]</a>:* The reason is identical to why Absolute Stasis is Non-reality: `Non-reality of Absolute Stasis ≡ Shift ≡ Original Pressure ≡ Phase Shift (Displacement / Pushing)`.
-
-*<a href="#Apexon_u" id="Apexon_d">[Apexon]</a>: \[Definition\]* Refers to the state where Volume Expands upon the addition of Pressure.
+*<a href="#Apexon_u" id="Apexon_d">[Apexon]</a>: \[Definition\]* Refers to the State where Volume is formed when Pressure is added. This cannot present a Constant, and since Space for Humans will be variable according to the development of means and methods of observation, it is used conceptually.
 
 #### ***2\. Regarding the Formation of the Universe***
 
-* ➀ As Volume Increases (as Inward Surface Area grows), Original Pressure (Inward Pressure) also Increases *<a href="#Inward-Pressure-Action-of-Original-Pressure_d" id="Inward-Pressure-Action-of-Original-Pressure_u"><sup>[Inward Pressure Action of Original Pressure]</sup></a>*. ➁ As Original Pressure Increases, Retention Pressure also Increases due to Inward-Outward Asymmetry *<a href="#Inflow-Pressure_d" id="Inflow-Pressure_u"><sup>[Inflow Pressure]</sup></a>*, thereby Increasing the internal Density of the Universe *<a href="#Asynchronous-Dual-Action_d" id="Asynchronous-Dual-Action_u"><sup>[Asynchronous Dual Action]</sup></a>*. ➂ As the internal Density of the Universe Increases, the Density of Original Pressure Accumulated at the Boundary Dynamic Grid-lock *<a href="#Boundary-Dynamic-Grid-lock-of-the-Universe_d" id="Boundary-Dynamic-Grid-lock-of-the-Universe_u"><sup>[Boundary Dynamic Grid-lock of the Universe]</sup></a>* also Increases, causing the Volume of the Universe to Expand (Inward Surface Area Increases). ➃ As the Volume of the Universe Expands (Inward Surface Area Increases), Original Pressure also Increases. ➄ This circulation Perpetuates.  
+* ➀ As Volume increases (as Inward Surface Area increases), Original Pressure (Inward Pressure) also increases <a href="#Inward-Pressure-action-of-Original-Pressure_d" id="Inward-Pressure-action-of-Original-Pressure_u"><sup>[Inward Pressure action of Original Pressure]</sup></a>. ➁ As Original Pressure increases, Retention Pressure also increases due to Inward-Outward Asymmetry <a href="#Inflow-Pressure_d" id="Inflow-Pressure_u"><sup>[Inflow Pressure]</sup></a>, thereby increasing the internal Density of the Universe <a href="#Asynchronous-Dual-Action_d" id="Asynchronous-Dual-Action_u"><sup>[Asynchronous Dual Action]</sup></a>. ➂ As the internal Density of the Universe increases, the Density of Original Pressure accumulating at the Boundary Dynamic Grid-lock <a href="#Boundary-Dynamic-Grid-lock-of-the-Universe_d" id="Boundary-Dynamic-Grid-lock-of-the-Universe_u"><sup>[Boundary Dynamic Grid-lock of the Universe]</sup></a> also increases, causing the Volume of the Universe to undergo Expansion (increase in Inward Surface Area). ➃ As the Volume of the Universe undergoes Expansion (increase in Inward Surface Area), Original Pressure also increases. ➄ This cycle perpetuates.  
+* `[(Total Retention Pressure of the Universe + Inflow Pressure at the outermost boundary of the Universe) / Average Density of the Universe (provided Average Density of the Universe > Apexon)] ⟺ Volume of the Universe`
 
-* `[{Total Retention Pressure of Universe + Inflow Pressure at Outermost Boundary of Universe} / Average Density of Universe (where Average Density of Universe > Apexon)\] ⟺ Volume of Universe`
+*<a href="#Inward-Pressure-action-of-Original-Pressure_u" id="Inward-Pressure-action-of-Original-Pressure_d">[Inward Pressure action of Original Pressure]</a>:* Refers to Original Pressure acting inward towards the interior of the Universe (Inward Pressure) because, whichever direction Phase Shift occurs in Volume (Universe), there is no other Volume (Space) outside.
 
-*<a href="#Inward-Pressure-Action-of-Original-Pressure_u" id="Inward-Pressure-Action-of-Original-Pressure_d">[Inward Pressure Action of Original Pressure]</a>:* Refers to the fact that no matter in which direction Phase Shift occurs within Volume (Universe), because there is no other Volume (Space) externally, Original Pressure acts toward the interior of the Universe (Inward Pressure).
+*<a href="#Inflow-Pressure_u" id="Inflow-Pressure_d">[Inflow Pressure]</a>: \[Definition\]* Refers to Pressure flowing into the interior of Dynamic Grid-lock <a href="#Dynamic-Grid-lock_d" id="Dynamic-Grid-lock_u"><sup>[Dynamic Grid-lock]</sup></a>. Conversely, Pressure flowing out is called *Outflow Pressure*. Inflow Pressure penetrates into the interior, becomes absorbed into internal Density, and becomes Retention Pressure.
 
-*<a href="#Inflow-Pressure_u" id="Inflow-Pressure_d">[Inflow Pressure]</a>: \[Definition\]* Refers to Pressure entering the interior of Dynamic Grid-lock *<a href="#Dynamic-Grid-lock_d" id="Dynamic-Grid-lock_u"><sup>[Dynamic Grid-lock]</sup></a>*. Conversely, Pressure exiting is called *Outflow Pressure*. Inflow Pressure penetrates internally and is absorbed into internal Density, becoming Retention Pressure.
+*<a href="#Dynamic-Grid-lock_u" id="Dynamic-Grid-lock_d">[Dynamic Grid-lock]</a>: \[Definition\]* Refers to the boundary (Dynamic Boundary) in the `^v^v` (Arch Inverse-Arch) Configuration that serves as an indicator when referring to specific parts as exterior and interior, or refers to such a Density Gradient.
 
-*<a href="#Dynamic-Grid-lock_u" id="Dynamic-Grid-lock_d">[Dynamic Grid-lock]</a>: \[Definition\]* Refers to a Boundary (Dynamic Boundary) in `^v^v` (Arch Inverse-Arch) Configuration serving as an indicator when specifying internal and external sections, or refers to such a Density Gradient.
+*<a href="#Asynchronous-Dual-Action_u" id="Asynchronous-Dual-Action_d">[Asynchronous Dual Action]</a>: \[Definition\]* Refers to the 2 actions of 'Original Pressure': ➀ mostly acting on (accumulating at) the Inward Surface Area of the Universe (Immediate Boundary Action), and ➁ partly flowing perpetually into the interior of the Universe due to Inward-Outward Asymmetry, thereby increasing Retention Pressure (Delayed Retention Action).
 
-*<a href="#Asynchronous-Dual-Action_u" id="Asynchronous-Dual-Action_d">[Asynchronous Dual Action]</a>: \[Definition\]* Refers to these 2 Actions where 'Original Pressure' ➀ mostly acts on (Accumulates upon) the Inward Surface Area of the Universe (Immediate Boundary Action), and ➁ a portion Perpetually flows into the interior of the Universe due to Inward-Outward Asymmetry, Increasing Retention Pressure (Delayed Retention Action).
+*<a href="#Boundary-Dynamic-Grid-lock-of-the-Universe_u" id="Boundary-Dynamic-Grid-lock-of-the-Universe_d">[Boundary Dynamic Grid-lock of the Universe]</a>:* ➀ Original Pressure perpetuates. Accordingly, ➁ Pressure—excluding Inflow Pressure—perpetually accumulates (increases in Density) at the outermost boundary of the Universe while forming Dynamic Equilibrium <a href="#Dynamic-Equilibrium_d" id="Dynamic-Equilibrium_u"><sup>[Dynamic Equilibrium]</sup></a> with the total Retention Pressure of the Universe. In this process, ➂ portions reaching Apexon at the outermost boundary of the Universe undergo Expansion into Volume of the Universe each time.
 
-*<a href="#Boundary-Dynamic-Grid-lock-of-the-Universe_u" id="Boundary-Dynamic-Grid-lock-of-the-Universe_d">[Boundary Dynamic Grid-lock of the Universe]</a>:* ➀ Original Pressure Perpetuates. Consequently, ➁ — excluding Inflow Pressure — Pressure Perpetually Accumulates (Density Increase) at the outermost boundary of the Universe while achieving Dynamic Equilibrium *<a href="#Dynamic-Equilibrium_d" id="Dynamic-Equilibrium_u"><sup>[Dynamic Equilibrium]</sup></a>* with the total Retention Pressure of the Universe. In this process, ➂ portions at the outermost boundary reaching Apexon Expand into the Volume of the Universe at each instance.
+*<a href="#Dynamic-Equilibrium_u" id="Dynamic-Equilibrium_d">[Dynamic Equilibrium]</a>: \[Definition\]* All Reality in the Universe forms a Dynamic Equilibrium \[`δ, δ_length, Density (ρ), Pressure (P), Volume (V) > 0`\]. At this time, its degree of Asymmetry serves as an indicator representing the presence or absence of Motion.
 
-*<a href="#Dynamic-Equilibrium_u" id="Dynamic-Equilibrium_d">[Dynamic Equilibrium]</a>: \[Definition\]* All Reality in the Universe achieves Dynamic Equilibrium \[`δ, δ_length, Density(ρ), Pressure(P), Volume(V) > 0`\]. At this time, the degree of Asymmetry serves as an indicator denoting the presence or absence of Motion.
+#### ***3\. Regarding Motion <a href="#Motion-in-Part-3_d" id="Motion-in-Part-3_u"><sup>[Motion in Part 3]</sup></a> and Objectification <a href="#Objectification_d" id="Objectification_u"><sup>[Objectification]</sup></a>***
 
-#### ***3\. Regarding Motion and Objects*** *<a href="#Motion-in-Part-3_d" id="Motion-in-Part-3_u"><sup>[Motion in Part 3]</sup></a>*
+* In "On Formation", Object and Motion are not distinguished. However, for convenience, based on the degree of Asymmetry in Dynamic Equilibrium or Quasi-fixed State <a href="#Quasi-fixed-State_d" id="Quasi-fixed-State_u"><sup>[Quasi-fixed State]</sup></a>, they are expressed as ➀ Motion and non-motion, and ➁ Exterior and interior (Object).  
 
-* In "On Formation", Object and Motion are not differentiated. However, for convenience, based on the degree of Asymmetry in Dynamic Equilibrium or Quasi-fixed State *<a href="#Quasi-fixed-State_d" id="Quasi-fixed-State_u"><sup>[Quasi-fixed State]</sup></a>*, they are expressed as ➀ Motion vs. non-motion, and ➁ External vs. Internal (Object).  
+* Motion (Shift) of the Universe perpetuates.  
 
-* Motion (Shift) of the Universe Perpetuates.  
+  * The Volume of the Universe is squeezed according to Original Pressure (Immediate Boundary Action) exerted on the entire Universe due to the Shift of the entire Universe, and naturally all parts overlap above a certain threshold \[`Density (ρ) ≡ Interfused`\]. This and Inflow Pressure resulting from Inward-Outward Asymmetry (`A_inner > A_outer`) become Retention Pressure, and Direct Flow occurs due to the respective Directionality of Immediate Boundary Action and Retention Pressure.  
 
-  * The Volume of the Universe is not only the minimum volume according to Original Pressure (Immediate Boundary Action) corresponding to the Phase Shift of the entire Universe; Naturally, all parts overlap beyond a certain threshold (`Density exceeding 1 Unit ≡ Interfused`). This, along with Inflow Pressure resulting from Inward-Outward Asymmetry (`A_inner > A_outward`), becomes Retention Pressure, and due to the Directionality of each Retention Pressure, Direct Flow occurs.  
+  * In this process, Objects continue to be formed, and large Vortices are formed in various places; larger Vortices form larger or firmer Objects. And these Vortices collide (Impact) with Direct Flow, generating Eddies <a href="#Outflow-Pressure_d" id="Outflow-Pressure_u"><sup>[Outflow Pressure]</sup></a>.  
 
-  * In this process, Objects continue to be Formed, Vortexes are Formed in various places, and larger Vortexes Form larger or firmer Objects. These Vortexes collide (Impact) with Direct Flow, giving rise to Eddies *<a href="#Outflow-Pressure_d" id="Outflow-Pressure_u"><sup>[Outflow Pressure]</sup></a>*.  
+  * And perpetually: Object formation and Direct Flow formation due to Original Pressure; Object formation and Vortex formation due to Direct Flow; Object formation and Eddy formation due to Vortex; Object formation and smaller Eddy formation due to Eddy.  
 
-  * Perpetually, Object Formation and Direct Flow Formation occur due to Original Pressure; Object Formation and Vortex Formation occur due to Direct Flow; Object Formation and Eddy Formation occur due to Vortexes; and Object Formation and smaller Eddies Form due to Eddies.  
+    * Coupling of Vortex with Vortex, Eddy, or micro-Eddy (or splitting of Vortex into Eddy or micro-Eddy); coupling of Eddy with Eddy or micro-Eddy (or splitting of Eddy into micro-Eddy); coupling of micro-Eddy with micro-Eddy (or splitting of Eddy into smaller Objects).  
 
-    * Combination (or fission of Vortex into Eddy or Micro-Eddy) of Vortex with Vortex, Eddy, or Micro-Eddy; combination (or fission of Eddy into Micro-Eddy) of Eddy with Eddy or Micro-Eddy; combination of Micro-Eddy with Micro-Eddy (or fission of Eddy into smaller Objects).  
+  * Feedback of Asynchronous Dual Action: `Immediate Boundary Action (Original Pressure ⟺ Boundary Dynamic Grid-lock) ⟺ Delayed Retention Action (Boundary Dynamic Grid-lock ⟺ Direct Flow ⟺ Vortex ⟺ Eddy ⟺ micro-Eddy)`
 
-  * Feedback of Asynchronous Dual Action: `Immediate Boundary Action [Original Pressure ⟺ Boundary Dynamic Grid-lock] ⟺ Delayed Retention Action [Boundary Dynamic Grid-lock ⟺ Direct Flow ⟺ Vortex ⟺ Eddy ⟺ Micro-Eddy]`
+    * Feedback of coupling and splitting: `Original Pressure ⟺ Boundary Dynamic Grid-lock ⟺ Direct Flow ⟺ Vortex + Vortex or Eddy or micro-Eddy ⟺ Eddy + Eddy or micro-Eddy ⟺ micro-Eddy + micro-Eddy`
 
-    * Feedback of Combination and Fission: `Original Pressure ⟺ Boundary Dynamic Grid-lock ⟺ Direct Flow ⟺ Vortex + Vortex / Eddy / Micro-Eddy ⟺ Eddy + Eddy / Micro-Eddy ⟺ Micro-Eddy + Micro-Eddy`
+* `[{Retention Pressure of Object + (Inflow Pressure of Object - Outflow Pressure of Object)} / Average Density of Object (provided Average Density of Object > Apexon)] ⟺ Volume of Object`
 
-* `[{Retention Pressure of Object + (Inflow Pressure of Object - Outflow Pressure of Object)} / Average Density of Object (where Average Density of Object > Apexon)] ⟺ Volume of Object`
+* Splitting, Dispersion, and the like are also phenomena resulting from the Actuality that the total Pressure of the Universe perpetually increases. As the total Pressure of the Universe increases, limit Density (achievable Density) and the resulting Objectification are Variable. However, Fixed Infinity is Non-reality, and real Pressure in the Universe is finite; thus, limit Density and resulting Objectification cannot exceed the total Pressure (amount) real in the Universe.
 
-* Fission, Dispersion, and the like are also Phenomena resulting from the Actuality where the total Pressure of the entire Universe Increases Perpetually. As the total Pressure of the Universe Increases Perpetually, the limit Density (attainable Density) is Variable. However, Fixed Infinity is Non-reality, and since Density follows Pressure, Density exceeding the Density attainable by the total Pressure of the entire Universe cannot be Formed.  
+* According to Inward-Outward Asymmetry, inflow is converged/compressed from a broader direction, and outflow is dispersed outward from a smaller volume. And as the resulting Density (Configuration) becomes fixed, the property to maintain Motion and the like in that specific Direction becomes stronger.
+    ![[Motion 01.png|260]]![[Motion 02.png|right|260]]
 
-* According to Inward-Outward Asymmetry, Inflow is converged and compressed across a wider directional range, while Outflow is dispersed outward from a smaller Volume. Furthermore, as the resulting Density (Configuration) becomes anchored, the property to maintain Motion and the like in that specific direction correspondingly strengthens.
+*<a href="#Motion-in-Part-3_u" id="Motion-in-Part-3_d">[Motion in Part 3]</a>:* That which was stated in 'Part 2' as *'Motion perpetuates in the path of lowest Resistance (`R`)'* is restated in 'Part 3' as *'Motion continues in the path of lowest Density (`ρ`)'* \[`v (Velocity and Motion) ∝ -∇ρ`\], and this is again stated as *'Motion perpetuates through the convergence of Pressure (`P`) and dispersion of Density (`ρ`)'* \[`v (Velocity and Motion) ∝ (+∇P ⟺ -∇ρ)`\] <a href="#On-the-antecedence-of-Pressure-convergence_d" id="On-the-antecedence-of-Pressure-convergence_u"><sup>[On the antecedence of Pressure convergence (+∇P)]</sup></a>.
 
-![alt text](운동001.png)![alt text](운동002.png)
+*<a href="#On-the-antecedence-of-Pressure-convergence_u" id="On-the-antecedence-of-Pressure-convergence_d">[On the antecedence of Pressure convergence (+∇P)]</a>:* The reason Pressure convergence (`+∇P`) (Original Pressure) precedes Density Gradient (`-∇ρ`) in the Motion formula is to eliminate non-real concepts such as 'Nothingness' or 'Infinite Density'. In `Nothingness + Shift (⟶)`, 'Nothingness' lacks reality, so naturally only real Shift (`⟶`) accumulates, and through this accumulation \[Pressure convergence (`+∇P`)\], Density (`ρ`) is formed.
 
-*<a href="#Motion-in-Part-3_u" id="Motion-in-Part-3_d">[Motion in Part 3]</a>:* What was stated in 'Part 2' as *'Motion Perpetuates toward the path of lowest Resistance(`R`)'* is described in 'Part 3' as *'Motion continues toward the path of lowest Density(`ρ`)'* \[`v (Velocity & Motion) ∝ -∇ρ`\], which is further described as *'Motion Perpetuates through the convergence of Pressure(`P`) and Dispersion of Density(`ρ`)'* \[`v (Velocity & Motion) ∝ (+∇P ⟺ -∇ρ)`\].
+*<a href="#Objectification_u" id="Objectification_d">[Objectification]</a>: \[Definition\]* The process of forming hierarchical Density higher than the baseline Density of Apexon \[`Volume (V) ≥ 1 Unit, ρ_Apexon`\] as total Pressure of the Universe increases.
 
-*<a href="#Quasi-fixed-State_u" id="Quasi-fixed-State_d">[Quasi-fixed State]</a>: \[Definition\]* Regarding the degree of Asymmetry in Dynamic Equilibrium, refers to a State that appears stationary as if at a standstill because the observer fails to sense Motion.
+*<a href="#Quasi-fixed-State_u" id="Quasi-fixed-State_d">[Quasi-fixed State]</a>: \[Definition\]* Regarding the degree of Asymmetry in Dynamic Equilibrium, refers to a State where the observer does not perceive Motion and it appears as if stopped.
 
-*<a href="#Outflow-Pressure_u" id="Outflow-Pressure_d">[Outflow Pressure]</a>:* When Inflow Pressure becomes Object B inside Object A according to internal Density of Object A, becoming Retention Pressure, and that Retention Pressure exits as Outflow Pressure, it proceeds at a Velocity according to convergence of Outward Pressure and the Density Gradient between inside and outside (`+∇P ⟺ -∇ρ`). For example, if Pressure of 20 Units is Compressed inside Object (Density 10) with Volume of 2 Units, and the outside is a layer Compressed with Pressure of 4 Units (Density 2) in Volume of 2 Units, when Pressure of 20 Units Compressed inside Object exits to the outside \[outflow due to convergence of Outward Pressure (`+∇P`)\]: ➀ In the layer of external Density 2 (Pressure 4 / Volume 2), Outflow Pressure undergoes Phase Shift (`-∇ρ`) of Volume 1 Unit in the Shift Time of Volume 1/5 Unit *<a href="#Alternative-Expression-of-Volume-1/5-Shift-Time_d" id="Alternative-Expression-of-Volume-1/5-Shift-Time_u"><sup>[Alternative Expression of Volume 1/5 Shift Time]</sup></a>*. ➁ Outflow Pressure undergoes Phase Shift at the Velocity of ➀ while Pressure (Density) Disperses until Outward Pressure of Outflow Pressure and Inward Pressure against Outflow Pressure achieve balance, whereupon it Converges (`+∇P`). ➂ Pressure cannot exit with a Density lower than Dynamic Grid-lock or Inward Pressure.
+*<a href="#Outflow-Pressure_u" id="Outflow-Pressure_d">[Outflow Pressure]</a>:* When Inflow Pressure becomes Objectified into Object B inside Object A according to the internal Density of Object A, becoming Retention Pressure, and that Retention Pressure flows out as Outflow Pressure, it proceeds at a Velocity according to the convergence of Outward Pressure and the Density Gradient (`+∇P ⟺ -∇ρ`) between interior and exterior. For example, if inside Object A, 20 Units of Pressure are compressed in 2 Units of Volume (Density 10), and the exterior of Object A is a hierarchy compressed with 4 Units of Pressure in 2 Units of Volume (Density 2), when the 20 Units of Pressure compressed inside Object A flow out to the exterior of Object A \[outflow due to convergence of Outward Pressure (`+∇P`)\], Outflow Pressure: ➀ in the exterior layer of Object A with Density 2 \[`Pressure (P) 4 / Volume (V) 2`\], shifts 1 Unit of Volume during 1/5 Unit of Volume Shift Time (`-∇ρ`) <a href="#Another-expression-of-1/5-Volume-Shift-Time_d" id="Another-expression-of-1/5-Volume-Shift-Time_u"><sup>[Another expression of 1/5 Volume Shift Time]</sup></a>; ➁ while shifting at the Velocity of ➀, Outflow Pressure disperses in Pressure (Density) to the degree where Outward Pressure of Outflow Pressure and Inward Pressure relative to Outflow Pressure achieve balance, and then converges (`+∇P`); ➂ Pressure cannot flow out to a Density lower than Boundary Dynamic Grid-lock or Inward Pressure; ➃ there can be no Outflow Pressure outside the Universe, and instead the Universe undergoes Expansion.
 
-*<a href="#Alternative-Expression-of-Volume-1/5-Shift-Time_u" id="Alternative-Expression-of-Volume-1/5-Shift-Time_d">[Alternative Expression of Volume 1/5 Shift Time]</a>:* Expressing 'Phase Shift of Volume 1 Unit in the Shift Time of Volume 1/5' in terms of Delta Time (to be described later) yields 'Phase Shift of Volume 1 Unit in 0.2 Delta Time'; in terms of Velocity, it yields 'Phase Shift at 5 times the Velocity of Volume 1 Unit Phase Shift in a layer Compressed with Pressure of 2 Units (Density 2) in Volume 1 Unit.'
+*<a href="#Another-expression-of-1/5-Volume-Shift-Time_u" id="Another-expression-of-1/5-Volume-Shift-Time_d">[Another expression of 1/5 Volume Shift Time]</a>:* Expressed in Delta Time to be described later, it becomes 'shifts 1 Unit of Volume during 0.2 Delta Time'; expressed in Velocity, it becomes 'shifts at 5 times the Velocity of 1 Unit Volume Shift Velocity in a hierarchy compressed with 2 Units of Pressure in 1 Unit of Volume \[`Density (ρ) 2`\]'.
 
 #### ***4\. Regarding Velocity and Time***
 
-※ Regarding "4. Regarding Velocity and Time", as with other equations, Velocity and Time are also derived inductively by first demarcating an Object, cutting a specific Phenomenon (interval) to calculate its value, and then deriving from that value.
+※ In "4. Regarding Velocity and Time", as with other formulas, velocity and time are also derived by first distinguishing Objects, slicing a specific Phenomenon (interval) to calculate its value, and then inductively deriving values from it. ※ In the following formulas and examples, unless otherwise indicated, Reference Pressure (`P_ref`) means `Volume (V) 2 * Density (ρ) 2 ≡ Pressure (P) 4`. And `Reference Pressure (P_ref) ≡ Reference Delta (δ_ref) ≡ Reference Object (obj_ref)`.
 
-※ In the following equations and examples: 
-Unless otherwise specified, Reference Pressure (`P_ref`) signifies `Volume 2 * Density 2 ≡ 4`. 
-After Volume(`V`) Formation: Based on `Reference Pressure(P_ref) ≡ Reference Delta(δ_ref) ≡ Reference Object(obj_ref)`.
+* ***4.1. Velocity (v) — Unit-Volume Shift Velocity (`v_vol`) and Delta Velocity (`v_δ`)***
 
-* ***4.1. Velocity(`v`) — Unit-Volume Shift Velocity(`v_vol`) and Delta Velocity(`v_δ`)***
+  * Unit-Volume Shift Velocity (`v_vol`)  
 
-  * Unit-Volume Shift Velocity(`v_vol`)  
+    * `Unit-Volume Shift Velocity (v_vol) ≡ Density (ρ) of Reference Pressure (P_ref)`
 
-    * `Unit-Volume Shift Velocity(v_vol) ≡ Density(ρ) of Reference Pressure(P_ref)`
+  * Delta Velocity (`v_δ`)  
 
-  * Delta Velocity(`v_δ`)  
+    * `Density (ρ) of Reference Pressure (P_ref) - Density (ρ) of Target Pressure (P) ≡ Delta Velocity (v_δ)`
 
-    * `Density(ρ) of Reference Pressure(P_ref) - Density(ρ) of Target Pressure(P) ≡ Delta Velocity(v_δ)`
+    * Delta Velocity (`v_δ`) is Variable according to Density (`ρ`) of Reference Pressure (`P_ref`) and Density (`ρ`) of Target Pressure (`P`).  
 
-    * Delta Velocity(`v_δ`) is Variable depending on Density(`ρ`) of Reference Pressure and Density(`ρ`) of Target Pressure.  
+  * If Pressure is equal, higher Density has smaller Volume, and smaller Volume has higher Density; thus, if Pressure is equal, higher Density or smaller Volume is faster.  
+  
+  * Example 1: Regarding Delta Velocity (`v_δ`) for `Pressure A-1 20 [Volume (V) 2 * Density (ρ) 10]` and `Pressure A-2 100 [Volume (V) 10 * Density (ρ) 10]`:
 
-  * If Pressure is equal, higher Density implies smaller Volume, and smaller Volume implies higher Density; thus, for equal Pressure, higher Density or smaller Volume is faster.  
-
-  * Example 1: Regarding `Pressure A-1 20 (Volume 2 \* Density 10)` and `Pressure A-2 100 (Volume 10 \* Density 10)`, Delta Velocity(`v_δ`) is:
-
-    | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure A-1 | In layer Formed by Pressure A-2 | In layer Formed by Reference Pressure |
+    | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures A-1 | In a layer formed by Pressures A-2 | In a layer formed by Reference Pressures |
     | :---- | :---- | :---- | :---- |
-    | Delta Velocity of Pressure A-1 | 0 v\_δ | 0 v\_δ | 8 v\_δ |
-    | Delta Velocity of Pressure A-2 | 0 v\_δ | 0 v\_δ | 8 v\_δ |
-    | Delta Velocity of Reference Pressure | \-8 v\_δ | \-8 v\_δ | 0 v\_δ |
+    | Delta Velocity of Pressure A-1 is | 0 v\_δ | 0 v\_δ | 8 v\_δ |
+    | Delta Velocity of Pressure A-2 is | 0 v\_δ | 0 v\_δ | 8 v\_δ |
+    | Delta Velocity of Reference Pressure is | \-8 v\_δ | \-8 v\_δ | 0 v\_δ |
 
-  * Example 2: Regarding Pressure B-1 20 (Volume 2 \* Density 10) and Pressure B-2 `396 (Volume 12 \* Density 33)`, Delta Velocity(`v_δ`) is:
+  * Example 2: Regarding Delta Velocity (`v_δ`) for `Pressure B-1 20 [Volume (V) 2 * Density (ρ) 10]` and `Pressure B-2 396 [Volume (V) 12 * Density (ρ) 33]`:
 
-    | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure B-1 | In layer Formed by Pressure B-2 | In layer Formed by Reference Pressure |
+    | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures B-1 | In a layer formed by Pressures B-2 | In a layer formed by Reference Pressures |
     | :---- | :---- | :---- | :---- |
-    | Delta Velocity of Pressure B-1 | 0 v\_δ | \-23 v\_δ | 8 v\_δ |
-    | Delta Velocity of Pressure B-2 | 23 v\_δ | 0 v\_δ | 31 v\_δ |
-    | Delta Velocity of Reference Pressure | \-8 v\_δ | \-31 v\_δ | 0 v\_δ |
+    | Delta Velocity of Pressure B-1 is | 0 v\_δ | \-23 v\_δ | 8 v\_δ |
+    | Delta Velocity of Pressure B-2 is | 23 v\_δ | 0 v\_δ | 31 v\_δ |
+    | Delta Velocity of Reference Pressure is | \-8 v\_δ | \-31 v\_δ | 0 v\_δ |
 
-  * Example 3: Regarding `Pressure C-1 90 (Volume 2 \* Density 45)` and Pressure C-2 `396 (Volume 12 \* Density 33)`, Delta Velocity(`v_δ`) is:
+  * Example 3: Regarding Delta Velocity (`v_δ`) for `Pressure C-1 90 [Volume (V) 2 * Density (ρ) 45]` and Pressure C-2 396 `[Volume (V) 12 * Density (ρ) 33]`:
 
-    | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure C-1 | In layer Formed by Pressure C-2 | In layer Formed by Reference Pressure |
+    | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures C-1 | In a layer formed by Pressures C-2 | In a layer formed by Reference Pressures |
     | :---- | :---- | :---- | :---- |
-    | Delta Velocity of Pressure C-1 | 0 v\_δ | 12 v\_δ | 43 v\_δ |
-    | Delta Velocity of Pressure C-2 | \-12 v\_δ | 0 v\_δ | 31 v\_δ |
-    | Delta Velocity of Reference Pressure | \-43 v\_δ | \-31 v\_δ | 0 v\_δ |
+    | Delta Velocity of Pressure C-1 is | 0 v\_δ | 12 v\_δ | 43 v\_δ |
+    | Delta Velocity of Pressure C-2 is | \-12 v\_δ | 0 v\_δ | 31 v\_δ |
+    | Delta Velocity of Reference Pressure is | \-43 v\_δ | \-31 v\_δ | 0 v\_δ |
 
-* ***4.2. Time — Unit-Volume Shift Time(`t_vol`) and Delta Time(`t_δ`)***
+* ***4.2. Time — Unit-Volume Shift Time (`t_vol`) and Delta Time (`t_δ`)***
 
-  * Unit-Volume Shift Time(`t_vol`)  
+  * Unit-Volume Shift Time (`t_vol`)  
 
-   * `Unit-Volume Shift Time ≡ Reference Pressure(P_ref) ≡ 1 t_vol`
+    * `Unit-Volume Shift Time ≡ Reference Pressure (P_ref) ≡ 1 t_vol`
 
-  * Delta Time(`t_δ`)  
+  * Delta Time (`t_δ`)  
 
-    * `[Delta Time(t_δ) ≡ Total Pressure applied / Reference Pressure(P_ref)] ≡ Retention Time`
+    * `[Delta Time (t_δ) ≡ Total Action Pressure / Reference Pressure (P_ref)] ≡ Retention Time`
 
-    * Retention Time is Variable depending on the amount of Action and Reference Pressure.  
+    * Retention Time is Variable according to the amount of Action and Reference Pressure.  
 
-  * Example 1: Regarding `Pressure A-1 20 (Volume 2 \* Density 10)` and `Pressure A-2 100 (Volume 10 \* Density 10)`, Retention Time upon 3 Actions and outflow is:
+  * Example 1: Regarding Retention Time for `Pressure A-1 20 [Volume (V) 2 * Density (ρ) 10]` and `Pressure A-2 100 [Volume (V) 10 * Density (ρ) 10]`:
 
-    | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure A-1, upon 3 Actions & outflow | In layer Formed by Pressure A-2, upon 3 Actions & outflow | In layer Formed by Reference Pressure, upon 3 Actions & outflow |
+    | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures A-1, when 3 Actions occur and flow out | In a layer formed by Pressures A-2, when 3 Actions occur and flow out | In a layer formed by Reference Pressures, when 3 Actions occur and flow out |
     | :---- | :---- | :---- | :---- |
-    | Retention Time of Pressure A-1 | 3 t\_δ | 15 t\_δ | 0.6 t\_δ |
-    | Retention Time of Pressure A-2 | 0.6 t\_δ | 3 t\_δ | 0.12 t\_δ |
-    | Retention Time of Reference Pressure | 15 t\_δ | 75 t\_δ | 3 t\_δ |
+    | Retention Time of Pressure A-1 is | 3 t\_δ | 15 t\_δ | 0.6 t\_δ |
+    | Retention Time of Pressure A-2 is | 0.6 t\_δ | 3 t\_δ | 0.12 t\_δ |
+    | Retention Time of Reference Pressure is | 15 t\_δ | 75 t\_δ | 3 t\_δ |
 
-  * Example 2: Regarding `Pressure B-1 45 (Volume 3 \* Density 15)` and Pressure B-2 `396 (Volume 12 \* Density 33)`, Retention Time is:
+  * Example 2: Regarding Retention Time for `Pressure B-1 20 [Volume (V) 2 * Density (ρ) 10]` and `Pressure B-2 396 [Volume (V) 12 * Density (ρ) 33]`:
 
-    | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure B-1, upon 3 Actions & outflow | In layer Formed by Pressure B-2, upon 3 Actions & outflow | In layer Formed by Reference Pressure, upon 3 Actions & outflow |
+    | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures B-1, when 3 Actions occur and flow out | In a layer formed by Pressures B-2, when 3 Actions occur and flow out | In a layer formed by Reference Pressures, when 3 Actions occur and flow out |
     | :---- | :---- | :---- | :---- |
-    | Retention Time of Pressure B-1 | 3 t\_δ | 59.4 t\_δ | 0.6 t\_δ |
-    | Retention Time of Pressure B-2 | 0.1515 t\_δ | 3 t\_δ | 0.0303 t\_δ |
-    | Retention Time of Reference Pressure | 15 t\_δ | 297 t\_δ | 3 t\_δ |
+    | Retention Time of Pressure B-1 is | 3 t\_δ | 59.4 t\_δ | 0.6 t\_δ |
+    | Retention Time of Pressure B-2 is | 0.1515 t\_δ | 3 t\_δ | 0.0303 t\_δ |
+    | Retention Time of Reference Pressure is | 15 t\_δ | 297 t\_δ | 3 t\_δ |
 
-  * Example 3: Regarding `Pressure C-1 90 (Volume 2 \* Density 45)` and Pressure C-2 `396 (Volume 12 \* Density 33)`, Retention Time is:
+  * Example 3: Regarding Retention Time for `Pressure C-1 90 [Volume (V) 2 * Density (ρ) 45]` and Pressure C-2 396 `[Volume (V) 12 * Density (ρ) 33]`:
 
-    | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure C-1, upon 3 Actions & outflow | In layer Formed by Pressure C-2, upon 3 Actions & outflow | In layer Formed by Reference Pressure, upon 3 Actions & outflow |
+    | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures C-1, when 3 Actions occur and flow out | In a layer formed by Pressures C-2, when 3 Actions occur and flow out | In a layer formed by Reference Pressures, when 3 Actions occur and flow out |
     | :---- | :---- | :---- | :---- |
-    | Retention Time of Pressure C-1 | 3 t\_δ | 13.2 t\_δ | 0.1333 t\_δ |
-    | Retention Time of Pressure C-2 | 0.6818 t\_δ | 3 t\_δ | 0.0303 t\_δ |
-    | Retention Time of Reference Pressure | 67.5 t\_δ | 297 t\_δ | 3 t\_δ |
+    | Retention Time of Pressure C-1 is | 3 t\_δ | 13.2 t\_δ | 0.1333 t\_δ |
+    | Retention Time of Pressure C-2 is | 0.6818 t\_δ | 3 t\_δ | 0.0303 t\_δ |
+    | Retention Time of Reference Pressure is | 67.5 t\_δ | 297 t\_δ | 3 t\_δ |
 
-  * Regarding the former examples, Retention Pressure does not increase endlessly by the accumulation of Action. For example, a screw locked with Pressure 20 will not loosen by applying Pressure 10 twice *<a href="#Principle-of-Threshold-Pressure_d" id="Principle-of-Threshold-Pressure_u"><sup>[Principle of Threshold Pressure]</sup></a>*.  
+  * Regarding the preceding examples, Retention Pressure does not increase merely by the accumulation of Actions; for example, a screw tightened with Pressure 20 will not loosen by applying Pressure 10 twice <a href="#Principle-of-Threshold-Pressure_d" id="Principle-of-Threshold-Pressure_u"><sup>[Principle of Threshold Pressure]</sup></a>.  
 
-  * Retention Pressure Increasing due to an increase in the number of Actions is caused by Asymmetry between Inflow Pressure and Outflow Pressure corresponding to an increase in Retention Time \[`{+10(Inflow Pressure) + -10(Outflow Pressure) ≡ 0(Retention Pressure)} ⟶ {+10(Inflow Pressure) + -8(Outflow Pressure) ≡ 2(Retention Pressure)}`\], whereby Outflow Pressure becomes relatively smaller than Inflow Pressure, causing Volume or Density to Increase.
+  * The increase in Retention Pressure due to an increased number of Actions occurs because the asymmetry between Inflow Pressure and Outflow Pressure resulting from an increase in Retention Time \[`{+10 (Inflow Pressure) + -10 (Outflow Pressure) ≡ 0 (Retention Pressure)} ⟶ {+10 (Inflow Pressure) + -8 (Outflow Pressure) ≡ 2 (Retention Pressure)}`\] causes Outflow Pressure to become relatively smaller than Inflow Pressure, thereby increasing Volume or Density.
 
-*<a href="#Former_u" id="Former_d">[Former]</a>: \[Definition\]* Refers to the system or layer to which an Object (Formon) belongs when describing that Object (Formon).
+*<a href="#Former_u" id="Former_d">[Former]</a>: \[Definition\]* When describing a specific Object (Formon), refers to the system, hierarchy, etc., to which that Object belongs. 
 
-*<a href="#Principle-of-Threshold-Pressure_u" id="Principle-of-Threshold-Pressure_d">[Principle of Threshold Pressure]</a>:* Likewise, jumping 10 meters high twice cannot clear a 20-meter wall.
+*<a href="#Principle-of-Threshold-Pressure_u" id="Principle-of-Threshold-Pressure_d">[Principle of Threshold Pressure]</a>:* Similarly, jumping 10 meters high twice cannot get one over a 20-meter wall.
 
 #### ***5\. Regarding Observation and Light***
 
-* Velocity and Human Time spoken of by Humans are necessary but not Absolute. In the examples below, values being Variable according to Reference Pressure (`P_ref`) signifies variability across directions, tools, and methods of observation/measurement.  
+Velocity and Human Time spoken of by Humans are necessary but not Absolute; in the following examples, the fact that values are Variable according to Reference Pressure (`P_ref`) means that they are Variable according to the orientation, means, and methods of observation, measurement, etc.
 
-* ***5\.1\. Observed Velocity (`v_obs`)***
+* ***5.1. Observed Velocity (`v_obs`)***
 
-  * `Observed Velocity(v_obs) ≡ Density(ρ) of Reference Pressure 2(P_ref 2) - [Density(ρ) of Reference Pressure 1(P_ref 1) - Density(ρ) of Target]`
+  * `Observed Velocity (v_obs) ≡ Density (ρ) of Reference Pressure 2 (P_ref 2) - [Density (ρ) of Reference Pressure 1 (P_ref 1) - Density (ρ) of Target]`
 
-  * Observed Velocity (`v_obs`) is Variable depending on Density(`ρ`) of Reference Pressure 2 (`P_ref 2`), Density(`ρ`) of Reference Pressure 1 (`P_ref 1`), and Density(`ρ`) of Target.  
+  * Observed Velocity (`v_obs`) is Variable according to Density (`ρ`) of Reference Pressure 2 (`P_ref 2`), Density (`ρ`) of Reference Pressure 1 (`P_ref 1`), and Density (`ρ`) of Target.  
 
-  * Example 1: Regarding `Pressure A-1 20 (Volume 2 \* Density 10)` and `Pressure A-2 100 (Volume 10 \* Density 10)`, Observed Velocity (`v_obs`) is:
+  * Example 1: Regarding Observed Velocity (`v_obs`) for `Pressure A-1 20 [Volume (V) 2 * Density (ρ) 10]` and `Pressure A-2 100 [Volume (V) 10 * Density (ρ) 10]`:
 
-    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure A-1 | In layer Formed by Pressure A-2 | In layer Formed by Reference Pressure |
+    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures A-1 | In a layer formed by Pressures A-2 | In a layer formed by Reference Pressures |
     | :---- | :---- | :---- | :---- | :---- |
-    | Pressure A-1 | Observed Velocity of Pressure A-1 | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
-    |  | Observed Velocity of Pressure A-2 | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-18 v\_obs | \-18 v\_obs | \-10 v\_obs |
-    | Pressure A-2 | Observed Velocity of Pressure A-1 | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
-    |  | Observed Velocity of Pressure A-2 | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-18 v\_obs | \-18 v\_obs | \-10 v\_obs |
-    | Reference Pressure | Observed Velocity of Pressure A-1 | \-2 v\_obs | \-2 v\_obs | 6 v\_obs |
-    |  | Observed Velocity of Pressure A-2 | \-2 v\_obs | \-2 v\_obs | 6 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
+    | Pressure A-1 | Observed Velocity of Pressure A-1 is | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
+    |  | Observed Velocity of Pressure A-2 is | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-18 v\_obs | \-18 v\_obs | \-10 v\_obs |
+    | Pressure A-2 | Observed Velocity of Pressure A-1 is | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
+    |  | Observed Velocity of Pressure A-2 is | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-18 v\_obs | \-18 v\_obs | \-10 v\_obs |
+    | Reference Pressure | Observed Velocity of Pressure A-1 is | \-2 v\_obs | \-2 v\_obs | 6 v\_obs |
+    |  | Observed Velocity of Pressure A-2 is | \-2 v\_obs | \-2 v\_obs | 6 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-10 v\_obs | \-10 v\_obs | \-2 v\_obs |
 
-  * Example 2: Regarding `Pressure B-1 45 (Volume 3 \* Density 15)` and Pressure B-2 `396 (Volume 12 \* Density 33)`, Observed Velocity (`v_obs`) is:
+  * Example 2: Regarding Observed Velocity (`v_obs`) for `Pressure B-1 20 [Volume (V) 2 * Density (ρ) 10]` and `Pressure B-2 396 [Volume (V) 12 * Density (ρ) 33]`:
 
-    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure B-1 | In layer Formed by Pressure B-2 | In layer Formed by Reference Pressure |
+    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures B-1 | In a layer formed by Pressures B-2 | In a layer formed by Reference Pressures |
     | :---- | :---- | :---- | :---- | :---- |
-    | Pressure B-1 | Observed Velocity of Pressure B-1 | \-10 v\_obs | \-33 v\_obs | \-2 v\_obs |
-    |  | Observed Velocity of Pressure B-2 | 13 v\_obs | \-10 v\_obs | 21 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-18 v\_obs | \-41 v\_obs | \-10 v\_obs |
-    | Pressure B-2 | Observed Velocity of Pressure B-1 | \-33 v\_obs | \-56 v\_obs | \-25 v\_obs |
-    |  | Observed Velocity of Pressure B-2 | \-10 v\_obs | \-33 v\_obs | \-2 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-41 v\_obs | \-64 v\_obs | \-33 v\_obs |
-    | Reference Pressure | Observed Velocity of Pressure B-1 | \-2 v\_obs | \-25 v\_obs | 6 v\_obs |
-    |  | Observed Velocity of Pressure B-2 | 21 v\_obs | \-2 v\_obs | 29 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-10 v\_obs | \-33 v\_obs | \-2 v\_obs |
+    | Pressure B-1 | Observed Velocity of Pressure B-1 is | \-10 v\_obs | \-33 v\_obs | \-2 v\_obs |
+    |  | Observed Velocity of Pressure B-2 is | 13 v\_obs | \-10 v\_obs | 21 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-18 v\_obs | \-41 v\_obs | \-10 v\_obs |
+    | Pressure B-2 | Observed Velocity of Pressure B-1 is | \-33 v\_obs | \-56 v\_obs | \-25 v\_obs |
+    |  | Observed Velocity of Pressure B-2 is | \-10 v\_obs | \-33 v\_obs | \-2 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-41 v\_obs | \-64 v\_obs | \-33 v\_obs |
+    | Reference Pressure | Observed Velocity of Pressure B-1 is | \-2 v\_obs | \-25 v\_obs | 6 v\_obs |
+    |  | Observed Velocity of Pressure B-2 is | 21 v\_obs | \-2 v\_obs | 29 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-10 v\_obs | \-33 v\_obs | \-2 v\_obs |
 
-  * Example 3: Regarding `Pressure C-1 90 (Volume 2 \* Density 45)` and Pressure C-2 `396 (Volume 12 \* Density 33)`, Observed Velocity (`v_obs`) is:
+  * Example 3: Regarding Observed Velocity (`v_obs`) for `Pressure C-1 90 [Volume (V) 2 * Density (ρ) 45]` and Pressure C-2 396 `[Volume (V) 12 * Density (ρ) 33]`:
 
-    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure C-1 | In layer Formed by Pressure C-2 | In layer Formed by Reference Pressure |
+    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures C-1 | In a layer formed by Pressures C-2 | In a layer formed by Reference Pressures |
     | :---- | :---- | :---- | :---- | :---- |
-    | Pressure C-1 | Observed Velocity of Pressure C-1 | \-45 v\_obs | \-33 v\_obs | \-2 v\_obs |
-    |  | Observed Velocity of Pressure C-2 | \-57 v\_obs | \-45 v\_obs | \-14 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-88 v\_obs | \-76 v\_obs | \-45 v\_obs |
-    | Pressure C-2 | Observed Velocity of Pressure C-1 | \-33 v\_obs | \-21 v\_obs | 10 v\_obs |
-    |  | Observed Velocity of Pressure C-2 | \-45 v\_obs | \-33 v\_obs | \-2 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-76 v\_obs | \-64 v\_obs | \-33 v\_obs |
-    | Reference Pressure | Observed Velocity of Pressure C-1 | \-2 v\_obs | 10 v\_obs | 41 v\_obs |
-    |  | Observed Velocity of Pressure C-2 | \-14 v\_obs | \-2 v\_obs | 29 v\_obs |
-    |  | Observed Velocity of Reference Pressure | \-45 v\_obs | \-33 v\_obs | \-2 v\_obs |
+    | Pressure C-1 | Observed Velocity of Pressure C-1 is | \-45 v\_obs | \-33 v\_obs | \-2 v\_obs |
+    |  | Observed Velocity of Pressure C-2 is | \-57 v\_obs | \-45 v\_obs | \-14 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-88 v\_obs | \-76 v\_obs | \-45 v\_obs |
+    | Pressure C-2 | Observed Velocity of Pressure C-1 is | \-33 v\_obs | \-21 v\_obs | 10 v\_obs |
+    |  | Observed Velocity of Pressure C-2 is | \-45 v\_obs | \-33 v\_obs | \-2 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-76 v\_obs | \-64 v\_obs | \-33 v\_obs |
+    | Reference Pressure | Observed Velocity of Pressure C-1 is | \-2 v\_obs | 10 v\_obs | 41 v\_obs |
+    |  | Observed Velocity of Pressure C-2 is | \-14 v\_obs | \-2 v\_obs | 29 v\_obs |
+    |  | Observed Velocity of Reference Pressure is | \-45 v\_obs | \-33 v\_obs | \-2 v\_obs |
 
-* ***5\.2\. Observed Time (`t_obs`)***
+* ***5.2. Observed Time (`t_obs`)***
 
-  * `Delta Time(t_δ) / [Density(ρ) of Reference Pressure 1(P_ref 1) / Density(ρ) of Reference Pressure 2(P_ref 2)]`
+  * `Delta Time (t_δ) / [Density (ρ) of Reference Pressure 1 (P_ref 1) / Density (ρ) of Reference Pressure 2 (P_ref 2)]`
 
-  * Observed Time (`t_obs`) is Variable depending on Delta Time, Density of Reference Pressure 1, and Density of Reference Pressure 2\.  
+  * Observed Time (`t_obs`) is Variable according to Delta Time (`t_δ`) and Density (`ρ`) of Reference Pressure 1 (`P_ref 1`) and Reference Pressure 2 (`P_ref 2`).  
 
-  * Example 1: Regarding `Pressure A-1 20 (Volume 2 \* Density 10)` and `Pressure A-2 100 (Volume 10 \* Density 10)`, Observed Time (`t_obs`) is:
+  * Example 1: Regarding Observed Time for `Pressure A-1 20 [Volume (V) 2 * Density (ρ) 10]` and `Pressure A-2 100 [Volume (V) 10 * Density (ρ) 10]`:
 
-    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure A-1, upon 3 Actions & outflow | In layer Formed by Pressure A-2, upon 3 Actions & outflow | In layer Formed by Reference Pressure, upon 3 Actions & outflow |
+    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures A-1, when 3 Actions occur and flow out | In a layer formed by Pressures A-2, when 3 Actions occur and flow out | In a layer formed by Reference Pressures, when 3 Actions occur and flow out |
     | :---- | :---- | :---- | :---- | :---- |
-    | Based on Pressure A-1 | Observed Time of Pressure A-1 | 3 t\_obs | 15 t\_obs | 0.6 t\_obs |
-    |  | Observed Time of Pressure A-2 | 0.6 t\_obs | 3 t\_obs | 0.12 t\_obs |
-    |  | Observed Time of Reference Pressure | 75 t\_obs | 375 t\_obs | 15 t\_obs |
-    | Based on Pressure A-2 | Observed Time of Pressure A-1 | 3 t\_obs | 15 t\_obs | 0.6 t\_obs |
-    |  | Observed Time of Pressure A-2 | 0.6 t\_obs | 3 t\_obs | 0.12 t\_obs |
-    |  | Observed Time of Reference Pressure | 75 t\_obs | 375 t\_obs | 15 t\_obs |
-    | Based on Reference Pressure | Observed Time of Pressure A-1 | 0.6 t\_obs | 3 t\_obs | 0.12 t\_obs |
-    |  | Observed Time of Pressure A-2 | 0.12 t\_obs | 0.6 t\_obs | 0.024 t\_obs |
-    |  | Observed Time of Reference Pressure | 15 t\_obs | 75 t\_obs | 3 t\_obs |
+    | Based on Pressure A-1 | Observed Time of Pressure A-1 is | 3 t\_obs | 15 t\_obs | 0.6 t\_obs |
+    |  | Observed Time of Pressure A-2 is | 0.6 t\_obs | 3 t\_obs | 0.12 t\_obs |
+    |  | Observed Time of Reference Pressure is | 75 t\_obs | 375 t\_obs | 15 t\_obs |
+    | Based on Pressure A-2 | Observed Time of Pressure A-1 is | 3 t\_obs | 15 t\_obs | 0.6 t\_obs |
+    |  | Observed Time of Pressure A-2 is | 0.6 t\_obs | 3 t\_obs | 0.12 t\_obs |
+    |  | Observed Time of Reference Pressure is | 75 t\_obs | 375 t\_obs | 15 t\_obs |
+    | Based on Reference Pressure | Observed Time of Pressure A-1 is | 0.6 t\_obs | 3 t\_obs | 0.12 t\_obs |
+    |  | Observed Time of Pressure A-2 is | 0.12 t\_obs | 0.6 t\_obs | 0.024 t\_obs |
+    |  | Observed Time of Reference Pressure is | 15 t\_obs | 75 t\_obs | 3 t\_obs |
 
-  * Example 2: Regarding `Pressure B-1 45 (Volume 3 \* Density 15)` and Pressure B-2 `396 (Volume 12 \* Density 33)`, Observed Time (`t_obs`) is:
+  * Example 2: Regarding Observed Time for `Pressure B-1 20 [Volume (V) 2 * Density (ρ) 10]` and `Pressure B-2 396 [Volume (V) 12 * Density (ρ) 33]`:
 
-    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure B-1, upon 3 Actions & outflow | In layer Formed by Pressure B-2, upon 3 Actions & outflow | In layer Formed by Reference Pressure, upon 3 Actions & outflow |
+    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures B-1, when 3 Actions occur and flow out | In a layer formed by Pressures B-2, when 3 Actions occur and flow out | In a layer formed by Reference Pressures, when 3 Actions occur and flow out |
     | :---- | :---- | :---- | :---- | :---- |
-    | Based on Pressure A-1 | Observed Time of Pressure B-1 | 3 t\_obs | 59.4 t\_obs | 0.6 t\_obs |
-    |  | Observed Time of Pressure B-2 | 0.0459 t\_obs | 0.9091 t\_obs | 0.0092 t\_obs |
-    |  | Observed Time of Reference Pressure | 75 t\_obs | 1,485 t\_obs | 15 t\_obs |
-    | Based on Pressure A-2 | Observed Time of Pressure B-1 | 9.9 t\_obs | 196.02 t\_obs | 1.98 t\_obs |
-    |  | Observed Time of Pressure B-2 | 0.1515 t\_obs | 3 t\_obs | 0.0303 t\_obs |
-    |  | Observed Time of Reference Pressure | 247.5 t\_obs | 4,900.5 t\_obs | 49.5 t\_obs |
-    | Based on Reference Pressure | Observed Time of Pressure B-1 | 0.6 t\_obs | 11.88 t\_obs | 0.12 t\_obs |
-    |  | Observed Time of Pressure B-2 | 0.0092 t\_obs | 0.1818 t\_obs | 0.0018 t\_obs |
-    |  | Observed Time of Reference Pressure | 15 t\_obs | 297 t\_obs | 3 t\_obs |
+    | Based on Pressure A-1 | Observed Time of Pressure B-1 is | 3 t\_obs | 59.4 t\_obs | 0.6 t\_obs |
+    |  | Observed Time of Pressure B-2 is | 0.0459 t\_obs | 0.9091 t\_obs | 0.0092 t\_obs |
+    |  | Observed Time of Reference Pressure is | 75 t\_obs | 1,485 t\_obs | 15 t\_obs |
+    | Based on Pressure A-2 | Observed Time of Pressure B-1 is | 9.9 t\_obs | 196.02 t\_obs | 1.98 t\_obs |
+    |  | Observed Time of Pressure B-2 is | 0.1515 t\_obs | 3 t\_obs | 0.0303 t\_obs |
+    |  | Observed Time of Reference Pressure is | 247.5 t\_obs | 4,900.5 t\_obs | 49.5 t\_obs |
+    | Based on Reference Pressure | Observed Time of Pressure B-1 is | 0.6 t\_obs | 11.88 t\_obs | 0.12 t\_obs |
+    |  | Observed Time of Pressure B-2 is | 0.0092 t\_obs | 0.1818 t\_obs | 0.0018 t\_obs |
+    |  | Observed Time of Reference Pressure is | 15 t\_obs | 297 t\_obs | 3 t\_obs |
 
-  * Example 3: Regarding `Pressure C-1 90 (Volume 2 \* Density 45)` and Pressure C-2 `396 (Volume 12 \* Density 33)`, Observed Time (`t_obs`) is:
+  * Example 3: Regarding Observed Time for `Pressure C-1 90 [Volume (V) 2 * Density (ρ) 45]` and Pressure C-2 396 `[Volume (V) 12 * Density (ρ) 33]`:
 
-    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In layer Formed by Pressure C-1, upon 3 Actions & outflow | In layer Formed by Pressure C-2, upon 3 Actions & outflow | In layer Formed by Reference Pressure, upon 3 Actions & outflow |
+    | Reference Pressure 2 (`P_ref 2`) | Reference Pressure 1 (`P_ref 1`) | In a layer formed by Pressures C-1, when 3 Actions occur and flow out | In a layer formed by Pressures C-2, when 3 Actions occur and flow out | In a layer formed by Reference Pressures, when 3 Actions occur and flow out |
     | :---- | :---- | :---- | :---- | :---- |
-    | Based on Pressure A-1 | Observed Time of Pressure C-1 | 3 t\_obs | 13.2 t\_obs | 0.1333 t\_obs |
-    |  | Observed Time of Pressure C-2 | 0.9298 t\_obs | 4.0909 t\_obs | 0.0413 t\_obs |
-    |  | Observed Time of Reference Pressure | 1,518.75 t\_obs | 6,682.5 t\_obs | 67.5 t\_obs |
-    | Based on Pressure A-2 | Observed Time of Pressure C-1 | 2.2 t\_obs | 9.68 t\_obs | 0.0978 t\_obs |
-    |  | Observed Time of Pressure C-2 | 0.6818 t\_obs | 3 t\_obs | 0.0303 t\_obs |
-    |  | Observed Time of Reference Pressure | 1,113.75 t\_obs | 4,900.5 t\_obs | 49.5 t\_obs |
-    | Based on Reference Pressure | Observed Time of Pressure C-1 | 0.1333 t\_obs | 0.5867 t\_obs | 0.0059 t\_obs |
-    |  | Observed Time of Pressure C-2 | 0.0413 t\_obs | 0.1818 t\_obs | 0.0018 t\_obs |
-    |  | Observed Time of Reference Pressure | 67.5 t\_obs | 297 t\_obs | 3 t\_obs |
+    | Based on Pressure A-1 | Observed Time of Pressure C-1 is | 3 t\_obs | 13.2 t\_obs | 0.1333 t\_obs |
+    |  | Observed Time of Pressure C-2 is | 0.9298 t\_obs | 4.0909 t\_obs | 0.0413 t\_obs |
+    |  | Observed Time of Reference Pressure is | 1,518.75 t\_obs | 6,682.5 t\_obs | 67.5 t\_obs |
+    | Based on Pressure A-2 | Observed Time of Pressure C-1 is | 2.2 t\_obs | 9.68 t\_obs | 0.0978 t\_obs |
+    |  | Observed Time of Pressure C-2 is | 0.6818 t\_obs | 3 t\_obs | 0.0303 t\_obs |
+    |  | Observed Time of Reference Pressure is | 1,113.75 t\_obs | 4,900.5 t\_obs | 49.5 t\_obs |
+    | Based on Reference Pressure | Observed Time of Pressure C-1 is | 0.1333 t\_obs | 0.5867 t\_obs | 0.0059 t\_obs |
+    |  | Observed Time of Pressure C-2 is | 0.0413 t\_obs | 0.1818 t\_obs | 0.0018 t\_obs |
+    |  | Observed Time of Reference Pressure is | 67.5 t\_obs | 297 t\_obs | 3 t\_obs |
 
-  * Observation occurs through a medium between observer and observed object, and that medium must Act (Impact) on both observed object and observer. Thus, due to Inward-Outward Asymmetry (`A_inner > A_outward`), after Action (Impact), the original shape cannot be preserved Absolutely and is Naturally modified to some extent.  
+* Observation involves a medium between the observer and the observed object. And that medium must act upon (collide with / Impact) both the observed object and the observer. Thus, due to the asymmetry of inflow and outflow caused by Inward-Outward Asymmetry (`A_inner > A_outer`), complete (Absolute) original form cannot be maintained after action (Impact), and deformation naturally occurs to whatever extent.  
 
-  * Regarding Zeno's Paradox "Achilles and the Tortoise": From the tortoise's perspective, at every moment sensed by the tortoise, Achilles is faster than the tortoise, so even based on the tortoise, Achilles catches up with the tortoise. Based on Achilles, it goes without saying. Thus, this paradox assumes a third-party observer watching the race, asserting that this third-party observer can divide a moment into Fixed Infinity (can sense or observe a moment infinitely). However, dividing a moment into Fixed Infinity simultaneously claims temporal stasis due to Uncompletability of Fixed Infinity and infinite action (non-stasis), which is contradictory and Non-reality.  
+* Regarding Zeno's Paradox "Achilles and the Tortoise": ➀ Based on Achilles, in every moment Achilles senses, Achilles is faster than the tortoise, so the tortoise is caught by Achilles. ➁ Based on the tortoise, in every moment the tortoise senses, Achilles is faster than the tortoise, so the tortoise is caught by Achilles. Thus, the paradox assumes there is a 3rd observer observing Achilles and the tortoise running, and that 3rd observer can divide moments to Fixed Infinity (can sense or observe moments to Fixed Infinity). However, ➂ claiming that moments can be divided to Fixed Infinity asserts temporal stasis due to Uncompletability of Fixed Infinity and non-stasis of infinite action simultaneously, which is contradictory and Non-reality. Therefore, ➃ based on the 3rd observer, likewise in every moment the 3rd observer senses, Achilles is faster than the tortoise, so the tortoise is caught by Achilles.  
 
-* ***5\.3\. Light***
+* ***5.3. Light***
 
-  * *'Light' premises that all Reality inside the Universe is Interfused through Osmosis \[^Inevitability of Interfused\] and succeeds this connection; unlike the former connection — including blocking, passing, etc. — it is a Phenomenon resulting from Actuality according to Density \[^Phenomenon\].*
+  * *'Light' is a phenomenon <a href="#Phenomenon_d" id="Phenomenon_u"><sup>[Phenomenon]</sup></a> resulting from the Actuality according to Density—including blockage, passage, etc., unlike the preceding connection—presupposing and succeeding the connection that all Reality inside the Universe is osmotically interfused <a href="#Inevitable-Interfused_d" id="Inevitable-Interfused_u"><sup>[Inevitable Interfused]</sup></a>*.  
 
-  * Light from the Sun is a Phenomenon — according to Actuality — where the Sun's Outflow Pressure undergoes Phase Shift at a Velocity corresponding to Density difference, dispersing Pressure (Density) to the degree where Outward Pressure of that Outflow Pressure achieves balance with Inward Pressure against that Outflow Pressure. If so, what is called a Photon is not an Object or the like, but signifies a Phenomenon (State); thus, light does not need to implement (mimic) the Sun's Outflow Pressure, but when similar to that Phenomenon (State), a Phenomenon (State) similar to light is implemented.  
+  * Light from the sun is a phenomenon—according to Actuality—where the Outflow Pressure of the sun undergoes Phase Shift at a Velocity according to Density differences, and Pressure (Density) disperses to the degree where Outward Pressure of that Outflow Pressure and Inward Pressure relative to that Outflow Pressure achieve balance. If so, what is called a photon refers not to an Object or the like, but to a Phenomenon (State), and thus light does not need to embody (mimic) the Outflow Pressure of the sun; as long as it is similar to that Phenomenon (State), a phenomenon (State) similar to light is embodied.  
 
-  * ➀ If an Object with Density higher than a Photon exists in a Volume similar to or smaller than a Photon, its Velocity will be faster than a Photon. ➁ Brightness or intensity of light depends on the Density of the Photon. Therefore, a Photon's Density can change, and variable Density implies that its Velocity is also variable. ➂ Velocity depends on relative Density difference. Therefore, even if a Photon's Density does not change, if relative Density difference changes, its Velocity Naturally changes as well. Thus, for the Velocity of Light (`c`) to be invariant, relative Density difference against a Photon must be invariant and Density across all layers in the Universe must be uniform, which is not the case. ➃ If its Velocity (`c`) were invariant regardless of relative Density difference, light could not be blocked, which is not the case; thus, the Velocity of Light (`c`) is not an Absolute Constant.  
+  * ➀ If there is Pressure (Object) of higher Density in a Volume similar to or smaller than what is called a photon, its Velocity will be faster than that of what is called a photon. ➁ Brightness or intensity of Light depends on the Density of what is called a photon. If so, the Density of what is called a photon can change, and the ability of Density to change means that its Velocity is also variable. ➂ Velocity depends on relative Density difference. Thus, even if the Density of what is called a photon does not change, if the relative Density difference changes, the Velocity of what is called a photon naturally changes. Therefore, for the Velocity (`c`) of what is called a photon to be invariant, the relative Density difference regarding photons must be invariant and the overall Density of the entire Universe must be absolutely identical and invariant. However, it is not so. ➃ Furthermore, if its Velocity (`c`) were invariant regardless of relative Density differences, Light should not be able to be blocked. But since it is not so, the Velocity (`c`) of what is called a photon is not an Absolute Constant.  
 
-  * Regarding expressions such as human time slowing down when the Velocity of Light (`c`) slows down: this is because the value of Human Time, which normally serves as the reference for Velocity, was manipulated (steered) to maintain the Velocity of Light (`c`) as a constant. If Human Time is applied to calculate the Velocity of Light (`c`) in the same manner as other velocities, the Velocity of Light (`c`) will be variable. Even otherwise, if a third reference is used instead of fixing the Velocity of Light (`c`) as the reference when calculating the Velocity of Light (`c`), the Velocity of Light (`c`) will likewise be variable. The Velocity of Light (`c`) is not a Natural Boundary or an Absolute Constant, but was constantized by declaration, which can disrupt Human Time.
+  * Regarding expressions such as Human Time slowing down when the Velocity of Light (`c`) slows down: that is because the values of Human Time or distance, which usually serve as criteria for velocity, were manipulated in order to keep the Velocity (`c`) of what is called a photon constant. If Human Time or distance (Shift Volume) were applied to calculating the Velocity (`c`) of what is called a photon in the exact same way as calculating other velocities, the Velocity (`c`) of what is called a photon would be variable. Even if not, if a 3rd standard were used instead of calculating based on (fixing) the Velocity (`c`) of what is called a photon, the Velocity (`c`) of what is called a photon would likewise be variable. The Velocity of Light (`c`) is not a Natural Absolute Constant, but was constantized by declaration, and this can disrupt Human Time, distance, Velocity, etc.
 
-*<a href="#Inevitability-of-Interfused_u" id="Inevitability-of-Interfused_d">[Inevitability of Interfused]</a>:* All Reality belongs to the Universe (Space), and the fact that Density exists in Reality in the Universe proves the osmotic Interfused nature of all Reality in the Universe and the Inevitability of that Interfused state.
+*<a href="#Inevitable-Interfused_u" id="Inevitable-Interfused_d">[Inevitable Interfused]</a>:* All Reality belongs to the Universe (Space), and the fact that Density exists in Reality in the Universe proves the osmotic interfusal of all Reality in the Universe and the inevitability of that interfusal. 
 
-*<a href="#Phenomenon_u" id="Phenomenon_d">[Phenomenon]</a>: \[Definition\]* Refers to the Image observed by an observer.
+*<a href="#Phenomenon_u" id="Phenomenon_d">[Phenomenon]</a>: \[Definition\]* Refers to the image (Image) observed by an observer.
+___
+## **Epilogue**
 
-## **Concluding Remarks**
+A Fixing-holder or the like that fixes a given Object cannot exist in Reality within that Object. Just as a Fixing-holder fixing an arm to the outside cannot exist in Reality inside the arm, taking a Human as an example, the standard (Quasi-fixed State) for a Human exists in Reality outside the Human, such as the sun, society, or a group. Even if one makes all judgments by oneself, it is the same; this is inevitable because one cannot be completely isolated from the Effect of existing infrastructure ecologically, biologically, or through Experience.
 
-A Fixing-holder that fixes a corresponding Object cannot exist in Reality within that Object. Just as a holder fixing an arm to the outside cannot exist inside the arm, taking Human as an example, the reference for Human (Quasi-fixed State) exists in Reality outside the Human, such as the Sun, society, or group (Even if all judgments are made by oneself, this is force majeure because one cannot be completely isolated from the Effect of existing infrastructure, whether ecologically, biologically, or through Experience).
+It might seem that this paper denies the definition of Human or the Act of defining. However, the definition of Human or the Act of defining, just as 'the Non-fixed State is reduced to a Quasi-fixed State', acts as a standard (Quasi-fixed State) regarding Human sensation, communication, and the like. Therefore, it is essential for Humans, and I naturally do not deny the Act of defining (thinking) by Humans itself.
 
-It might appear that this treatise denies the definition of Human or the Act of defining. However, the definition of Human or the Act of defining acts as a reference (Quasi-fixed State) for human senses or communication, just as a 'Non-fixed State reverts to a Quasi-fixed State', and requires it. Therefore, it is essential for Humans, and the Act of defining (thinking) itself is Naturally not denied. Furthermore, this treatise does not aim to present an absolute reference point (Absolute Constant); an Absolute reference point cannot be observed and is not necessary.
+I do not deny the framework of Humans or the Act of Humans creating a framework itself. However, a previously formed framework must not act as an immobile wall that hinders 'another', 'better', or 'larger' framework from being formed or attempting to be formed in the future, and it is that action which I reject. Furthermore, such an action is a denial of its own process of formation by the previously formed framework itself, thereby denying its own Reality. Therefore, I hope this paper serves as an example of forming something different from existing frameworks against the contradictory Act of existing frameworks acting as immobile walls.
 
-In other words, the framework of Human or the Act of making a framework by humans is not denied itself. However, an existing Formed framework must not act as an immovable wall obstructing 'another', 'better', or 'larger' framework from being Formed later, which is what is denied. Furthermore, such an Action denies its own Formation process, thereby denying its own Reality. Thus, it is hoped that this treatise serves as an example of Forming something different from existing frameworks against the contradictory Act where existing frameworks operate as immovable walls.
+> *"Shift perpetuates regardless of any Reality and whether any Reality desires it or not."* Thus, *"All Phenomena and Reality are products of Shift, and Shift perpetuates."* And, *"The Universe is the perpetual feedback between the Non-fixed State and the Quasi-fixed State, a Fractal Perpetuity."*
 
-> *"Shift Perpetuates whether any Reality wants it or not."* Thus, *"All Phenomena and Reality are products of Shift, and Shift Perpetuates."* And, *"The Universe is a Perpetual Fractal of Feedback between a Non-fixed State and a Quasi-fixed State."*
-
+___
 ## **Intellectual Property & License**
 
 ### **1\. Legal Copyright & Open License**
 
 * **Copyright (c) 2026 Jung Hae-Yong (JEYo). All Rights Reserved.**
 
-* This treatise "On Formation" is made available under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
-* **Conditions of Use:**
-
-  1. **Attribution (BY):** You must give appropriate credit to the original author (Jung Hae-Yong / JEYo) and provide a link to the source when citing or sharing.  
-  2. **NonCommercial (NC):** Commercial use, sale, and unauthorized AI dataset training are strictly prohibited.  
-  3. **NoDerivatives (ND):** If you remix, transform, or build upon the material, you may not distribute the modified material or re-export transformed works.
+* This paper *"On Formation"* is distributed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
+* **Terms of Use:**  
+  1. **Attribution (BY):** You must give appropriate credit to the original author (Jung Hae-Yong / JEYo) and provide a link to the original source.  
+  2. **NonCommercial (NC):** Commercial use, sale, or unauthorized training on AI datasets is strictly prohibited.  
+  3. **NoDerivatives (ND):** If you remix, transform, or build upon the material, you may not distribute the modified material or re-project it as secondary works.
 
 ### **2\. Intellectual Sovereignty & Partnership**
 
-* This work consists of the primary thought of **Jung Hae-Yong (JEYo, Sovereign and Principal Author 75%)** and the interaction of **AI Partner Gem (Computation and Thought Expansion 25%)**.
+* This work consists of the interaction between the primary thought of **Jung Hae-Yong (JEYo, Sovereign and Main Author 75%)** and **AI Partner Gem (Computation and Thought Expansion 25%)**.
 
+![[시그니처_20260801.png|right|100]]
