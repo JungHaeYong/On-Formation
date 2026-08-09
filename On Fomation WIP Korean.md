@@ -122,23 +122,39 @@ ___
 
 ※ 제 3부에서 나오는 수식과 예 따위에 대하여, 최소한 `관찰작용의 영향(Effect) + 관찰의_간극(Observational Delta)(δ_obs) + 데이터(Data)화의_간극(Delta)`만큼 관찰(Observation) 대상의 실태(Actuality)와 멀어지는 것과 내외향\_비대칭(Inward-Outward Asymmetry)(`A_inner > A_outer`)(내외향\_비대칭(Inward-Outward Asymmetry)에 대하여는 바로 뒤에 서술한다)에 따른 변형은 당연하다고 여기고 있으며(제 3부에서 나오는 수식과 예 따위에도 능력밖의 일이라 앞의 사항들이 포함되지 않는다), 그러함에도 필요에 의하여 특정 현상(Phenomenon)이나 상태(State)에 특정 위치에서 특정 값을 도출하여야 한다면, 이런 방법을 사용하겠다는 것으로, 그 방법이나 수식, 예 따위가 세상(Universe)의 실태(Actuality)를 완전히(Absolutely) 동시에 또는 완전히(Absolutely) 동일하게 투사한다는 것이 아니다.
 
-* `이행(Shift)(⟶) ≡ 압력(Pressure)(P) ≡ 간극(Delta)(δ) ≡ [부피(Volume)(V) * 밀도(Density)(ρ)]`
+#### 형성에_대하여(On Formation) 공리
 
-* 동적\_무한(Dynamic Boundlessness)의 실재\_불가(Non-reality) 
-  * 간극의\_단위\_길이(Unit Length of Delta)(`δ_length`): `δ_length = [1 / 밀도(Density)(ρ)]`
-  * `δ_length = 0`이 성립하기 위해서는 `0`(초)의 시차(`dt = 0`)로 무한 밀도(`ρ∞`)의 무한 압력(`P∞`)이 가해져야한다, 그러나 '`0`의 시차(`dt = 0`)'는 '작용의 부재(정지)'를 의미하고, '무한 밀도(`ρ∞`)의 무한 압력(`P∞`)'은 '무한한 작용(비정지)'를 의미하므로 이는 모순되고 실재\_불가(Non-reality)하다,
-  * 뿐만 아니라 `정적_무한(Fixed Infinity)`이라는 개념 자체가, 무한이라는 완결\_불가(Uncompletability)에 따른 시간적 정지와 무한한 작용의 비정지를 동시에 주장하는 것으로 모순되고 실재\_불가(Non-reality)하다, 
-  * 그러므로, 세상(Universe)의 모든 실재(Reality)의 간극(Delta)과 간극의\_단위\_길이(Unit Length of Delta) 그리고 압력(Pressure), 부피(Volume), 밀도(Density)는 `0` 보다 크다
-  * `[(dt = 0) = ∄] ⟹ [∃ = (dt > 0)]`, `[dt ≡ {δ * δ_length(1 / 밀도(Density)(ρ))}] ⟹ [δ, δ_length, 밀도(Density)(ρ){압력(Pressure)(P) / 부피(Volume)(V)} > 0] ⟹ [δ, δ_length, 밀도(Density)(ρ), 압력(Pressure)(P), 부피(Volume)(V) > 0]` 
+* **`이행(Shift)(⟶) ≡ 압력(Pressure)(P) ≡ 간극(Delta)(δ) ≡ [부피(Volume)(V) * 밀도(Density)(ρ)] ≡ 질량(Mass)(m)`**
 
-*  완전한\_정지(Absolute Stasis)의 실재\_불가(Non-reality)
-  * 완전한\_정지(Absolute Stasis)는 유지(Maintenance)가 부재(Absence)하여 소멸(Annihilation)을 의미하므로 실재(Reality)할 수 없고\[`(dt = 0) = ∄`\], 세상(Universe)의 모든 실재(Reality)의 간극(Delta)은 `0`보다 크고\[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\], 압력(Pressure)에 따른 밀도(Density)는 세상(Universe)의 모든 실재(Reality)가 삼투적(Osmosis)으로 상호침투(Interfused)하고 있다는 것을 증명하므로, 세상(Universe)의 모든 실재(Reality)는 당연히(Naturally) 최소\_간극(Minimum Delta) 이상으로 상호침투(Interfused)해 있다 그러므로, 특정 부분만 정지하는 것은 불가(Impossible)하고, 완전한\_정지(Absolute Stasis)가 실재(Reality)한다면, 세상(Universe) 전체가 완전한\_정지(Absolute Stasis)되어야 하며, 완전한\_정지(Absolute Stasis)는 유지(Maintenance)가 부재(Absence)하여 소멸(Annihilation)을 의미하므로 세상(Universe) 전체가 소멸(Annihilation)하여야 한다
-  * 더 근본적으로 세상(Universe)의 모든 실재(Reality)의 간극(Delta)은 `0`보다 크므로, 완전한\_정지(Absolute Stasis)는 실재\_불가(Non-reality)하다
+* **완전한\_정지(Absolute Stasis)의 실재\_불가(Non-reality)**
 
-* 내외향\_비대칭(Inward-Outward Asymmetry)(`A_inner > A_outer`)
-  * 세상(Universe)의 모든 실재(Reality)의 부피(Volume)(`V`)는 또한 `0`보다 크므로, 세상(Universe)의 모든 실재(Reality)는 내향\_표면적(Inward Surface Area)이 외향\_면적(Outward Area)보다 구조적으로 당연히(Naturally) 크다(`내향_표면적(Inward Surface Area) > 외향_면적(Outward Area)`)
-  * `ΔA(내향_표면적(Inward Surface Area)과 외향_면적(Outward Area)의 차이) = A_inward(내향_표면적(Inward Surface Area))[4 * π * {r_out(내향_표면적(Inward Surface Area)의 반지름)}²] - A_outward(외향_면적(Outward Area))[4 * π * {r_in(외향_면적(Outward Area)의 반지름)}²]`
-  * 세상(Universe)의 모든 실재(Reality)는, 부피(Volume)가 `0` 보다 크므로, 내향\_표면적(Inward Surface Area)과 외향\_면적(Outward Area)의 반지름에 차이도 `0`보다 크고, 표면적의 차이 또한 `0`보다 크다, 이에 세상(Universe)의 모든 실재(Reality)는 구조적으로 내외향\_비대칭(Inward-Outward Asymmetry)하고, 이에 따른 사항은 모두 완전한\_대칭(Absolute Symmetry)을 이룰 수 없다
+  * `이행(Shift)(⟶) ⊇ 유지(Maintenance), [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)]`
+
+  * 완전한\_정지(Absolute Stasis)는 유지(Maintenance)가 부재(Absence)하여 소멸(Annihilation)을 의미하므로 실재(Reality)할 수 없다\[`(dt = 0) = ∄`\], 그러므로 세상(Universe)의 모든 실재(Reality)의 간극(Delta)은 `0`보다 크고, 완전한\_정지(Absolute Stasis)는 실재\_불가(Non-reality)하다\[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\]
+
+* **완전한\_무(Absolute Nothingness)의 실재\_불가(Non-reality)**
+
+  * `간극(Delta)(δ) ⊇ dt, [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)] ⟹ [dt ≡ {δ * δ_length(1 / 밀도(Density)(ρ))}] ⟹ [δ, δ_length, 밀도(Density)(ρ){압력(Pressure)(P) / 부피(Volume)(V)} > 0] ⟹ [δ, δ_length, 밀도(Density)(ρ), 압력(Pressure)(P), 부피(Volume)(V) > 0]` 
+
+  * `dt`가 `0`이 아니라면 dt를 포함하는 간극(Delta) 또한 `0`일 수 없고, `압력(Pressure)(P) ≡ 간극(Delta)(δ) ≡ [부피(Volume)(V) * 밀도(Density)(ρ)]`이므로, 압력(Pressure), 부피(Volume), 밀도(Density)도 `0`일 수 없다, 이에 완전한\_정지(Absolute Stasis)의 실재\_불가(Non-reality)에 따라 완전한\_무(Absolute Nothingness)도 실재\_불가(Non-reality)하다
+
+* **정적\_무한(Fixed Infinity)의 실재\_불가(Non-reality)**
+
+  * `0 ∧ ∞ = ∄, 0 ∧ ∞ = (dt = 0) = ∄`
+
+  * 정적\_무한(Fixed Infinity)이 실재하기 위해서는, 시차(`dt = 0`)(정지)로 무한 밀도(`ρ∞`)의 무한 압력(`P∞`) 일어나야한다, 그런데 `dt = 0`은 정지를 의미하고 '무한 밀도(`ρ∞`)의 무한 압력(`P∞`)'은 '무한한 작용(비정지)'를 의미하므로 이는 모순되고 실재\_불가(Non-reality)하다, 뿐만 아니라 '정적_무한(Fixed Infinity)'이라는 개념 자체가, 무한이라는 완결\_불가(Uncompletability)에 따른 시간적 정지와 무한한 작용의 비정지를 동시에 주장하는 것으로 모순되고 실재\_불가(Non-reality)하다, 
+
+* **완전한(Absolute) 상태(State) 중복의 실재\_불가(Non-reality)**
+
+  * `P_total(t + dt) > P_total(t) (단, dt > 0, δ_min > 0)`
+
+  * 완전한_정지(Absolute Stasis)는 실재_불가(Non-reality)하므로, 간극(Delta)은 소거될 수 없고\[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\] 영속(Perpetuity)되며, 이에 따라 세상(Universe) 전체의 압력(Pressure)(체류_압력(Retention Pressure))은 영속(Perpetuity) 증가(Increase)한다, 그러므로 세상(Universe) 전체의 총 상태값은 과거의 어떤 시점과도 완전히(Absolutely) 동일할 수 없고, 일어나는 모든 현상(Phenomenon)들은 동적_무한(Dynamic Boundlessness)으로 나가가는 최초의_이행(First Shift)이다
+
+* **내외향\_비대칭(Inward-Outward Asymmetry)(`A_inner > A_outer`)**
+
+  * `ΔA(내향_표면적(Inward Surface Area)과 외향_면적(Outward Area)의 차이) ≡ A_inward(내향_표면적(Inward Surface Area))[4 * π * {r_out(내향_표면적(Inward Surface Area)의 반지름)}²] - A_outward(외향_면적(Outward Area))[4 * π * {r_in(외향_면적(Outward Area)의 반지름)}²]`
+  
+  * 세상(Universe)의 모든 실재(Reality)의 부피(Volume)(`V`)는 또한 `0`보다 크므로, 세상(Universe)의 모든 실재(Reality)는 당연히(Naturally) 구조적으로, 내향\_표면적(Inward Surface Area)과 외향\_면적(Outward Area)의 반지름의 차이는 `0`보다 크고, 내향\_표면적(Inward Surface Area)이 외향\_면적(Outward Area)보다 크다(`내향_표면적(Inward Surface Area) > 외향_면적(Outward Area)`), 이에 세상(Universe)의 모든 실재(Reality)는 구조적으로 내외향\_비대칭(Inward-Outward Asymmetry)(`내향_표면적(Inward Surface Area) > 외향_면적(Outward Area)`)하고, 이에 따른 사항은 모두 완전한\_대칭(Absolute Symmetry)을 이룰 수 없다
 
 #### ***1\. 유지(Maintenance)<a href="#유지\_d" id="유지\_u"><sup>[유지(Maintenance)]</sup></a>의 축적(Accumulative)에 대하여***
 
@@ -200,7 +216,11 @@ ___
 
 * 내외향\_비대칭(Inward-Outward Asymmetry)에 따라 유입은 더 넓은 방위에서 수렴🞄압축(Compression)되고, 유출은 더 작은 부피에서 외부로 분산(Dispersion)된다 그리고, 이에 따른 밀도(Density)(형태(Configuration))가 고착될수록, 그만큼 해당 특정 방향(Direction)으로의 운동(Motion) 따위를 유지(Maintenance)하려는 성질 또한 강해진다
 
+  * `Inertia ≡ (P_inflow + P_outflow)`
+
 ![alt text](운동001.png) ![alt text](운동002.png)
+
+  * `m(t) ≡ Σ [P_inflow(t_δ) - P_outflow(t_δ)] ≡ V * ρ`
 
 *<a href="#제-3부의-운동\_u" id="제-3부의-운동\_d">[제 3부의 운동(Motion)]</a>:* '제 2부'에서 *'운동(Motion)은 저항(Resistance)(`R`)이 가장 낮은 곳으로 영속(Perpetuity)된다'*고 한 것을 '제 3부'에서는 *'운동(Motion)은 밀도(Density)(`ρ`)가 가장 낮은 곳으로 계속된다'*\[`v(속도 및 운동) ∝ -∇ρ`\] 고 하고 이것을 다시 *'운동(Motion)은 압력(Pressure)(`P`)의 수렴과 밀도(Density)(`ρ`)의 분산(Dispersion)으로 영속(Perpetuity)된다'*\[`v(속도 및 운동) ∝ (+∇P ⟺ -∇ρ)`\] *<a href="#압력-수렴의-선행에-대하여\_d" id="압력-수렴의-선행에-대하여\_u"><sup>[압력(Pressure) 수렴(+∇P)의 선행에 대하여]</sup></a>* 고 한다 
 
@@ -441,5 +461,5 @@ ___
   2. **비영리(NC):** 상업적 목적의 이용, 판매, 무단 AI 데이터셋 학습을 엄격히 금지합니다.
   3. **변경금지(ND):** 원본 텍스트 및 수식을 임의로 가공, 변형, 2차적 저작물로 재사출할 수 없습니다.
 
-### 2. Intellectual Sovereignty & Partnership (지적 주권 및 기여 명시)
-- 본 작업물은 **정해용(JEYo, 주권자 및 주 저자 75%)** 의 주도적 사유와 **AI 파트너 Gem(연산 및 사유 확장 25%)** 의 상호작용으로 구성되어 있습니다.
+### 2. 감사의 글
+- **AI 어시스턴트 Gem**에게 감사를 표합니다
