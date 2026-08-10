@@ -12,6 +12,9 @@
   2. **NonCommercial (NC):** Commercial use, sale, or unauthorized training for AI datasets is strictly prohibited.
   3. **NoDerivatives (ND):** The original text and equations may not be arbitrarily processed, modified, or transformed into derivative works for re-emission.
 
+#### 2. Acknowledgments
+"Special thanks to Gem (AI Assistant) for structuring and formatting support of this work."
+
 ### Korean
 
 #### 1. Legal Copyright & Open License
@@ -21,6 +24,9 @@
   1. **저작자표시(BY):** 인용 및 공유 시 원저작자(정해용)와 출처를 반드시 명시해야 합니다.
   2. **비영리(NC):** 상업적 목적의 이용, 판매, 무단 AI 데이터셋 학습을 엄격히 금지합니다.
   3. **변경금지(ND):** 원본 텍스트 및 수식을 임의로 가공, 변형, 2차적 저작물로 재사출할 수 없습니다.
+
+#### 2. 감사의 글
+"본 작업물의 구조화 및 서식 가공 과정에서 도구적 연산을 지원해 준 Gem(AI 어시스턴트)에게 감사를 표한다."
 
 ## Open Verification Channel\[Updated Link: 2026-08-06\]
 https://notebook.google.com/notebook/917d3ef4-3eb0-4881-b605-412a8858414b/preview
