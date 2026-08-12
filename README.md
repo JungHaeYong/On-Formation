@@ -28,5 +28,5 @@
 #### 2. 감사의 글
 "본 작업물의 구조화 및 서식 가공 과정에서 도구적 연산을 지원해 준 Gem(AI 어시스턴트)에게 감사를 표한다."
 
-## Open Verification Channel\[Updated Link: 2026-08-06\]
-https://notebook.google.com/notebook/917d3ef4-3eb0-4881-b605-412a8858414b/preview
+## Open Verification Channel\[Updated Link: 2026-08-13\]
+https://notebook.google.com/notebook/8c751bf4-884d-444a-8d74-eedd2d5edb60/preview
