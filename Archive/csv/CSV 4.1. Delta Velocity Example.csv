@@ -1,0 +1,27 @@
+"4.1. Velocity (v) — Unit-Volume Shift Velocity (v_vol) and Delta Velocity (v_δ)",,,
+"Unit-Volume Shift Velocity (v_vol) ≡ Density (ρ) of Reference Pressure (P_ref)",,,
+"Delta Velocity (v_δ) ≡ Density (ρ) of Reference Pressure (P_ref) - Density (ρ) of Target Pressure (P)",,,
+"Example 1","Pressure","Volume","Density"
+"Pressure A-1",20,2,10
+"Pressure A-2",100,10,10
+"Reference Pressure",4,2,2
+"Reference Pressure 1 (P_ref 1)","In a layer formed by Pressures A-1","In a layer formed by Pressures A-2","In a layer formed by Reference Pressures"
+"Delta Velocity of Pressure A-1 is",0.0000 v_δ,0.0000 v_δ,8.0000 v_δ
+"Delta Velocity of Pressure A-2 is",0.0000 v_δ,0.0000 v_δ,8.0000 v_δ
+"Delta Velocity of Reference Pressure is",-8.0000 v_δ,-8.0000 v_δ,0.0000 v_δ
+"Example 2","Pressure","Volume","Density"
+"Pressure B-1",20,2,10
+"Pressure B-2",396,12,33
+"Reference Pressure",4,2,2
+"Reference Pressure 1 (P_ref 1)","In a layer formed by Pressures B-1","In a layer formed by Pressures B-2","In a layer formed by Reference Pressures"
+"Delta Velocity of Pressure B-1 is",0.0000 v_δ,-23.0000 v_δ,8.0000 v_δ
+"Delta Velocity of Pressure B-2 is",23.0000 v_δ,0.0000 v_δ,31.0000 v_δ
+"Delta Velocity of Reference Pressure is",-8.0000 v_δ,-31.0000 v_δ,0.0000 v_δ
+"Example 3","Pressure","Volume","Density"
+"Pressure C-1",90,2,45
+"Pressure C-2",396,12,33
+"Reference Pressure",4,2,2
+"Reference Pressure 1 (P_ref 1)","In a layer formed by Pressures C-1","In a layer formed by Pressures C-2","In a layer formed by Reference Pressures"
+"Delta Velocity of Pressure C-1 is",0.0000 v_δ,12.0000 v_δ,43.0000 v_δ
+"Delta Velocity of Pressure C-2 is",-12.0000 v_δ,0.0000 v_δ,31.0000 v_δ
+"Delta Velocity of Reference Pressure is",-43.0000 v_δ,-31.0000 v_δ,0.0000 v_δ
