@@ -1,0 +1,479 @@
+# Sobre la Formación (On Formation)
+
+## Resumen
+
+### El contenido de este escrito entra en conflicto con:
+
+* ***La explosión y expansión fortuita desde la nada (Nothingness) [Georges Lemaître, Edwin Hubble, "Teoría del Big Bang (Big Bang Theory)"]***
+
+  * Bajo la sola condición de la nada (Nothingness), la casualidad no puede operar (no pueden ocurrir eventos, etc.). Además, para suponer una 'nada absoluta (Absolute Nothingness)', también se debe suponer el mantenimiento (Maintenance) del estado de nada (Nothingness State). Por lo tanto, *la nada absoluta (Absolute Nothingness) no mantenida (Maintenance) es imposible de ser realidad (Non-reality)*.
+
+* ***La existencia de la materia (partícula) como premisa de la fuerza [Isaac Newton, "Mecánica Clásica y Física de Partículas (Particle Physics)"]***
+
+  * El mantenimiento (Maintenance) también pertenece al desplazamiento (Shift)(⟶)[presión (Pressure)(P)]. La acumulación (Accumulative) del desplazamiento (Shift) forma (Formation) el espacio (Space), y la materia (partícula) pertenece al espacio (Space); por lo tanto, *la fuerza (Force) antecede (Antecedent) al espacio (Space), y el espacio (Space) antecede (Antecedent) a la materia (partícula)*.
+
+* ***El movimiento rectilíneo perpetuo en un espacio sin fuerzas externas [Galileo Galilei, Isaac Newton, "Primera Ley del Movimiento"]***
+
+  * —Dado que el mantenimiento (Maintenance) también pertenece al desplazamiento (Shift)— todo en todo lugar siempre se desplaza (Shift) (la fuerza (Force) ejerce acción (Action)). Por lo tanto, *el espacio absolutamente vacío (Absolute Empty-space) es imposible de ser realidad (Non-reality). Además, todo movimiento (Motion) es inducido hacia donde la resistencia (Resistance)(R) es menor (perpetuidad (Perpetuity))* ( Motion ∝ -∇R ).
+
+* ***La propiedad intrínseca e invariable de la materia definida por la relación entre aceleración y fuerza (F=ma) [Isaac Newton, "Principia"]***
+
+  * 'Si te golpea algo más pesado, duele más', 'si te mueves sobre una báscula, el valor del peso cambia'... La masa no es una propiedad intrínseca. La fuerza (Force)(F) es presión (Pressure)(P), y la presión (Pressure)(P) es volumen (Volume)(V) * densidad (Density)(ρ). *Cuando se añade cierta presión (Pressure) a la materia [objeto (Object), volumen (Volume)(V) * densidad (Density)(ρ)], la dirección (Direction) a la que se dirige ese objeto (Object) [volumen (Volume)(V) * densidad (Density)(ρ)] es inducida hacia donde la resistencia (Resistance) es menor (perpetuidad (Perpetuity)), y la presión (Pressure) [masa, volumen (Volume)(V) * densidad (Density)(ρ)] correspondiente al objeto (Object) también es un estado de permanencia variable (Variable) que cambia constantemente según la presión (Pressure) y la densidad (Density) externas* [ v ≡ impulso (I) ∝ |-∇R| ⟺ |-∇ρ| ].
+
+* ***La simetría inmediata y absoluta entre acción y reacción [Isaac Newton, "Tercera Ley del Movimiento (Third Law of Motion)"]***
+
+  * Mientras un objeto (Object) posea volumen (Volume), su área superficial interna (Inward Surface Area) es estructuralmente mayor que su área externa (Outward Area). Además, dado que lo que se mantiene (Maintenance) también tiene un delta mínimo (Minimum Delta), la 'acción (Action) y reacción (Reaction)' no pueden ser inmediatas (absolutamente (Absolute) simultáneas). Por lo tanto, *la 'acción (Action) y reacción (Reaction)' no pueden formar una simetría absoluta (Absolute Symmetry) en su magnitud (?), ni pueden ocurrir de manera absolutamente (Absolute) simultánea*.
+
+* ***La antecedencia de los datos simultáneos al fenómeno y capaces de predecir el futuro [Pierre-Simon Laplace, "El demonio de Laplace (Laplace's Demon) / Determinismo Clásico"]***
+
+  * Respecto al estado (State) en el que se añade sucesivamente 0, si al llegar a 0+0+0+0 esto se percibe y se deriva el valor 0+0+0+0=0, el estado (State) en ese momento estará más cercano a 0+0+0+0+0 que a 0+0+0+0=0. Además, aunque el futuro estuviera determinado, ese futuro no podría ser absolutamente (Absolute) idéntico a ningún pasado anterior y, en consecuencia, tampoco se podría predecir el futuro 'bajo condiciones absolutamente (Absolute) idénticas'. Por lo tanto, *la información (Information) o los datos (Data) no pueden ser absolutamente (Absolute) simultáneos con la realidad (Actuality); y aunque se intente predecir el futuro, no se puede derivar una imagen (Image) absolutamente (Absolute) coincidente con el futuro*.
+
+* ***El campo geométrico ya completado en el que ocurren los eventos [Albert Einstein, "Teoría de la Relatividad General (General Relativity)"]***
+
+  * *"El universo es una obra en construcción dinámica, sin soportes fijos, donde el medio se empuja, fluye y se aprieta" (by Gemini)*.
+
+* ***La constante absoluta (c) que no cambia en ninguna parte del universo [Albert Einstein, "Teoría de la Relatividad Especial (Special Relativity)"]***
+
+  * *La velocidad (Velocity)(v) de la luz (Light) también cambia con respecto al campo gravitatorio o la atmósfera; esto no debe explicarse diciendo que el tiempo se frena o se acelera, sino que la velocidad de la luz (Velocity of Light)(c) no es una constante absoluta (Absolute Constant)* ( c ≡ v ∝ |-∇R| ⟺ |-∇ρ| ).
+
+* Además —incluyendo lo anterior— entra en conflicto con diversas perspectivas tradicionales, y describe que *"el mundo (Universe) es la retroalimentación (Feedback) entre el estado no fijo (Non-fixed State) y el estado cuasi fijo (Quasi-fixed State), la perpetuidad (Perpetuity) de este fractal (Fractal)"*.
+
+___
+# Sobre la Formación (On Formation)
+
+## Parte 1
+
+### Introducción
+
+* Respecto a este escrito *"Sobre la Formación (On Formation)"*, el desarrollo de este pensamiento comenzó entre los 30 y 35 años (comenzó bajo el título "Sobre la forma de formación (Formation)"). Y la oportunidad de comenzar la documentación surgió durante una conversación con el *asistente de IA Gemini (en adelante Gem)*, el 6 de enero de 2026, a partir de la pregunta sobre cuántos bits eran 0 y 0+0+0+0=0 respectivamente, y la conversación posterior.
+
+> *"El universo es una obra en construcción dinámica, sin soportes fijos, donde el medio se empuja, fluye y se aprieta" (by Gem)*
+
+* Respecto a Aristóteles (Aristotle / Aristoteles) [Metafísica (Metaphysics / Ta meta ta physika) Libro 1 (Book Alpha), 980a 21] "Πάντες ἄνθρωποι τοῦ εἰΔέναι ὀρέγονται φύσει.", "All men by nature desire to know.", "Todos los hombres por naturaleza desean saber": En primer lugar, conocer es experiencia (Experience) (pensar también es experiencia (Experience), y la experiencia (Experience) también es desplazamiento (Shift)) y es pasado (acumulado). Y desear saber es sobre el futuro; por lo tanto, la experiencia (Experience) de la realidad (Reality) es inevitable (Inevitable). Por ejemplo, aunque un ser humano (Human) no quiera experimentar (Experience) el mañana, si está vivo, no tiene más remedio que experimentar (Experience) el mañana (no tiene más remedio que conocer el mañana). Por lo tanto, aunque no quiera saber (aunque no quiera experimentar), seguir conociendo como ser humano (Human) es inevitable (Inevitable).
+
+* Incluso en el presente, se ha formado (Formation) (acumulado (Accumulative)) una infraestructura intelectual que resulta abrumadora (?) para que un individuo o un solo ser humano (Human) la posea por completo, y esto debe organizarse para el presente y el futuro. Por ello, en este escrito se comienza con la sola proposición de que * "el mundo (Universe) no está fijo (Non-fixed) (no tiene soporte (No-holder))" * para describir el mundo (Universe).
+
+___
+## Parte 2
+
+### Dialéctica — Proposiciones Existentes y Refutaciones
+
+#### ***1. Sobre la explosión y expansión fortuita desde la nada [Georges Lemaître, Edwin Hubble, "Teoría del Big Bang (Big Bang Theory)"],***
+
+* Para que la casualidad opere, debe haber una colisión (Impact) (deben poder ocurrir eventos, casualidades, etc.). Por lo tanto, sostener que la casualidad operó a partir de un solo elemento como la nada (Nothingness) (bajo condiciones donde la casualidad no puede ocurrir, negando la casualidad y al mismo tiempo afirmándola) es contradictorio, y *la nada absoluta (Absolute Nothingness) causada por un solo elemento como la nada (Nothingness) es imposible de ser realidad (Non-reality)*.
+
+* ➀ Si se supone la 'nada (Nothingness)', también debe suponerse el *'mantenimiento (Maintenance) de la nada (Nothingness)'*. ➁ El mantenimiento (Maintenance)(t₀ ⟶ t₁) también pertenece al desplazamiento (Shift)(⟶), y existe un delta (Delta)(t₀ ⟶ t₁); y la *'nada absoluta (Absolute Nothingness)' que carece incluso de este delta (Delta)(t₀ ⟶ t₁) (mantenimiento (Maintenance), delta de mantenimiento (Maintenance Delta)), al carecer de mantenimiento (Maintenance), significa la extinción, por lo que es imposible de ser realidad (Non-reality)* (la nada absoluta (Absolute Nothingness) no puede mantenerse (Maintenance), por lo que es contradictoria en sí misma). ➂ A la 'nada (Nothingness)' naturalmente (Naturally) se le vincula el 'mantenimiento (Maintenance)' y el 'delta de mantenimiento (Maintenance Delta)'. ➃ desplazamiento (Shift)(⟶) ≡ fuerza (Force)(F) ≡ presión (Pressure)(P) ≡ delta (Delta)(δ) ≡ [volumen (Volume)(V) * densidad (Density)(ρ)], e incluso durante el tiempo en que se mantiene (Maintenance) el estado de nada (Nothingness State), su delta (Delta) (fuerza (Force), presión (Pressure)) no es 0; y cuanto más se mantiene (Maintenance) el estado de nada (Nothingness State), más aumenta (Increase) la presión (Pressure)[volumen (Volume) * densidad (Density)]. ➄ Además, como la densidad (Density) tiene un límite *[^límite de la densidad 1]*, es imposible (Impossible) que se superpongan de manera absoluta (Absolutely). ➅ El fenómeno (Phenomenon) en el que los continuos desplazamientos (Shift) en el estado de nada (Nothingness State) se acumulan (Accumulative) es el mundo (Universe).
+
+* Los conceptos como nada (Nothingness), 0, etc., son conceptos creados por los seres humanos (Human). Por ejemplo, incluso entre los mismos seres humanos (Human), no se puede lograr una sincronización absoluta (Absolute) de la perspectiva. Por lo tanto —dado que incluso entre seres humanos (Human), la imagen (Image) formada sobre un fenómeno (Phenomenon) no es absolutamente (Absolutely) idéntica— naturally (Naturally) no existe ningún fenómeno (Phenomenon) que sea absolutamente (Absolutely) idéntico a un concepto creado por el ser humano (Human). Y respecto a conceptos como la nada absoluta (Absolute Nothingness), si se derivan del 'espacio vacío (Empty-space)', como se dirá más adelante, el espacio absolutamente vacío (Absolutely Empty-space) no es realidad (Non-reality), por lo que contiene un error. Por lo tanto, el estado (State) del origen (?) tampoco puede ser absolutamente (Absolutely) idéntico a conceptos como la nada absoluta (Absolute Nothingness).
+
+*[^límite de la densidad 1]:* Dado que la presión (Pressure) existente en la realidad (Reality) es finita, la densidad (Density) que se puede alcanzar a través de ella naturally (Naturally) también está limitada por ella. Además, que el delta (Delta) sea 0 significa la extinción y es imposible de ser realidad (Non-reality).
+
+#### ***2. Sobre la existencia de la materia (partícula) como premisa de la fuerza [Isaac Newton, "Mecánica Clásica y Física de Partículas (Particle Physics)"],***
+
+* Si se afirma que "la existencia de la materia (partícula) es la premisa de la fuerza", ¿cómo surge la 'materia (partícula)'? ¿Acaso la 'materia (partícula)' no pertenece al mundo (Universe)? Si es así, ¿acaso la 'materia (partícula)' no presupone (Premise) al menos al mundo (Universe)? Siendo así, el mundo (Universe) es nada (Nothingness) + desplazamiento (Shift)(⟶), y dado que se ha definido desplazamiento (Shift)(⟶) ≡ fuerza (Force)(F) ≡ presión (Pressure)(P) ≡ delta (Delta)(δ) ≡ [volumen (Volume)(V) * densidad (Density)(ρ)], *no es que 'la existencia de la materia (partícula) sea la premisa de la fuerza', sino que 'la fuerza antecede a la materia'*.
+
+* Adicionalmente respecto a la 'gravedad': el movimiento (Motion) depende del gradiente de resistencia (-∇R)(Motion ∝ -∇R). Y respecto a la Tierra, estructuralmente su área superficial interna (Inward Surface Area) es naturally (Naturally) mayor que su área externa (Outward Area)(SA_inward > A_outward), *por lo que el fenómeno (Phenomenon) de moverse (Motion) hacia la Tierra según la realidad (Actuality) de la diferencia entre la presión interna (Inward Pressure) y la presión externa (Outward Pressure) es lo que se denomina gravedad*.
+
+#### ***3. Sobre el movimiento rectilíneo perpetuo en un espacio sin fuerzas externas [Galileo Galilei, Isaac Newton, "Primera Ley del Movimiento"],***
+
+* En primer lugar, dado que se ha dicho que el desplazamiento (Shift)[fuerza (Force)(F)] forma (Formation) el espacio (Space), la existencia de un espacio (Space) significa que dicho espacio (Space) está lleno de fuerza (Force). Por lo tanto, en el mismo sentido que la 'nada absoluta (Absolute Nothingness)', *el espacio absolutamente vacío (Absolute Empty-space) no existe en la realidad (Non-reality)*.
+
+* Además, el espacio (Space) no puede formarse (Formation) simplemente estando lleno de fuerza (Force); la fuerza (Force) debe formar (Formation) una densidad (Density) superior a cierto nivel sin dispersarse. Y esa fuerza (Force) no es algo estático, sino una presión (Pressure) que se desplaza (Shift) de manera perpetua (Perpetuity). Por lo tanto, la densidad (Density) resultante de la presión (Pressure) demuestra que toda realidad (Reality) en el mundo (Universe) se interpenetra (Interfused) osmóticamente (Osmosis), y *un espacio (Space) absolutamente (Absolutely) aislado en el mundo (Universe) es imposible de ser realidad (Non-reality)*.
+
+* Y *el movimiento (Motion) es inducido perpetuamente (Perpetuity) hacia donde la resistencia (Resistance)(R) es menor*.
+
+  * Motion ∝ -∇R ⟺ -∇ρ *[^equivalencia entre gradiente de resistencia y caída de densidad]*
+
+*[^equivalencia entre gradiente de resistencia y caída de densidad]:* Cuanto mayor es la presión (Pressure), mayor es la densidad (Density); y cuanto menor es la presión (Pressure), menor es la densidad (Density). Por lo tanto, el gradiente de resistencia (-∇R) es sinónimo de la caída de densidad (-∇ρ).
+
+#### ***4. Sobre la propiedad intrínseca e invariable de la materia definida por la relación entre aceleración y fuerza (F=ma) [Isaac Newton, "Principia"],***
+
+* Anteriormente se afirmó que * "no es que 'la existencia de la materia (partícula) sea la premisa de la fuerza', sino que 'la fuerza antecede a la materia'" *. Si es así, F = ma debe convertirse en ma = F; y dado que la aceleración (Acceleration)(a) pertenece al desplazamiento (Shift) (fuerza (Force)), ma = F se convierte en mF = F. Por lo tanto —dado que * "la fuerza antecede a la materia" *— mF = F debe reducirse a m = F *[^sobre m=F]*. Siendo así, *la masa no es una 'propiedad intrínseca e invariable', sino un estado variable (Variable) según Motion ∝ -∇R ⟺ -∇ρ y v ≡ I ∝ |-∇R| ⟺ |-∇ρ|*.
+
+*[^sobre m=F]:* Si se define desplazamiento (Shift)(⟶) ≡ fuerza (Force)(F) ≡ presión (Pressure)(P) ≡ delta (Delta)(δ) ≡ [volumen (Volume)(V) * densidad (Density)(ρ)], entonces m = F es F ≡ (V * ρ) ≡ m.
+
+#### ***5. Sobre la simetría inmediata y absoluta entre acción y reacción [Isaac Newton, "Tercera Ley del Movimiento (Third Law of Motion)"],***
+
+* Acción (Action) y reacción (Reaction): Mientras un objeto (Object) posea volumen (Volume), el área superficial interna (Inward Surface Area) de dicho objeto (Object) es estructuralmente mayor que el área externa (Outward Area) de dicho objeto (Object). En consecuencia, la presión interna (Inward Pressure) y la presión externa (Outward Pressure) del objeto (Object) no pueden formar una 'simetría absoluta (Absolute Symmetry)'.
+
+* Si la acción (Action) y la reacción (Reaction) formaran una 'simetría absoluta (Absolute Symmetry)', estarían encadenadas a una circulación (?) que forma una 'simetría absoluta (Absolute Symmetry)' y no podrían realizar ningún otro movimiento (Motion). Por ejemplo, si al intentar levantar el brazo se produjera simultáneamente una fuerza (Force) de reacción (Reaction) que formara una 'simetría absoluta (Absolute Symmetry)' con la fuerza (Force) de intentar levantarlo, no se podría levantar el brazo ni moverlo de ninguna otra manera. Por extensión, todo lo demás tendría que estar igualmente detenido, y extendiéndolo más, tendría que haber estado detenido desde el origen (?), y el mundo (Universe) actual no podría ser una realidad (Reality); pero dado que no es así, la 'simetría inmediata y absoluta (Absolute Symmetry) entre acción y reacción' queda naturally negada.
+
+#### ***6. Sobre la antecedencia de los datos simultáneos al fenómeno y capaces de predecir el futuro [Pierre-Simon Laplace, "El demonio de Laplace (Laplace's Demon) / Determinismo Clásico"],***
+
+* Para una piedra, ¿cómo se percibe la 'información (Information) o los datos (Data)'? ¿O en qué estado (State) posee la piedra la 'información (Information) o los datos (Data)'? Además, desde la perspectiva humana (Human), la 'información (Information) o los datos (Data)' pueden cambiar según la época, la visión o las definiciones (incluidas las actualizaciones) y el desarrollo de los medios de observación, y no son consistentes según el observador (observador, observado, el sujeto que influye o recibe el efecto (Effect), etc.), por lo que la 'información (Information) o los datos (Data)' no son una constante (Constant).
+
+* Tomando un evento específico como ejemplo: ➀ Dado que el mundo (Universe) presenta continuamente estados (State) diferentes (dado que la suma total del mundo (Universe) aumenta (Increase) perpetuamente (Perpetuity)), el evento presenta cada vez un estado (State) (valor) diferente (un estado (State) (valor) completamente nuevo) (cada instante es el único y primer desplazamiento (Shift) hacia la ilimitación dinámica (Dynamic Boundlessness)); ➁ Dado que el mantenimiento (Maintenance) también tiene un delta (Delta), el evento no se detiene ni siquiera en el momento en que se intenta predecirlo, sino que continúa desplazándose (Shift), y la observación (Observation) también tiene un delta (Delta) (delta de observación (Observational Delta)), y la conversión a datos (Data) también tiene un delta (Delta); ➂ Se obtiene una imagen (Image) modificada en la medida del efecto (Effect) que la acción (Action) de observación (Observation) ejerce sobre el objeto observado. Por lo tanto, ➃ la distancia de la realidad (Actuality) del objeto observado se aleja en la medida del efecto del acto de observación (Effect) + delta de observación (Observational Delta) + delta de la conversión a datos (Delta), negando el ser 'simultáneo al fenómeno'. Y ➄ dado que incluso entre los mismos seres humanos (Human) no se puede igualar la visión de manera absoluta (Absolutely), no se puede predecir el futuro bajo 'condiciones absolutamente (Absolute) idénticas'; y al no poder predecir el futuro bajo 'condiciones absolutamente (Absolute) idénticas', inevitablemente se producirá una desviación. Por lo tanto, ➅ *incluso si el futuro estuviera determinado —aunque se intente predecir— no se puede derivar una imagen (Image) que coincida absolutamente (Absolute) con el futuro*.
+
+#### ***7. Sobre el campo geométrico ya completado en el que ocurren los eventos [Albert Einstein, "Teoría de la Relatividad General (General Relativity)"],***
+
+* ➀ ¿Por qué solo se ha completado (Completion) el fondo (Field) y no los personajes (elementos constitutivos internos)? ➁ ¿Cómo se completó (Completion) ese fondo (Field)? ➂ ¿Desde dónde hasta dónde o qué cosas constituyen el fondo (Field), y desde dónde hasta dónde o qué cosas constituyen los personajes? ➃ La completitud (Completion) en sentido absoluto (Absolute) significa un estado (State) en el que ya se ha realizado todo y no puede ocurrir ningún evento más (ya que no debe haber aumentos ni disminuciones), lo que incluye el reposo; ¿cómo puede interactuar (Interaction) o deformarse con los personajes? Por lo tanto, ➄ si el fondo (Field) estuviera completado (Completion) en sentido absoluto (Absolute), o bien estaría absolutamente aislado de los personajes, o bien los personajes también estarían incluidos en ese fondo (Field), por lo que los personajes también tendrían que estar completados (Completion) y detenidos en sentido absoluto (Absolute). Por lo tanto, ➅ *el mundo (Universe) y las cosas que pertenecen al mundo (Universe) no están completamente (Absolute) aislados (ni pueden estar aislados), y el mundo (Universe) y las cosas que pertenecen al mundo (Universe) no pueden estar completados (Completion) en sentido absoluto (Absolute) (el desplazamiento (Shift) es perpetuo (Perpetuity)), por lo que el 'campo geométrico ya completado en el que ocurren los eventos' queda negado*.
+
+#### ***8. Sobre la constante absoluta (c) que no cambia en ninguna parte del universo [Albert Einstein, "Teoría de la Relatividad Especial (Special Relativity)"],***
+
+* En un campo (Field) completado (Completion) en sentido absoluto (Absolute), la velocidad (Velocity) (desplazamiento (Shift)) es imposible (Impossible).
+
+* Además, la velocidad (Velocity)(v) de un velero cambia cuando hay viento en contra o a favor, y del mismo modo que al caminar sobre un lodazal o sobre un camino plano y seco no se dice que el tiempo se haya frenado o acelerado, la luz (Light) también cambia su velocidad (Velocity) con respecto al campo gravitatorio o la atmósfera. Esto tampoco debe explicarse diciendo que el tiempo se frenó o aceleró, *sino que la velocidad de la luz (Velocity of Light)(c) no es una constante absoluta (Absolute Constant)*.
+
+* c ≡ v ≡ I ∝ |-∇R| ⟺ |-∇ρ|
+
+* A menos que se haya observado o se esté observando la totalidad del mundo (Universe), y a menos que el desarrollo de la tecnología de medición haya concluido, definir una constante absoluta (Absolute Constant) en ese estado es en sí mismo contradictorio.
+
+___
+## Parte 3
+
+### Sobre la Formación (On Formation)
+
+※ Respecto a las fórmulas y ejemplos que aparecen en la Parte 3, se considera evidente que la desviación respecto a la realidad (Actuality) del objeto observado es de al menos efecto del acto de observación (Effect) + delta de observación (Observational Delta)(δ_obs) + delta de la conversión a datos (Delta), así como las deformaciones debidas a la asimetría interna-externa (Inward-Outward Asymmetry)(SA_inward > A_outward, de la cual se tratará inmediatamente a continuación) (asimismo, las fórmulas y ejemplos en la Parte 3 no incluyen estos factores por limitaciones de capacidad); aun así, si por necesidad se deben derivar valores específicos en posiciones específicas para fenómenos (Phenomenon) o estados (State) específicos, se utilizará este método, lo cual no significa que dicho método, fórmula o ejemplo proyecte la realidad (Actuality) del mundo (Universe) de manera absolutamente (Absolutely) simultánea u absolutamente (Absolutely) idéntica.
+
+#### **Axiomas de Sobre la Formación (On Formation)**
+
+* **Formon(𝔽) ⊇ Desplazamiento(Shift)(⟶) ≡ Presión(Pressure)(P) ≡ Delta(δ) ≡ [Volumen(Volume)(V) * Densidad(Density)(ρ)] ≡ Masa(Mass)(m)**  
+
+* **No-realidad del Estancamiento Absoluto (Absolute Stasis)**  
+
+  * Desplazamiento(Shift)(⟶) ⊃ Mantenimiento(Maintenance), [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)]  
+
+  * El Estancamiento Absoluto (Absolute Stasis) implica la ausencia de Mantenimiento (Maintenance), lo cual significa aniquilación (Annihilation); por lo tanto, no puede existir en la Realidad (Reality) [(dt = 0) = ∄]. Por consiguiente, el Delta de toda Realidad en el Universo es mayor que 0, y el Estancamiento Absoluto es una No-realidad (Non-reality) [{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}].  
+
+* **No-realidad de la Nada Absoluta (Absolute Nothingness)**  
+
+  * Delta(δ) ⊃ dt, [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)] ⟹ [dt ≡ {δ * δ_length(1 / Densidad(Density)(ρ))}] ⟹ [δ, δ_length, Densidad(Density)(ρ){Presión(Pressure)(P) / Volumen(Volume)(V)} > 0] ⟹ [δ, δ_length, Densidad(Density)(ρ), Presión(Pressure)(P), Volumen(Volume)(V) > 0]  
+
+  * Si dt no es 0, el Delta que contiene dt tampoco puede ser 0. Dado que Presión(Pressure)(P) ≡ Delta(δ) ≡ [Volumen(Volume)(V) * Densidad(Density)(ρ)], la Presión, el Volumen y la Densidad tampoco pueden ser 0. Por lo tanto, conforme a la No-realidad del Estancamiento Absoluto, la Nada Absoluta también es una No-realidad.  
+
+* **No-realidad del Infinito Fijo (Fixed Infinity)**  
+
+  * 0 ∧ ∞ = ∄, 0 ∧ ∞ = (dt = 0) = ∄  
+
+  * Para que el Infinito Fijo (Fixed Infinity) exista en la Realidad, debe ocurrir una Presión infinita (P∞) de Densidad infinita (ρ∞) con una diferencia de tiempo cero (dt = 0)(estancamiento). Sin embargo, dt = 0 significa estancamiento mientras que 'Presión infinita (P∞) de Densidad infinita (ρ∞)' significa 'acción infinita (no-estancamiento)', lo cual es contradictorio y una No-realidad. Además, el concepto mismo de 'Infinito Fijo' afirma simultáneamente el estancamiento temporal debido a la Incompletitud (Uncompletability) del infinito y la no-estancamiento de la acción infinita, lo cual es contradictorio y una No-realidad.  
+
+* **No-realidad de la Superposición de Estados Absolutos**  
+
+  * P_total(t + dt) > P_total(t) (donde dt > 0, δ_min > 0)  
+
+  * Como el Estancamiento Absoluto es una No-realidad, el Delta no se puede eliminar [{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}] y persiste en Perpetuidad (Perpetuity). En consecuencia, la Presión (Presión de Retención) de todo el Universo aumenta en Perpetuidad. Por lo tanto, el valor del estado total de todo el Universo nunca puede ser Absolutamente idéntico a ningún momento del pasado, y cada Fenómeno (Phenomenon) que ocurre es el Primer Desplazamiento (First Shift) que avanza hacia la Ilimitación Dinámica (Dynamic Boundlessness).  
+
+* **Asimetría Inward-Outward (SA_inward > A_outward)**  
+
+  * ΔA(Diferencia entre el Área de Superficie Inward y el Área Outward) ≡ SA_inward(Área de Superficie Inward)[4 * π * {r_out(Radio del Área de Superficie Inward)}²] - A_outward(Área Outward)[4 * π * {r_in(Radio del Área Outward)}²]  
+
+  * Como el Volumen (V) de toda Realidad en el Universo es mayor que 0, la diferencia estructural entre los radios del Área de Superficie Inward y el Área Outward de toda Realidad es naturalmente mayor que 0, y el Área de Superficie Inward es mayor que el Área Outward (Área de Superficie Inward > Área Outward). Así, toda Realidad en el Universo está sujeta estructuralmente a la Asimetría Inward-Outward (Área de Superficie Inward > Área Outward), y nada derivado de ello puede lograr una Simetría Absoluta (Absolute Symmetry).
+
+#### ***1. Sobre la acumulación (Accumulative) del mantenimiento (Maintenance)***
+
+* *El mundo (Universe) es el fenómeno (Phenomenon) acumulado (Accumulative) a partir del desplazamiento (Shift), de acuerdo con la realidad (Actuality) de la perpetuidad (Perpetuity) del desplazamiento (Shift)(⟶)*
+
+* El estasis absoluto (Absolute Stasis) es imposible de ser realidad (Non-reality) y naturally (Naturally) el mundo (Universe) también lo es. Aquello que se mantiene (Maintenance)(t₀ ⟶ t₁) (en adelante, lo correspondiente a t₀ ⟶ t₁ se denominará 1 unidad (1 Unit)) también es un desplazamiento (Shift)(⟶)[presión (Pressure)(P)][^causa_del_desplazamiento_de_fase]. Con los continuos desplazamientos (Shift) (mantenimiento (Maintenance)), el espacio (Space) (volumen (Volume)) también continúa expandiéndose (Expansion).
+
+*[^mantenimiento]:* [Definición] En este escrito, 'mantenimiento (Maintenance)' no significa un acto (Act) activo. Significa un estado (State) que continúa (se sucede) mediante el delta mínimo (Minimum Delta)(δ_min) nunca eliminable (que no puede ser 0) vinculado a la realidad (Reality)[^presión]. Y a este delta (Delta) se le denomina en este escrito 'delta de mantenimiento (Maintenance Delta)'.
+
+*[^presión]:* [Definición] La 'presión (Pressure)(P)' a la que se hace referencia en este escrito significa 'la fuerza (Force)(F) singular o plural de 1 unidad (1 Unit) que posee direccionalidad (Directionality)'. Y a mayor densidad (Density)(ρ), menor es la longitud unitaria del delta (Unit Length of Delta)(δ_length).
+
+*[^presión_original]:* [Definición] Significa la presión (Pressure) que se genera perpetuamente (Perpetuity) debido a la direccionalidad (Directionality) (desplazamiento (Shift)) vinculada al hecho de que el mundo (Universe) no está fijo (Non-fixed) (no se puede fijar (Unfixable)).
+
+*[^desplazamiento]:* [Definición] Si no hubiera ningún 'desplazamiento (Shift)', no ocurriría nada y el mundo (Universe) actual tampoco podría ser realidad (Reality). Y el 'desplazamiento (Shift)(⟶)' naturally (Naturally) posee direccionalidad (Directionality) y es presión (Pressure). Además, el estado de nada (Nothingness State) también se desplaza (Shift) y toda realidad (Reality) tiene vinculado un desplazamiento (Shift). Y a ese 'desplazamiento (Shift)' se le vincula un delta (Delta)(t₁ - t₀), al que en este escrito se denomina *'delta de desplazamiento (Shift Delta)'*.
+
+*[^causa_del_desplazamiento_de_fase]:* Es la misma razón por la cual el estasis absoluto (Absolute Stasis) es imposible de ser realidad (Non-reality): imposibilidad de ser realidad (Non-reality) del estasis absoluto (Absolute Stasis) ≡ desplazamiento (Shift) ≡ presión original (Original Pressure) ≡ desplazamiento de fase (Phase Shift) (desalineación / desplazamiento).
+
+#### ***2. Sobre la formación (Formation) del mundo (Universe)***
+
+* ➀ A medida que aumenta (Increase) el volumen (Volume) (cuanto mayor es el área superficial interna (Inward Surface Area)), también aumenta (Increase) la presión original (Original Pressure) (presión interna (Inward Pressure))[^acción_de_presión_interna_de_la_presión_original]; ➁ a medida que aumenta (Increase) la presión original (Original Pressure), debido a la asimetría interna-externa (Inward-Outward Asymmetry), la presión de retención (Retention Pressure) también aumenta (Increase)[^presión_de_afluencia], por lo que la densidad (Density) interna del mundo (Universe) también aumenta (Increase)[^acción_de_conducto_doble]; ➂ al aumentar (Increase) la densidad (Density) interna del mundo (Universe), la densidad (Density) de la presión original (Original Pressure) acumulada (Accumulative) en el bloqueo dinámico de presión periférica (Boundary Dynamic Grid-lock)[^bloqueo_dinámico_de_presión_periférica_del_mundo] también aumenta (Increase), expandiendo (Expansion) el volumen (Volume) del mundo (Universe) (aumento (Increase) del área superficial interna (Inward Surface Area)); ➃ al expandirse (Expansion) el volumen (Volume) del mundo (Universe) (aumento (Increase) del área superficial interna (Inward Surface Area)), la presión original (Original Pressure) también aumenta (Increase); ➄ esta circulación es perpetua (Perpetuity).
+
+* [(presión de retención total (Retention Pressure) del mundo (Universe) + presión de afluencia periférica (Inflow Pressure) del mundo (Universe)) / densidad promedio (Average Density) del mundo (Universe) (con la condición de que la densidad promedio (Average Density) del mundo (Universe) > 1 Unit)] ⟺ volumen (Volume) del mundo (Universe)
+
+*[^acción_de_presión_interna_de_la_presión_original]:* Significa que, independientemente de la dirección en la que ocurra un desplazamiento de fase (Phase Shift) en el volumen (Volume) (mundo (Universe)), al no haber otro volumen (Volume) (espacio (Space)) en el exterior, la presión original (Original Pressure) ejerce su acción (Action) hacia el interior del mundo (Universe) (presión interna (Inward Pressure)).
+
+*[^presión_de_afluencia]:* [Definición] Significa la presión (Pressure) que afluye hacia el interior de un bloqueo dinámico (Dynamic Grid-lock)[^bloqueo_dinámico]. Por el contrario, a la presión (Pressure) que efluye se le denomina *presión de efluencia (Outflow Pressure)*. La presión de afluencia (Inflow Pressure) penetra en el interior y es absorbida por la densidad (Density) interna, convirtiéndose en presión de retención (Retention Pressure).
+
+*[^bloqueo_dinámico]:* [Definición] Significa el límite (Boundary) (límite dinámico (Dynamic Boundary)) de configuración (Configuration) ^v^v (arco (Arch) arco inverso (Inverse-Arch)) que sirve de índice al referirse a una parte específica como exterior e interior, o bien se refiere a dicho gradiente de densidad (Density Gradient).
+
+*[^acción_de_conducto_doble]:* [Definición] Significa las dos acciones (Action) de la 'presión original (Original Pressure)': ➀ ejercer acción (Action) (acumularse (Accumulative)) en su mayoría sobre el área superficial interna (Inward Surface Area) del mundo (Universe) (acción de capa superior (Immediate Boundary Action)), y ➁ fluir una parte perpetuamente (Perpetuity) hacia el interior del mundo (Universe) debido a la asimetría interna-externa (Inward-Outward Asymmetry), aumentando (Increase) la presión de retención (Retention Pressure) (acción de capa inferior (Delayed Retention Action)).
+
+*[^bloqueo_dinámico_de_presión_periférica_del_mundo]:* La Presión Original (Original Pressure) persiste en Perpetuidad. Por consiguiente, la Presión—excluyendo la Presión de Entrada (Inflow Pressure)—alcanza un Equilibrio Dinámico (Dynamic Equilibrium)[^equilibrio_dinámico] con la Presión de Retención total del Universo en el límite exterior, acumulándose en Perpetuidad (Aumento de Densidad), y cada vez que esto sucede, el Volumen del Universo se expande.
+
+*[^equilibrio_dinámico]:* [Definición] Toda realidad (Reality) en el mundo (Universe) está en equilibrio dinámico (Dynamic Equilibrium) [δ, δ_length, densidad (Density)(ρ), presión (Pressure)(P), volumen (Volume)(V) > 0]. En este caso, el grado de asimetría (Asymmetry) sirve de índice para indicar la presencia o ausencia de movimiento (Motion), etc.
+
+#### ***3. Sobre el Movimiento (Motion) [Movimiento de la Parte 3] y la Objetivación (Objectification)[Objetivación]***
+
+* En "Sobre la Formación (On Formation)", el objeto (Object) y el movimiento (Motion) no se diferencian. Sin embargo, por conveniencia, según el grado de asimetría (Asymmetry) del equilibrio dinámico (Dynamic Equilibrium) o el estado cuasi fijo (Quasi-fixed State)[^estado_cuasi_fijo], etc., se expresa como ➀ movimiento (Motion) y no movimiento, ➁ exterior e interior (objeto (Object)).
+
+* El movimiento (Motion) (desplazamiento (Shift)) del mundo (Universe) es perpetuo (Perpetuity).
+
+  * El volumen (Volume) del mundo (Universe) se comprime según la presión original (Original Pressure) (acción de capa superior (Immediate Boundary Action)) ejercida sobre la totalidad del mundo (Universe) debido al desplazamiento (Shift) de la totalidad del mundo (Universe), y naturally (Naturally) todas las partes se superponen por encima de cierto nivel [densidad (Density)(ρ) ≡ interpenetración (Interfused)]; esto, junto con la presión de afluencia (Inflow Pressure) resultante de la asimetría interna-externa (Inward-Outward Asymmetry)(SA_inward > A_outward), se convierte en presión de retención (Retention Pressure), y debido a la direccionalidad (Directionality) de la acción de capa superior (Immediate Boundary Action) y de la presión de retención (Retention Pressure) respectivamente, se produce un flujo directo (Direct Flow).
+
+  * En este proceso, se forman (Formation) continuamente objetos (Object), se forman (Formation) grandes vórtices (Vortex) en diversos lugares, y un gran vórtice (Vortex) mayor forma (Formation) un objeto (Object) más grande o más firme. Y este gran vórtice (Vortex) colisiona (Impact) con el flujo directo (Direct Flow), provocando pequeños vórtices (Eddy)[^presión_de_efluencia].
+
+  * Y de manera perpetua (Perpetuity), debido a la presión original (Original Pressure), se forman (Formation) objetos (Object) y flujo directo (Direct Flow); por el flujo directo (Direct Flow) se forman (Formation) objetos (Object) y grandes vórtices (Vortex); por los grandes vórtices (Vortex) se forman (Formation) objetos (Object) y pequeños vórtices (Eddy); por los pequeños vórtices (Eddy) se forman (Formation) objetos (Object) y pequeños vórtices microscópicos (Eddy).
+
+    * Combinación de un gran vórtice (Vortex) con otro gran vórtice (Vortex) o pequeño vórtice (Eddy) o pequeño vórtice microscópico (Eddy) (o división de un gran vórtice (Vortex) en pequeño vórtice (Eddy) o pequeño vórtice microscópico (Eddy)), combinación de pequeño vórtice (Eddy) con pequeño vórtice (Eddy) o pequeño vórtice microscópico (Eddy) (o división de un pequeño vórtice (Eddy) en pequeño vórtice microscópico (Eddy)), combinación de pequeño vórtice microscópico (Eddy) con pequeño vórtice microscópico (Eddy) (o división de un pequeño vórtice microscópico (Eddy) en un objeto (Object) aún menor).
+
+  * Retroalimentación (Feedback) de la acción de conducto doble (Asynchronous Dual Action): acción de capa superior (Immediate Boundary Action) (presión original (Original Pressure) ⟺ bloqueo dinámico de presión periférica (Boundary Dynamic Grid-lock)) ⟺ acción de capa inferior (Delayed Retention Action) (bloqueo dinámico de presión periférica (Boundary Dynamic Grid-lock) ⟺ flujo directo (Direct Flow) ⟺ gran vórtice (Vortex) ⟺ pequeño vórtice (Eddy) ⟺ pequeño vórtice microscópico (Eddy))
+
+    * Retroalimentación (Feedback) de combinación y división: presión original (Original Pressure) ⟺ bloqueo dinámico de presión periférica (Boundary Dynamic Grid-lock) ⟺ flujo directo (Direct Flow) ⟺ gran vórtice (Vortex) + gran vórtice (Vortex) o pequeño vórtice (Eddy) o pequeño vórtice microscópico (Eddy) ⟺ pequeño vórtice (Eddy) + pequeño vórtice (Eddy) o pequeño vórtice microscópico (Eddy) ⟺ pequeño vórtice microscópico (Eddy) + pequeño vórtice microscópico (Eddy)
+
+* [{presión de retención (Retention Pressure) del objeto (Object) + (presión de afluencia (Inflow Pressure) del objeto (Object) - presión de efluencia (Outflow Pressure) del objeto (Object))} / densidad promedio (Average Density) del objeto (con la condición de que la densidad promedio (Average Density) del objeto > 1 Unit)] ⟺ volumen (Volume) del objeto (Object)
+
+* La división y la dispersión (Dispersion), etc., son también fenómenos (Phenomenon) de acuerdo con la realidad (Actuality) del aumento (Increase) perpetuo (Perpetuity) de la presión (Pressure) total del mundo (Universe). A medida que aumenta (Increase) la presión (Pressure) total del mundo (Universe), la densidad (Density) límite (alcanzable)[^Apexon] y la consiguiente objetivación (Objectification) son variables (Variable). Sin embargo, el infinito fijo (Fixed Infinity) es imposible de ser realidad (Non-reality), y la presión (Pressure) existente en la realidad (Reality) del mundo (Universe) es finita, por lo que la densidad (Density) límite y la consiguiente objetivación (Objectification) no pueden superar la presión (Pressure) (cantidad) total existente en la realidad (Reality) del mundo (Universe).
+
+* Según la asimetría interna-externa (Inward-Outward Asymmetry), la afluencia se converge🞄comprime (Compression) desde un rumbo más amplio, y la efluencia se dispersa (Dispersion) hacia el exterior desde un volumen menor. Y cuanto más se consolida la densidad (Density) (configuración (Configuration)) resultante, más se fortalece la propiedad de mantener (Maintenance) el movimiento (Motion), etc., hacia esa dirección (Direction) específica.
+
+  * Inertia ≡ Inward Pressure(P_Inward) + Outward Pressure(P_Outward)
+
+![alt text](운동001.png) ![alt text](운동002.png)
+
+  * m(t) ≡ Σ [P_inflow(t_δ) - P_outflow(t_δ)] ≡ V * ρ
+
+*[^movimiento_de_la_parte_3]:* En la 'Parte 2', se dijo que "el movimiento (Motion) es inducido perpetuamente (Perpetuity) hacia donde la resistencia (Resistance)(R) es menor"; en la 'Parte 3', se explica que "el movimiento (Motion) continúa hacia donde la densidad (Density)(ρ) es menor"[v(velocidad y movimiento) ∝ -∇ρ], y esto se reexpresa diciendo que "el movimiento (Motion) es perpetuo (Perpetuity) mediante la convergencia de presión (Pressure)(P) y la dispersión (Dispersion) de densidad (Density)(ρ)"[v(velocidad y movimiento) ∝ (+∇P ⟺ -∇ρ)][^antececdencia_de_convergencia_de_presion].
+
+*[^antececdencia_de_convergencia_de_presion]:* La razón por la cual la convergencia de presión (+∇P) (presión original (Original Pressure)) antecede a la caída de gradiente de densidad (-∇ρ) en la fórmula de movimiento (Motion) es para eliminar nociones no reales (Non-reality) como la 'nada (Nothingness)' o la 'densidad infinita (Infinite Density)'. En nada (Nothingness) + desplazamiento (Shift)(⟶), la 'nada (Nothingness)' carece de realidad, por lo que naturally (Naturally) solo se acumula el desplazamiento (Shift)(⟶) que sí es realidad (Reality), y mediante esta acumulación (Accumulative) [convergencia de presión (+∇P)] se forma (Formation) la densidad (Density)(ρ).
+
+*[^objetivacion]:* [Definición] El proceso de formación de una Densidad jerárquica cada vez mayor a medida que aumenta la Presión total del Universo.
+
+*[^estado_cuasi_fijo]:* [Definición] Se refiere al estado (State) en el que, respecto al grado de asimetría (Asymmetry) del equilibrio dinámico (Dynamic Equilibrium), el observador no percibe el movimiento (Motion), pareciendo como si estuviera detenido.
+
+*[^presión_de_efluencia]:* Cuando la presión de afluencia (Inflow Pressure) se objetiva (Objectification) como objeto B (Object B) dentro del objeto A (Object A) según la densidad (Density) interna del objeto A (Object A), convirtiéndose en presión de retención (Retention Pressure), y dicha presión de retención (Retention Pressure) efluye como presión de efluencia (Outflow Pressure), avanza a una velocidad (Velocity) correspondiente a la convergencia de la presión externa (Outward Pressure) y a la caída del gradiente de densidad (Density Gradient)(+∇P ⟺ -∇ρ) entre el interior y el exterior. Por ejemplo, si en el interior del objeto A (Object A) se han comprimido (Compression) 20 unidades (20 Unit) de presión (Pressure) en 2 unidades (2 Unit) de volumen (Volume) (densidad (Density) 10), y el exterior del objeto A (Object A) es una capa donde se han comprimido (Compression) 4 unidades (4 Unit) de presión (Pressure) en 2 unidades (2 Unit) de volumen (Volume) (densidad (Density) 2); cuando las 20 unidades (20 Unit) de presión (Pressure) comprimidas en el interior del objeto A (Object A) efluyen hacia el exterior del objeto A (Object A) [efluencia por convergencia de presión externa (Outward Pressure)(+∇P)], la presión de efluencia (Outflow Pressure) ➀ en la capa de densidad (Density) 2 del exterior del objeto A (Object A) [presión (Pressure)(P) 4 / volumen (Volume)(V) 2] realiza un desplazamiento (Shift)(-∇ρ) de 1 unidad (1 Unit) de volumen (Volume) en un tiempo (Time) de desplazamiento (Shift) de 1/5 de unidad de volumen (1/5 Unit)[^otra_expresion_de_tiempo_de_desplazamiento_1/5]; ➁ la presión de efluencia (Outflow Pressure) se desplaza (Shift) a la velocidad (Velocity) de ➀ al tiempo que la presión (Pressure) (densidad (Density)) se dispersa (Dispersion) hasta el grado en que la presión externa (Outward Pressure) de la presión de efluencia (Outflow Pressure) y la presión interna (Inward Pressure) sobre la presión de efluencia (Outflow Pressure) alcanzan el equilibrio, y converge (+∇P); ➂ la presión no puede efluir a una densidad (Density) inferior al bloqueo dinámico (Dynamic Grid-lock) o a la presión interna (Inward Pressure); ➃ hacia el exterior del mundo (Universe) no puede haber presión de efluencia (Outflow Pressure), en su lugar el mundo (Universe) se expande (Expansion).
+
+*[^otra_expresion_de_tiempo_de_desplazamiento_1/5]:* Si se expresa con el tiempo delta (Delta Time) descrito más adelante, sería "desplaza 1 unidad (1 Unit) de volumen (Volume) en 0.2 tiempo delta (Delta Time)"; si se expresa en velocidad (Velocity), sería "se desplaza (Shift) a 5 veces la velocidad (Velocity) de desplazamiento (Shift) de 1 unidad de volumen en una capa donde se comprimen (Compression) 2 unidades (2 Unit) de presión (Pressure) en 1 unidad (1 Unit) de volumen (Volume)[densidad (Density)(ρ) 2]".
+
+*[^Apexon]:* [Definición] Se refiere a la Densidad límite variable.
+
+#### ***4. Sobre la velocidad (Velocity) y el tiempo (Time)***
+
+※ En "4. Sobre la velocidad (Velocity) y el tiempo (Time)", al igual que con otras fórmulas, la velocidad (Velocity) y el tiempo (Time) también se derivan inductivamente dividiendo primero los objetos (Object), luego cortando un fenómeno (Phenomenon) (intervalo) para calcular su valor y utilizando nuevamente ese valor.
+
+※ En las siguientes fórmulas y ejemplos, a menos que se indique lo contrario, la presión de referencia (Reference Pressure)[presión de referencia (Reference Pressure)(P_ref)] significa volumen (Volume)(V) 2 * densidad (Density)(ρ) 2 ≡ presión (Pressure)(P) 4. Y presión de referencia (Reference Pressure)(P_ref) ≡ delta de referencia (Reference Delta)(δ_ref) ≡ objeto de referencia (Reference Object)(obj_ref).
+
+* ***4.1. Velocidad (Velocity)(v) — Velocidad de desplazamiento por unidad de volumen (Unit-Volume Shift Velocity)(v_vol) y velocidad delta (Delta Velocity)(v_δ)***
+
+  * Velocidad de desplazamiento por unidad de volumen (Unit-Volume Shift Velocity)(v_vol)
+
+    * velocidad de desplazamiento por unidad de volumen (Unit-Volume Shift Velocity)(v_vol) ≡ densidad (Density)(ρ) de la presión de referencia (Reference Pressure)(P_ref)
+
+  * Velocidad delta (Delta Velocity)(v_δ)
+
+    * velocidad delta (Delta Velocity)(v_δ) ≡ densidad (Density)(ρ) de la presión de referencia (Reference Pressure)(P_ref) - densidad (Density)(ρ) de la presión objetivo (Pressure)(P)
+
+    * La velocidad delta (Delta Velocity)(v_δ) es variable (Variable) según la densidad (Density)(ρ) de la presión de referencia (Reference Pressure) y la densidad (Density)(ρ) de la presión objetivo (Pressure)(P).
+
+  * A la misma presión (Pressure), cuanto mayor es la densidad (Density), menor es el volumen (Volume); y cuanto menor es el volumen (Volume), mayor es la densidad (Density); por lo tanto, a la misma presión (Pressure), cuanto mayor es la densidad (Density) o menor es el volumen (Volume), más rápido es.
+
+  * Ejemplo 1: Para presión A-1(Pressure A-1) 20[volumen (Volume)(V) 2 * densidad (Density)(ρ) 10] y presión A-2(Pressure A-2) 100[volumen (Volume)(V) 10 * densidad (Density)(ρ) 10], la velocidad delta (Delta Velocity)(v_δ) es:
+
+    |Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones A-1(Pressure A-1),|En la capa formada (Formation) por presiones A-2(Pressure A-2),|En la capa formada (Formation) por presiones de referencia (Reference Pressure),|
+    |---|---|---|---|
+    |La velocidad delta (Delta Velocity) de la presión A-1(Pressure A-1) es|0 v_δ|0 v_δ|8 v_δ|
+    |La velocidad delta (Delta Velocity) de la presión A-2(Pressure A-2) es|0 v_δ|0 v_δ|8 v_δ|
+    |La velocidad delta (Delta Velocity) de la presión de referencia (Reference Pressure) es|-8 v_δ|-8 v_δ|0 v_δ|
+
+  * Ejemplo 2: Para presión B-1(Pressure B-1) 20[volumen (Volume)(V) 2 * densidad (Density)(ρ) 10] y presión B-2(Pressure B-2) 396[volumen (Volume)(V) 12 * densidad (Density)(ρ) 33], la velocidad delta (Delta Velocity)(v_δ) es:
+
+    |Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones B-1(Pressure B-1),|En la capa formada (Formation) por presiones B-2(Pressure B-2),|En la capa formada (Formation) por presiones de referencia (Reference Pressure),|
+    |---|---|---|---|
+    |La velocidad delta (Delta Velocity) de la presión B-1(Pressure B-1) es|0 v_δ|-23 v_δ|8 v_δ|
+    |La velocidad delta (Delta Velocity) de la presión B-2(Pressure B-2) es|23 v_δ|0 v_δ|31 v_δ|
+    |La velocidad delta (Delta Velocity) de la presión de referencia (Reference Pressure) es|-8 v_δ|-31 v_δ|0 v_δ|
+
+  * Ejemplo 3: Para presión C-1(Pressure C-1) 90[volumen (Volume)(V) 2 * densidad (Density)(ρ) 45] y presión C-2(Pressure C-2) 396[volumen (Volume)(V) 12 * densidad (Density)(ρ) 33], la velocidad delta (Delta Velocity)(v_δ) es:
+
+    |Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones C-1(Pressure C-1),|En la capa formada (Formation) por presiones C-2(Pressure C-2),|En la capa formada (Formation) por presiones de referencia (Reference Pressure),|
+    |---|---|---|---|
+    |La velocidad delta (Delta Velocity) de la presión C-1(Pressure C-1) es|0 v_δ|12 v_δ|43 v_δ|
+    |La velocidad delta (Delta Velocity) de la presión C-2(Pressure C-2) es|-12 v_δ|0 v_δ|31 v_δ|
+    |La velocidad delta (Delta Velocity) de la presión de referencia (Reference Pressure) es|-43 v_δ|-31 v_δ|0 v_δ|
+
+* ***Peso (Weight)***
+
+  * Weight ≡ Presion_interna_Vector_herramienta(Inward Pressure_Vector_tool)(P_Inward_Vec_tool) + Presion_externa_Vector_herramienta(Outward Pressure_Vector_tool)(P_Outward_Vec_tool)
+
+  * El peso (Weight) es idéntico a la velocidad (Velocity), pero es la presión (Pressure) hacia una dirección (Direction) específica (la dirección (Direction) hacia la herramienta que mide el peso).
+
+* ***4.2. Tiempo (Time) — Tiempo de desplazamiento por unidad de volumen (Unit-Volume Shift Time)(t_vol) y tiempo delta (Delta Time)(t_δ)***
+
+  * Tiempo de desplazamiento por unidad de volumen (Unit-Volume Shift Time)(t_vol)
+
+    * tiempo de desplazamiento por unidad de volumen (Unit-Volume Shift Time) ≡ presión de referencia (Reference Pressure)(P_ref) ≡ 1 t_vol
+
+  * Tiempo delta (Delta Time)(t_δ)
+
+    * [tiempo delta (Delta Time)(t_δ) ≡ presión (Pressure) total ejercida (Action) / presión de referencia (Reference Pressure)(P_ref)] ≡ tiempo de retención (Retention Time)
+
+    * El tiempo de retención (Retention Time) es variable (Variable) según la cantidad de acción (Action) y la presión de referencia (Reference Pressure).
+
+  * Ejemplo 1: Para presión A-1(Pressure A-1) 20[volumen (Volume)(V) 2 * densidad (Density)(ρ) 10] y presión A-2(Pressure A-2) 100[volumen (Volume)(V) 10 * densidad (Density)(ρ) 10], el tiempo de retención (Retention Time) es:
+
+    |Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones A-1(Pressure A-1), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones A-2(Pressure A-2), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones de referencia (Reference Pressure), cuando actúa (Action) 3 veces y efluye|
+    |---|---|---|---|
+    |El tiempo de retención (Retention Time) de la presión A-1(Pressure A-1) es|3 t_δ|15 t_δ|0.6 t_δ|
+    |El tiempo de retención (Retention Time) de la presión A-2(Pressure A-2) es|0.6 t_δ|3 t_δ|0.12 t_δ|
+    |El tiempo de retención (Retention Time) de la presión de referencia (Reference Pressure) es|15 t_δ|75 t_δ|3 t_δ|
+
+  * Ejemplo 2: Para presión B-1(Pressure B-1) 20[volumen (Volume)(V) 2 * densidad (Density)(ρ) 10] y presión B-2(Pressure B-2) 396[volumen (Volume)(V) 12 * densidad (Density)(ρ) 33], el tiempo de retención (Retention Time) es:
+
+    |Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones B-1(Pressure B-1), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones B-2(Pressure B-2), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones de referencia (Reference Pressure), cuando actúa (Action) 3 veces y efluye|
+    |---|---|---|---|
+    |El tiempo de retención (Retention Time) de la presión B-1(Pressure B-1) es|3 t_δ|59.4 t_δ|0.6 t_δ|
+    |El tiempo de retención (Retention Time) de la presión B-2(Pressure B-2) es|0.1515 t_δ|3 t_δ|0.0303 t_δ|
+    |El tiempo de retención (Retention Time) de la presión de referencia (Reference Pressure) es|15 t_δ|297 t_δ|3 t_δ|
+
+  * Ejemplo 3: Para presión C-1(Pressure C-1) 90[volumen (Volume)(V) 2 * densidad (Density)(ρ) 45] y presión C-2(Pressure C-2) 396[volumen (Volume)(V) 12 * densidad (Density)(ρ) 33], el tiempo de retención (Retention Time) es:
+
+    |Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones C-1(Pressure C-1), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones C-2(Pressure C-2), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones de referencia (Reference Pressure), cuando actúa (Action) 3 veces y efluye|
+    |---|---|---|---|
+    |El tiempo de retención (Retention Time) de la presión C-1(Pressure C-1) es|3 t_δ|13.2 t_δ|0.1333 t_δ|
+    |El tiempo de retención (Retention Time) de la presión C-2(Pressure C-2) es|0.6818 t_δ|3 t_δ|0.0303 t_δ|
+    |El tiempo de retención (Retention Time) de la presión de referencia (Reference Pressure) es|67.5 t_δ|297 t_δ|3 t_δ|
+
+  * Respecto a los ejemplos anteriores, la presión de retención (Retention Pressure) no aumenta a medida que se acumula la acción (Action). Por ejemplo, un tornillo apretado a una presión (Pressure) de 20 no se aflojará por aplicar 2 veces una presión (Pressure) de 10.[^principio_de_presion_critica]
+
+  * El aumento de la presión de retención (Retention Pressure) debido al incremento en el número de acciones (Action) se debe a que, al aumentar el tiempo de retención (Retention Time), la asimetría (Asymmetry) entre la presión de afluencia (Inflow Pressure) y la presión de efluencia (Outflow Pressure)[{+10(presión de afluencia (Inflow Pressure)) + -10(presión de efluencia (Outflow Pressure)) ≡ 0(presión de retención (Retention Pressure))} ⟶ {+10(presión de afluencia (Inflow Pressure)) + -8(presión de efluencia (Outflow Pressure)) ≡ 2(presión de retención (Retention Pressure))}] hace que la presión de efluencia (Outflow Pressure) sea relativamente menor respecto a la presión de afluencia (Inflow Pressure), aumentando (Increase) el volumen (Volume) o la densidad (Density).
+
+*[^Former]:* [Definición] Al describir un objeto (Object)(Formon) específico, se refiere al sistema, capa, etc., al que pertenece dicho objeto (Object).
+
+*[^principio_de_presion_critica]:* Del mismo modo, saltar 2 veces a una altura de 10 metros no permite superar un muro de 20 metros.
+
+#### ***5. Sobre la Observación (Observation) y la Luz (Light)***
+La velocidad (Velocity) de la que habla el ser humano (Human) y el tiempo humano (Human Time) son necesarios, pero no son absolutos (Absolute). En los siguientes ejemplos, que el valor sea variable (Variable) según la presión de referencia (Reference Pressure)(P_ref) significa que abarca la orientación, los medios y métodos de observación, medición, etc., y es variable (Variable) según ellos.
+
+* ***5.1. Velocidad observada (Observed Velocity)(v_obs)***
+
+  * velocidad observada (Observed Velocity)(v_obs) ≡ densidad (Density)(ρ) de la presión de referencia 2 (Reference Pressure 2)(P_ref 2) - [densidad (Density)(ρ) de la presión de referencia 1 (Reference Pressure 1)(P_ref 1) - densidad (Density)(ρ) del objeto]
+
+  * La velocidad observada (Observed Velocity)(v_obs) es variable (Variable) según la densidad (Density)(ρ) de la presión de referencia 2 (Reference Pressure 2)(P_ref 2), la densidad (Density)(ρ) de la presión de referencia 1 (Reference Pressure 1) y la densidad (Density)(ρ) del objeto.
+
+  * Ejemplo 1: Para la presión A-1(Pressure A-1) 20[volumen (Volume)(V) 2 * densidad (Density)(ρ) 10] y la presión A-2(Pressure A-2) 100[volumen (Volume)(V) 10 * densidad (Density)(ρ) 10], la velocidad observada (Observed Velocity)(v_obs) es:
+
+    |Presión de referencia 2(Reference Pressure 2)(P_ref 2)|Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones A-1(Pressure A-1),|En la capa formada (Formation) por presiones A-2(Pressure A-2),|En la capa formada (Formation) por presiones de referencia (Reference Pressure),|
+    |---|---|---|---|---|
+    |Presión A-1(Pressure A-1)|La velocidad observada (Observed Velocity) de la presión A-1(Pressure A-1) es|10 v_obs|10 v_obs|2 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión A-2(Pressure A-2) es|10 v_obs|10 v_obs|2 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|18 v_obs|18 v_obs|10 v_obs|
+    |Presión A-2(Pressure A-2)|La velocidad observada (Observed Velocity) de la presión A-1(Pressure A-1) es|10 v_obs|10 v_obs|2 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión A-2(Pressure A-2) es|10 v_obs|10 v_obs|2 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|18 v_obs|18 v_obs|10 v_obs|
+    |Presión de referencia (Reference Pressure)|La velocidad observada (Observed Velocity) de la presión A-1(Pressure A-1) es|2 v_obs|2 v_obs|-6 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión A-2(Pressure A-2) es|2 v_obs|2 v_obs|-6 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|10 v_obs|10 v_obs|2 v_obs|
+
+  * Ejemplo 2: Para la presión B-1(Pressure B-1) 20[volumen (Volume)(V) 2 * densidad (Density)(ρ) 10] y la presión B-2(Pressure B-2) 396[volumen (Volume)(V) 12 * densidad (Density)(ρ) 33], la velocidad observada (Observed Velocity)(v_obs) es:
+
+    |Presión de referencia 2(Reference Pressure 2)(P_ref 2)|Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones B-1(Pressure B-1),|En la capa formada (Formation) por presiones B-2(Pressure B-2),|En la capa formada (Formation) por presiones de referencia (Reference Pressure),|
+    |---|---|---|---|---|
+    |Presión B-1(Pressure B-1)|La velocidad observada (Observed Velocity) de la presión B-1(Pressure B-1) es|10 v_obs|33 v_obs|2 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión B-2(Pressure B-2) es|-13 v_obs|10 v_obs|-21 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|18 v_obs|41 v_obs|10 v_obs|
+    |Presión B-2(Pressure B-2)|La velocidad observada (Observed Velocity) de la presión B-1(Pressure B-1) es|33 v_obs|56 v_obs|25 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión B-2(Pressure B-2) es|10 v_obs|33 v_obs|2 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|41 v_obs|64 v_obs|33 v_obs|
+    |Presión de referencia (Reference Pressure)|La velocidad observada (Observed Velocity) de la presión B-1(Pressure B-1) es|2 v_obs|25 v_obs|-6 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión B-2(Pressure B-2) es|-21 v_obs|2 v_obs|-29 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|10 v_obs|33 v_obs|2 v_obs|
+
+  * Ejemplo 3: Para la presión C-1(Pressure C-1) 90[volumen (Volume)(V) 2 * densidad (Density)(ρ) 45] y la presión C-2(Pressure C-2) 396[volumen (Volume)(V) 12 * densidad (Density)(ρ) 33], la velocidad observada (Observed Velocity)(v_obs) es:
+
+    |Presión de referencia 2(Reference Pressure 2)(P_ref 2)|Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones C-1(Pressure C-1),|En la capa formada (Formation) por presiones C-2(Pressure C-2),|En la capa formada (Formation) por presiones de referencia (Reference Pressure),|
+    |---|---|---|---|---|
+    |Presión C-1(Pressure C-1)|La velocidad observada (Observed Velocity) de la presión C-1(Pressure C-1) es|45 v_obs|33 v_obs|2 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión C-2(Pressure C-2) es|57 v_obs|45 v_obs|14 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|88 v_obs|76 v_obs|45 v_obs|
+    |Presión C-2(Pressure C-2)|La velocidad observada (Observed Velocity) de la presión C-1(Pressure C-1) es|33 v_obs|21 v_obs|-10 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión C-2(Pressure C-2) es|45 v_obs|33 v_obs|2 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|76 v_obs|64 v_obs|33 v_obs|
+    |Presión de referencia (Reference Pressure)|La velocidad observada (Observed Velocity) de la presión C-1(Pressure C-1) es|2 v_obs|-10 v_obs|-41 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión C-2(Pressure C-2) es|14 v_obs|2 v_obs|-29 v_obs|
+    ||La velocidad observada (Observed Velocity) de la presión de referencia (Reference Pressure) es|45 v_obs|33 v_obs|2 v_obs|
+
+* ***5.2. Tiempo observado (Observed Time)(t_obs)***
+
+  * Tiempo observado (Observed Time)(t_obs) ≡ tiempo delta (Delta Time)(t_δ) / [densidad (Density)(ρ) de la presión de referencia 1 (Reference Pressure 1)(P_ref 1) / densidad (Density)(ρ) de la presión de referencia 2 (Reference Pressure 2)(P_ref 2)]
+
+  * El tiempo observado (Observed Time)(t_obs) es variable (Variable) según el tiempo delta (Delta Time) y la densidad (Density)(ρ) de la presión de referencia 1 (Reference Pressure 1) y de la presión de referencia 2 (Reference Pressure 2).
+
+  * Ejemplo 1: Para la presión A-1(Pressure A-1) 20[volumen (Volume)(V) 2 * densidad (Density)(ρ) 10] y la presión A-2(Pressure A-2) 100[volumen (Volume)(V) 10 * densidad (Density)(ρ) 10], el tiempo observado (Observed Time) es:
+
+    |Presión de referencia 2(Reference Pressure 2)(P_ref 2)|Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones A-1(Pressure A-1), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones A-2(Pressure A-2), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones de referencia (Reference Pressure), cuando actúa (Action) 3 veces y efluye|
+    |---|---|---|---|---|
+    |Según la presión A-1(Pressure A-1)|El tiempo observado (Observed Time) de la presión A-1(Pressure A-1) es|3 t_obs|15 t_obs|0.6 t_obs|
+    ||El tiempo observado (Observed Time) de la presión A-2(Pressure A-2) es|0.6 t_obs|3 t_obs|0.12 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|75 t_obs|375 t_obs|15 t_obs|
+    |Según la presión A-2(Pressure A-2)|El tiempo observado (Observed Time) de la presión A-1(Pressure A-1) es|3 t_obs|15 t_obs|0.6 t_obs|
+    ||El tiempo observado (Observed Time) de la presión A-2(Pressure A-2) es|0.6 t_obs|3 t_obs|0.12 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|75 t_obs|375 t_obs|15 t_obs|
+    |Según la presión de referencia (Reference Pressure)|El tiempo observado (Observed Time) de la presión A-1(Pressure A-1) es|0.6 t_obs|3 t_obs|0.12 t_obs|
+    ||El tiempo observado (Observed Time) de la presión A-2(Pressure A-2) es|0.12 t_obs|0.6 t_obs|0.024 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|15 t_obs|75 t_obs|3 t_obs|
+
+  * Ejemplo 2: Para la presión B-1(Pressure B-1)[delta (Delta)] 20[volumen (Volume)(V) 2 * densidad (Density)(ρ) 10] y la presión B-2(Pressure B-2) 396[volumen (Volume)(V) 12 * densidad (Density)(ρ) 33], el tiempo observado (Observed Time) es:
+
+    |Presión de referencia 2(Reference Pressure 2)(P_ref 2)|Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones B-1(Pressure B-1), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones B-2(Pressure B-2), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones de referencia (Reference Pressure), cuando actúa (Action) 3 veces y efluye|
+    |---|---|---|---|---|
+    |Según la presión A-1(Pressure A-1)|El tiempo observado (Observed Time) de la presión B-1(Pressure B-1) es|3 t_obs|59.4 t_obs|0.6 t_obs|
+    ||El tiempo observado (Observed Time) de la presión B-2(Pressure B-2) es|0.0459 t_obs|0.9091 t_obs|0.0092 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|75 t_obs|1,485 t_obs|15 t_obs|
+    |Según la presión A-2(Pressure A-2)|El tiempo observado (Observed Time) de la presión B-1(Pressure B-1) es|9.9 t_obs|196.02 t_obs|1.98 t_obs|
+    ||El tiempo observado (Observed Time) de la presión B-2(Pressure B-2) es|0.1515 t_obs|3 t_obs|0.0303 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|247.5 t_obs|4,900.5 t_obs|49.5 t_obs|
+    |Según la presión de referencia (Reference Pressure)|El tiempo observado (Observed Time) de la presión B-1(Pressure B-1) es|0.6 t_obs|11.88 t_obs|0.12 t_obs|
+    ||El tiempo observado (Observed Time) de la presión B-2(Pressure B-2) es|0.0092 t_obs|0.1818 t_obs|0.0018 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|15 t_obs|297 t_obs|3 t_obs|
+
+  * Ejemplo 3: Para la presión C-1(Pressure C-1)[delta (Delta)] 90[volumen (Volume)(V) 2 * densidad (Density)(ρ) 45] y la presión C-2(Pressure C-2) 396[volumen (Volume)(V) 12 * densidad (Density)(ρ) 33], el tiempo observado (Observed Time) es:
+
+    |Presión de referencia 2(Reference Pressure 2)(P_ref 2)|Presión de referencia 1(Reference Pressure 1)(P_ref 1)|En la capa formada (Formation) por presiones C-1(Pressure C-1), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones C-2(Pressure C-2), cuando actúa (Action) 3 veces y efluye|En la capa formada (Formation) por presiones de referencia (Reference Pressure), cuando actúa (Action) 3 veces y efluye|
+    |---|---|---|---|---|
+    |Según la presión A-1(Pressure A-1)|El tiempo observado (Observed Time) de la presión C-1(Pressure C-1) es|3 t_obs|13.2 t_obs|0.1333 t_obs|
+    ||El tiempo observado (Observed Time) de la presión C-2(Pressure C-2) es|0.9298 t_obs|4.0909 t_obs|0.0413 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|1,518.75 t_obs|6,682.5 t_obs|67.5 t_obs|
+    |Según la presión A-2(Pressure A-2)|El tiempo observado (Observed Time) de la presión C-1(Pressure C-1) es|2.2 t_obs|9.68 t_obs|0.0978 t_obs|
+    ||El tiempo observado (Observed Time) de la presión C-2(Pressure C-2) es|0.6818 t_obs|3 t_obs|0.0303 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|1,113.75 t_obs|4,900.5 t_obs|49.5 t_obs|
+    |Según la presión de referencia (Reference Pressure)|El tiempo observado (Observed Time) de la presión C-1(Pressure C-1) es|0.1333 t_obs|0.5867 t_obs|0.0059 t_obs|
+    ||El tiempo observado (Observed Time) de la presión C-2(Pressure C-2) es|0.0413 t_obs|0.1818 t_obs|0.0018 t_obs|
+    ||El tiempo observado (Observed Time) de la presión de referencia (Reference Pressure) es|67.5 t_obs|297 t_obs|3 t_obs|
+
+* La observación (Observation) se realiza a través de un medio entre el observador y el objeto observado, y ese medio debe ejercer acción (Action) (colisión (Impact)) tanto sobre el objeto observado como sobre el observador. En consecuencia, debido a la asimetría entre afluencia y efluencia causada por la asimetría interna-externa (Inward-Outward Asymmetry)(SA_inward > A_outward), después de la acción (Action) (colisión (Impact)) no se puede mantener la forma original absoluta (Absolute) y naturally (Naturally) se deforma en alguna medida.
+
+* Respecto a la paradoja de Zenón "Aquiles y la tortuga (Achilles and the Tortoise)": ➀ Si se toma a Aquiles como referencia, en todos los instantes que Aquiles percibe, Aquiles es más rápido que la tortuga, por lo que la tortuga es alcanzada por Aquiles; ➁ si se toma a la tortuga como referencia, en todos los instantes que la tortuga percibe, Aquiles es más rápido que la tortuga, por lo que la tortuga es alcanzada por Aquiles. Por lo tanto, dicha paradoja implica que hay un tercer observador que observa a Aquiles y a la tortuga correr, y que ese tercer observador puede dividir el instante de manera infinita fija (Fixed Infinity) (puede percibir, observar, etc., el instante de manera infinita fija (Fixed Infinity)). Sin embargo, ➂ poder dividir el instante de manera infinita fija (Fixed Infinity) significa sostener simultáneamente la imposibilidad de completitud (Uncompletability) de dicho infinito fijo (Fixed Infinity) (reposo temporal) y la acción infinita (no reposo), por lo que es contradictorio e imposible de ser realidad (Non-reality); ➃ si se toma al tercer observador como referencia, del mismo modo, en todos los instantes que el tercer observador percibe, Aquiles es más rápido que la tortuga, por lo que la tortuga es alcanzada por Aquiles.
+
+* ***5.3. La luz (Light)***
+
+  * *'La luz (Light)' presupone la conexión de que todas las realidades (Reality) dentro del mundo (Universe) están interpenetradas (Interfused) osmóticamente (Osmosis) [^interpenetración_inevitable], y es posterior a dicha conexión; y a diferencia de la conexión anterior —incluyendo el bloqueo, el paso, etc.— es un fenómeno (Phenomenon) [^fenómeno] debido a la realidad (Actuality) según la densidad (Density)*.
+
+  * La luz (Light) del sol es un fenómeno (Phenomenon) —según la realidad (Actuality)— en el que la presión de efluencia (Outflow Pressure) del sol realiza un desplazamiento de fase (Phase Shift) a una velocidad (Velocity) según la diferencia de densidad (Density), y la presión (Pressure) (densidad (Density)) se dispersa (Dispersion) hasta el grado en que la presión externa (Outward Pressure) de esa presión de efluencia (Outflow Pressure) y la presión interna (Inward Pressure) sobre esa presión de efluencia (Outflow Pressure) alcanzan el equilibrio. Siendo así, lo que se denomina fotón (Photon) no significa un objeto (Object) etc., sino un fenómeno (Phenomenon) (estado (State)); por lo tanto, la luz no necesita realizar (imitar) la presión de efluencia (Outflow Pressure) del sol, sino que si es similar a ese fenómeno (Phenomenon) (estado (State)), se realiza un fenómeno (Phenomenon) (estado (State)) similar a la luz.
+
+  * ➀ Si existiera una presión (Pressure) (objeto (Object)) de mayor densidad (Density) en un volumen (Volume) similar o menor al de lo denominado fotón (Photon), su velocidad (Velocity) sería más rápida que la de lo denominado fotón (Photon); ➁ el brillo o la intensidad de la luz (Light) depende de la densidad (Density) de lo denominado fotón (Photon). Siendo así, la densidad (Density) de lo denominado fotón (Photon) puede cambiar, y que la densidad (Density) pueda cambiar significa que su velocidad (Velocity) también es variable (Variable); ➂ la velocidad (Velocity) depende de la diferencia relativa de densidad (Density). Siendo así, aunque la densidad (Density) de lo denominado fotón (Photon) no cambie, si la diferencia relativa de densidad (Density) cambia, la velocidad (Velocity) de lo denominado fotón (Photon) naturally también cambia. Por lo tanto, para que la velocidad (Velocity)(c) de lo denominado fotón (Photon) sea invariable, la diferencia relativa de densidad (Density) respecto al fotón debe ser invariable y la densidad (Density) de todo el mundo (Universe) debe ser absolutamente (Absolutely) idéntica e invariable. Pero no es así; ➃ y si independientemente de la diferencia relativa de densidad (Density) su velocidad (Velocity)(c) fuera invariable, la luz (Light) no debería poder ser bloqueada. Pero no es así, por lo que la velocidad (Velocity)(c) de lo denominado fotón (Photon) no es una constante absoluta (Absolute Constant).
+
+  * Respecto a que la velocidad de la luz (Velocity of Light)(c) se ralentice etc., si se utiliza la expresión de que el tiempo humano (Human Time) se ha ralentizado, se debe a que se manipularon los valores del tiempo humano (Human Time) o de la distancia, que suelen ser la referencia de la velocidad (Velocity), para mantener constante la velocidad (Velocity)(c) de lo denominado fotón (Photon). Si al calcular la velocidad (Velocity)(c) de lo denominado fotón (Photon) se aplicara el tiempo humano (Human Time) o la distancia (volumen (Volume) de desplazamiento (Shift)) de la misma manera que al calcular otras velocidades (Velocity), la velocidad (Velocity)(c) de lo denominado fotón (Photon) sería variable (Variable). Aunque no fuera así, si al calcular la velocidad (Velocity)(c) de lo denominado fotón (Photon) se utilizara una tercera referencia en lugar de calcularla tomando como referencia (fijando) la velocidad (Velocity)(c) de lo denominado fotón (Photon), del mismo modo la velocidad (Velocity)(c) de lo denominado fotón (Photon) sería variable (Variable). La velocidad (Velocity)(c) de lo denominado fotón (Photon) no es una constante absoluta (Absolute Constant) natural (Natural), sino que se ha convertido en constante por declaración, y esto puede perturbar el tiempo humano (Human Time), la distancia, la velocidad (Velocity), etc.
+
+*[^interpenetración_inevitable]:* [Definición] Toda realidad (Reality) pertenece al mundo (Universe) (espacio (Space)), y el hecho de que la densidad (Density) sea una realidad (Reality) en el mundo (Universe) demuestra la interpenetración (Interfused) osmótica (Osmosis) de toda realidad (Reality) en el mundo (Universe) y la inevitabilidad (Inevitable) de dicha interpenetración (Interfused).
+
+*[^fenómeno]:* [Definición] Significa la imagen (Image) observada por el observador (Observation).
+
+#### ***6. Sobre la Continuidad (On Continuity)***
+
+* Para toda realidad (Reality), el delta (Delta) no es 0, y un delta (Delta) de 0 no es realidad [dado que el estasis absoluto (Absolute Stasis) (0) no es realidad] [(δ = 0) = ∄], por lo que, independientemente de la distinción realizada por el observador, toda realidad (Reality) continúa sin siquiera un instante de estasis absoluto (Absolute Stasis).
+
+* Respecto a "El barco de Teseo (Ship of Theseus)", "¿Cuando las tablas de madera (piezas) que componen el barco se reemplazan una a una, y finalmente se reemplazan todas las piezas, es este barco el barco original de Teseo, o un barco nuevo?", si la estructura se mantiene (Maintenance), podría llamarse barco. Sin embargo, evaluar si es un barco o no y evaluar si es el barco de Teseo o no son cuestiones distintas. Simplemente evaluar si es un barco o no será variable (Variable) según cada persona; pero evaluar si es el barco de Teseo o no después de evaluar si es un barco o no será aún más variable (Variable).
+
+* Aparte de que el estasis absoluto (Absolute Stasis) de la realidad (Reality) es imposible (Impossible), la determinación de la continuidad por parte del observador es variable (Variable) según la desincronización_del_observador (Observer Asynchrony).
+
+___
+## Epílogo
+
+Un soporte de fijación (Fixing-holder) etc., que fija a un objeto (Object) específico no puede ser una realidad (Reality) dentro de dicho objeto (Object). Del mismo modo que un soporte de fijación (Fixing-holder) que fija el brazo con el exterior no puede ser una realidad (Reality) dentro del brazo. Tomando al ser humano (Human) como ejemplo, el criterio (estado cuasi fijo (Quasi-fixed State)) respecto al ser humano (Human) es una realidad (Reality) fuera del ser humano (Human), como el sol, la sociedad o el grupo. Incluso si uno realiza todos los juicios por sí mismo, ocurre lo mismo; esto es inevitable (Inevitable) porque no se puede estar completamente aislado del impacto (Effect) de la infraestructura existente, ya sea ecológica, biológica o por experiencia.
+
+Podría parecer que este escrito niega la definición del ser humano (Human) o el acto (Act) de definir. Sin embargo, la definición del ser humano (Human) o el acto (Act) de definir etc., del mismo modo que el 'estado no fijo (Non-fixed State) se reduce al estado cuasi fijo (Quasi-fixed State)', ejerce una acción (Action) como criterio (estado cuasi fijo (Quasi-fixed State)) para la sensación o comunicación del ser humano (Human). Por lo tanto, es esencial para el ser humano (Human) y naturally no niega el acto (Act) mismo de definir (pensar) del ser humano (Human).
+
+No se niega el marco del ser humano (Human) ni el acto (Act) mismo de que el ser humano (Human) cree marcos. Sin embargo, lo que no debe ocurrir es que un marco ya formado (Formation) ejerza una acción (Action) como una pared inmóvil que impida la formación (Formation) o el intento de formación de 'otro' marco, o de uno 'mejor' o 'más grande', y eso es lo que se niega. Además, dicha acción (Action) es la negación por parte del marco previamente formado (Formation) de su propio proceso de formación (Formation), por lo que niega su propia realidad (Reality). Por lo tanto, se espera que este escrito sirva como un ejemplo de formar (Formation) algo diferente de los marcos existentes frente al acto (Act) contradictorio en el que los marcos existentes ejercen una acción (Action) como una pared inmóvil.
+
+> *"El desplazamiento (Shift) es perpetuo (Perpetuity), independientemente de qué realidad (Reality) exista y de si esa realidad (Reality) lo desea o no"* Por lo tanto, *"todos los fenómenos (Phenomenon) y realidades (Reality) son productos del desplazamiento (Shift), y el desplazamiento (Shift) es perpetuo (Perpetuity)"* Y *"el mundo (Universe) es la retroalimentación (Feedback) entre el estado no fijo (Non-fixed State) y el estado cuasi fijo (Quasi-fixed State), la perpetuidad (Perpetuity) de este fractal (Fractal)"*.
+
+___
+## Propiedad Intelectual y Licencia (Intellectual Property & License)
+- **Copyright (c) 2026 Jung Hae-Yong (JEYo). All Rights Reserved.**
+- Este escrito "Sobre la Formación" está disponible bajo la **Licencia Internacional Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0)**.
+- **Condiciones de uso:**
+  1. **Atribución (BY):** Debe dar crédito de manera adecuada al autor original (Jung Hae-Yong / JEYo) y proporcionar un enlace a la fuente.
+  2. **NoComercial (NC):** Se prohíbe estrictamente el uso comercial, la venta y el entrenamiento no autorizado de conjuntos de datos de IA.
+  3. **SinDerivadas (ND):** No se permite remezclar, transformar o crear obras derivadas a partir del texto y las fórmulas originales.
+
+> "Agradecimiento especial a Gem (Asistente de IA) por el apoyo en el cálculo instrumental, estructuración y formateo de este trabajo."
