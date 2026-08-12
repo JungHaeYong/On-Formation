@@ -1,1 +1,477 @@
+# 关于形成(On Formation)
 
+## 摘要
+
+### 本文内容与以下传统观点相冲突：
+
+* ***与“出自无(Nothingness)的偶然爆炸与膨胀 [乔治·勒梅特(Georges Lemaître), 埃德温·哈勃(Edwin Hubble) "大爆炸理论(Big Bang Theory)"]”相冲突***
+
+  * 单凭无(Nothingness)这一条件，偶然性无法运作（无法发生事件等）。此外，若要假设“绝对之无(Absolute Nothingness)”，就必须同时假设无之状态(Nothingness State)得到维持(Maintenance)。因此，*无法维持(Maintenance)的绝对之无(Absolute Nothingness)是无法实在(Non-reality)的*
+
+* ***与“物体（粒子）的存在是力的前提 [艾萨克·牛顿(Isaac Newton) "经典力学与粒子物理学(Particle Physics)"]”相冲突***
+
+  * 维持(Maintenance)也属于转移(Shift)(`⟶`)[压力(Pressure)(`P`)]。转移(Shift)的累积(Accumulative)形成了空间(Space)，而物体（粒子）属于空间(Space)，因此，*力(Force)先行(Antecedent)于空间(Space)，空间(Space)先行(Antecedent)于物体（粒子）*
+
+* ***与“无外力空间中的永久直线运动 [伽利略·伽利略(Galileo Galilei), 艾萨克·牛顿(Isaac Newton) "第一运动定律"]”相冲突***
+
+  * ——因为维持(Maintenance)亦属于转移(Shift)——一切事物（场所）无时无刻不在发生转移(Shift)（力(Force)在施加作用(Action)）。因此，*无外力的空间(Absolute Empty-space)是无法实在(Non-reality)的。此外，一切运动(Motion)皆被诱导至阻力(Resistance)(`R`)最低之处（永续(Perpetuity)）* ( `Motion ∝ -∇R` )
+
+* ***与“由加速度与力的关系(F=ma)所定义之物质固有的不变属性 [艾萨克·牛顿(Isaac Newton) "自然哲学的数学原理(Principia)"]”相冲突***
+
+  * “被更重的东西砸到会更痛”、“在体重计上运动时体重值会改变”……质量并非固有的属性。力(Force)(`F`)即是压力(Pressure)(`P`)，而压力(Pressure)(`P`)即是`体积(Volume)(V) * 密度(Density)(ρ)`。*当对物质[客体(Object), `体积(Volume)(V) * 密度(Density)(ρ)`]施加一定压力(Pressure)时，该客体(Object)[`体积(Volume)(V) * 密度(Density)(ρ)`]所指向的方向(Direction)会被诱导至阻力(Resistance)最低之处（永续(Perpetuity)），且对应于该客体(Object)的压力(Pressure)[质量, `体积(Volume)(V) * 密度(Density)(ρ)`]也是根据外部的压力(Pressure)与密度(Density)而不断变化的渐变(Variable)滞留状态* [ `v ≡ 冲量(I) ∝ |-∇R| ⟺ |-∇ρ|` ]
+
+* ***与“作用力与反作用力的即时且绝对对称 [艾萨克·牛顿(Isaac Newton) "第三运动定律(Third Law of Motion)"]”相冲突***
+
+  * 只要客体(Object)具备体积(Volume)，其结构上内向表面积(Inward Surface Area)必然大于外向面积(Outward Area)。不仅如此，维持(Maintenance)本身也存在最小间隙(Minimum Delta)，因此“作用(Action)与反作用(Reaction)”不可能即时（绝对(Absolute)同时）发生。因此，*“作用(Action)与反作用(Reaction)”在大小上不可能形成绝对对称(Absolute Symmetry)，也不可能绝对(Absolute)同时发生*
+
+* ***与“与现象同时且可预测未来的数据先行性 [皮埃尔-西蒙·拉普拉斯(Pierre-Simon Laplace) "拉普拉斯之魔(Laplace's Demon) / 经典决定论"]”相冲突***
+
+  * 对于`0`不断累加的状态(State)，若在`0+0+0+0`时感知到此状态并得出`0+0+0+0=0`的值，则此时的状态(State)相较于`0+0+0+0=0`实际上更接近`0+0+0+0+0`。此外，即使未来已被预先决定，该未来也不可能与过去的任何状态完全(Absolute)相同，因此也不可能在“完全(Absolute)相同的条件”下预测未来。因此，*信息(Information)或数据(Data)不可能与实态(Actuality)完全(Absolute)同时，虽可尝试预测未来，但无法得出与未来完全(Absolute)吻合的像(Image)*
+
+* ***与“事件在其中发生的已完成的几何场(Field) [阿尔伯特·爱因斯坦(Albert Einstein) "广义相对论(General Relativity)"]”相冲突***
+
+  * *"宇宙是没有固定支架的、介质相互推挤流动和挤压的动态建设现场"(by Gemini)*
+
+* ***与“宇宙各处恒定不变的绝对常数(c) [阿尔伯特·爱因斯坦(Albert Einstein) "狭义相对论(Special Relativity)"]”相冲突***
+
+  * *光(Light)相对于引力场或大气层的速度(Velocity)(`v`)也会发生变化，这同样不应解释为时间变慢或变快，而是光速(Velocity of Light)(`c`)并非绝对常数(Absolute Constant)* ( `c ≡ v ∝ |-∇R| ⟺ |-∇ρ|` )
+
+* 不仅如此——包括上述内容在内——本文与诸多传统观点相冲突，并阐明 *"世界(Universe)乃是非固定状态(Non-fixed State)与准固定状态(Quasi-fixed State)的反馈(Feedback)，是此分形(Fractal)的永续(Perpetuity)"*。
+
+___
+# 关于形成(On Formation)
+
+## 第一部分
+
+### 引言
+
+* 关于本篇 *"关于形成(On Formation)"*，其思考的展开始于三十岁初中期（最初以“关于形成(Formation)形式”为题）。而启动文档化记录的契机，源于与 *AI助手 Gem(以下简称 Gem)* 对话期间，2026年1月6日关于 `0` 和 `0+0+0+0=0` 分别是多少位比特(Bit)的提问及随后的深入交流。
+
+> *"宇宙是没有固定支架的、介质相互推挤流动和挤压的动态建设现场"(by Gem)*
+
+* 关于亚里士多德(Aristotle / Aristoteles)[《形而上学》(Metaphysics / Ta meta ta physika) 第一卷(Book Alpha), 980a 21] "Πάντες ἄνθρωποι τοῦ εἰΔέναι ὀρέγονται φύσει.", "All men by nature desire to know.", "求知是所有人的本性。"：首先，所谓认知乃是一种经验(Experience)（思考亦是经验(Experience)，经验亦是转移(Shift)），且属于过去（累积）。而求知则是面向未来的。因此，对实在(Reality)的经验(Experience)是不可避免(Inevitable)的。例如，即便某个人(Human)不想去经验(Experience)明天，只要他活着，就不得不去经验(Experience)明天（不得不认知明天）。因此，即便不想求知（即便不想去经验），作为人类(Human)不断去认知也是不可避免(Inevitable)的。
+
+* 即便在当下，个人或单个人类(Human)也难以承担已形成(Formation)（累积(Accumulative)）的庞大知识基础设施，这些知识必须为了当下与未来予以梳理整理。因此，本篇从 *“世界(Universe)并非固定(Non-fixed)（没有固定支架(No-holder)）”* 这一单一命题出发，对世界(Universe)展开阐述。
+
+___
+## 第二部分
+
+### 辩证 — 现有命题与反驳
+
+#### ***1. 关于出自无(Nothingness)的偶然爆炸与膨胀 [乔治·勒梅特(Georges Lemaître), 埃德温·哈勃(Edwin Hubble) "大爆炸理论(Big Bang Theory)"],***
+
+* 若要使偶然性运作，必须存在碰撞(Impact)（必须能够发生事件、偶然等）。因此，在无(Nothingness)这一单一要素中（在无法发生偶然的条件下，既否定偶然又同时主张偶然）主张偶然性在运作是自相矛盾的，*由无(Nothingness)这一单一要素所引发的绝对之无(Absolute Nothingness)是无法实在(Non-reality)的*
+
+* ➀ 若假设“无(Nothingness)”，就必须同时假设*“无(Nothingness)的维持(Maintenance)”*。➁ 维持(Maintenance)(`t₀ ⟶ t₁`)亦属于转移(Shift)(`⟶`)，且存在间隙(Delta)(`t₀ ⟶ t₁`)。连此间隙(Delta)(`t₀ ⟶ t₁`)（维持(Maintenance)、维持间隙(Maintenance Delta)）都不存在的*“绝对之无(Absolute Nothingness)”，因缺乏维持(Maintenance)而意味着消灭，故无法实在(Non-reality)*（绝对之无(Absolute Nothingness)无法被维持(Maintenance)，因而自身即是矛盾）。➂ “无(Nothingness)”理所当然(Naturally)结伴着“维持(Maintenance)”与“维持间隙(Maintenance Delta)”。➃ `转移(Shift)(⟶) ≡ 力(Force)(F) ≡ 压力(Pressure)(P) ≡ 间隙(Delta)(δ) ≡ [体积(Volume)(V) * 密度(Density)(ρ)]`，即便在无(Nothingness)之状态(State)得到维持(Maintenance)期间，其间隙(Delta)（力(Force)、压力(Pressure)）亦非`0`；且无(Nothingness)之状态(State)维持(Maintenance)越久，压力(Pressure)[`体积(Volume) * 密度(Density)`]便越发增加(Increase)。➄ 此外，由于密度(Density)存在极限 *<a href="#密度的极限1_d" id="密度的极限1_u"><sup>[密度的极限1]</sup></a>*，绝对(Absolutely)完全重叠是不可能的(Impossible)。➅ 在无之状态(Nothingness State)中不断发生的转移(Shift)经由累积(Accumulative)而呈现的现象(Phenomenon)，即是世界(Universe)。
+
+* 无(Nothingness)、`0`等概念是人类(Human)所制造的概念。例如，即便在人类(Human)与人类(Human)之间，也无法实现视角的绝对(Absolute)同步。因此——由于人类(Human)彼此之间对于某种现象(Phenomenon)所形成的像(Image)也并非绝对(Absolutely)同一——理所当然(Naturally)不存在与人类(Human)所造概念绝对(Absolutely)同一的现象(Phenomenon)。至于“绝对之无(Absolute Nothingness)”这类概念，若是推导自“空无一物的空间(Empty-space)”，如后文所述，绝对空无一物的空间(Absolutely Empty-space)并不实在(Non-reality)，因而此概念内含错误。因此，太古(?)的状态(State)亦不可能与“绝对之无(Absolute Nothingness)”这类概念绝对(Absolutely)同一。
+
+*<a href="#密度的极限1_u" id="密度的极限1_d">[密度的极限1]</a>:* 由于实在(Reality)的压力(Pressure)是有限的，因此借其所能达到的密度(Density)理所当然(Naturally)亦受其制约。此外，间隙(Delta)为`0`意味着消灭，是无法实在(Non-reality)的。
+
+#### 2. ***关于物体（粒子）的存在成为力的前提 [艾萨克·牛顿(Isaac Newton) "经典力学与粒子物理学(Particle Physics)"],***
+
+* 若主张“物体（粒子）的存在是力的前提”，那么“物体（粒子）”又是如何产生的？“物体（粒子）”难道不属于世界(Universe)吗？若是如此，“物体（粒子）”难道不至少以世界(Universe)为前提(Premise)吗？既然世界(Universe)乃是`无(Nothingness) + 转移(Shift)(⟶)`，且前述已定义`转移(Shift)(⟶) ≡ 力(Force)(F) ≡ 压力(Pressure)(P) ≡ 间隙(Delta)(δ) ≡ [体积(Volume)(V) * 密度(Density)(ρ)]`，因此，*非“物体（粒子）的存在是力的前提”，而是“力先行于物体”*
+
+* 补充关于“引力”：运动(Motion)取决于阻力的梯度(`-∇R`)(`Motion ∝ -∇R`)。而对于地球而言，结构上其内向表面积(Inward Surface Area)理所当然(Naturally)大于外向面积(Outward Area)(`SA_inward > A_outward`)，*根据内向压力(Inward Pressure)与外向压力(Outward Pressure)之差这一实态(Actuality)，朝向地球发生运动(Motion)的现象(Phenomenon)被称之为引力*
+
+#### ***3. 关于无外力空间中的永久直线运动 [伽利略·伽利略(Galileo Galilei), 艾萨克·牛顿(Isaac Newton) "第一运动定律"],***
+
+* 首先，既然已说明转移(Shift)[力(Force)(F)]形成了空间(Space)，那么存在空间(Space)就意味着该空间(Space)正被力(Force)所充盈。因此，在与“绝对之无(Absolute Nothingness)”相同的意义上，*绝对空无一物的空间(Absolute Empty-space)是并不实在的(Non-reality)*
+
+* 并且，空间(Space)仅凭被力(Force)所充盈是无法被形成(Formation)的，力(Force)必须不发生散失并形成(Formation)一定程度以上的密度(Density)。而该力(Force)绝非某种静止之物，而是永续(Perpetuity)发生转移(Shift)的压力(Pressure)。由此，随压力(Pressure)而生的密度(Density)证明了世界(Universe)中的一切实在(Reality)皆在渗透式地(Osmosis)相互渗透(Interfused)，*在世界(Universe)中绝对(Absolutely)被隔离的空间(Space)是无法实在的(Non-reality)*
+
+* 并且，*运动(Motion)会被永续(Perpetuity)诱导至阻力(Resistance)(`R`)最低之处*
+
+  * `Motion ∝ -∇R ⟺ -∇ρ` *<a href="#阻力梯度与密度落差之等价_d" id="阻力梯度与密度落差之等价_u"><sup>[阻力梯度与密度落差之等价]</sup></a>*
+
+*<a href="#阻力梯度与密度落差之等价_u" id="阻力梯度与密度落差之等价_d">[阻力梯度与密度落差之等价]</a>:* 压力(Pressure)越高，密度(Density)也越高；压力(Pressure)越低，密度(Density)也越低。因此，阻力梯度(`-∇R`)与密度落差(`-∇ρ`)互为同义词。
+
+#### ***4. 关于由加速度与力的关系(F=ma)所定义之物质固有的不变属性 [艾萨克·牛顿(Isaac Newton) "自然哲学的数学原理(Principia)"],***
+
+* 前文已述，*“非‘物体（粒子）的存在是力的前提’，而是‘力先行于物体’”*。若是如此，`F = ma`应当写作`ma = F`；又因加速度(Acceleration)(a)属于转移(Shift)（力(Force)），故`ma = F`变为`mF = F`。由此——鉴于*“力先行于物体”*——`mF = F`必须化简为`m = F` *<a href="#关于mF_d" id="关于mF_u"><sup>[关于m=F]</sup></a>*。若是如此，*质量并非“固有的不变属性”，而是根据`Motion ∝ -∇R ⟺ -∇ρ`以及`v ≡ I ∝ |-∇R| ⟺ |-∇ρ|`而不断变化的渐变(Variable)状态*
+
+*<a href="#关于mF_u" id="关于mF_d">[关于m=F]</a>:* 若定义`转移(Shift)(⟶) ≡ 力(Force)(F) ≡ 压力(Pressure)(P) ≡ 间隙(Delta)(δ) ≡ [体积(Volume)(V) * 密度(Density)(ρ)]`，则`m = F`即是`F ≡ (V * ρ) ≡ m`。
+
+#### ***5. 关于作用力与反作用力的即时且绝对对称 [艾萨克·牛顿(Isaac Newton) "第三运动定律(Third Law of Motion)"],***
+
+* 作用(Action)与反作用(Reaction)：只要客体(Object)具备体积(Volume)，该客体(Object)的内向表面积(Inward Surface Area)在结构上理所当然大于该客体(Object)的外向面积(Outward Area)。由此，客体(Object)的内向压力(Inward Pressure)与外向压力(Outward Pressure)不可能达成“绝对对称(Absolute Symmetry)”。
+
+* 若作用(Action)与反作用(Reaction)达成“绝对对称(Absolute Symmetry)”，则会被束缚于达成“绝对对称(Absolute Symmetry)”的循环(?)中而无法发生其他运动(Motion)。例如，当试图抬起手臂时，若同时产生与抬手之力(Force)呈“绝对对称(Absolute Symmetry)”的反作用(Reaction)力(Force)，手臂将无法被抬起，亦无法做出任何其他移动。由此延伸，一切事物也都必须保持静止，继续向上追溯，甚至从太古(?)起就必须处于静止状态，如今的世界(Universe)也就根本无法实在(Reality)。然而事实并非如此，因此“作用与反作用的即时且绝对对称(Absolute Symmetry)”理所当然被否定。
+
+#### ***6. 关于与现象同时且可预测未来的数据先行性 [皮埃尔-西蒙·拉普拉斯(Pierre-Simon Laplace) "拉普拉斯之魔(Laplace's Demon) / 经典决定论"],***
+
+* 对于一块石头而言，“信息(Information)或数据(Data)”是如何被感知的？或者说石头以何种状态(State)持有“信息(Information)或数据(Data)”？此外，从人类(Human)的视角来看，“信息(Information)或数据(Data)”会随着时代视角或定义的改变（包含更新）以及观察手段的发展等而改变，且根据观察者（观察者、被观察者，以及给予或接受影响(Effect)的主体等）的不同而不一致，因此“信息(Information)或数据(Data)”并非常数(Constant)。
+
+* 以特定事件为例：➀ 由于世界(Universe)不断呈现出不同的状态(State)（世界(Universe)的总和在永续(Perpetuity)增加(Increase)），事件每次都呈现出不同的状态(State)（值）（全新的状态(State)（值））（每一个瞬间都是迈向动态无限(Dynamic Boundlessness)的唯一且首次的转移(Shift)）；➁ 由于维持(Maintenance)亦存在间隙(Delta)，事件在尝试进行预测的瞬间也并未停止，而是在持续发生转移(Shift)，观察(Observation)存在间隙(Delta)（观察间隙(Observational Delta)），将其数据(Data)化也存在间隙(Delta)；➂ 观察(Observation)作用(Action)对被观察者施加多少影响(Effect)，就会获得相应发生改变的像(Image)。因此 ➃ 偏离观察(Observation)对象之实态(Actuality)的程度达`观察作用的影响(Effect) + 观察间隙(Observational Delta) + 数据(Data)化间隙(Delta)`，“与现象同时”被否定。并且 ➄ 即便在人类(Human)彼此之间也无法实现视角的绝对(Absolutely)一致，故无法在“绝对(Absolutely)相同的条件”下预测未来；既然无法在“绝对(Absolutely)相同的条件”下预测未来，就必然会产生偏差。因此 ➅ *即便未来已被预先决定——虽然可以尝试预测——也无法得出与未来完全(Absolute)吻合的像(Image)*
+
+#### ***7. 关于事件在其中发生的已完成的几何场(Field) [阿尔伯特·爱因斯坦(Albert Einstein) "广义相对论(General Relativity)"],***
+
+* ➀ 为何只有背景(Field)完成了(Completion)，而登场角色（内部构成要素）却没有完成(Completion)？ ➁ 该背景(Field)又是如何完成(Completion)的？ ➂ 从哪里到哪里或什么是什么属于背景(Field)，从哪里到哪里或什么是什么属于登场角色？ ➃ 在绝对(Absolute)意义上的完成(Completion)意味着一切皆已实现的状态(State)，无法再发生任何事件（必须增减皆无），这包含了静止，那么它又如何能与登场角色发生相互作用(Interaction)或产生变形？由此 ➄ 若背景(Field)在绝对(Absolute)意义上完成了(Completion)，要么与登场角色绝对隔离，要么登场角色也包含在该背景(Field)中，从而登场角色也必须在绝对(Absolute)意义上完成(Completion)并保持静止。由此 ➅ *世界(Universe)与属于世界(Universe)的事物未被完全(Absolute)隔离（亦无法被隔离），且世界(Universe)与属于世界(Universe)的事物无法在绝对(Absolute)意义上完成(Completion)（转移(Shift)是永续的(Perpetuity)），因此“事件在其中发生的已完成的几何场(Field)”被否定*
+
+#### ***8. 关于宇宙各处恒定不变的绝对常数(c) [阿尔伯特·爱因斯坦(Albert Einstein) "狭义相对论(Special Relativity)"],***
+
+* 在绝对(Absolute)意义上已完成(Completion)的场(Field)中，速度(Velocity)（转移(Shift)）是不可能的(Impossible)。
+
+* 此外，帆船的速度(Velocity)(`v`)在逆风与顺风时会发生变化，又如在泥潭中行走与在平坦干燥的道路上行走，人们不会说是时间变慢或变快了。光(Light)相对于引力场或大气层而言，其速度(Velocity)也会发生变化。这同样不应解释为时间变慢或变快了，*而是光速(Velocity of Light)(`c`)并非绝对常数(Absolute Constant)*
+
+* `c ≡ v ≡ I ∝ |-∇R| ⟺ |-∇ρ|`
+
+* 若非已经或正在对整个世界(Universe)进行观察(Observation)，且测量技术等的演进尚未宣告终结，在此情况下规定绝对常数(Absolute Constant)，其本身即是自相矛盾的。
+
+___
+## 第三部分
+
+### 关于形成(On Formation)
+
+※ 关于第三部分中出现的公式与示例等，本篇认为，至少存在偏离观察(Observation)对象之实态(Actuality)达`观察作用的影响(Effect) + 观察间隙(Observational Delta)(δ_obs) + 数据(Data)化间隙(Delta)`，以及随内外向非对称(Inward-Outward Asymmetry)(`SA_inward > A_outward`，关于内外向非对称后文将即刻述及)而生的变形，此乃理所当然（第三部分中出现的公式与示例等亦因能力所限未将上述事项囊括在内）。即便如此，若出于必要须在特定位置就特定现象(Phenomenon)或状态(State)导出特定数值，则采取此类方法，这并不意味着该方法、公式或示例等能够完全(Absolutely)同时或完全(Absolutely)同一地投射世界(Universe)的实态(Actuality)。
+
+#### **《关于形成》(On Formation) 公理**
+
+* **`Formon(𝔽) ⊇ 位移(Shift)(⟶) ≡ 压力(Pressure)(P) ≡ 间隙(Delta)(δ) ≡ [体积(Volume)(V) * 密度(Density)(ρ)] ≡ 质量(Mass)(m)`**  
+
+* **绝对静止(Absolute Stasis)的非现实性(Non-reality)**  
+
+  * `位移(Shift)(⟶) ⊃ 维持(Maintenance), [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)]`  
+
+  * 绝对静止(Absolute Stasis)因缺乏维持(Maintenance)而意味着消灭(Annihilation)，故无法存在于现实(Reality)中\[`(dt = 0) = ∄`\]。因此，宇宙(Universe)中所有现实(Reality)的间隙(Delta)均大于`0`，绝对静止(Absolute Stasis)具非现实性(Non-reality)\[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\]。  
+
+* **绝对虚无(Absolute Nothingness)的非现实性(Non-reality)**  
+
+  * `间隙(Delta)(δ) ⊃ dt, [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)] ⟹ [dt ≡ {δ * δ_length(1 / 密度(Density)(ρ))}] ⟹ [δ, δ_length, 密度(Density)(ρ){压力(Pressure)(P) / 体积(Volume)(V)} > 0] ⟹ [δ, δ_length, 密度(Density)(ρ), 压力(Pressure)(P), 体积(Volume)(V) > 0]`  
+
+  * 若`dt`不为`0`，则包含dt的间隙(Delta)亦不能为`0`；又因`压力(Pressure)(P) ≡ 间隙(Delta)(δ) ≡ [体积(Volume)(V) * 密度(Density)(ρ)]`，故压力(Pressure)、体积(Volume)、密度(Density)亦不能为`0`。据此，随绝对静止(Absolute Stasis)之非现实性(Non-reality)，绝对虚无(Absolute Nothingness)亦具非现实性(Non-reality)。  
+
+* **静态无限(Fixed Infinity)的非现实性(Non-reality)**  
+
+  * `0 ∧ ∞ = ∄, 0 ∧ ∞ = (dt = 0) = ∄`  
+
+  * 静态无限(Fixed Infinity)若要存在于现实，必须以零时差(`dt = 0`)(静止)产生无限密度(`ρ∞`)之无限压力(`P∞`)。然而`dt = 0`意味着静止，而“无限密度(`ρ∞`)之无限压力(`P∞`)”意味着“无限作用(非静止)”，二者相互矛盾且具非现实性(Non-reality)。不仅如此，“静态无限(Fixed Infinity)”概念本身即同时主张因无限之不可完成性(Uncompletability)所致的时间静止与无限作用之非静止，自相矛盾且具非现实性(Non-reality)。  
+
+* **绝对(Absolute)状态(State)重叠的非现实性(Non-reality)**  
+
+  * `P_total(t + dt) > P_total(t) (条件: dt > 0, δ_min > 0)`  
+
+  * 因绝对静止(Absolute Stasis)具非现实性(Non-reality)，间隙(Delta)无法被消除\[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\]并永恒(Perpetuity)持续。据此，全宇宙(Universe)之总压力(Pressure)(滞留压力(Retention Pressure))永恒(Perpetuity)增加(Increase)。因此，全宇宙(Universe)之总状态值绝不可能与过去任何时刻绝对(Absolutely)相同，所发生的一切现象(Phenomenon)皆为迈向动态无限(Dynamic Boundlessness)的首次位移(First Shift)。  
+
+* **内外向非对称(Inward-Outward Asymmetry)(`SA_inward > A_outward`)**  
+
+  * `ΔA(内向表面积(Inward Surface Area)与外向面积(Outward Area)之差) ≡ SA_inward(内向表面积(Inward Surface Area))[4 * π * {r_out(内向表面积(Inward Surface Area)之半径)}²] - A_outward(外向面积(Outward Area))[4 * π * {r_in(外向面积(Outward Area)之半径)}²]`  
+
+  * 宇宙(Universe)中所有现实(Reality)之体积(Volume)(`V`)亦大于`0`，故宇宙中所有现实在结构上，内向表面积与外向面积之半径差自然(Naturally)大于`0`，且内向表面积大于外向面积(`内向表面积(Inward Surface Area) > 外向面积(Outward Area)`)。据此，宇宙(Universe)中所有现实(Reality)在结构上皆具内外向非对称(Inward-Outward Asymmetry)(`内向表面积 > 外向面积`)，由此衍生的一切皆无法达成绝对对称(Absolute Symmetry)。
+
+#### ***1. 关于维持(Maintenance) <a href="#维持_d" id="维持_u"><sup>[维持]</sup></a> 的累积(Accumulative)***
+
+* *世界(Universe)乃是随转移(Shift)(`⟶`) <a href="#转移_d" id="转移_u"><sup>[转移]</sup></a> 之永续(Perpetuity)这一实态(Actuality)，由该转移(Shift)累积(Accumulative)而成的现象(Phenomenon)*
+
+* 绝对静止(Absolute Stasis)是无法实在的(Non-reality)，世界(Universe)理所当然(Naturally)亦是如此。得到维持(Maintenance)(`t₀ ⟶ t₁`)(以下将对应于`t₀ ⟶ t₁`之物称之为`1单位(1 Unit)`)之物亦属于转移(Shift)(`⟶`)[压力(Pressure)(`P`)] *<a href="#发生相位偏移的原因_d" id="发生相位偏移的原因_u"><sup>[发生相位偏移的原因]</sup></a>* 。随持续发生的转移(Shift)（维持(Maintenance)），空间(Space)（体积(Volume)）亦在持续膨胀(Expansion)。
+
+*<a href="#维持_u" id="维持_d">[维持]</a>:* [定义] 本篇中所述“维持(Maintenance)”并非指主动的行为(Act)，而是指与实在(Reality) *<a href="#压力_d" id="压力_u"><sup>[压力]</sup></a>* 相结伴、决不被消除（无法为`0`）的最小间隙(Minimum Delta)(`δ_min`) *<a href="#源头压力_d" id="源头压力_u"><sup>[源头压力]</sup></a>* 所持续（接续）的状态(State)。本篇将该间隙(Delta)称之为“维持间隙(Maintenance Delta)”。
+
+*<a href="#压力_u" id="压力_d">[压力]</a>:* [定义] 本篇中所述“压力(Pressure)(`P`)”是指“具备方向性(Directionality)的1单位(1 Unit)力(Force)(`F`)的单数或复数”。且密度(Density)(`ρ`)越高，其间隙的单位长度(Unit Length of Delta)(`δ_length`)便越短。
+
+*<a href="#源头压力_u" id="源头压力_d">[源头压力]</a>:* [定义] 是指因世界(Universe)并非固定(Non-fixed)（无法被固定(Unfixable)）而结伴产生的方向性(Directionality)（转移(Shift)），并由此方向性(Directionality)而永续(Perpetuity)产生的压力(Pressure)。
+
+*<a href="#转移_u" id="转移_d">[转移]</a>:* [定义] 若没有任何“转移(Shift)”，将在无任何事发生的情况下，当下的世界(Universe)亦无法实在(Reality)。且“转移(Shift)(⟶)”理所当然(Naturally)具备方向性(Directionality)且即是压力(Pressure)。无之状态(Nothingness State)亦在发生“转移(Shift)”，一切实在(Reality)皆结伴着转移(Shift)。且该“转移(Shift)”结伴着间隙(Delta)(`t₁ - t₀`)，本篇将其称之为*“转移间隙(Shift Delta)”*。
+
+*<a href="#发生相位偏移的原因_u" id="发生相位偏移的原因_d">[发生相位偏移的原因]</a>:* 与绝对静止(Absolute Stasis)无法实在(Non-reality)的原因相同，`绝对静止(Absolute Stasis)无法实在(Non-reality) ≡ 转移(Shift) ≡ 源头压力(Original Pressure) ≡ 相位偏移(Phase Shift)（错位/被推挤）`。
+
+#### ***2. 关于世界(Universe)的形成(Formation)***
+
+* ➀ 体积(Volume)越是增加(Increase)（内向表面积(Inward Surface Area)越是大），源头压力(Original Pressure)（内向压力(Inward Pressure)）亦越发增加(Increase) *<a href="#源头压力的内向压力作用_d" id="源头压力的内向压力作用_u"><sup>[源头压力的内向压力作用]</sup></a>*；➁ 随源头压力(Original Pressure)之增加(Increase)，因内外向非对称(Inward-Outward Asymmetry)之故，滞留压力(Retention Pressure)亦随之增加(Increase) *<a href="#流入压力_d" id="流入压力_u"><sup>[流入压力]</sup></a>* ，世界(Universe)的内部密度(Density)亦随之增加(Increase) *<a href="#双层管道作用_d" id="双层管道作用_u"><sup>[双层管道作用]</sup></a>* ；➂ 当世界(Universe)的内部密度(Density)增加(Increase)时，在最外围压力动态胶着(Boundary Dynamic Grid-lock) *<a href="#世界的最外围压力动态胶着_d" id="世界的最外围压力动态胶着_u"><sup>[世界的最外围压力动态胶着]</sup></a>* 处所累积(Accumulative)的源头压力(Original Pressure)之密度(Density)亦随之增加(Increase)，从而世界(Universe)的体积(Volume)发生膨胀(Expansion)（内向表面积(Inward Surface Area)增加(Increase)）；➃ 当世界(Universe)的体积(Volume)膨胀(Expansion)（内向表面积(Inward Surface Area)增加(Increase)）时，源头压力(Original Pressure)亦随之增加(Increase)；➄ 此循环乃是永续的(Perpetuity)。
+
+* `[(世界的整体滞留压力(Retention Pressure) + 世界最外围的流入压力(Inflow Pressure)) / 世界的平均密度(Average Density) (注：世界的平均密度 > 1 Unit)] ⟺ 世界(Universe)的体积(Volume)`
+
+*<a href="#源头压力的内向压力作用_u" id="源头压力的内向压力作用_d">[源头压力的内向压力作用]</a>:* 是指无论体积(Volume)（世界(Universe)）朝哪个方向发生相位偏移(Phase Shift)，由于外部并无其他体积(Volume)（空间(Space)），源头压力(Original Pressure)皆朝向世界(Universe)内部施加作用(Action)（内向压力(Inward Pressure)）。
+
+*<a href="#流入压力_u" id="流入压力_d">[流入压力]</a>:* [定义] 是指流入动态胶着(Dynamic Grid-lock) *<a href="#动态胶着_d" id="动态胶着_u"><sup>[动态胶着]</sup></a>* 内部的压力(Pressure)。反之，流出的压力(Pressure)称之为*流出压力(Outflow Pressure)*。流入压力(Inflow Pressure)渗透至内部并被内部密度(Density)所吸收，从而转化为滞留压力(Retention Pressure)。
+
+*<a href="#动态胶着_u" id="动态胶着_d">[动态胶着]</a>:* [定义] 是指在称呼特定部分为外部与内部时作为指标的`^v^v`（拱形(Arch) 逆拱形(Inverse-Arch)）形态(Configuration)之边界(Boundary)（动态边界(Dynamic Boundary)），或指此类密度落差(Density Gradient)。
+
+*<a href="#双层管道作用_u" id="双层管道作用_d">[双层管道作用]</a>:* [定义] 是指“源头压力(Original Pressure)”➀ 大部分施加作用(Action)（累积(Accumulative)）于世界(Universe)的内向表面积(Inward Surface Area)（上层作用(Immediate Boundary Action)），➁ 因内外向非对称(Inward-Outward Asymmetry)而永续(Perpetuity)有一部分流入世界(Universe)内部，使滞留压力(Retention Pressure)增加(Increase)（下层作用(Delayed Retention Action)），此2种作用(Action)。
+
+*<a href="#世界的最外围压力动态胶着_u" id="世界的最外围压力动态胶着_d">[世界的最外围压力动态胶着]</a>:* 原初压力(Original Pressure)永恒(Perpetuity)持续。据此，除流入压力(Inflow Pressure)外之压力(Pressure)，于宇宙(Universe)最外围与宇宙全部滞留压力(Retention Pressure)达成动态平衡(Dynamic Equilibrium) *<a href="#动态平衡_d" id="动态平衡_u"><sup>[动态平衡]</sup></a>* ，永恒(Perpetuity)累积(Accumulative)(密度增加(Density Increase))，且每次皆伴随宇宙体积(Volume)之膨胀(Expansion)。
+
+*<a href="#动态平衡_u" id="动态平衡_d">[动态平衡]</a>:* [定义] 世界(Universe)中一切实在(Reality)皆处于动态平衡(Dynamic Equilibrium)之中[`δ, δ_length, 密度(Density)(ρ), 压力(Pressure)(P), 体积(Volume)(V) > 0`]。此时，其非对称(Asymmetry)之程度成为是否存在运动(Motion)等的指标。
+
+#### ***3. 关于运动(Motion) <a href="#第三部分的运动_d" id="第三部分的运动_u"><sup>[第三部分的运动]</sup></a> 与客体化(Objectification) <a href="#客体化_d" id="客体化_u"><sup>[客体化]</sup></a>***
+
+* 在“关于形成(On Formation)”中，客体(Object)与运动(Motion)并无区分。然而为方便起见，根据动态平衡(Dynamic Equilibrium)的非对称(Asymmetry)程度或准固定状态(Quasi-fixed State) *<a href="#准固定状态_d" id="准固定状态_u"><sup>[准固定状态]</sup></a>* 等，表达为 ➀ 运动(Motion)与非运动，➁ 外部与内部（客体(Object)）。
+
+* 世界(Universe)的运动(Motion)（转移(Shift)）是永续的(Perpetuity)
+
+  * 世界(Universe)的体积(Volume)，因随整个世界(Universe)之转移(Shift)而施加于整个世界(Universe)的源头压力(Original Pressure)（上层作用(Immediate Boundary Action)）而被压榨，理所当然(Naturally)一切部分皆发生一定程度以上的重叠[`密度(Density)(ρ) ≡ 相互渗透(Interfused)`]。此现象与随内外向非对称(Inward-Outward Asymmetry)(`SA_inward > A_outward`)而生的流入压力(Inflow Pressure)转化为滞留压力(Retention Pressure)，且因上层作用(Immediate Boundary Action)与滞留压力(Retention Pressure)各自的方向性(Directionality)，从而产生了顺流(Direct Flow)。
+
+  * 在此过程中，客体(Object)不断被形成(Formation)，各处不断形成(Formation)大涡流(Vortex)，更大的大涡流(Vortex)形成(Formation)更大或更坚固的客体(Object)。且此大涡流(Vortex)与顺流(Direct Flow)发生碰撞(Impact)，从而引发小涡流(Eddy) *<a href="#流出压力_d" id="流出压力_u"><sup>[流出压力]</sup></a>* 。
+
+  * 并且永续(Perpetuity)地，因源头压力(Original Pressure)而形成(Formation)客体(Object)与形成(Formation)顺流(Direct Flow)，因顺流(Direct Flow)而形成(Formation)客体(Object)与形成(Formation)大涡流(Vortex)，因大涡流(Vortex)而形成(Formation)客体(Object)与形成(Formation)小涡流(Eddy)，因小涡流(Eddy)而形成(Formation)客体(Object)与形成(Formation)更小的微观小涡流(Eddy)。
+
+    * 大涡流(Vortex)与大涡流(Vortex)或小涡流(Eddy)或微观小涡流(Eddy)结合（或大涡流(Vortex)分裂为小涡流(Eddy)或微观小涡流(Eddy)），小涡流(Eddy)与小涡流(Eddy)或微观小涡流(Eddy)结合（或小涡流(Eddy)分裂为微观小涡流(Eddy)），微观小涡流(Eddy)与微观小涡流(Eddy)结合（或小涡流(Eddy)分裂为比其更小的客体(Object)）。
+
+  * 双层管道作用(Asynchronous Dual Action)的反馈(Feedback): `上层作用(Immediate Boundary Action)(源头压力(Original Pressure) ⟺ 最外围压力动态胶着(Boundary Dynamic Grid-lock)) ⟺ 下层作用(Delayed Retention Action)(最外围压力动态胶着(Boundary Dynamic Grid-lock) ⟺ 顺流(Direct Flow) ⟺ 大涡流(Vortex) ⟺ 小涡流(Eddy) ⟺ 微观小涡流(Eddy))`
+
+    * 结合与分裂的反馈(Feedback): `源头压力(Original Pressure) ⟺ 最外围压力动态胶着(Boundary Dynamic Grid-lock) ⟺ 顺流(Direct Flow) ⟺ 大涡流(Vortex) + 大涡流(Vortex)或小涡流(Eddy)或微观小涡流(Eddy) ⟺ 小涡流(Eddy) + 小涡流(Eddy)或微观小涡流(Eddy) ⟺ 微观小涡流(Eddy) + 微观小涡流(Eddy)`
+
+* `[{客体的滞留压力(Retention Pressure) + (客体的流入压力(Inflow Pressure) - 客体的流出压力(Outflow Pressure))} / 客体的平均密度(Average Density) (注：客体的平均密度 > 1 Unit)] ⟺ 客体(Object)的体积(Volume)`
+
+* 分裂与分散(Dispersion)等亦是随世界(Universe)的整体压力(Pressure)在永续(Perpetuity)增加(Increase)这一实态(Actuality)而生的现象(Phenomenon)。随世界(Universe)整体压力(Pressure)之增加(Increase)，极限密度(Density)（所能达到的密度(Density) *<a href="#Apexon_d" id="Apexon_u"><sup>[Apexon]</sup></a>* ）及随之而来的客体化(Objectification)是渐变的(Variable)。然而，固定无限(Fixed Infinity)是无法实在的(Non-reality)，且世界(Universe)中实在(Reality)的压力(Pressure)是有限的，故极限密度(Density)及随之而来的客体化(Objectification)不可能超出世界(Universe)中实在(Reality)的整体压力(Pressure)（总量）。
+
+* 随内外向非对称(Inward-Outward Asymmetry)，流入从更广的方位发生收敛🞄压缩(Compression)，流出则从更小的体积向外部发生分散(Dispersion)。并且，随由此产生的密度(Density)（形态(Configuration)）越发固化，其维持(Maintenance)朝向该特定方向(Direction)之运动(Motion)等的性质亦越发强劲。
+
+  * `Inertia ≡ Inward Pressure(P_Inward) + Outward Pressure(P_Outward)`
+
+![alt text](운동001.png) ![alt text](운동002.png)
+
+  * `m(t) ≡ Σ [P_inflow(t_δ) - P_outflow(t_δ)] ≡ V * ρ`
+
+*<a href="#第三部分的运动_u" id="第三部分的运动_d">[第三部分的运动]</a>:* 在“第二部分”中将 *“运动(Motion)被永续(Perpetuity)诱导至阻力(Resistance)(`R`)最低之处”*，在“第三部分”中阐述为 *“运动(Motion)朝向密度(Density)(`ρ`)最低之处持续进行”*[`v(速度及运动) ∝ -∇ρ`]，并进一步阐述为 *“运动(Motion)借由压力(Pressure)(`P`)的收敛与密度(Density)(`ρ`)的分散(Dispersion)而永续(Perpetuity)”*[`v(速度及运动) ∝ (+∇P ⟺ -∇ρ)`] *<a href="#关于压力收敛的先行性_d" id="关于压力收敛的先行性_u"><sup>[关于压力收敛(+∇P)的先行性]</sup></a>* 。
+
+*<a href="#关于压力收敛的先行性_u" id="关于压力收敛的先行性_d">[关于压力收敛(+∇P)的先行性]</a>:* 在运动(Motion)公式中，压力(Pressure)收敛(+∇P)（源头压力(Original Pressure)）先行于密度落差(Density Gradient)(`-∇ρ`)的原因，是为了消除“无(Nothingness)”或“无限密度(Infinite Density)”等非实在的(Non-reality)观念。在`无(Nothingness) + 转移(Shift)(⟶)`中，“无(Nothingness)”并不具备实在性，故理所当然(Naturally)仅累积实在(Reality)的转移(Shift)(`⟶`)，借由该累积(Accumulative)[压力(Pressure)收敛(+∇P)]，密度(Density)(`ρ`)方得形成(Formation)。
+
+*<a href="#客体化_u" id="客体化_d">[客体化]</a>:* [定义] 随着宇宙(Universe)总压力(Pressure)之增加，形成(Formation)愈发高阶之阶梯式密度(Density)的过程。
+
+*<a href="#准固定状态_u" id="准固定状态_d">[准固定状态]</a>:* [定义] 是指相对于动态平衡(Dynamic Equilibrium)非对称(Asymmetry)之程度，观察者未能感觉得到运动(Motion)，仿佛处于静止状态的状态(State)。
+
+*<a href="#流出压力_u" id="流出压力_d">[流出压力]</a>:* 当流入压力(Inflow Pressure)根据客体A(Object A)内部密度(Density)——在客体A(Object A)内部——客体化(Objectification)为客体B(Object B)并转化为滞留压力(Retention Pressure)，且该滞留压力(Retention Pressure)作为流出压力(Outflow Pressure)流出时，将以随外向压力(Outward Pressure)之收敛以及内部与外部之密度落差(Density Gradient)(`+∇P ⟺ -∇ρ`)而生的速度(Velocity)前进。例如，若客体A(Object A)内部在体积(Volume) 2单位(2 Unit)中压缩(Compression)了压力(Pressure) 20单位(20 Unit)（密度(Density) 10），而客体A(Object A)外部为体积(Volume) 2单位(2 Unit)中压缩(Compression)了压力(Pressure) 4单位(4 Unit)（密度(Density) 2）的阶层；当客体A(Object A)内部压缩(Compression)的压力(Pressure) 20单位(20 Unit)向客体A(Object A)外部流出[因外向压力(Outward Pressure)收敛(`+∇P`)而生的流出]时，流出压力(Outflow Pressure) ➀ 在客体A(Object A)外部密度(Density) 2[`压力(Pressure)(P) 4 / 体积(Volume)(V) 2`]阶层中，以体积(Volume) 1/5单位(1/5 Unit)转移(Shift)时间(Time)发生体积(Volume) 1单位(1 Unit)的转移(Shift)(`-∇ρ`) *<a href="#体积15转移时间的另一种表述_d" id="体积15转移时间的另一种表述_u"><sup>[体积1/5转移时间的另一种表述]</sup></a>* ；➁ 流出压力(Outflow Pressure)以➀的速度(Velocity)发生转移(Shift)的同时，压力(Pressure)（密度(Density)）发生分散(Dispersion)直至流出压力(Outflow Pressure)的外向压力(Outward Pressure)与对流出压力(Outflow Pressure)的内向压力(Inward Pressure)达成平衡的程度，并发生收敛(`+∇P`)；➂ 压力不可能以低于动态胶着(Dynamic Grid-lock)或内向压力(Inward Pressure)的密度(Density)流出；➃ 向世界(Universe)外部不可能存在流出压力(Outflow Pressure)，取而代之的是世界(Universe)发生膨胀(Expansion)。
+
+*<a href="#体积15转移时间的另一种表述_u" id="体积15转移时间的另一种表述_d">[体积1/5转移时间的另一种表述]</a>:* 若用后文述及的间隙时间(Delta Time)表述，即为“以0.2间隙时间(Delta Time)发生体积(Volume) 1单位(1 Unit)的转移(Shift)”；若用速度(Velocity)表述，即为“以在体积(Volume) 1单位(1 Unit)中压缩(Compression)了压力(Pressure) 2单位(2 Unit)[`密度(Density)(ρ) 2`]之阶层的体积 1单位(1 Unit)转移(Shift)速度(Velocity)的5倍速度(Velocity)发生转移(Shift)”。
+
+*<a href="#Apexon_u" id="Apexon_d">[Apexon]</a>:* [定义] 指可变(Variable)极限密度(Density)。
+
+#### ***4. 关于速度(Velocity)与时间(Time)***
+※ 在“4. 关于速度(Velocity)与时间(Time)”中，与其他公式一样，速度(Velocity)与时间(Time)亦是先对客体(Object)加以区分，随后截取某一现象(Phenomenon)（区间）计算其值，再以此值——归纳性地——加以推导。
+※ 在以下公式与示例等中，若无特别说明，基准压力(Reference Pressure)[基准压力(Reference Pressure)(`P_ref`)]均指`体积(Volume)(V) 2 * 密度(Density)(ρ) 2 ≡ 压力(Pressure)(P) 4`。且`基准压力(Reference Pressure)(P_ref) ≡ 基准间隙(Reference Delta)(δ_ref) ≡ 基准客体(Reference Object)(obj_ref)`。
+
+* ***4.1. 速度(Velocity)(`v`) — 单位体积转移速度(Unit-Volume Shift Velocity)(`v_vol`)与间隙速度(Delta Velocity)(`v_δ`)***
+
+  * 单位体积转移速度(Unit-Volume Shift Velocity)(`v_vol`)
+
+    * `单位体积转移速度(Unit-Volume Shift Velocity)(v_vol) ≡ 基准压力(Reference Pressure)(P_ref)的密度(Density)(ρ)`
+
+  * 间隙速度(Delta Velocity)(`v_δ`)
+
+    * `间隙速度(Delta Velocity)(v_δ) ≡ 基准压力(Reference Pressure)(P_ref)的密度(Density)(ρ) - 对象压力(Pressure)(P)的密度(Density)(ρ)`
+
+    * 间隙速度(Delta Velocity)(`v_δ`)根据基准压力(Reference Pressure)的密度(Density)(ρ)、对象压力(Pressure)(P)的密度(Density)(ρ)而呈渐变(Variable)。
+
+  * 在压力(Pressure)相同的情况下，密度(Density)更高者体积(Volume)更小，体积(Volume)更小者密度(Density)更高，因此在压力(Pressure)相同的情况下，密度(Density)更高者或体积(Volume)更小者速度更快。
+
+  * 示例 1: 对于`压力 A-1(Pressure A-1) 20[体积(Volume)(V) 2 * 密度(Density)(ρ) 10]`与`压力 A-2(Pressure A-2) 100[体积(Volume)(V) 10 * 密度(Density)(ρ) 10]`的间隙速度(Delta Velocity)(`v_δ`)：
+
+    |基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 A-1(Pressure A-1)所形成(Formation)的阶层中，|在由压力 A-2(Pressure A-2)所形成(Formation)的阶层中，|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，|
+    |---|---|---|---|
+    |压力 A-1(Pressure A-1)的间隙速度(Delta Velocity)为|0 v_δ|0 v_δ|8 v_δ|
+    |压力 A-2(Pressure A-2)的间隙速度(Delta Velocity)为|0 v_δ|0 v_δ|8 v_δ|
+    |基准压力(Reference Pressure)的间隙速度(Delta Velocity)为|-8 v_δ|-8 v_δ|0 v_δ|
+
+  * 示例 2: 对于`压力 B-1(Pressure B-1) 20[体积(Volume)(V) 2 * 密度(Density)(ρ) 10]`与`压力 B-2(Pressure B-2) 396[体积(Volume)(V) 12 * 密度(Density)(ρ) 33]`的间隙速度(Delta Velocity)(`v_δ`)：
+
+    |基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 B-1(Pressure B-1)所形成(Formation)的阶层中，|在由压力 B-2(Pressure B-2)所形成(Formation)的阶层中，|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，|
+    |---|---|---|---|
+    |压力 B-1(Pressure B-1)的间隙速度(Delta Velocity)为|0 v_δ|-23 v_δ|8 v_δ|
+    |压力 B-2(Pressure B-2)的间隙速度(Delta Velocity)为|23 v_δ|0 v_δ|31 v_δ|
+    |基准压力(Reference Pressure)的间隙速度(Delta Velocity)为|-8 v_δ|-31 v_δ|0 v_δ|
+
+  * 示例 3: 对于`压力 C-1(Pressure C-1) 90[体积(Volume)(V) 2 * 密度(Density)(ρ) 45]`与`压力 C-2(Pressure C-2) 396[体积(Volume)(V) 12 * 密度(Density)(ρ) 33]`的间隙速度(Delta Velocity)(`v_δ`)：
+
+    |基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 C-1(Pressure C-1)所形成(Formation)的阶层中，|在由压力 C-2(Pressure C-2)所形成(Formation)的阶层中，|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，|
+    |---|---|---|---|
+    |压力 C-1(Pressure C-1)的间隙速度(Delta Velocity)为|0 v_δ|12 v_δ|43 v_δ|
+    |压力 C-2(Pressure C-2)的间隙速度(Delta Velocity)为|-12 v_δ|0 v_δ|31 v_δ|
+    |基准压力(Reference Pressure)的间隙速度(Delta Velocity)为|-43 v_δ|-31 v_δ|0 v_δ|
+
+* ***重量(Weight)***
+
+  * `Weight ≡ 内向_压力_矢量_工具(Inward Pressure_Vector_tool)(P_Inward_Vec_tool) + 外向_压力_矢量_工具(Outward Pressure_Vector_tool)(P_Outward_Vec_tool)`
+
+  * 重量(Weight)与速度(Velocity)相同，但属于针对特定方向(Direction)［朝向测量重量的工具之方向(Direction)］的压力(Pressure)。
+
+* ***4.2. 时间(Time) — 单位体积转移时间(Unit-Volume Shift Time)(`t_vol`)与间隙时间(Delta Time)(`t_δ`)***
+
+  * 单位体积转移时间(Unit-Volume Shift Time)(`t_vol`)
+
+    * `单位体积转移时间(Unit-Volume Shift Time) ≡ 基准压力(Reference Pressure)(P_ref) ≡ 1 t_vol`
+
+  * 间隙时间(Delta Time)(`t_δ`)
+
+    * `[间隙时间(Delta Time)(t_δ) ≡ 所施加的总压力(Pressure) / 基准压力(Reference Pressure)(P_ref)] ≡ 滞留时间(Retention Time)`
+
+    * 滞留时间(Retention Time)根据作用(Action)量与基准压力(Reference Pressure)而呈渐变(Variable)。
+
+  * 示例 1: 对于`压力 A-1(Pressure A-1) 20[体积(Volume)(V) 2 * 密度(Density)(ρ) 10]`与`压力 A-2(Pressure A-2) 100[体积(Volume)(V) 10 * 密度(Density)(ρ) 10]`的滞留时间(Retention Time)：
+
+    |基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 A-1(Pressure A-1)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由压力 A-2(Pressure A-2)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，作用(Action)3次并流出时|
+    |---|---|---|---|
+    |压力 A-1(Pressure A-1)的滞留时间(Retention Time)为|3 t_δ|15 t_δ|0.6 t_δ|
+    |压力 A-2(Pressure A-2)的滞留时间(Retention Time)为|0.6 t_δ|3 t_δ|0.12 t_δ|
+    |基准压力(Reference Pressure)的滞留时间(Retention Time)为|15 t_δ|75 t_δ|3 t_δ|
+
+  * 示例 2: 对于`压力 B-1(Pressure B-1) 20[体积(Volume)(V) 2 * 密度(Density)(ρ) 10]`与`压力 B-2(Pressure B-2) 396[体积(Volume)(V) 12 * 密度(Density)(ρ) 33]`的滞留时间(Retention Time)：
+
+    |基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 B-1(Pressure B-1)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由压力 B-2(Pressure B-2)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，作用(Action)3次并流出时|
+    |---|---|---|---|
+    |压力 B-1(Pressure B-1)的滞留时间(Retention Time)为|3 t_δ|59.4 t_δ|0.6 t_δ|
+    |压力 B-2(Pressure B-2)的滞留时间(Retention Time)为|0.1515 t_δ|3 t_δ|0.0303 t_δ|
+    |基准压力(Reference Pressure)的滞留时间(Retention Time)为|15 t_δ|297 t_δ|3 t_δ|
+
+  * 示例 3: 对于`压力 C-1(Pressure C-1) 90[体积(Volume)(V) 2 * 密度(Density)(ρ) 45]`与`压力 C-2(Pressure C-2) 396[体积(Volume)(V) 12 * 密度(Density)(ρ) 33]`的滞留时间(Retention Time)：
+
+    |基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 C-1(Pressure C-1)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由压力 C-2(Pressure C-2)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，作用(Action)3次并流出时|
+    |---|---|---|---|
+    |压力 C-1(Pressure C-1)的滞留时间(Retention Time)为|3 t_δ|13.2 t_δ|0.1333 t_δ|
+    |压力 C-2(Pressure C-2)的滞留时间(Retention Time)为|0.6818 t_δ|3 t_δ|0.0303 t_δ|
+    |基准压力(Reference Pressure)的滞留时间(Retention Time)为|67.5 t_δ|297 t_δ|3 t_δ|
+
+  * 对于前述示例，滞留压力(Retention Pressure)并不会随着作用(Action)的累积而相应变大。例如，对于扭紧力矩为压力(Pressure) 20的螺丝，施加2次压力(Pressure) 10并不能使其松动 *<a href="#临界压力原理_d" id="临界压力原理_u"><sup>[临界压力原理]</sup></a>* 。
+
+  * 因滞留压力(Retention Pressure)之作用(Action)次数增加(Increase)而导致滞留压力(Retention Pressure)增加(Increase)，是因为随着滞留时间(Retention Time)增加(Increase)，流入压力(Inflow Pressure)与流出压力(Outflow Pressure)呈非对称(Asymmetry)[`{+10(流入压力(Inflow Pressure)) + -10(流出压力(Outflow Pressure)) ≡ 0(滞留压力(Retention Pressure))} ⟶ {+10(流入压力(Inflow Pressure)) + -8(流出压力(Outflow Pressure)) ≡ 2(滞留压力(Retention Pressure))}`]，从而流出压力(Outflow Pressure)相对于流入压力(Inflow Pressure)变小，导致体积(Volume)或密度(Density)增加(Increase)。
+
+*<a href="#Former_u" id="Former_d">[Former]</a>:* [定义] 在对特定客体(Object)(Formon)进行阐述时，指该客体(Object)所属于的系、阶层等。
+
+*<a href="#临界压力原理_u" id="临界压力原理_d">[临界压力原理]</a>:* 同样地，跳跃10米高度2次，并不能越过20米高的墙壁。
+
+#### ***5. 关于观察(Observation)与光(Light)***
+人类(Human)所说的速度(Velocity)与人类时间(Human Time)固然有其必要，但并非绝对的(Absolute)。在以下示例中，值随基准压力(Reference Pressure)(`P_ref`)呈现渐变(Variable)，是指包含观察、测量等的方位、手段与方法等，并随之呈现渐变(Variable)。
+
+* ***5.1. 被观察到的速度(Observed Velocity)(`v_obs`)***
+
+  * `被观察到的速度(Observed Velocity)(v_obs) ≡ 基准压力 2(Reference Pressure 2)(P_ref 2)的密度(Density)(ρ) - [基准压力 1(Reference Pressure 1)(P_ref 1)的密度(Density)(ρ) - 对象的密度(Density)(ρ)]`
+
+  * 被观察到的速度(Observed Velocity)(`v_obs`)，根据基准压力 2(Reference Pressure 2)(P_ref 2)的密度(Density)(ρ)、基准压力 1(Reference Pressure 1)的密度(Density)(ρ)、对象的密度(Density)(ρ)而呈现渐变(Variable)。
+
+  * 示例 1: 对于`压力 A-1(Pressure A-1) 20[体积(Volume)(V) 2 * 密度(Density)(ρ) 10]`与`压力 A-2(Pressure A-2) 100[体积(Volume)(V) 10 * 密度(Density)(ρ) 10]`的被观察到的速度(Observed Velocity)(`v_obs`)：
+
+    |基准压力 2(Reference Pressure 2)(`P_ref 2`)|基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 A-1(Pressure A-1)所形成(Formation)的阶层中，|在由压力 A-2(Pressure A-2)所形成(Formation)的阶层中，|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，|
+    |---|---|---|---|---|
+    |压力 A-1(Pressure A-1)|压力 A-1(Pressure A-1)的被观察到的速度(Observed Velocity)为|10 v_obs|10 v_obs|2 v_obs|
+    ||压力 A-2(Pressure A-2)的被观察到的速度(Observed Velocity)为|10 v_obs|10 v_obs|2 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|18 v_obs|18 v_obs|10 v_obs|
+    |压力 A-2(Pressure A-2)|压力 A-1(Pressure A-1)的被观察到的速度(Observed Velocity)为|10 v_obs|10 v_obs|2 v_obs|
+    ||压力 A-2(Pressure A-2)的被观察到的速度(Observed Velocity)为|10 v_obs|10 v_obs|2 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|18 v_obs|18 v_obs|10 v_obs|
+    |基准压力(Reference Pressure)|压力 A-1(Pressure A-1)的被观察到的速度(Observed Velocity)为|2 v_obs|2 v_obs|-6 v_obs|
+    ||压力 A-2(Pressure A-2)的被观察到的速度(Observed Velocity)为|2 v_obs|2 v_obs|-6 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|10 v_obs|10 v_obs|2 v_obs|
+
+  * 示例 2: 对于`压力 B-1(Pressure B-1) 20[体积(Volume)(V) 2 * 密度(Density)(ρ) 10]`与`压力 B-2(Pressure B-2) 396[体积(Volume)(V) 12 * 密度(Density)(ρ) 33]`的被观察到的速度(Observed Velocity)(`v_obs`)：
+
+    |基准压力 2(Reference Pressure 2)(`P_ref 2`)|基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 B-1(Pressure B-1)所形成(Formation)的阶层中，|在由压力 B-2(Pressure B-2)所形成(Formation)的阶层中，|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，|
+    |---|---|---|---|---|
+    |压力 B-1(Pressure B-1)|压力 B-1(Pressure B-1)的被观察到的速度(Observed Velocity)为|10 v_obs|33 v_obs|2 v_obs|
+    ||压力 B-2(Pressure B-2)的被观察到的速度(Observed Velocity)为|-13 v_obs|10 v_obs|-21 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|18 v_obs|41 v_obs|10 v_obs|
+    |压力 B-2(Pressure B-2)|压力 B-1(Pressure B-1)的被观察到的速度(Observed Velocity)为|33 v_obs|56 v_obs|25 v_obs|
+    ||压力 B-2(Pressure B-2)的被观察到的速度(Observed Velocity)为|10 v_obs|33 v_obs|2 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|41 v_obs|64 v_obs|33 v_obs|
+    |基准压力(Reference Pressure)|压力 B-1(Pressure B-1)的被观察到的速度(Observed Velocity)为|2 v_obs|25 v_obs|-6 v_obs|
+    ||压力 B-2(Pressure B-2)的被观察到的速度(Observed Velocity)为|-21 v_obs|2 v_obs|-29 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|10 v_obs|33 v_obs|2 v_obs|
+
+  * 示例 3: 对于`压力 C-1(Pressure C-1) 90[体积(Volume)(V) 2 * 密度(Density)(ρ) 45]`与`压力 C-2(Pressure C-2) 396[体积(Volume)(V) 12 * 密度(Density)(ρ) 33]`的被观察到的速度(Observed Velocity)(`v_obs`)：
+
+    |基准压力 2(Reference Pressure 2)(`P_ref 2`)|基准压力 1(Reference Pressure 1)(`P_ref 1`)|在由压力 C-1(Pressure C-1)所形成(Formation)的阶层中，|在由压力 C-2(Pressure C-2)所形成(Formation)的阶层中，|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，|
+    |---|---|---|---|---|
+    |压力 C-1(Pressure C-1)|压力 C-1(Pressure C-1)的被观察到的速度(Observed Velocity)为|45 v_obs|33 v_obs|2 v_obs|
+    ||压力 C-2(Pressure C-2)的被观察到的速度(Observed Velocity)为|57 v_obs|45 v_obs|14 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|88 v_obs|76 v_obs|45 v_obs|
+    |压力 C-2(Pressure C-2)|压力 C-1(Pressure C-1)的被观察到的速度(Observed Velocity)为|33 v_obs|21 v_obs|-10 v_obs|
+    ||压力 C-2(Pressure C-2)的被观察到的速度(Observed Velocity)为|45 v_obs|33 v_obs|2 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|76 v_obs|64 v_obs|33 v_obs|
+    |基准压力(Reference Pressure)|压力 C-1(Pressure C-1)的被观察到的速度(Observed Velocity)为|2 v_obs|-10 v_obs|-41 v_obs|
+    ||压力 C-2(Pressure C-2)的被观察到的速度(Observed Velocity)为|14 v_obs|2 v_obs|-29 v_obs|
+    ||基准压力(Reference Pressure)的被观察到的速度(Observed Velocity)为|45 v_obs|33 v_obs|2 v_obs|
+
+* ***5.2. 被观察到的时间(Observed Time)(`t_obs`)***
+
+  * `被观察到的时间(Observed Time)(`t_obs`) ≡ 间隙时间(Delta Time)(t_δ) / [基准压力 1(Reference Pressure 1)(P_ref 1)的密度(Density)(ρ) / 基准压力 2(Reference Pressure 2)(P_ref 2)的密度(Density)(ρ)]`
+
+  * 被观察到的时间(Observed Time)(`t_obs`)，根据间隙时间(Delta Time)以及基准压力 1(Reference Pressure 1)的密度(Density)与基准压力 2(Reference Pressure 2)的密度(Density)(ρ)而呈现渐变(Variable)。
+
+  * 示例 1: 对于`压力 A-1(Pressure A-1) 20[体积(Volume)(V) 2 * 密度(Density)(ρ) 10]`与`压力 A-2(Pressure A-2) 100[体积(Volume)(V) 10 * 密度(Density)(ρ) 10]`的被观察到的时间(Observed Time)：
+
+    |基准压力 2(Reference Pressure 2)(P_ref 2)|基准压力 1(Reference Pressure 1)(P_ref 1)|在由压力 A-1(Pressure A-1)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由压力 A-2(Pressure A-2)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，作用(Action)3次并流出时|
+    |---|---|---|---|---|
+    |以压力 A-1(Pressure A-1)为基准|压力 A-1(Pressure A-1)的被观察到的时间(Observed Time)为|3 t_obs|15 t_obs|0.6 t_obs|
+    ||压力 A-2(Pressure A-2)的被观察到的时间(Observed Time)为|0.6 t_obs|3 t_obs|0.12 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|75 t_obs|375 t_obs|15 t_obs|
+    |以压力 A-2(Pressure A-2)为基准|压力 A-1(Pressure A-1)的被观察到的时间(Observed Time)为|3 t_obs|15 t_obs|0.6 t_obs|
+    ||压力 A-2(Pressure A-2)的被观察到的时间(Observed Time)为|0.6 t_obs|3 t_obs|0.12 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|75 t_obs|375 t_obs|15 t_obs|
+    |以基准压力(Reference Pressure)为基准|压力 A-1(Pressure A-1)的被观察到的时间(Observed Time)为|0.6 t_obs|3 t_obs|0.12 t_obs|
+    ||压力 A-2(Pressure A-2)的被观察到的时间(Observed Time)为|0.12 t_obs|0.6 t_obs|0.024 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|15 t_obs|75 t_obs|3 t_obs|
+
+  * 示例 2: 对于`压力 B-1(Pressure B-1)[间隙(Delta)] 20[体积(Volume)(V) 2 * 密度(Density)(ρ) 10]`与`压力 B-2(Pressure B-2) 396[体积(Volume)(V) 12 * 密度(Density)(ρ) 33]`的被观察到的时间(Observed Time)：
+
+    |基准压力 2(Reference Pressure 2)(P_ref 2)|基准压力 1(Reference Pressure 1)(P_ref 1)|在由压力 B-1(Pressure B-1)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由压力 B-2(Pressure B-2)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，作用(Action)3次并流出时|
+    |---|---|---|---|---|
+    |以压力 A-1(Pressure A-1)为基准|压力 B-1(Pressure B-1)的被观察到的时间(Observed Time)为|3 t_obs|59.4 t_obs|0.6 t_obs|
+    ||压力 B-2(Pressure B-2)的被观察到的时间(Observed Time)为|0.0459 t_obs|0.9091 t_obs|0.0092 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|75 t_obs|1,485 t_obs|15 t_obs|
+    |以压力 A-2(Pressure A-2)为基准|压力 B-1(Pressure B-1)的被观察到的时间(Observed Time)为|9.9 t_obs|196.02 t_obs|1.98 t_obs|
+    ||压力 B-2(Pressure B-2)的被观察到的时间(Observed Time)为|0.1515 t_obs|3 t_obs|0.0303 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|247.5 t_obs|4,900.5 t_obs|49.5 t_obs|
+    |以基准压力(Reference Pressure)为基准|压力 B-1(Pressure B-1)的被观察到的时间(Observed Time)为|0.6 t_obs|11.88 t_obs|0.12 t_obs|
+    ||压力 B-2(Pressure B-2)的被观察到的时间(Observed Time)为|0.0092 t_obs|0.1818 t_obs|0.0018 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|15 t_obs|297 t_obs|3 t_obs|
+
+  * 示例 3: 对于`压力 C-1(Pressure C-1)[间隙(Delta)] 90[体积(Volume)(V) 2 * 密度(Density)(ρ) 45]`与`压力 C-2(Pressure C-2) 396[体积(Volume)(V) 12 * 密度(Density)(ρ) 33]`的被观察到的时间(Observed Time)：
+
+    |基准压力 2(Reference Pressure 2)(P_ref 2)|基准压力 1(Reference Pressure 1)(P_ref 1)|在由压力 C-1(Pressure C-1)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由压力 C-2(Pressure C-2)所形成(Formation)的阶层中，作用(Action)3次并流出时|在由基准压力(Reference Pressure)所形成(Formation)的阶层中，作用(Action)3次并流出时|
+    |---|---|---|---|---|
+    |以压力 A-1(Pressure A-1)为基准|压力 C-1(Pressure C-1)的被观察到的时间(Observed Time)为|3 t_obs|13.2 t_obs|0.1333 t_obs|
+    ||压力 C-2(Pressure C-2)的被观察到的时间(Observed Time)为|0.9298 t_obs|4.0909 t_obs|0.0413 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|1,518.75 t_obs|6,682.5 t_obs|67.5 t_obs|
+    |以压力 A-2(Pressure A-2)为基准|压力 C-1(Pressure C-1)的被观察到的时间(Observed Time)为|2.2 t_obs|9.68 t_obs|0.0978 t_obs|
+    ||压力 C-2(Pressure C-2)的被观察到的时间(Observed Time)为|0.6818 t_obs|3 t_obs|0.0303 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|1,113.75 t_obs|4,900.5 t_obs|49.5 t_obs|
+    |以基准压力(Reference Pressure)为基准|压力 C-1(Pressure C-1)的被观察到的时间(Observed Time)为|0.1333 t_obs|0.5867 t_obs|0.0059 t_obs|
+    ||压力 C-2(Pressure C-2)的被观察到的时间(Observed Time)为|0.0413 t_obs|0.1818 t_obs|0.0018 t_obs|
+    ||基准压力(Reference Pressure)的被观察到的时间(Observed Time)为|67.5 t_obs|297 t_obs|3 t_obs|
+
+  * 观察(Observation)借由观察者与被观察物之间的媒介物得以进行，且该媒介物必须对被观察物与观察者双方皆施加作用(Action)（碰撞(Impact)）。由此，由于内外向非对称(Inward-Outward Asymmetry)(`SA_inward > A_outward`)所导致的流入与流出的非对称，在发生作用(Action)（碰撞(Impact)）之后无法保持绝对的(Absolute)原样，理所当然(Naturally)会发生或多或少的变形。
+
+  * 关于芝诺悖论“阿基里斯与乌龟(Achilles and the Tortoise)”：➀ 若以阿基里斯为基准，在阿基里斯所感知的一切瞬间，阿基里斯都比乌龟更快，故乌龟必被阿基里斯追上；➁ 若以乌龟为基准，在乌龟所感知的一切瞬间，阿基里斯都比乌龟更快，故乌龟必被阿基里斯追上。由此，该悖论暗指存在第三个观察者在观察阿基里斯与乌龟赛跑，且该第三观察者能够将瞬间切分为固定无限(Fixed Infinity)（能够固定无限(Fixed Infinity)地感知、观察等瞬间）。然而 ➂ 能够将瞬间切分为固定无限(Fixed Infinity)，意味着同时主张该固定无限(Fixed Infinity)的无法完结(Uncompletability)（时间性静止）与无限的作用（非静止），因而是自相矛盾且无法实在(Non-reality)的；➃ 若以第三观察者为基准，同样地，在第三观察者感知的一切瞬间，阿基里斯都比乌龟更快，故乌龟必被阿基里斯追上。
+
+* ***5.3. 光(Light)***
+
+  * *“光(Light)”乃是——世界(Universe)内部的一切实在(Reality)皆呈现渗透式的(Osmosis)相互渗透(Interfused) <a href="#相互渗透的不可避免_d" id="相互渗透的不可避免_u"><sup>[相互渗透的不可避免]</sup></a> ，以此类连接为前提(Premise)且后行于此连接；且与前述连接不同——包含遮挡、透过等——是随密度(Density)而生的实态(Actuality)所致的现象(Phenomenon) <a href="#现象_d" id="现象_u"><sup>[现象]</sup></a>*
+
+  * 太阳的光(Light)乃是太阳的流出压力(Outflow Pressure)随密度(Density)之差以相应速度(Velocity)发生相位偏移(Phase Shift)，且该流出压力(Outflow Pressure)的外向压力(Outward Pressure)与对该流出压力(Outflow Pressure)的内向压力(Inward Pressure)达到平衡的程度，从而压力(Pressure)（密度(Density)）发生分散(Dispersion)的——随实态(Actuality)而生的——现象(Phenomenon)。若是如此，所谓光子(Photon)并非客体(Object)等，而是指现象(Phenomenon)（状态(State)）。因此，光无需去实现（模仿）太阳的流出压力(Outflow Pressure)，只要与该现象(Phenomenon)（状态(State)）相似，便会呈现与光相似的现象(Phenomenon)（状态(State)）。
+
+  * ➀ 若在与所谓光子(Photon)相似的体积(Volume)或更小的体积(Volume)中，存在更高密度(Density)的压力(Pressure)（客体(Object)），则其速度(Velocity)必快于所谓光子(Photon)；➁ 光(Light)的明暗或强弱等取决于所谓光子(Photon)的密度(Density)。若是如此，所谓光子(Photon)的密度(Density)是可以发生改变的，而密度(Density)可以发生改变意味着其速度(Velocity)亦是渐变的(Variable)；➂ 速度(Velocity)取决于相对密度(Density)之差。若是如此，即便所谓光子(Photon)的密度(Density)不发生改变，只要相对密度(Density)之差发生改变，所谓光子(Photon)的速度(Velocity)理所当然亦会发生改变。由此，若要使所谓光子(Photon)的速度(Velocity)(`c`)保持不变，则相对于光子的相对密度(Density)之差必须保持不变，且整个世界(Universe)的密度(Density)必须绝对(Absolutely)同一且保持不变。然而事实并非如此；➃ 并且，若无论相对密度(Density)之差如何变化其速度(Velocity)(`c`)皆保持不变，则光(Light)应当无法被遮挡。然而事实并非如此，因此所谓光子(Photon)的速度(Velocity)(`c`)并非绝对常数(Absolute Constant)。
+
+  * 关于光速(Velocity of Light)(`c`)变慢等现象，若使用“人类时间(Human Time)变慢了”等表述，乃是因为为了使所谓光子(Photon)的速度(Velocity)(`c`)保持恒定，从而人为操纵了通常作为速度(Velocity)基准的人类时间(Human Time)或距离等数值。若在计算所谓光子(Photon)的速度(Velocity)(`c`)时，将人类时间(Human Time)或距离（转移(Shift)体积(Volume)）等同于计算其他速度(Velocity)时一样予以套用，则所谓光子(Photon)的速度(Velocity)(`c`)必将是渐变的(Variable)。即便不然，在计算所谓光子(Photon)的速度(Velocity)(`c`)时，若不以所谓光子(Photon)的速度(Velocity)(`c`)为基准（固定它），而是采用第三种基准，所谓光子(Photon)的速度(Velocity)(`c`)同样将是渐变的(Variable)。所谓光子(Photon)的速度(Velocity)(`c`)并非自然的(Natural)绝对常数(Absolute Constant)，而是借由宣告而被常数化的，并由此可能导致人类时间(Human Time)、距离、速度(Velocity)等发生扰乱。
+
+*<a href="#相互渗透的不可避免_u" id="相互渗透的不可避免_d">[相互渗透的不可避免]</a>:* [定义] 一切实在(Reality)皆属于世界(Universe)（空间(Space)），且世界(Universe)中实在(Reality)着密度(Density)，这证明了一切实在(Reality)渗透式的(Osmosis)相互渗透(Interfused)以及该相互渗透(Interfused)的不可避免(Inevitable)。
+
+*<a href="#现象_u" id="现象_d">[现象]</a>:* [定义] 指被观察者所观察(Observation)到的像(Image)。
+
+#### ***6. 关于连续性(On Continuity)***
+
+* 一切实在(Reality)的间隙(Delta)皆非`0`，且间隙(Delta)为`0`是无法实在的［因为绝对静止(Absolute Stasis)(`0`)是无法实在的］［`(δ = 0) = ∄`］，抛开由观察者所作的区分不谈，一切实在(Reality)皆无片刻之绝对静止(Absolute Stasis)而保持连续。
+
+* 关于“忒修斯之船(Ship of Theseus)”，“当构成船只的木板（零件）被逐一更换，最终更换了所有零件时，这艘船究竟是原本的忒修斯之船，还是新的船？”，若结构得到维持(Maintenance)，或许可以称之为船；然而，计较其是否为船，与计较其是否为忒修斯之船，是截然不同的两回事。单纯计较其是否为船，因人而异也是渐变(Variable)的；而在计较其是否为船之后，再进一步计较其是否为忒修斯之船，则更加呈现渐变(Variable)。
+
+* 撇开实在(Reality)之绝对静止(Absolute Stasis)的不可行(Impossible)不谈，观察者对连续性的判断，根据观察者_不同步(Observer Asynchrony)而呈现渐变(Variable)。
+
+___
+## 结语
+
+将特定客体(Object)加以固定的固定支架(Fixing-holder)等，不可能实在(Reality)于该客体(Object)内部。正如将手臂与外部固定的固定支架(Fixing-holder)不可能实在(Reality)于手臂内部一样。以人类(Human)为例，关于人类(Human)的基准（准固定状态(Quasi-fixed State)）乃是实在(Reality)于太阳、社会、群体等人类(Human)外部。即便自主做出一切判断亦是如此，这是因为无论从生态、生物学等层面，还是从经验等层面，皆无法完全与现有基础设施的影响(Effect)隔离开来，因而是不可避免的(Inevitable)。
+
+本篇看似否定了人类(Human)的定义或做出定义这一行为(Act)等。然而，人类(Human)的定义或做出定义这一行为(Act)等，正如“非固定状态(Non-fixed State)还原为准固定状态(Quasi-fixed State)”一样，对人类(Human)的感知或沟通等起着基准（准固定状态(Quasi-fixed State)）的作用(Action)。因此，此乃人类(Human)所必需，理所当然(Naturally)不否定人类(Human)定义（思考）这一行为(Act)本身。
+
+并不否定人类(Human)的框架或人类(Human)打造框架这一行为(Act)本身。然而，原先已形成(Formation)的框架，绝不可在日后阻碍“另一个”或“更好的”或“更大的”框架之形成(Formation)或试图形成，绝不可如不可动摇的墙壁般施加作用(Action)，本篇所否定的正是这一点。况且，此类作用(Action)乃是原先已形成(Formation)的旧框架自身否定了其自身的形成(Formation)过程，因而是否定了其自身的实在(Reality)。由此，希望本篇能为针对旧框架如不可动摇之墙般施加作用(Action)的矛盾行为(Act)去形成(Formation)某种不同于旧框架的新事物，提供一个范例。
+
+> *"无论何种实在(Reality)，无论该实在(Reality)是否愿意，转移(Shift)皆是永续的(Perpetuity)"* 由此， *"一切现象(Phenomenon)与实在(Reality)皆是转移(Shift)的产物，且转移(Shift)是永续的(Perpetuity)"* 并且， *"世界(Universe)乃是非固定状态(Non-fixed State)与准固定状态(Quasi-fixed State)的反馈(Feedback)，是此分形(Fractal)的永续(Perpetuity)"*
+
+___
+## Intellectual Property & License (知识产权与许可协议)
+- **Copyright (c) 2026 Jung Hae-Yong (JEYo). All Rights Reserved.**
+- 本文 "关于形成(On Formation)" 依据 **知识共享 署名-非商业性使用-禁止演绎 4.0 国际许可协议 (CC BY-NC-ND 4.0)** 许可使用。
+- **明确使用条件:**
+  1. **署名(BY):** 引用及分享时必须明确标注原作者(鄭海龍 / Jung Hae-Yong / JEYo)及来源。
+  2. **非商业性使用(NC):** 严格禁止出于商业目的的使用、销售或未经授权的 AI 数据集训练。
+  3. **禁止演绎(ND):** 不得任意加工、变形原文本及公式，或二次再推出衍生作品。
+
+> "感谢 Gem（AI 助手）在本作品的结构化与格式化加工过程中所提供的工具性运算支持。"
