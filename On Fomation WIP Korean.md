@@ -70,7 +70,7 @@ ___
 
 * '물체(입자)의 존재가 힘의 전제'라고 한다면, '물체(입자)'는 어떻게 생겨나는가? '물체(입자)'는 세상(Universe)에 속하지 않은가? 그렇다면 '물체(입자)'는 최소한 세상(Universe)을 전제(Premise)로 하지 않은가? 그렇다면, 세상(Universe)은 `무(Nothingness) + 이행(Shift)(⟶)`이고, `이행(Shift)(⟶) ≡ 힘(Force)(F) ≡ 압력(Pressure)(P) ≡ 간극(Delta)(δ) ≡ [부피(Volume)(V) * 밀도(Density)(ρ)]`이라고 했으므로, *'물체(입자)의 존재가 힘의 전제'가 아니라 '힘이 물체보다 선행한다'*
 
-* 추가로 '중력'에 대하여, 운동(Motion)은 저항의 기울기(`-∇R`)에 의한다(`Motion ∝ -∇R`), 그리고 지구에 대하여, 내향\_표면적(Inward Surface Area)이 외향\_면적(Outward Area)보다 구조적으로 당연히(Naturally) 크므로(`A_inner > A_outer`) *내향\_압력(Inward Pressure)과 외향\_압력(Outward Pressure)의 차이라는 실태(Actuality)에 따라, 지구를 향해 운동(Motion)하는 현상(Phenomenon)을 중력이라고 부르는 것이다*
+* 추가로 '중력'에 대하여, 운동(Motion)은 저항의 기울기(`-∇R`)에 의한다(`Motion ∝ -∇R`), 그리고 지구에 대하여, 내향\_표면적(Inward Surface Area)이 외향\_면적(Outward Area)보다 구조적으로 당연히(Naturally) 크므로(`SA_inward > A_outward`) *내향\_압력(Inward Pressure)과 외향\_압력(Outward Pressure)의 차이라는 실태(Actuality)에 따라, 지구를 향해 운동(Motion)하는 현상(Phenomenon)을 중력이라고 부르는 것이다*
 
 #### ***3\. 외력이 없는 공간에서의 영원한 직선 운동 \[갈릴레오 갈릴레이(Galileo Galilei), 아이작 뉴턴(Isaac Newton) "운동 제1법칙"\]에 대하여,***
 
@@ -120,21 +120,21 @@ ___
 
 ### 형성에 대하여(On Formation)
 
-※ 제 3부에서 나오는 수식과 예 따위에 대하여, 최소한 `관찰작용의 영향(Effect) + 관찰의_간극(Observational Delta)(δ_obs) + 데이터(Data)화의_간극(Delta)`만큼 관찰(Observation) 대상의 실태(Actuality)와 멀어지는 것과 내외향\_비대칭(Inward-Outward Asymmetry)(`A_inner > A_outer`)(내외향\_비대칭(Inward-Outward Asymmetry)에 대하여는 바로 뒤에 서술한다)에 따른 변형은 당연하다고 여기고 있으며(제 3부에서 나오는 수식과 예 따위에도 능력밖의 일이라 앞의 사항들이 포함되지 않는다), 그러함에도 필요에 의하여 특정 현상(Phenomenon)이나 상태(State)에 특정 위치에서 특정 값을 도출하여야 한다면, 이런 방법을 사용하겠다는 것으로, 그 방법이나 수식, 예 따위가 세상(Universe)의 실태(Actuality)를 완전히(Absolutely) 동시에 또는 완전히(Absolutely) 동일하게 투사한다는 것이 아니다.
+※ 제 3부에서 나오는 수식과 예 따위에 대하여, 최소한 `관찰작용의 영향(Effect) + 관찰의_간극(Observational Delta)(δ_obs) + 데이터(Data)화의_간극(Delta)`만큼 관찰(Observation) 대상의 실태(Actuality)와 멀어지는 것과 내외향\_비대칭(Inward-Outward Asymmetry)(`SA_inward > A_outward`)(내외향\_비대칭(Inward-Outward Asymmetry)에 대하여는 바로 뒤에 서술한다)에 따른 변형은 당연하다고 여기고 있으며(제 3부에서 나오는 수식과 예 따위에도 능력밖의 일이라 앞의 사항들이 포함되지 않는다), 그러함에도 필요에 의하여 특정 현상(Phenomenon)이나 상태(State)에 특정 위치에서 특정 값을 도출하여야 한다면, 이런 방법을 사용하겠다는 것으로, 그 방법이나 수식, 예 따위가 세상(Universe)의 실태(Actuality)를 완전히(Absolutely) 동시에 또는 완전히(Absolutely) 동일하게 투사한다는 것이 아니다.
 
 #### 형성에_대하여(On Formation) 공리
 
-* **`이행(Shift)(⟶) ≡ 압력(Pressure)(P) ≡ 간극(Delta)(δ) ≡ [부피(Volume)(V) * 밀도(Density)(ρ)] ≡ 질량(Mass)(m)`**
+* **`포몬(Formon)(𝔽) ⊇ 이행(Shift)(⟶) ≡ 압력(Pressure)(P) ≡ 간극(Delta)(δ) ≡ [부피(Volume)(V) * 밀도(Density)(ρ)] ≡ 질량(Mass)(m)`**
 
 * **완전한\_정지(Absolute Stasis)의 실재\_불가(Non-reality)**
 
-  * `이행(Shift)(⟶) ⊇ 유지(Maintenance), [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)]`
+  * `이행(Shift)(⟶) ⊃ 유지(Maintenance), [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)]`
 
-  * 완전한\_정지(Absolute Stasis)는 유지(Maintenance)가 부재(Absence)하여 소멸(Annihilation)을 의미하므로 실재(Reality)할 수 없다\[`(dt = 0) = ∄`\], 그러므로 세상(Universe)의 모든 실재(Reality)의 간극(Delta)은 `0`보다 크고, 완전한\_정지(Absolute Stasis)는 실재\_불가(Non-reality)하다\[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\]
+  * 완전한\_정지(Absolute Stasis)는 유지(Maintenance)가 부재(Absence)하여(작용(Action)의 부재) 소멸(Annihilation)을 의미하므로 실재(Reality)할 수 없다\[`(dt = 0) = ∄`\], 그러므로 세상(Universe)의 모든 실재(Reality)의 간극(Delta)은 `0`보다 크고, 완전한\_정지(Absolute Stasis)는 실재\_불가(Non-reality)하다\[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\]
 
 * **완전한\_무(Absolute Nothingness)의 실재\_불가(Non-reality)**
 
-  * `간극(Delta)(δ) ⊇ dt, [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)] ⟹ [dt ≡ {δ * δ_length(1 / 밀도(Density)(ρ))}] ⟹ [δ, δ_length, 밀도(Density)(ρ){압력(Pressure)(P) / 부피(Volume)(V)} > 0] ⟹ [δ, δ_length, 밀도(Density)(ρ), 압력(Pressure)(P), 부피(Volume)(V) > 0]` 
+  * `간극(Delta)(δ) ⊃ dt, [(dt = 0) = ∄] ⟹ [∃ = (dt > 0)] ⟹ [dt ≡ {δ * δ_length(1 / 밀도(Density)(ρ))}] ⟹ [δ, δ_length, 밀도(Density)(ρ){압력(Pressure)(P) / 부피(Volume)(V)} > 0] ⟹ [δ, δ_length, 밀도(Density)(ρ), 압력(Pressure)(P), 부피(Volume)(V) > 0]` 
 
   * `dt`가 `0`이 아니라면 dt를 포함하는 간극(Delta) 또한 `0`일 수 없고, `압력(Pressure)(P) ≡ 간극(Delta)(δ) ≡ [부피(Volume)(V) * 밀도(Density)(ρ)]`이므로, 압력(Pressure), 부피(Volume), 밀도(Density)도 `0`일 수 없다, 이에 완전한\_정지(Absolute Stasis)의 실재\_불가(Non-reality)에 따라 완전한\_무(Absolute Nothingness)도 실재\_불가(Non-reality)하다
 
@@ -150,9 +150,9 @@ ___
 
   * 완전한_정지(Absolute Stasis)는 실재_불가(Non-reality)하므로, 간극(Delta)은 소거될 수 없고\[`{(dt = 0) = ∄} ⟹ {∃ = (dt > 0)}`\] 영속(Perpetuity)되며, 이에 따라 세상(Universe) 전체의 압력(Pressure)(체류_압력(Retention Pressure))은 영속(Perpetuity) 증가(Increase)한다, 그러므로 세상(Universe) 전체의 총 상태값은 과거의 어떤 시점과도 완전히(Absolutely) 동일할 수 없고, 일어나는 모든 현상(Phenomenon)들은 동적_무한(Dynamic Boundlessness)으로 나가가는 최초의_이행(First Shift)이다
 
-* **내외향\_비대칭(Inward-Outward Asymmetry)(`A_inner > A_outer`)**
+* **내외향\_비대칭(Inward-Outward Asymmetry)(`SA_inward > A_outward`)**
 
-  * `ΔA(내향_표면적(Inward Surface Area)과 외향_면적(Outward Area)의 차이) ≡ A_inward(내향_표면적(Inward Surface Area))[4 * π * {r_out(내향_표면적(Inward Surface Area)의 반지름)}²] - A_outward(외향_면적(Outward Area))[4 * π * {r_in(외향_면적(Outward Area)의 반지름)}²]`
+  * `ΔA(내향_표면적(Inward Surface Area)과 외향_면적(Outward Area)의 차이) ≡ SA_inward(내향_표면적(Inward Surface Area))[4 * π * {r_out(내향_표면적(Inward Surface Area)의 반지름)}²] - A_outward(외향_면적(Outward Area))[4 * π * {r_in(외향_면적(Outward Area)의 반지름)}²]`
   
   * 세상(Universe)의 모든 실재(Reality)의 부피(Volume)(`V`)는 또한 `0`보다 크므로, 세상(Universe)의 모든 실재(Reality)는 당연히(Naturally) 구조적으로, 내향\_표면적(Inward Surface Area)과 외향\_면적(Outward Area)의 반지름의 차이는 `0`보다 크고, 내향\_표면적(Inward Surface Area)이 외향\_면적(Outward Area)보다 크다(`내향_표면적(Inward Surface Area) > 외향_면적(Outward Area)`), 이에 세상(Universe)의 모든 실재(Reality)는 구조적으로 내외향\_비대칭(Inward-Outward Asymmetry)(`내향_표면적(Inward Surface Area) > 외향_면적(Outward Area)`)하고, 이에 따른 사항은 모두 완전한\_대칭(Absolute Symmetry)을 이룰 수 없다
 
@@ -160,7 +160,7 @@ ___
 
 *  *세상(Universe)은 이행(Shift)(`⟶`)*<a href="#이행\_d" id="이행\_u"><sup>[이행(Shift)]</sup></a>*의 영속(Perpetuity)이라는 실태(Actuality)에 따른, 그 이행(Shift)이 축적(Accumulative)된 현상(Phenomenon)이다*
 
-* 완전한\_정지(Absolute Stasis)는 실재\_불가(Non-reality)하고 당연히(Naturally) 세상(Universe) 또한 그러하다, 유지(Maintenance)(`t₀ ⟶ t₁`)(이하, `t₀ ⟶ t₁`에 해당하는 그것을 `1단위(1 Unit)` 라고 한다) 되는 것 또한 이행(Shift)(`⟶`)\[압력(Pressure)(`P`)\]이다 *<a href="#위상\_변위가-일어나는-까닭\_d" id="위상\_변위가-일어나는-까닭\_u"><sup>[위상\_변위(Phase Shift)가 일어나는 까닭]</sup></a>* , 계속되는 이행(Shift)(유지(Maintenance))으로 공간(Space)(부피(Volume))도 계속 팽창(Expansion)한다 *<a href="#에이펙손\_d" id="에이펙손\_u"><sup>[에이펙손(Apexon)]</sup></a>* , 
+* 완전한\_정지(Absolute Stasis)는 실재\_불가(Non-reality)하고 당연히(Naturally) 세상(Universe) 또한 그러하다, 유지(Maintenance)(`t₀ ⟶ t₁`)(이하, `t₀ ⟶ t₁`에 해당하는 그것을 `1단위(1 Unit)` 라고 한다) 되는 것 또한 이행(Shift)(`⟶`)\[압력(Pressure)(`P`)\]이다 *<a href="#위상\_변위가-일어나는-까닭\_d" id="위상\_변위가-일어나는-까닭\_u"><sup>[위상\_변위(Phase Shift)가 일어나는 까닭]</sup></a>* , 계속되는 이행(Shift)(유지(Maintenance))으로 공간(Space)(부피(Volume))도 계속 팽창(Expansion)한다, 
 
 *<a href="#유지\_u" id="유지\_d">[유지(Maintenance)]</a>: \[정의\]* 본고에서 '유지(Maintenance)'란 능동적 행위(Act)를 뜻하지 않는다, 실재(Reality) *<a href="#압력\_d" id="압력\_u"><sup>[압력(Pressure)]</sup></a>* 와 결부되어 결코 소거되지 않는(`0`이 될 수 없는) 최소\_간극(Minimum Delta)(`δ_min`) *<a href="#원천\_압력\_d" id="원천\_압력\_u"><sup>[원천\_압력(Original Pressure)]</sup></a>* 으로 계속되는(이어지는) 상태(State)를 뜻한다, 그리고 그 간극(Delta)을 본고에서 '유지의\_간극(Maintenance Delta)'이라고 한다
 
@@ -172,13 +172,11 @@ ___
 
 *<a href="#위상\_변위가-일어나는-까닭\_u" id="위상\_변위가-일어나는-까닭\_d">[위상\_변위(Phase Shift)가 일어나는 까닭]</a>:* 완전한\_정지(Absolute Stasis)가 실재\_불가(Non-reality)한 까닭과 같다, `완전한_정지(Absolute Stasis) 실재_불가(Non-reality) ≡ 이행(Shift) ≡ 원천_압력(Original Pressure) ≡ 위상_변위(Phase Shift)(어긋남/밀려남)`
 
-*<a href="#에이펙손\_u" id="에이펙손\_d">[에이펙손(Apexon)]</a>: \[정의\]*  압력(Pressure)이 추가되면 부피(Volume)를 형성(Formation)하게 되는 상태(State)를 뜻한다, 이는 상수(Constant)를 제시할 수 없고 인간(Human)에 대하여도 공간(Space)이란 관찰의 수단과 방법 따위가 발달함에 따라 가변적일 것이므로 개념적으로 사용한다
-
 #### ***2\. 세상(Universe)의 형성(Formation)에 대하여***
 
 * ➀ 부피(Volume)가 증가(Increase)할 수록(내향\_표면적(Inward Surface Area)이 커질 수록) 원천\_압력(Original Pressure)(내향\_압력(Inward Pressure))도 증가(Increase)한다 *<a href="#원천압의-내향\_압력-작용\_d" id="원천압의-내향\_압력-작용\_u"><sup>[원천\_압력(Original Pressure)의 내향\_압력(Inward Pressure) 작용(Action)]</sup></a>* , ➁ 원천\_압력(Original Pressure)이 증가(Increase)할 수록 내외향\_비대칭(Inward-Outward Asymmetry)으로 인하여 체류\_압력(Retention Pressure)도 증가(Increase)하여 *<a href="#유입\_압력\_d" id="유입\_압력\_u"><sup>[유입\_압력(Inflow Pressure)]</sup></a>* 세상(Universe)의 내부 밀도(Density)도 증가(Increase)한다 *<a href="#이층\_관로\_작용\_d" id="이층\_관로\_작용\_u"><sup>[이층\_관로\_작용(Asynchronous Dual Action)]</sup></a>* , ➂ 세상(Universe)의 내부 밀도(Density)가 증가(Increase)하면 최외곽\_압력\_동적\_교착(Boundary Dynamic Grid-lock) *<a href="#세상의-최외곽\_압력\_동적\_교착\_d" id="세상의-최외곽\_압력\_동적\_교착\_u"><sup>[세상(Universe)의 최외곽\_압력\_동적\_교착(Boundary Dynamic Grid-lock)]</sup></a>* 에 축적(Accumulative)되는 원천\_압력(Original Pressure)의 밀도(Density)도 증가(Increase)하여 세상(Universe)의 부피(Volume)가 팽창(Expansion)(내향\_표면적(Inward Surface Area) 증가(Increase))한다 ➃ 세상(Universe)의 부피(Volume)가 팽창(Expansion)(내향\_표면적(Inward Surface Area) 증가(Increase))하면 원천\_압력(Original Pressure)도 증가(Increase)한다 ➄ 이 순환은 영속(Perpetuity)된다
 
-* `[(세상(Universe)의 전체 체류_압력(Retention Pressure) + 세상(Universe)의 최외곽의 유입_압력(Inflow Pressure)) / 세상(Universe)의 평균_밀도(Average Density) (단, 세상(Universe)의 평균_밀도(Average Density) > Apexon)] ⟺ 세상(Universe)의 부피(Volume)`
+* `[(세상(Universe)의 전체 체류_압력(Retention Pressure) + 세상(Universe)의 최외곽의 유입_압력(Inflow Pressure)) / 세상(Universe)의 평균_밀도(Average Density) (단, 세상(Universe)의 평균_밀도(Average Density) > 1 Unit)] ⟺ 세상(Universe)의 부피(Volume)`
 
 *<a href="#원천압의-내향\_압력-작용\_u" id="원천압의-내향\_압력-작용\_d">[원천\_압력(Original Pressure)의 내향\_압력(Inward Pressure) 작용(Action)]</a>:* 부피(Volume)(세상(Universe))에 어느 방향으로 위상\_변위(Phase Shift)가 일어나든 외부에 다른 부피(Volume)(공간(Space))가 없어서 원천\_압력(Original Pressure)이 세상(Universe) 내부를 향해서 작용(Action)(내향\_압력(Inward Pressure))하는 것을 뜻한다
 
@@ -188,7 +186,7 @@ ___
 
 *<a href="#이층\_관로\_작용\_u" id="이층\_관로\_작용\_d">[이층\_관로\_작용(Asynchronous Dual Action)]</a>: \[정의\]* '원천\_압력(Original Pressure)'이 ➀ 대부분 세상(Universe)의 내향\_표면적(Inward Surface Area)에 작용(Action)하면서(축적(Accumulative)되면서)(상부\_작용(Immediate Boundary Action)) ➁ 내외향\_비대칭(Inward-Outward Asymmetry)으로 영속(Perpetuity) 그 일부가 세상(Universe) 내부로 유입되어 체류\_압력(Retention Pressure)이 증가(Increase)하는(하부\_작용(Delayed Retention Action)), 이 2가지 작용(Action)을 뜻한다
 
-*<a href="#세상의-최외곽\_압력\_동적\_교착\_u" id="세상의-최외곽\_압력\_동적\_교착\_d">[세상(Universe)의 최외곽\_압력\_동적\_교착(Boundary Dynamic Grid-lock)]</a>:* ➀ 원천\_압력(Original Pressure)은 영속(Perpetuity)된다 이에 ➁ — 유입\_압력(Inflow Pressure)을 제외한 압력(Pressure)이 — 세상(Universe)의 최외곽에서 세상(Universe)의 체류\_압력(Retention Pressure) 전체와 동적\_평형(Dynamic Equilibrium) *<a href="#동적\_평형\_d" id="동적\_평형\_u"><sup>[동적\_평형(Dynamic Equilibrium)]</sup></a>* 을 이루며 영속(Perpetuity) 축적(Accumulative)(밀도\_증가(Density Increase))된다 그 과정에서 ➂ 세상(Universe)의 최외곽에서 에이펙손(Apexon)에 도달하는 부분이 그때마다 세상(Universe)의 부피(Volume)로 팽창(Expansion)한다
+*<a href="#세상의-최외곽\_압력\_동적\_교착\_u" id="세상의-최외곽\_압력\_동적\_교착\_d">[세상(Universe)의 최외곽\_압력\_동적\_교착(Boundary Dynamic Grid-lock)]</a>:* 원천\_압력(Original Pressure)은 영속(Perpetuity)된다 이에, — 유입\_압력(Inflow Pressure)을 제외한 압력(Pressure)이 — 세상(Universe)의 최외곽에서 세상(Universe)의 체류\_압력(Retention Pressure) 전체와 동적\_평형(Dynamic Equilibrium) *<a href="#동적\_평형\_d" id="동적\_평형\_u"><sup>[동적\_평형(Dynamic Equilibrium)]</sup></a>* 을 이루며 영속(Perpetuity) 축적(Accumulative)(밀도\_증가(Density Increase))되며 그때마다 세상(Universe)의 부피(Volume)가 팽창(Expansion)한다
 
 *<a href="#동적\_평형\_u" id="동적\_평형\_d">[동적\_평형(Dynamic Equilibrium)]</a>: \[정의\]* 세상(Universe)의 모든 실재(Reality)는 동적\_평형(Dynamic Equilibrium)을 이루고 있다\[`δ, δ_length, 밀도(Density)(ρ), 압력(Pressure)(P), 부피(Volume)(V) > 0`\] 이때 그 비대칭(Asymmetry) 정도가 운동(Motion) 유무 따위를 말하는 지표가 된다
 
@@ -198,7 +196,7 @@ ___
 
 * 세상(Universe)의 운동(Motion)(이행(Shift))은 영속(Perpetuity)된다
 
-  * 세상(Universe)의 부피(Volume)는, 세상(Universe) 전체의 이행(Shift)에 따른 세상(Universe) 전체에 대한 원천\_압력(Original Pressure)(상부\_작용(Immediate Boundary Action))에 따라 압착되고, 당연히(Naturally) 모든 부분이 일정 이상의 겹치게 된다\[`밀도(Density)(ρ) ≡ 상호침투(Interfused)`\], 이것과 내외향\_비대칭(Inward-Outward Asymmetry)(`A_inner > A_outer`)에 따른 유입\_압력(Inflow Pressure)이 체류\_압력(Retention Pressure)이 되고, 상부\_작용(Immediate Boundary Action)과 체류\_압력(Retention Pressure) 각각의 방향성(Directionality)으로 인하여 순류(Direct Flow)가 일어난다, 
+  * 세상(Universe)의 부피(Volume)는, 세상(Universe) 전체의 이행(Shift)에 따른 세상(Universe) 전체에 대한 원천\_압력(Original Pressure)(상부\_작용(Immediate Boundary Action))에 따라 압착되고, 당연히(Naturally) 모든 부분이 일정 이상의 겹치게 된다\[`밀도(Density)(ρ) ≡ 상호침투(Interfused)`\], 이것과 내외향\_비대칭(Inward-Outward Asymmetry)(`SA_inward > A_outward`)에 따른 유입\_압력(Inflow Pressure)이 체류\_압력(Retention Pressure)이 되고, 상부\_작용(Immediate Boundary Action)과 체류\_압력(Retention Pressure) 각각의 방향성(Directionality)으로 인하여 순류(Direct Flow)가 일어난다, 
 
   * 이 과정에서 계속 객체(Object)들이 형성(Formation)되고, 곳곳에 대와류(Vortex)가 형성(Formation)되며, 더 큰 대와류(Vortex)는 더 크거나 더 단단한 객체(Object)를 형성(Formation)한다, 그리고 이 대와류(Vortex)는 순류(Direct Flow)와 충돌(Impact)하면서 소와류(Eddy)를 일으킨다,*<a href="#유출\_압력\_d" id="유출\_압력\_u"><sup>[유출\_압력(Outflow Pressure)]</sup></a>* 
 
@@ -210,29 +208,31 @@ ___
 
     * 결합과 분열의 피드백(Feedback): `원천_압력(Original Pressure) ⟺ 최외곽_압력_동적_교착(Boundary Dynamic Grid-lock) ⟺ 순류(Direct Flow) ⟺ 대와류(Vortex) + 대와류(Vortex) 또는 소와류(Eddy) 또는 미시 소와류(Eddy) ⟺ 소와류(Eddy) + 소와류(Eddy) 또는 미시 소와류(Eddy) ⟺ 미시 소와류(Eddy) + 미시 소와류(Eddy)`
 
-* `[{객체(Object)의 체류_압력(Retention Pressure) + (객체(Object)의 유입_압력(Inflow Pressure) - 객체(Object)의 유출_압력(Outflow Pressure))} / 객체의 평균_밀도(Average Density) (단, 객체(Object)의 평균_밀도(Average Density) > Apexon)] ⟺ 객체(Object)의 부피(Volume)`
+* `[{객체(Object)의 체류_압력(Retention Pressure) + (객체(Object)의 유입_압력(Inflow Pressure) - 객체(Object)의 유출_압력(Outflow Pressure))} / 객체의 평균_밀도(Average Density) (단, 객체(Object)의 평균_밀도(Average Density) > 1 Unit)] ⟺ 객체(Object)의 부피(Volume)`
 
-* 분열과 분산(Dispersion) 따위 또한 세상(Universe)의 전체 압력(Pressure)이 영속(Perpetuity) 증가(Increase)하는 실태(Actuality)에 따른 현상(Phenomenon)으로, 세상(Universe)의 전체 압력(Pressure)이 증가(Increase)함에 따라 한계 밀도(Density)(도달 가능한 밀도(Density))와 이에 따른 객체화(Objectification)는 가변적(Variable)이다, 그러나 정적\_무한(Fixed Infinity)은 실재\_불가(Non-reality)하고 세상(Universe)에 실재(Reality)하는 압력(Pressure)은 유한하므로 한계 밀도(Density)와 이에 따른 객체화(Objectification)는 세상(Universe)에 실재(Reality)하는 전체 압력(Pressure)(량)을 상회할 수 없다
+* 분열과 분산(Dispersion) 따위 또한 세상(Universe)의 전체 압력(Pressure)이 영속(Perpetuity) 증가(Increase)하는 실태(Actuality)에 따른 현상(Phenomenon)으로, 세상(Universe)의 전체 압력(Pressure)이 증가(Increase)함에 따라 한계 밀도(Density)(도달 가능한 밀도(Density) *<a href="#에이펙손\_d" id="에이펙손\_u"><sup>[에이펙손(Apexon)]</sup></a>* )와 이에 따른 객체화(Objectification)는 가변적(Variable)이다, 그러나 정적\_무한(Fixed Infinity)은 실재\_불가(Non-reality)하고 세상(Universe)에 실재(Reality)하는 압력(Pressure)은 유한하므로 한계 밀도(Density)와 이에 따른 객체화(Objectification)는 세상(Universe)에 실재(Reality)하는 전체 압력(Pressure)(량)을 상회할 수 없다
 
 * 내외향\_비대칭(Inward-Outward Asymmetry)에 따라 유입은 더 넓은 방위에서 수렴🞄압축(Compression)되고, 유출은 더 작은 부피에서 외부로 분산(Dispersion)된다 그리고, 이에 따른 밀도(Density)(형태(Configuration))가 고착될수록, 그만큼 해당 특정 방향(Direction)으로의 운동(Motion) 따위를 유지(Maintenance)하려는 성질 또한 강해진다
 
-  * `Inertia ≡ (P_inflow + P_outflow)`
+  * `관성(Inertia) ≡ \[내향_압력(Inward Pressure)(P_Inward) + 외향_압력(Outward Pressure)(P_Outward)\]`
 
 ![alt text](운동001.png) ![alt text](운동002.png)
 
   * `m(t) ≡ Σ [P_inflow(t_δ) - P_outflow(t_δ)] ≡ V * ρ`
 
-*<a href="#제-3부의-운동\_u" id="제-3부의-운동\_d">[제 3부의 운동(Motion)]</a>:* '제 2부'에서 *'운동(Motion)은 저항(Resistance)(`R`)이 가장 낮은 곳으로 영속(Perpetuity)된다'*고 한 것을 '제 3부'에서는 *'운동(Motion)은 밀도(Density)(`ρ`)가 가장 낮은 곳으로 계속된다'*\[`v(속도 및 운동) ∝ -∇ρ`\] 고 하고 이것을 다시 *'운동(Motion)은 압력(Pressure)(`P`)의 수렴과 밀도(Density)(`ρ`)의 분산(Dispersion)으로 영속(Perpetuity)된다'*\[`v(속도 및 운동) ∝ (+∇P ⟺ -∇ρ)`\] *<a href="#압력-수렴의-선행에-대하여\_d" id="압력-수렴의-선행에-대하여\_u"><sup>[압력(Pressure) 수렴(+∇P)의 선행에 대하여]</sup></a>* 고 한다 
+*<a href="#제-3부의-운동\_u" id="제-3부의-운동\_d">[제 3부의 운동(Motion)]</a>:* '제 2부'에서 *'운동(Motion)은 저항(Resistance)(`R`)이 가장 낮은 곳으로 영속(Perpetuity)된다'*고 한 것을 '제 3부'에서는 *'운동(Motion)은 밀도(Density)(`ρ`)가 가장 낮은 곳으로 계속된다'*\[`v(속도 및 운동) ∝ -∇ρ`\] 고 하고 이것을 다시 *'운동(Motion)은 압력(Pressure)(`P`)의 수렴과 밀도(Density)(`ρ`)의 분산(Dispersion)으로 영속(Perpetuity)된다'*(가변성)\[`v(속도 및 운동) ∝ (+∇P ⟺ -∇ρ)`\] *<a href="#압력-수렴의-선행에-대하여\_d" id="압력-수렴의-선행에-대하여\_u"><sup>[압력(Pressure) 수렴(+∇P)의 선행에 대하여]</sup></a>* 고 한다 
 
 *<a href="#압력-수렴의-선행에-대하여\_u" id="압력-수렴의-선행에-대하여\_d">[압력(Pressure) 수렴(+∇P)의 선행에 대하여]</a>:* 운동(Motion) 수식에서 밀도\_낙차(Density Gradient)(`-∇ρ`) 이전에 압력(Pressure) 수렴(+∇P)(원천\_압력(Original Pressure))이 선행하는 까닭은, '무(Nothingness)'나 '무한\_밀도(Infinite Density)'와 같은 비실재적(Non-reality) 관념을 소거하기 위해서다, `무(Nothingness) + 이행(Shift)(⟶)`에서 '무(Nothingness)'는 실재성이 없으므로  당연히(Naturally) 실재(Reality)하는 이행(Shift)(`⟶`)만 축적되며, 이 축적(Accumulative)\[압력(Pressure) 수렴(+∇P)\]에 의해 밀도(Density)(`ρ`)가 형성(Formation)되기 떄문이다
 
-*<a href="#객체화\_u" id="객체화\_d">[객체화(Objectification)]</a>: \[정의\]* 세상(Universe)의 전체 압력(Pressure)이 증가(Increase)함에 따라, 에이펙손(Apexon)[부피(Volume)(V) ≥ 1단위(1 Unit), ρ\_Apexon]의 기저 밀도(Density)보다 점점 더 높은, 계층적 밀도(Density)를 형성(Formation)하는 과정
+*<a href="#객체화\_u" id="객체화\_d">[객체화(Objectification)]</a>: \[정의\]* 세상(Universe)의 전체 압력(Pressure)이 증가(Increase)함에 따라, 점점 더 높은, 계층적 밀도(Density)를 형성(Formation)하는 과정
 
 *<a href="#유사고정\_상태\_u" id="유사고정\_상태\_d">[유사\_고정\_상태(Quasi-fixed State)]</a>: \[정의\]* 동적\_평형(Dynamic Equilibrium) 비대칭(Asymmetry) 정도에 대해서, 관찰자가 운동(Motion)이라고 감각하지 못해 마치 정지해 있는 것처럼 보이는 상태(State)를 말한다
 
 *<a href="#유출\_압력\_u" id="유출\_압력\_d">[유출\_압력(Outflow Pressure)]</a>:* 유입\_압력(Inflow Pressure)이 객체 A(Object A) 내부 밀도(Density)에 따른 — 객체 A(Object A) 내부의 — 객체 B(Object B)로 객체화(Objectification)되며 체류\_압력(Retention Pressure)이 되고 그 체류\_압력(Retention Pressure)이 유출\_압력(Outflow Pressure)으로 유출될 때에는 외향\_압력(Outward Pressure)의 수렴과 내부와 외부의 밀도\_낙차(Density Gradient)(`+∇P ⟺ -∇ρ`)에 따른 속도(Velocity)로 나아간다, 예를 들면 객체 A(Object A) 내부에서 부피(Volume) 2단위(2 Unit)에 압력(Pressure) 20단위(20 Unit)가 압축(Compression)되었고(밀도(Density) 10), 객체 A(Object A) 외부는 부피(Volume) 2단위(2 Unit)에 압력(Pressure) 4단위(4 Unit)가 압축(Compression)(밀도(Density) 2)된 계층이라고 한다면, 객체 A(Object A) 내부에서 압축(Compression)된 압력(Pressure) 20단위(20 Unit)가 객체 A(Object A) 외부로 유출\[외향\_압력(Outward Pressure) 수렴(`+∇P`)으로 인한 유출\]될 때, 유출\_압력(Outflow Pressure)은 ➀ 객체 A(Object A) 외부 밀도(Density) 2\[`압력(Pressure)(P) 4 / 부피(Volume)(V) 2`\] 계층에서는 부피(Volume) 1단위(1 Unit)를 부피(Volume) 1/5단위(1/5 Unit) 이행(Shift) 시간(Time)으로 이행(Shift)한다(`-∇ρ`) *<a href="#부피-5분의1단위-이행-시간의-다른-표현\_d" id="부피-5분의1단위-이행-시간의-다른-표현\_u"><sup>[부피(Volume) 1/5 이행(Shift) 시간의 다른 표현]</sup></a>*  ➁ 유출\_압력(Outflow Pressure)은 ➀의 속도(Velocity)로 이행(Shift)하면서, 유출\_압력(Outflow Pressure)의 외향\_압력(Outward Pressure)과 유출\_압력(Outflow Pressure)에 대한 내향\_압력(Inward Pressure)이 균형을 이루는 정도까지 압력(Pressure)(밀도(Density))이 분산(Dispersion)된다 그리고 수렴(`+∇P`) 된다 ➂ 동적\_교착(Dynamic Grid-lock) 또는 내향\_압력(Inward Pressure)보다 낮은 밀도(Density)로 압력(Pressure)이 유출될 수 없다 ➃ 세상(Universe) 외부로는 유출\_압력(Outflow Pressure)이 있을 수 없고 대신 세상(Universe)이 팽창(Expansion)한다
 
 *<a href="#부피-5분의1단위-이행-시간의-다른-표현\_u" id="부피-5분의1단위-이행-시간의-다른-표현\_d">[부피(Volume) 1/5 이행(Shift) 시간의 다른 표현]</a> :* 뒤에 서술될 간극\_시간(Delta Time)로 표현한다면, '부피(Volume) 1단위(1 Unit)를 0.2 간극\_시간(Delta Time)으로 이행(Shift)한다'가 되고, 속도(Velocity)로 표현한다면 '부피(Volume) 1단위(1 Unit)에 압력(Pressure) 2단위(2 Unit)가 압축(Compression)\[`밀도(Density)(ρ) 2`]된 계층의 부피 1단위(1 Unit) 이행(Shift) 속도(Velocity)의 5배의 속도(Velocity)로 이행(Shift)한다'가 된다
+
+*<a href="#에이펙손\_u" id="에이펙손\_d">[에이펙손(Apexon)]</a>: \[정의\]*  가변적(Variable) 한계 밀도(Density)를 뜻한다
 
 #### ***4\. 속도(Velocity)와 시간(Time)에 대하여***
 
@@ -249,7 +249,7 @@ ___
 
   * 간극\_속도(Delta Velocity)(`v_δ`)
 
-    * `기준_압력(Reference Pressure)(P_ref)의 밀도(Density)(ρ) - 대상 압력(Pressure)(P)의 밀도(Density)(ρ) ≡ 간극_속도(Delta Velocity)(v_δ)`
+    * `간극_속도(Delta Velocity)(v_δ) ≡ 기준_압력(Reference Pressure)(P_ref)의 밀도(Density)(ρ) - 대상 압력(Pressure)(P)의 밀도(Density)(ρ)`
 
     * 간극\_속도(Delta Velocity)(`v_δ`)는, 기준\_압력(Reference Pressure)의 밀도(Density)(ρ), 대상 압력(Pressure)(P)의 밀도(Density)(ρ)에 따라 가변적(Variable)이다
     
@@ -279,6 +279,12 @@ ___
     |압력 C-2(Pressure C-2)의 간극\_속도(Delta Velocity)는|-12 v\_δ|0 v\_δ|31 v\_δ|
     |기준\_압력(Reference Pressure)의 간극\_속도(Delta Velocity)는|-43 v\_δ|-31 v\_δ|0 v\_δ|
 
+* ***무게(Weight)***
+
+  * `Weight ≡ 내향_압력_Vecter_tool(Inward Pressure_Vecter_tool)(P_Inward_Vecter_tool) + 외향_압력_Vecter_tool(Outward Pressure_Vecter_tool)(P_Outward_Vecter_tool)`
+
+  * 무게(Weight)는 속도(Velocity)와 동일하나, 특정 방향(Direction)(무게를 측정하는 도구로 향한 방향(Direction))에 대한 압력(Pressure)이다
+  
 * ***4\.2\. 시간(Time) — 부피\_1단위\_이행\_시간(Unit-Volume Shift Time)(`t\_vol`)과 간극\_시간(Delta Time)(`t_δ`)***
 
   * 부피\_1단위\_이행\_시간(Unit-Volume Shift Time)(`t_vol`)
@@ -337,47 +343,47 @@ ___
 
     |기준\_압력 2(Reference Pressure 2)(`P_ref 2`)|기준\_압력 1(Reference Pressure 1)(`P_ref 1`)|압력 A-1(Pressure A-1)들로 형성(Formation)된 계층에서,|압력 A-2(Pressure A-2)들로 형성(Formation)된 계층에서,|기준\_압력(Reference Pressure)들로 형성(Formation)된 계층에서,|
     |---|---|---|---|---|
-    |압력 A-1(Pressure A-1)|압력 A-1(Pressure A-1)의 관찰되는\_속도(Observed Velocity)는|-10 v\_obs|-10 v\_obs|-2 v\_obs|
-    ||압력 A-2(Pressure A-2)의 관찰되는\_속도(Observed Velocity)는|-10 v\_obs|-10 v\_obs|-2 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-18 v\_obs|-18 v\_obs|-10 v\_obs|
-    |압력 A-2(Pressure A-2)|압력 A-1(Pressure A-1)의 관찰되는\_속도(Observed Velocity)는|-10 v\_obs|-10 v\_obs|-2 v\_obs|
-    ||압력 A-2(Pressure A-2)의 관찰되는\_속도(Observed Velocity)는|-10 v\_obs|-10 v\_obs|-2 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-18 v\_obs|-18 v\_obs|-10 v\_obs|
-    |기준\_압력(Reference Pressure)|압력 A-1(Pressure A-1)의 관찰되는\_속도(Observed Velocity)는|-2 v\_obs|-2 v\_obs|6 v\_obs|
-    ||압력 A-2(Pressure A-2)의 관찰되는\_속도(Observed Velocity)는|-2 v\_obs|-2 v\_obs|6 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-10 v\_obs|-10 v\_obs|-2 v\_obs|
+    |압력 A-1(Pressure A-1)|압력 A-1(Pressure A-1)의 관찰되는\_속도(Observed Velocity)는|10 v_obs|10 v_obs|2 v_obs|
+    ||압력 A-2(Pressure A-2)의 관찰되는\_속도(Observed Velocity)는|10 v_obs|10 v_obs|2 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|18 v_obs|18 v_obs|10 v_obs|
+    |압력 A-2(Pressure A-2)|압력 A-1(Pressure A-1)의 관찰되는\_속도(Observed Velocity)는|10 v_obs|10 v_obs|2 v_obs|
+    ||압력 A-2(Pressure A-2)의 관찰되는\_속도(Observed Velocity)는|10 v_obs|10 v_obs|2 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|18 v_obs|18 v_obs|10 v_obs|
+    |기준\_압력(Reference Pressure)|압력 A-1(Pressure A-1)의 관찰되는\_속도(Observed Velocity)는|2 v_obs|2 v_obs|-6 v_obs|
+    ||압력 A-2(Pressure A-2)의 관찰되는\_속도(Observed Velocity)는|2 v_obs|2 v_obs|-6 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|10 v_obs|10 v_obs|2 v_obs|
 
   * 예 2: `압력 B-1(Pressure B-1) 20[부피(Volume)(V) 2 * 밀도(Density)(ρ) 10]`과 `압력 B-2(Pressure B-2) 396[부피(Volume)(V) 12 * 밀도(Density)(ρ) 33]`에 대한 관찰되는\_속도(Observed Velocity)(`v_obs`)는, 
 
     |기준\_압력 2(Reference Pressure 2)(`P_ref 2`)|기준\_압력 1(Reference Pressure 1)(`P_ref 1`)|압력 B-1(Pressure B-1)들로 형성(Formation)된 계층에서,|압력 B-2(Pressure B-2)들로 형성(Formation)된 계층에서,|기준\_압력(Reference Pressure)들로 형성(Formation)된 계층에서,|
     |---|---|---|---|---|
-    |압력 B-1(Pressure B-1)|압력 B-1(Pressure B-1)의 관찰되는\_속도(Observed Velocity)는|-10 v\_obs|-33 v\_obs|-2 v\_obs|
-    ||압력 B-2(Pressure B-2)의 관찰되는\_속도(Observed Velocity)는|13 v\_obs|-10 v\_obs|21 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-18 v\_obs|-41 v\_obs|-10 v\_obs|
-    |압력 B-2(Pressure B-2)|압력 B-1(Pressure B-1)의 관찰되는\_속도(Observed Velocity)는|-33 v\_obs|-56 v\_obs|-25 v\_obs|
-    ||압력 B-2(Pressure B-2)의 관찰되는\_속도(Observed Velocity)는|-10 v\_obs|-33 v\_obs|-2 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-41 v\_obs|-64 v\_obs|-33 v\_obs|
-    |기준\_압력(Reference Pressure)|압력 B-1(Pressure B-1)의 관찰되는\_속도(Observed Velocity)는|-2 v\_obs|-25 v\_obs|6 v\_obs|
-    ||압력 B-2(Pressure B-2)의 관찰되는\_속도(Observed Velocity)는|21 v\_obs|-2 v\_obs|29 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-10 v\_obs|-33 v\_obs|-2 v\_obs|
+    |압력 B-1(Pressure B-1)|압력 B-1(Pressure B-1)의 관찰되는\_속도(Observed Velocity)는|10 v_obs|33 v_obs|2 v_obs|
+    ||압력 B-2(Pressure B-2)의 관찰되는\_속도(Observed Velocity)는|-13 v_obs|10 v_obs|-21 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|18 v_obs|41 v_obs|10 v_obs|
+    |압력 B-2(Pressure B-2)|압력 B-1(Pressure B-1)의 관찰되는\_속도(Observed Velocity)는|33 v_obs|56 v_obs|25 v_obs|
+    ||압력 B-2(Pressure B-2)의 관찰되는\_속도(Observed Velocity)는|10 v_obs|33 v_obs|2 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|41 v_obs|64 v_obs|33 v_obs|
+    |기준\_압력(Reference Pressure)|압력 B-1(Pressure B-1)의 관찰되는\_속도(Observed Velocity)는|2 v_obs|25 v_obs|-6 v_obs|
+    ||압력 B-2(Pressure B-2)의 관찰되는\_속도(Observed Velocity)는|-21 v_obs|2 v_obs|-29 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|10 v_obs|33 v_obs|2 v_obs|
 
   * 예 3: `압력 C-1(Pressure C-1) 90[부피(Volume)(V) 2 * 밀도(Density)(ρ) 45]`과 `압력 C-2(Pressure C-2) 396[부피(Volume)(V) 12 * 밀도(Density)(ρ) 33]`에 대한 관찰되는\_속도(Observed Velocity)(`v_obs`)는, 
 
     |기준\_압력 2(Reference Pressure 2)(`P_ref 2`)|기준\_압력 1(Reference Pressure 1)(`P_ref 1`)|압력 C-1(Pressure C-1)들로 형성(Formation)된 계층에서,|압력 C-2(Pressure C-2)들로 형성(Formation)된 계층에서,|기준\_압력(Reference Pressure)들로 형성(Formation)된 계층에서,|
     |---|---|---|---|---|
-    |압력 C-1(Pressure C-1)|압력 C-1(Pressure C-1)의 관찰되는\_속도(Observed Velocity)는|-45 v\_obs|-33 v\_obs|-2 v\_obs|
-    ||압력 C-2(Pressure C-2)의 관찰되는\_속도(Observed Velocity)는|-57 v\_obs|-45 v\_obs|-14 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-88 v\_obs|-76 v\_obs|-45 v\_obs|
-    |압력 C-2(Pressure C-2)|압력 C-1(Pressure C-1)의 관찰되는\_속도(Observed Velocity)는|-33 v\_obs|-21 v\_obs|10 v\_obs|
-    ||압력 C-2(Pressure C-2)의 관찰되는\_속도(Observed Velocity)는|-45 v\_obs|-33 v\_obs|-2 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-76 v\_obs|-64 v\_obs|-33 v\_obs|
-    |기준\_압력(Reference Pressure)|압력 C-1(Pressure C-1)의 관찰되는\_속도(Observed Velocity)는|-2 v\_obs|10 v\_obs|41 v\_obs|
-    ||압력 C-2(Pressure C-2)의 관찰되는\_속도(Observed Velocity)는|-14 v\_obs|-2 v\_obs|29 v\_obs|
-    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|-45 v\_obs|-33 v\_obs|-2 v\_obs|
+    |압력 C-1(Pressure C-1)|압력 C-1(Pressure C-1)의 관찰되는\_속도(Observed Velocity)는|45 v_obs|33 v_obs|2 v_obs|
+    ||압력 C-2(Pressure C-2)의 관찰되는\_속도(Observed Velocity)는|57 v_obs|45 v_obs|14 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|88 v_obs|76 v_obs|45 v_obs|
+    |압력 C-2(Pressure C-2)|압력 C-1(Pressure C-1)의 관찰되는\_속도(Observed Velocity)는|33 v_obs|21 v_obs|-10 v_obs|
+    ||압력 C-2(Pressure C-2)의 관찰되는\_속도(Observed Velocity)는|45 v_obs|33 v_obs|2 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|76 v_obs|64 v_obs|33 v_obs|
+    |기준\_압력(Reference Pressure)|압력 C-1(Pressure C-1)의 관찰되는\_속도(Observed Velocity)는|2 v_obs|-10 v_obs|-41 v_obs|
+    ||압력 C-2(Pressure C-2)의 관찰되는\_속도(Observed Velocity)는|14 v_obs|2 v_obs|-29 v_obs|
+    ||기준\_압력(Reference Pressure)의 관찰되는\_속도(Observed Velocity)는|45 v_obs|33 v_obs|2 v_obs|
 
 * ***5\.2\. 관찰되는\_시간(Observed Time)(`t_obs`)***
 
-  * `간극_시간(Delta Time)(t_δ) / [기준_압력 1(Reference Pressure 1)(P_ref 1)의 밀도(Density)(ρ) / 기준_압력 2(Reference Pressure 2)(P_ref 2)의 밀도(Density)(ρ)]`
+  * `관찰되는_시간(Observed Time)(t_obs) ≡ 간극_시간(Delta Time)(t_δ) / [기준_압력 1(Reference Pressure 1)(P_ref 1)의 밀도(Density)(ρ) / 기준_압력 2(Reference Pressure 2)(P_ref 2)의 밀도(Density)(ρ)]`
 
   * 관찰되는\_시간(Observed Time)(`t_obs`)은, 간극\_시간(Delta Time) 그리고 기준\_압력 1(Reference Pressure 1)의 밀도(Density)와 기준\_압력 2(Reference Pressure 2)의 밀도(Density)(ρ)에 따라 가변적(Variable)이다
 
@@ -423,7 +429,7 @@ ___
     ||압력 C-2(Pressure C-2)의 관찰되는\_시간(Observed Time)은|0.0413 t\_obs|0.1818 t\_obs|0.0018 t\_obs|
     ||기준\_압력(Reference Pressure)의 관찰되는\_시간(Observed Time)은|67.5 t\_obs|297 t\_obs|3 t\_obs|
 
-* 관찰(Observation)은 관찰자와 관찰물 사이에 매개물을 통한다, 그리고 그 매개물은 관찰물과 관찰자 모두에게 작용(Action)(충돌(Impact))하여야 한다, 이에 내외향\_비대칭(Inward-Outward Asymmetry)(`A_inner > A_outer`)로 인한 유입과 유출의 비대칭 때문에 작용(Action)(충돌(Impact)) 후에는 완전한(Absolute) 원형을 유지할 수 없고 당연히(Naturally) 얼만큼이든 변형된다
+* 관찰(Observation)은 관찰자와 관찰물 사이에 매개물을 통한다, 그리고 그 매개물은 관찰물과 관찰자 모두에게 작용(Action)(충돌(Impact))하여야 한다, 이에 내외향\_비대칭(Inward-Outward Asymmetry)(`SA_inward > A_outward`)로 인한 유입과 유출의 비대칭 때문에 작용(Action)(충돌(Impact)) 후에는 완전한(Absolute) 원형을 유지할 수 없고 당연히(Naturally) 얼만큼이든 변형된다
 
 * 제논의 역설 "아킬레우스와 거북이(Achilles and the Tortoise)"에 대하여, ➀ 아킬레우스를 기준으로 했을 때, 아킬레우스가 감각하는 모든 순간에 아킬레우스가 거북이 보다 더 빠르므로 거북이는 아킬레우스에게 따라 잡힌다, ➁ 거북이를 기준으로 했을 때, 거북이가 감각하는 모든 순간에 아킬레우스가 거북이 보다 더 빠르므로 거북이는 아킬레우스에게 따라 잡힌다 이에, 해당 역설은 아킬레우스와 거북이가 달리기를 하는 것을 관찰하는 제 3의 관찰자가 있다는 것이고, 그 제 3의 관찰자가 순간을 정적\_무한(Fixed Infinity)히 쪼갤 수 있다는 것이다(순간을 정적\_무한(Fixed Infinity)히 감각,관찰 따위할 수 있다는 것이다) 그런데 ➂ 순간을 정적\_무한(Fixed Infinity)히 쪼갤 수 있다는 것은, 그 정적\_무한(Fixed Infinity)의 완결\_불가(Uncompletability)(시간(Time)적 정지)와 무한한 작용(비정지)을 동시에 주장하는 것으로 모순되고 실재\_불가(Non-reality)하므로, ➃ 제 3의 관찰자를 기준으로 했을 때, 마찬가지로 제 3의 관찰자가 감각하는 모든 순간에 아킬레우스가 거북이 보다 더 빠르므로 거북이는 아킬레우스에게 따라잡힌다
 
@@ -440,6 +446,15 @@ ___
 *<a href="#상호침투의-불가피\_u" id="상호침투의-불가피\_d">[상호침투(Interfused)의 불가피(Inevitable)]</a>:* 모든 실재(Reality)는 세상(Universe)(공간(Space))에 속하고, 세상(Universe)에 밀도(Density)가 실재(Reality)한다는 것이, 세상(Universe)의 모든 실재(Reality)의 삼투적(Osmosis) 상호침투(Interfused)와 그 상호침투(Interfused)의 불가피(Inevitable)를 증명한다
 
 *<a href="#현상\_u" id="현상\_d">[현상(Phenomenon)]</a>: \[정의\]* 관찰자에게 관찰(Observation)되는 상(Image)을 뜻한다
+
+#### ***6\. 연속성에 대하여***
+
+* 모든 실재(Reality)는 간극(Delta)이 `0`이 아니고, 간극(Delta)의 `0`은 실재하지 않으므로\[완전한_정지(Absolute Stasis)(`0`)은 실재하지 않으므로\]\[`(δ = 0) = ∄\], 관찰자에 의한 구분과는 별개로 모든 실재(Reality)는 찰나의 완전한\_정지(Absolute Stasis)도 없이 연속된다
+
+* "테세우스의 배", "배를 구성하는 나무 널빤지(부속)를 하나씩 교체하여 결국 모든 부속을 바꿨을 때, 이 배는 원래의 테세우스의 배인가, 아니면 새로운 배인가?"에 대하여, 구조가 유지(Maintenance)된다면 배라고 할 수 있을 것이다, 그런데 배인가 아닌가를 따지는 것과 테세우스의 배인가 아닌가를 따지는 것은 또다른 것이다, 단순히 배인가 아닌가를 따지는 것도 사람마다 가변적(Variable)일 것이다 그런데 배인가 아닌가를 따진 후에 테세우스의 배인가 아닌가를 따지는 것은 더 가변적(Variable)일 것이다
+
+* 실재(Reality)의 완전한\_정지(Absolute Stasis)가 불가(Impossible)하다는 것과 별개로 관찰자가 연속성을 판단하는 것은, 관찰자\_불동기화(Observer Asynchrony)에 따라 가변적(Variable)이다
+
 ___
 ## 맺음말
 
@@ -461,5 +476,5 @@ ___
   2. **비영리(NC):** 상업적 목적의 이용, 판매, 무단 AI 데이터셋 학습을 엄격히 금지합니다.
   3. **변경금지(ND):** 원본 텍스트 및 수식을 임의로 가공, 변형, 2차적 저작물로 재사출할 수 없습니다.
 
-### 2. 감사의 글
-- **AI 어시스턴트 Gem**에게 감사를 표합니다
+### 2. Acknowledgments (감사의 글)
+"본 작업물의 구조화 및 서식 가공 과정에서 도구적 연산을 지원해 준 Gem(AI 어시스턴트)에게 감사를 표한다."
